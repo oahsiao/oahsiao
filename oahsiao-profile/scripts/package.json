@@ -1,0 +1,8 @@
+{
+  "name": "profile-stats-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@octokit/graphql": "^8.1.1"
+  }
+}

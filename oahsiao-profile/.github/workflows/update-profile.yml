@@ -1,0 +1,36 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # 每天 UTC 02:00（台灣時間 10:00）
+  workflow_dispatch:        # 手動觸發
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: scripts
+
+      - name: Generate SVGs
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          ORG: M2Station
+          USERNAME: oahsiao
+        run: node scripts/generate.js
+
+      - name: Commit updated SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update org stats [skip ci]'
+          file_pattern: 'assets/*.svg'
