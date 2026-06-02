@@ -19,13 +19,13 @@
 
 ---
 
-### `// M2STATION · ORG STATS`
+### `// M2STATION · MEMBER LEADERBOARD`
 
 > Auto-generated daily from private org repositories via GitHub Actions
 
 <div align="center">
 
-![Commit Leaderboard](./assets/org-commits.svg)
+![Member Leaderboard](./assets/org-leaderboard.svg)
 
 </div>
 
@@ -71,5 +71,7 @@
 ---
 
 <div align="center">
-<sub><code>// LAST UPDATED · AUTO-SYNC DAILY 10:00 TWN</code></sub>
+<sub><code>// AUTO-SYNC DAILY 10:00 TWN</code></sub>
+<br/>
+<img src="https://img.shields.io/github/last-commit/oahsiao/oahsiao?label=LAST%20UPDATED&style=flat-square&color=00f5d4&labelColor=060a0f"/>
 </div>
