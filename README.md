@@ -65,5 +65,5 @@
 <div align="center">
 <sub><code>// AUTO-SYNC DAILY 10:00 TWN</code></sub>
 <br/>
-<img src="https://img.shields.io/github/last-commit/oahsiao/oahsiao?label=LAST%20UPDATED&style=flat-square&color=00f5d4&labelColor=060a0f"/>
+<img src="./assets/org-updated.svg"/>
 </div>

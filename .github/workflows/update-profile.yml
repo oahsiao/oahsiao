@@ -5,7 +5,6 @@ on:
     - cron: '0 2 * * *'   # 每天 UTC 02:00（台灣時間 10:00）
   workflow_dispatch:        # 手動觸發
 
-# 避免同時多個 run 互相打架，造成 push 衝突
 concurrency:
   group: update-profile
   cancel-in-progress: false
@@ -18,13 +17,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v5
-
-      # 先確保本地是 remote 最新狀態，避免 non-fast-forward
-      - name: Sync to latest remote
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
 
       - uses: actions/setup-node@v5
         with:
@@ -41,8 +33,32 @@ jobs:
           USERNAME: oahsiao
         run: node scripts/generate.js
 
-      - name: Commit updated SVGs
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'chore: update org stats [skip ci]'
-          file_pattern: 'assets/*.svg'
+      - name: Commit and push (with retry)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # 沒有變更就跳過
+          if git diff --quiet -- assets/; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add assets/*.svg
+          git commit -m "chore: update org stats [skip ci]"
+
+          # 重試最多 5 次：每次先 rebase 最新 remote 再 push
+          for i in 1 2 3 4 5; do
+            echo "Push attempt $i..."
+            git fetch origin main
+            git rebase origin/main || git rebase --abort
+            if git push origin HEAD:main; then
+              echo "Push succeeded."
+              exit 0
+            fi
+            echo "Push failed, retrying in 5s..."
+            sleep 5
+          done
+
+          echo "All push attempts failed."
+          exit 1

@@ -426,6 +426,26 @@ function svgTypingBanner({ recentHeaders }) {
 </svg>`;
 }
 
+// ── Last-updated badge ────────────────────────────────────────────────────────
+function svgUpdatedBadge() {
+  const label = 'LAST UPDATED';
+  const value = UPDATED; // e.g. "2026-06-02 17:07 TWN"
+  const CHAR = 7.2, PAD = 12, GAP = 10;
+  const labelW = label.length * CHAR + PAD * 2;
+  const valueW = value.length * CHAR + PAD * 2 + 12;
+  const W = labelW + valueW, H = 28;
+
+  return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="${W-1}" height="${H-1}" rx="4" fill="#060a0f" stroke="#00f5d4" stroke-opacity="0.25"/>
+  <rect x="0.5" y="0.5" width="${labelW}" height="${H-1}" rx="4" fill="#00f5d4" fill-opacity="0.08"/>
+  <text x="${labelW/2}" y="${H/2+4}" text-anchor="middle" font-family="'DM Mono',monospace" font-size="11" fill="#007a6a" letter-spacing="1.5">${label}</text>
+  <text x="${labelW + valueW/2 + 6}" y="${H/2+4}" text-anchor="middle" font-family="'DM Mono',monospace" font-size="11" fill="#00f5d4" letter-spacing="1">${value}</text>
+  <circle cx="${labelW + 12}" cy="${H/2}" r="3" fill="#00f5d4">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>`;
+}
+
 // ── 6. Main ───────────────────────────────────────────────────────────────────
 const data = await aggregate();
 
@@ -434,6 +454,7 @@ fs.writeFileSync(path.join(OUT_DIR, 'org-languages.svg'),   svgLanguages(data));
 fs.writeFileSync(path.join(OUT_DIR, 'org-hours.svg'),       svgHourly(data));
 fs.writeFileSync(path.join(OUT_DIR, 'org-trend.svg'),       svgDailyTrend(data));
 fs.writeFileSync(path.join(OUT_DIR, 'org-typing.svg'),      svgTypingBanner(data));
+fs.writeFileSync(path.join(OUT_DIR, 'org-updated.svg'),     svgUpdatedBadge());
 fs.writeFileSync(path.join(OUT_DIR, 'data.json'), JSON.stringify(data, null, 2));
 
 console.log('Done. SVGs written to assets/');
