@@ -1,0 +1,61 @@
+<svg width="600" height="56" viewBox="0 0 600 56" xmlns="http://www.w3.org/2000/svg">
+  <text x="14" y="13" font-family="'DM Mono',monospace" font-size="8" fill="#005a4e" letter-spacing="2">// RECENT COMMITS · LAST 5 DAYS</text>
+  <rect x="14" y="24" width="9" height="18" fill="#00f5d4" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.8;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  
+    <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
+      <animate attributeName="width"
+        values="0;0;96.4;96.4;0;0"
+        keyTimes="0;0.000;0.022;0.089;0.109;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+    </rect></clipPath>
+    <g clip-path="url(#clip0)">
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>++BAA ISH</text>
+    </g>
+    <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
+      <animate attributeName="width"
+        values="0;0;121.60000000000001;121.60000000000001;0;0"
+        keyTimes="0;0.109;0.139;0.206;0.226;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+    </rect></clipPath>
+    <g clip-path="url(#clip1)">
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>+POWER METER</text>
+    </g>
+    <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
+      <animate attributeName="width"
+        values="0;0;348.40000000000003;348.40000000000003;0;0"
+        keyTimes="0;0.226;0.323;0.390;0.410;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+    </rect></clipPath>
+    <g clip-path="url(#clip2)">
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>用別的PROJECT CERT來開啟MFCI DEFAULT MFG MODE</text>
+    </g>
+    <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
+      <animate attributeName="width"
+        values="0;0;289.6;289.6;0;0"
+        keyTimes="0;0.410;0.490;0.556;0.577;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+    </rect></clipPath>
+    <g clip-path="url(#clip3)">
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Resize images that are too large</text>
+    </g>
+    <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
+      <animate attributeName="width"
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.577;0.701;0.768;0.789;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+    </rect></clipPath>
+    <g clip-path="url(#clip4)">
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(users): hit ado_display_name index + post-l...</text>
+    </g>
+    <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
+      <animate attributeName="width"
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.789;0.913;0.979;1.000;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+    </rect></clipPath>
+    <g clip-path="url(#clip5)">
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(iterations): collapsible iteration groups ...</text>
+    </g>
+</svg>
