@@ -57,6 +57,7 @@ async function fetchCommits(repoName, branch) {
                     pageInfo { hasNextPage endCursor }
                     nodes {
                       committedDate
+                      message
                       author {
                         user { login avatarUrl }
                         name
@@ -109,7 +110,20 @@ async function aggregate() {
   const members    = {};   // login -> { commits, avatar }
   const langBytes  = {};
   const hourBucket = new Array(24).fill(0);
+  const dailyMap   = {};   // 'YYYY-MM-DD' -> count (last 90 days)
+  const recentCommits = []; // last 5 days, for typing banner
   let totalCommits = 0;
+
+  // Build last-90-day window (Taiwan time)
+  const DAYS = 90;
+  const todayTWN = new Date(Date.now() + 8 * 3600 * 1000);
+  const cutoff = new Date(todayTWN);
+  cutoff.setUTCDate(cutoff.getUTCDate() - (DAYS - 1));
+  cutoff.setUTCHours(0, 0, 0, 0);
+
+  // 5-day window for typing banner
+  const recentCutoff = new Date(todayTWN);
+  recentCutoff.setUTCDate(recentCutoff.getUTCDate() - 5);
 
   for (const repo of repos) {
     const branch  = repo.defaultBranchRef.name;
@@ -124,9 +138,25 @@ async function aggregate() {
       members[login].commits++;
       totalCommits++;
 
-      // Active hours, adjusted to Taiwan time (UTC+8)
-      const h = new Date(c.committedDate).getUTCHours();
-      hourBucket[(h + 8) % 24]++;
+      const committed = new Date(c.committedDate);
+      const dateTWN = new Date(committed.getTime() + 8 * 3600 * 1000);
+
+      // Active hours
+      hourBucket[dateTWN.getUTCHours()]++;
+
+      // Daily trend (only within window)
+      if (dateTWN >= cutoff) {
+        const key = dateTWN.toISOString().slice(0, 10);
+        dailyMap[key] = (dailyMap[key] || 0) + 1;
+      }
+
+      // Recent commits for typing banner (last 5 days, first line of message)
+      if (committed >= recentCutoff) {
+        const header = (c.message || '').split('\n')[0].trim();
+        if (header && !/^Merge /i.test(header)) {
+          recentCommits.push({ date: committed.getTime(), header, repo: repo.name });
+        }
+      }
     }
 
     // Languages
@@ -153,7 +183,24 @@ async function aggregate() {
       pct: Math.round(bytes / totalBytes * 1000) / 10
     }));
 
-  return { totalCommits, leaderboard, topLangs, hourBucket, memberCount: Object.keys(members).length };
+  // Daily commit series (last 90 days, filled with 0 for gaps)
+  const daily = [];
+  for (let i = 0; i < DAYS; i++) {
+    const d = new Date(cutoff);
+    d.setUTCDate(d.getUTCDate() + i);
+    const key = d.toISOString().slice(0, 10);
+    daily.push({ date: key, count: dailyMap[key] || 0 });
+  }
+
+  // Recent commit headers (newest first, deduped, top 8)
+  const seen = new Set();
+  const recentHeaders = recentCommits
+    .sort((a, b) => b.date - a.date)
+    .filter(c => { if (seen.has(c.header)) return false; seen.add(c.header); return true; })
+    .slice(0, 8)
+    .map(c => c.header);
+
+  return { totalCommits, leaderboard, topLangs, hourBucket, daily, recentHeaders, memberCount: Object.keys(members).length };
 }
 
 // ── 5. SVG renderers ──────────────────────────────────────────────────────────
@@ -251,12 +298,142 @@ function svgHourly({ hourBucket }) {
 </svg>`;
 }
 
+function svgDailyTrend({ daily }) {
+  const W = 960, H = 210, PADX = 40, PADT = 36, PADB = 44;
+  const plotW = W - PADX * 2, plotH = H - PADT - PADB;
+  const max = Math.max(...daily.map(d => d.count), 1);
+  const n = daily.length;
+
+  const x = i => PADX + (i / (n - 1)) * plotW;
+  const y = v => PADT + plotH - (v / max) * plotH;
+
+  // Build smooth-ish polyline points
+  const pts = daily.map((d, i) => `${x(i).toFixed(1)},${y(d.count).toFixed(1)}`);
+  const linePath = 'M' + pts.join(' L');
+  const areaPath = `M${x(0).toFixed(1)},${(PADT+plotH).toFixed(1)} L` + pts.join(' L') + ` L${x(n-1).toFixed(1)},${(PADT+plotH).toFixed(1)} Z`;
+
+  // Total commits in window
+  const windowTotal = daily.reduce((s, d) => s + d.count, 0);
+  const peak = daily.reduce((m, d) => d.count > m.count ? d : m, daily[0]);
+
+  // Gridlines (4 horizontal)
+  let grid = '';
+  for (let g = 0; g <= 4; g++) {
+    const gy = PADT + (plotH / 4) * g;
+    const val = Math.round(max - (max / 4) * g);
+    grid += `<line x1="${PADX}" y1="${gy}" x2="${W-PADX}" y2="${gy}" stroke="#00f5d4" stroke-width="0.3" opacity="0.12"/>
+    <text x="${PADX-6}" y="${gy+3}" text-anchor="end" font-family="DM Mono,monospace" font-size="8" fill="#005a4e">${val}</text>`;
+  }
+
+  // Month labels along x-axis
+  let xlabels = '';
+  let lastMonth = '';
+  daily.forEach((d, i) => {
+    const m = d.date.slice(0, 7);
+    if (m !== lastMonth) {
+      lastMonth = m;
+      const label = d.date.slice(5); // MM-DD
+      xlabels += `<text x="${x(i).toFixed(1)}" y="${H-22}" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#005a4e">${label}</text>`;
+    }
+  });
+
+  const pathLen = 2000;
+
+  return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#00f5d4" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <rect width="${W}" height="${H}" fill="#060a0f" rx="8"/>
+  <text x="14" y="16" font-family="DM Mono,monospace" font-size="9" fill="#007a6a" letter-spacing="3">// M2STATION · DAILY COMMIT TREND (90D)</text>
+  <text x="${W-14}" y="16" text-anchor="end" font-family="DM Mono,monospace" font-size="9" fill="#004a3e">${windowTotal} COMMITS · PEAK ${peak.count} (${peak.date.slice(5)})</text>
+  <line x1="8" y1="24" x2="${W-8}" y2="24" stroke="#00f5d4" stroke-width="0.3" opacity="0.3"/>
+  ${grid}
+  <path d="${areaPath}" fill="url(#areaGrad)"/>
+  <path d="${linePath}" fill="none" stroke="#00f5d4" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"
+    stroke-dasharray="${pathLen}" stroke-dashoffset="${pathLen}">
+    <animate attributeName="stroke-dashoffset" from="${pathLen}" to="0" dur="2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  </path>
+  <circle cx="${x(peak.date ? daily.indexOf(peak) : 0).toFixed(1)}" cy="${y(peak.count).toFixed(1)}" r="3" fill="#ff4db8">
+    <animate attributeName="opacity" values="0;1" begin="2s" dur="0.4s" fill="freeze"/>
+  </circle>
+  ${xlabels}
+  <text x="${W/2}" y="${H-7}" text-anchor="middle" font-family="DM Mono,monospace" font-size="7" fill="#003a30">M2Station · UPDATED ${UPDATED}</text>
+</svg>`;
+}
+
+// ── Typing banner: typewriter cycle through recent commit headers ─────────────
+function svgTypingBanner({ recentHeaders }) {
+  const W = 600, H = 56;
+  const lines = (recentHeaders && recentHeaders.length)
+    ? recentHeaders.slice(0, 6)
+    : ['no recent commits'];
+
+  const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  const clean = lines.map(l => esc(l.length > 50 ? l.slice(0, 47) + '...' : l));
+
+  const CHAR_W = 8.4;          // approx px per char at 15px DM Mono
+  const PREFIX = '> ';
+  const typeSpeed = 0.06;      // seconds per char
+  const hold = 1.6;            // seconds to hold full line
+  const erase = 0.5;           // seconds to clear
+
+  // Compute per-line timings sequentially
+  let t = 0;
+  const segments = clean.map((txt) => {
+    const full = PREFIX + txt;
+    const w = full.length * CHAR_W + 4;
+    const typeDur = txt.length * typeSpeed;
+    const begin = t;
+    const seg = { full, w, begin, typeDur };
+    t += typeDur + hold + erase;
+    return seg;
+  });
+  const cycle = t;
+
+  // Each line: a clipped text whose clip-rect width animates 0→full (type), holds, then →0 (erase)
+  const blocks = segments.map((s, i) => {
+    const clipId = `clip${i}`;
+    const typeEnd = (s.typeDur / cycle);
+    const holdEnd = ((s.typeDur + hold) / cycle);
+    const eraseEnd = ((s.typeDur + hold + erase) / cycle);
+    const visStart = (s.begin / cycle);
+    const visEnd = ((s.begin + s.typeDur + hold + erase) / cycle);
+
+    return `
+    <clipPath id="${clipId}"><rect x="14" y="20" height="26" width="0">
+      <animate attributeName="width"
+        values="0;0;${s.w};${s.w};0;0"
+        keyTimes="0;${visStart.toFixed(3)};${(visStart+typeEnd).toFixed(3)};${(visStart+holdEnd).toFixed(3)};${(visStart+eraseEnd).toFixed(3)};1"
+        dur="${cycle.toFixed(1)}s" repeatCount="indefinite" calcMode="linear"/>
+    </rect></clipPath>
+    <g clip-path="url(#${clipId})">
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>${s.full.slice(2)}</text>
+    </g>`;
+  }).join('');
+
+  // Cursor that sits at the end of whatever is currently typed: simpler to just blink at line start area
+  const cursor = `<rect x="14" y="24" width="9" height="18" fill="#00f5d4" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.8;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>`;
+
+  return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg">
+  <text x="14" y="13" font-family="'DM Mono',monospace" font-size="8" fill="#005a4e" letter-spacing="2">// RECENT COMMITS · LAST 5 DAYS</text>
+  ${cursor}
+  ${blocks}
+</svg>`;
+}
+
 // ── 6. Main ───────────────────────────────────────────────────────────────────
 const data = await aggregate();
 
 fs.writeFileSync(path.join(OUT_DIR, 'org-leaderboard.svg'), svgLeaderboard(data));
 fs.writeFileSync(path.join(OUT_DIR, 'org-languages.svg'),   svgLanguages(data));
 fs.writeFileSync(path.join(OUT_DIR, 'org-hours.svg'),       svgHourly(data));
+fs.writeFileSync(path.join(OUT_DIR, 'org-trend.svg'),       svgDailyTrend(data));
+fs.writeFileSync(path.join(OUT_DIR, 'org-typing.svg'),      svgTypingBanner(data));
 fs.writeFileSync(path.join(OUT_DIR, 'data.json'), JSON.stringify(data, null, 2));
 
 console.log('Done. SVGs written to assets/');

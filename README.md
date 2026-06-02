@@ -7,6 +7,8 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00F5D4&background=060A0F00&center=true&vCenter=true&width=480&lines=OAHSIAO;HARDWARE+%2F%2F+AUTOMATION;FULL-STACK+ENGINEER;M2STATION+DEVOPS)
 
+<img src="./assets/org-typing.svg" width="600"/>
+
 </div>
 
 ---
@@ -38,23 +40,13 @@
 
 ---
 
-### `// PUBLIC STATS`
+### `// M2STATION · DAILY COMMIT TREND`
+
+> All-repo daily commit volume over the last 90 days
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=oahsiao&show_icons=true&theme=tokyonight&border_color=00f5d4&icon_color=00f5d4&title_color=00f5d4&bg_color=060a0f&hide_border=false)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oahsiao&layout=compact&theme=tokyonight&border_color=00f5d4&title_color=00f5d4&bg_color=060a0f)
-
-</div>
-
----
-
-### `// TECH STACK`
-
-<div align="center">
-
-![](https://skillicons.dev/icons?i=ts,py,nodejs,react,docker,git,sqlite,vscode,azure,linux&theme=dark&perline=10)
+![Daily Trend](./assets/org-trend.svg)
 
 </div>
 
