@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;96.4;96.4;0;0"
-        keyTimes="0;0.000;0.022;0.089;0.109;1"
-        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;37.6;37.6;0;0"
+        keyTimes="0;0.000;0.007;0.094;0.122;1"
+        dur="18.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>++BAA ISH</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>++</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;121.60000000000001;121.60000000000001;0;0"
-        keyTimes="0;0.109;0.139;0.206;0.226;1"
-        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;79.60000000000001;79.60000000000001;0;0"
+        keyTimes="0;0.122;0.145;0.232;0.260;1"
+        dur="18.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>+POWER METER</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>New Ver</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;348.40000000000003;348.40000000000003;0;0"
-        keyTimes="0;0.226;0.323;0.390;0.410;1"
-        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;230.8;230.8;0;0"
+        keyTimes="0;0.260;0.342;0.430;0.457;1"
+        dur="18.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>用別的PROJECT CERT來開啟MFCI DEFAULT MFG MODE</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>REF Dynamic workflow data</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;289.6;289.6;0;0"
-        keyTimes="0;0.410;0.490;0.556;0.577;1"
-        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;96.4;96.4;0;0"
+        keyTimes="0;0.457;0.487;0.575;0.602;1"
+        dur="18.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Resize images that are too large</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>++BAA ISH</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.577;0.701;0.768;0.789;1"
-        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;121.60000000000001;121.60000000000001;0;0"
+        keyTimes="0;0.602;0.641;0.729;0.757;1"
+        dur="18.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(users): hit ado_display_name index + post-l...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>+POWER METER</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.789;0.913;0.979;1.000;1"
-        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;348.40000000000003;348.40000000000003;0;0"
+        keyTimes="0;0.757;0.885;0.973;1.000;1"
+        dur="18.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(iterations): collapsible iteration groups ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>用別的PROJECT CERT來開啟MFCI DEFAULT MFG MODE</text>
     </g>
 </svg>
