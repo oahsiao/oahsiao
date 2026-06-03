@@ -56,6 +56,9 @@ async function fetchCommits(repoName, branch) {
                     totalCount
                     pageInfo { hasNextPage endCursor }
                     nodes {
+                      oid
+                      abbreviatedOid
+                      url
                       committedDate
                       message
                       author {
@@ -112,6 +115,7 @@ async function aggregate() {
   const hourBucket = new Array(24).fill(0);
   const dailyMap   = {};   // 'YYYY-MM-DD' -> count (last 90 days)
   const recentCommits = []; // last 5 days, for typing banner
+  const allChanges = [];    // every commit, for "latest changes" list
   let totalCommits = 0;
 
   // Build last-90-day window (Taiwan time)
@@ -157,6 +161,22 @@ async function aggregate() {
           recentCommits.push({ date: committed.getTime(), header, repo: repo.name });
         }
       }
+
+      // Every commit, for the "latest changes" clickable list
+      {
+        const header = (c.message || '').split('\n')[0].trim();
+        if (header && !/^Merge /i.test(header) && c.url) {
+          allChanges.push({
+            date: committed.getTime(),
+            committedDate: c.committedDate,
+            header,
+            repo: repo.name,
+            url: c.url,
+            sha: c.abbreviatedOid || (c.oid || '').slice(0, 7),
+            login,
+          });
+        }
+      }
     }
 
     // Languages
@@ -200,7 +220,14 @@ async function aggregate() {
     .slice(0, 8)
     .map(c => c.header);
 
-  return { totalCommits, leaderboard, topLangs, hourBucket, daily, recentHeaders, memberCount: Object.keys(members).length };
+  // Latest 10 changes across ALL repos (newest first, deduped by sha)
+  const seenSha = new Set();
+  const latestChanges = allChanges
+    .sort((a, b) => b.date - a.date)
+    .filter(c => { if (seenSha.has(c.sha)) return false; seenSha.add(c.sha); return true; })
+    .slice(0, 10);
+
+  return { totalCommits, leaderboard, topLangs, hourBucket, daily, recentHeaders, latestChanges, memberCount: Object.keys(members).length };
 }
 
 // ── 5. SVG renderers ──────────────────────────────────────────────────────────
@@ -446,6 +473,37 @@ function svgUpdatedBadge() {
 </svg>`;
 }
 
+// ── Inject latest-changes list into README between markers ────────────────────
+function injectLatestChanges({ latestChanges }) {
+  const README = path.resolve('README.md');
+  if (!fs.existsSync(README)) { console.warn('README.md not found, skip injection'); return; }
+
+  const esc = s => s.replace(/\|/g, '\\|').replace(/\r?\n/g, ' ').trim();
+  const rows = (latestChanges || []).map((c, i) => {
+    const d = new Date(c.committedDate);
+    const p = n => String(n).padStart(2, '0');
+    const dt = `${d.getUTCFullYear()}-${p(d.getUTCMonth()+1)}-${p(d.getUTCDate())}`;
+    const msg = esc(c.header.length > 60 ? c.header.slice(0, 57) + '...' : c.header);
+    return `${String(i+1).padStart(2,'0')}. [\`${c.repo}@${c.sha}\`](${c.url}) — ${msg} · \`${dt}\` · ${c.login}`;
+  }).join('\n');
+
+  const block = rows || '_No recent commits._';
+  const START = '<!-- LATEST-CHANGES:START -->';
+  const END   = '<!-- LATEST-CHANGES:END -->';
+
+  let md = fs.readFileSync(README, 'utf8');
+  if (md.includes(START) && md.includes(END)) {
+    md = md.replace(
+      new RegExp(`${START}[\\s\\S]*?${END}`),
+      `${START}\n${block}\n${END}`
+    );
+    fs.writeFileSync(README, md);
+    console.log(`Injected ${latestChanges?.length || 0} latest changes into README.md`);
+  } else {
+    console.warn('LATEST-CHANGES markers not found in README.md, skip injection');
+  }
+}
+
 // ── 6. Main ───────────────────────────────────────────────────────────────────
 const data = await aggregate();
 
@@ -456,5 +514,7 @@ fs.writeFileSync(path.join(OUT_DIR, 'org-trend.svg'),       svgDailyTrend(data))
 fs.writeFileSync(path.join(OUT_DIR, 'org-typing.svg'),      svgTypingBanner(data));
 fs.writeFileSync(path.join(OUT_DIR, 'org-updated.svg'),     svgUpdatedBadge());
 fs.writeFileSync(path.join(OUT_DIR, 'data.json'), JSON.stringify(data, null, 2));
+
+injectLatestChanges(data);
 
 console.log('Done. SVGs written to assets/');

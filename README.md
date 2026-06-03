@@ -52,6 +52,16 @@
 
 ---
 
+### `// M2STATION · LATEST 10 CHANGES`
+
+> Newest commits across all org repos · click a commit to open the change
+
+<!-- LATEST-CHANGES:START -->
+_No recent commits._
+<!-- LATEST-CHANGES:END -->
+
+---
+
 ### `// ACTIVITY`
 
 <div align="center">
