@@ -515,6 +515,12 @@ fs.writeFileSync(path.join(OUT_DIR, 'org-typing.svg'),      svgTypingBanner(data
 fs.writeFileSync(path.join(OUT_DIR, 'org-updated.svg'),     svgUpdatedBadge());
 fs.writeFileSync(path.join(OUT_DIR, 'data.json'), JSON.stringify(data, null, 2));
 
+// Public feed for downstream consumers (e.g. M2Station/.github profile)
+fs.writeFileSync(
+  path.join(OUT_DIR, 'latest-changes.json'),
+  JSON.stringify({ updated: UPDATED, latestChanges: data.latestChanges }, null, 2)
+);
+
 injectLatestChanges(data);
 
 console.log('Done. SVGs written to assets/');
