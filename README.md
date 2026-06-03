@@ -21,7 +21,7 @@
 
 ---
 
-### `// M2STATION · MEMBER LEADERBOARD`
+### `M2STATION · MEMBER LEADERBOARD`
 
 > Auto-generated daily from private org repositories via GitHub Actions
 
@@ -40,7 +40,7 @@
 
 ---
 
-### `// M2STATION · DAILY COMMIT TREND`
+### `M2STATION · DAILY COMMIT TREND`
 
 > All-repo daily commit volume over the last 90 days
 
@@ -52,7 +52,7 @@
 
 ---
 
-### `// M2STATION · LATEST 10 CHANGES`
+### `M2STATION · LATEST 10 CHANGES`
 
 > Newest commits across all org repos · click a commit to open the change
 
@@ -71,7 +71,7 @@
 
 ---
 
-### `// ACTIVITY`
+### `ACTIVITY`
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
-<sub><code>// AUTO-SYNC DAILY 10:00 TWN</code></sub>
+<sub><code>AUTO-SYNC DAILY 10:00 TWN</code></sub>
 <br/>
 <img src="./assets/org-updated.svg"/>
 </div>
