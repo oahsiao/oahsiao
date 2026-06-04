@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`.github@b3ee7fb`](https://github.com/M2Station/.github/commit/b3ee7fb388cd78bb5cf08257ae6cf140e55b9c81) — feat: add LATEST 10 CHANGES section synced from oahsiao · `2026-06-03` · oahsiao
-02. [`M2_GIT_DIFF@539403f`](https://github.com/M2Station/M2_GIT_DIFF/commit/539403fa1637ff612fd132e8465fb1b37c6e7581) — docs: sync README & Help with side-aware arrow navigation... · `2026-06-03` · oahsiao
-03. [`M2_GIT_DIFF@1c16158`](https://github.com/M2Station/M2_GIT_DIFF/commit/1c161581d87cc5a458422ac215b8a1a4cb7b09af) — feat(nav): side-aware arrow navigation — up/down stays in... · `2026-06-03` · oahsiao
-04. [`M2_GIT_DIFF@066dfe2`](https://github.com/M2Station/M2_GIT_DIFF/commit/066dfe25bdd8d1e5da0bc8d1e113dfe582af9a90) — feat: add Help popup with keyboard shortcuts + OA Hsiao c... · `2026-06-03` · oahsiao
-05. [`M2_GIT_DIFF@c855c61`](https://github.com/M2Station/M2_GIT_DIFF/commit/c855c61b165b5a26ced607fa4947a1cea90356cf) — perf(fuzzy): defer fuzzy matching to requestIdleCallback ... · `2026-06-03` · oahsiao
-06. [`M2_GIT_DIFF@31fce34`](https://github.com/M2Station/M2_GIT_DIFF/commit/31fce34debf3c89a74349512a2cf6d4518fd8f3c) — feat(ux): keyboard row navigation (arrows to move, Enter ... · `2026-06-03` · oahsiao
-07. [`M2_GIT_DIFF@e8464c4`](https://github.com/M2Station/M2_GIT_DIFF/commit/e8464c46092d4d6b1bc030392e1b0bdc451e7bc6) — feat(ux): add empty and loading placeholder states for th... · `2026-06-03` · oahsiao
-08. [`M2_GIT_DIFF@31b0089`](https://github.com/M2Station/M2_GIT_DIFF/commit/31b0089e24717e56f7166cba0b660c9d6041d099) — fix(fetch): only mark shas requested after non-cancelled ... · `2026-06-03` · oahsiao
-09. [`M2_GIT_DIFF@c4ca87d`](https://github.com/M2Station/M2_GIT_DIFF/commit/c4ca87de4c3d5d63ab34216f34d8730f6b7e4abc) — perf(view): split alignment layout from search highlighting · `2026-06-03` · oahsiao
-10. [`M2_GIT_DIFF@3a730f6`](https://github.com/M2Station/M2_GIT_DIFF/commit/3a730f699ce42d73bdf95834f8eb2e9f6b3f20dc) — perf(scroll): throttle scroll state updates with requestA... · `2026-06-03` · oahsiao
+01. [`M2_GIT_DIFF@d94d6c3`](https://github.com/M2Station/M2_GIT_DIFF/commit/d94d6c303e0b594e3bd36aca5a825c0eee642d54) — docs: document npm run release + Release Manager agent in... · `2026-06-04` · oahsiao
+02. [`M2_GIT_DIFF@c9b4228`](https://github.com/M2Station/M2_GIT_DIFF/commit/c9b422842813ff6251fed81c007114325a20355a) — chore(release): add release automation script + Release M... · `2026-06-04` · oahsiao
+03. [`M2_GIT_DIFF@2eedfb5`](https://github.com/M2Station/M2_GIT_DIFF/commit/2eedfb5f41b48ed2f9a8481e6f8265290e215282) — chore: add Feature Reviewer agent (review feature + sync ... · `2026-06-04` · oahsiao
+04. [`M2_GIT_DIFF@319c9dd`](https://github.com/M2Station/M2_GIT_DIFF/commit/319c9dd657bb35c9f27e9f4d4c98074b9a10586e) — chore: add Dev Assistant custom agent (build/fix/review/r... · `2026-06-04` · oahsiao
+05. [`M2_GIT_DIFF@654b3b5`](https://github.com/M2Station/M2_GIT_DIFF/commit/654b3b539b01c81dbfa211ba9d2f0d17bee29e12) — docs: add English README as default, rename Chinese to RE... · `2026-06-04` · oahsiao
+06. [`M2_GIT_DIFF@2567b91`](https://github.com/M2Station/M2_GIT_DIFF/commit/2567b91e3fa8412524a843606a13eaa0b4ccb9e8) — feat(theme): multi-theme support with auto-discovered JSO... · `2026-06-04` · oahsiao
+07. [`M2_GIT_DIFF@e541ff5`](https://github.com/M2Station/M2_GIT_DIFF/commit/e541ff5e47235cb7c8d83d1f868b2276980f2476) — feat(i18n): add multi-language support (EN / zh-TW) · `2026-06-04` · oahsiao
+08. [`M2_GIT_DIFF@afd1951`](https://github.com/M2Station/M2_GIT_DIFF/commit/afd19518a412e71a176ea18bf54f89064783fdf1) — perf: debounce search query and binary-search virtualized... · `2026-06-04` · Copilot
+09. [`.github@36a7840`](https://github.com/M2Station/.github/commit/36a7840c2bc2ffced11b2405ada90272322167f7) — feat: add multiple image files and a link to the RANK dir... · `2026-06-03` · oahsiao
+10. [`.github@383768e`](https://github.com/M2Station/.github/commit/383768e00a35f3386a48b0b5978de8aa104f2463) — style: remove // prefixes from headings for consistency · `2026-06-03` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

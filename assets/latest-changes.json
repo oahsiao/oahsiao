@@ -1,94 +1,94 @@
 {
-  "updated": "2026-06-04 00:36 TWN",
+  "updated": "2026-06-04 14:47 TWN",
   "latestChanges": [
     {
-      "date": 1780504563000,
-      "committedDate": "2026-06-03T16:36:03Z",
-      "header": "feat: add LATEST 10 CHANGES section synced from oahsiao",
+      "date": 1780554476000,
+      "committedDate": "2026-06-04T06:27:56Z",
+      "header": "docs: document npm run release + Release Manager agent in both READMEs",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/d94d6c303e0b594e3bd36aca5a825c0eee642d54",
+      "sha": "d94d6c3",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780554229000,
+      "committedDate": "2026-06-04T06:23:49Z",
+      "header": "chore(release): add release automation script + Release Manager agent",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/c9b422842813ff6251fed81c007114325a20355a",
+      "sha": "c9b4228",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780552939000,
+      "committedDate": "2026-06-04T06:02:19Z",
+      "header": "chore: add Feature Reviewer agent (review feature + sync EN/中文 README)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/2eedfb5f41b48ed2f9a8481e6f8265290e215282",
+      "sha": "2eedfb5",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780552746000,
+      "committedDate": "2026-06-04T05:59:06Z",
+      "header": "chore: add Dev Assistant custom agent (build/fix/review/refactor/i18n/docs/perf-ux)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/319c9dd657bb35c9f27e9f4d4c98074b9a10586e",
+      "sha": "319c9dd",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780552239000,
+      "committedDate": "2026-06-04T05:50:39Z",
+      "header": "docs: add English README as default, rename Chinese to README_TW.md with cross-links",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/654b3b539b01c81dbfa211ba9d2f0d17bee29e12",
+      "sha": "654b3b5",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780551547000,
+      "committedDate": "2026-06-04T05:39:07Z",
+      "header": "feat(theme): multi-theme support with auto-discovered JSON themes",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/2567b91e3fa8412524a843606a13eaa0b4ccb9e8",
+      "sha": "2567b91",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780550131000,
+      "committedDate": "2026-06-04T05:15:31Z",
+      "header": "feat(i18n): add multi-language support (EN / zh-TW)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/e541ff5e47235cb7c8d83d1f868b2276980f2476",
+      "sha": "e541ff5",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780540335000,
+      "committedDate": "2026-06-04T02:32:15Z",
+      "header": "perf: debounce search query and binary-search virtualized rows",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/afd19518a412e71a176ea18bf54f89064783fdf1",
+      "sha": "afd1951",
+      "login": "Copilot"
+    },
+    {
+      "date": 1780508931000,
+      "committedDate": "2026-06-03T17:48:51Z",
+      "header": "feat: add multiple image files and a link to the RANK directory",
       "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/b3ee7fb388cd78bb5cf08257ae6cf140e55b9c81",
-      "sha": "b3ee7fb",
+      "url": "https://github.com/M2Station/.github/commit/36a7840c2bc2ffced11b2405ada90272322167f7",
+      "sha": "36a7840",
       "login": "oahsiao"
     },
     {
-      "date": 1780503745000,
-      "committedDate": "2026-06-03T16:22:25Z",
-      "header": "docs: sync README & Help with side-aware arrow navigation (up/down in-column, left/right switch sides, Enter opens detail)",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/539403fa1637ff612fd132e8465fb1b37c6e7581",
-      "sha": "539403f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780503598000,
-      "committedDate": "2026-06-03T16:19:58Z",
-      "header": "feat(nav): side-aware arrow navigation — up/down stays in column, left/right switches sides; sync mouse click with keyboard cursor; UX a11y fixes (progress/aria/keyboard)",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/1c161581d87cc5a458422ac215b8a1a4cb7b09af",
-      "sha": "1c16158",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780502435000,
-      "committedDate": "2026-06-03T16:00:35Z",
-      "header": "feat: add Help popup with keyboard shortcuts + OA Hsiao credit; SQLite auto-repair fixes",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/066dfe25bdd8d1e5da0bc8d1e113dfe582af9a90",
-      "sha": "066dfe2",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780498793000,
-      "committedDate": "2026-06-03T14:59:53Z",
-      "header": "perf(fuzzy): defer fuzzy matching to requestIdleCallback with progress pill",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/c855c61b165b5a26ced607fa4947a1cea90356cf",
-      "sha": "c855c61",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780498715000,
-      "committedDate": "2026-06-03T14:58:35Z",
-      "header": "feat(ux): keyboard row navigation (arrows to move, Enter to open detail)",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/31fce34debf3c89a74349512a2cf6d4518fd8f3c",
-      "sha": "31fce34",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780498578000,
-      "committedDate": "2026-06-03T14:56:18Z",
-      "header": "feat(ux): add empty and loading placeholder states for the diff stage",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/e8464c46092d4d6b1bc030392e1b0bdc451e7bc6",
-      "sha": "e8464c4",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780498226000,
-      "committedDate": "2026-06-03T14:50:26Z",
-      "header": "fix(fetch): only mark shas requested after non-cancelled completion",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/31b0089e24717e56f7166cba0b660c9d6041d099",
-      "sha": "31b0089",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780498189000,
-      "committedDate": "2026-06-03T14:49:49Z",
-      "header": "perf(view): split alignment layout from search highlighting",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/c4ca87de4c3d5d63ab34216f34d8730f6b7e4abc",
-      "sha": "c4ca87d",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780498125000,
-      "committedDate": "2026-06-03T14:48:45Z",
-      "header": "perf(scroll): throttle scroll state updates with requestAnimationFrame",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/3a730f699ce42d73bdf95834f8eb2e9f6b3f20dc",
-      "sha": "3a730f6",
+      "date": 1780504757000,
+      "committedDate": "2026-06-03T16:39:17Z",
+      "header": "style: remove // prefixes from headings for consistency",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/383768e00a35f3386a48b0b5978de8aa104f2463",
+      "sha": "383768e",
       "login": "oahsiao"
     }
   ]
