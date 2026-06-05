@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_GIT_DIFF@d94d6c3`](https://github.com/M2Station/M2_GIT_DIFF/commit/d94d6c303e0b594e3bd36aca5a825c0eee642d54) — docs: document npm run release + Release Manager agent in... · `2026-06-04` · oahsiao
-02. [`M2_GIT_DIFF@c9b4228`](https://github.com/M2Station/M2_GIT_DIFF/commit/c9b422842813ff6251fed81c007114325a20355a) — chore(release): add release automation script + Release M... · `2026-06-04` · oahsiao
-03. [`M2_GIT_DIFF@2eedfb5`](https://github.com/M2Station/M2_GIT_DIFF/commit/2eedfb5f41b48ed2f9a8481e6f8265290e215282) — chore: add Feature Reviewer agent (review feature + sync ... · `2026-06-04` · oahsiao
-04. [`M2_GIT_DIFF@319c9dd`](https://github.com/M2Station/M2_GIT_DIFF/commit/319c9dd657bb35c9f27e9f4d4c98074b9a10586e) — chore: add Dev Assistant custom agent (build/fix/review/r... · `2026-06-04` · oahsiao
-05. [`M2_GIT_DIFF@654b3b5`](https://github.com/M2Station/M2_GIT_DIFF/commit/654b3b539b01c81dbfa211ba9d2f0d17bee29e12) — docs: add English README as default, rename Chinese to RE... · `2026-06-04` · oahsiao
-06. [`M2_GIT_DIFF@2567b91`](https://github.com/M2Station/M2_GIT_DIFF/commit/2567b91e3fa8412524a843606a13eaa0b4ccb9e8) — feat(theme): multi-theme support with auto-discovered JSO... · `2026-06-04` · oahsiao
-07. [`M2_GIT_DIFF@e541ff5`](https://github.com/M2Station/M2_GIT_DIFF/commit/e541ff5e47235cb7c8d83d1f868b2276980f2476) — feat(i18n): add multi-language support (EN / zh-TW) · `2026-06-04` · oahsiao
-08. [`M2_GIT_DIFF@afd1951`](https://github.com/M2Station/M2_GIT_DIFF/commit/afd19518a412e71a176ea18bf54f89064783fdf1) — perf: debounce search query and binary-search virtualized... · `2026-06-04` · Copilot
-09. [`.github@36a7840`](https://github.com/M2Station/.github/commit/36a7840c2bc2ffced11b2405ada90272322167f7) — feat: add multiple image files and a link to the RANK dir... · `2026-06-03` · oahsiao
-10. [`.github@383768e`](https://github.com/M2Station/.github/commit/383768e00a35f3386a48b0b5978de8aa104f2463) — style: remove // prefixes from headings for consistency · `2026-06-03` · oahsiao
+01. [`M2_GIT_DIFF@6c83d93`](https://github.com/M2Station/M2_GIT_DIFF/commit/6c83d93fe0d0674eae924d10491ac16e23a42170) — Fix Alt-F and input "D:\" cannot go to D:\ space issue · `2026-06-05` · asuka-wu
+02. [`M2_GIT_DIFF@2bbd989`](https://github.com/M2Station/M2_GIT_DIFF/commit/2bbd98973e7cfaa6374d50f4384975089bde1689) — chore(release): v0.1.4 · `2026-06-04` · oahsiao
+03. [`M2_GIT_DIFF@19f727c`](https://github.com/M2Station/M2_GIT_DIFF/commit/19f727cf748a9a8ff5af097456f2979da5fb5ed4) — chore(release): make CI the canonical publish path; relea... · `2026-06-04` · oahsiao
+04. [`M2_GIT_DIFF@2a4cb27`](https://github.com/M2Station/M2_GIT_DIFF/commit/2a4cb2732039c01129dcfb395966967615672477) — feat(context-menu): load same folder into both sides for ... · `2026-06-04` · oahsiao
+05. [`M2_GIT_DIFF@431a37f`](https://github.com/M2Station/M2_GIT_DIFF/commit/431a37f0a81ea7bbc4f0ecd05274b7cefadd0b92) — feat(commits): show git tags in the commit list · `2026-06-04` · oahsiao
+06. [`M2_GIT_DIFF@fdaf5f4`](https://github.com/M2Station/M2_GIT_DIFF/commit/fdaf5f4e2c00195f3ce6d3f886379c97e793ff10) — chore(release): v0.1.3 · `2026-06-04` · oahsiao
+07. [`M2_GIT_DIFF@eb183c8`](https://github.com/M2Station/M2_GIT_DIFF/commit/eb183c8f4368bafd5757dad5440fd6e825f74cb7) — docs: full-app README audit + sync-readme agent · `2026-06-04` · oahsiao
+08. [`M2_GIT_DIFF@67180da`](https://github.com/M2Station/M2_GIT_DIFF/commit/67180da43525b7cc476204439e15ba543da8e618) — feat(picker): smart self-learning folder picker (L2/L3) +... · `2026-06-04` · oahsiao
+09. [`M2_GIT_DIFF@7955d74`](https://github.com/M2Station/M2_GIT_DIFF/commit/7955d74b3af0efb36ca012cf7a0e3ad2199cb3c5) — feat(detail): underline PR/work-item numbers in commit bo... · `2026-06-04` · oahsiao
+10. [`M2_GIT_DIFF@cc46d3a`](https://github.com/M2Station/M2_GIT_DIFF/commit/cc46d3a00fc8503349a363525f81930eddf6b0c0) — feat: add keyboard-driven folder picker for Open repo · `2026-06-04` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

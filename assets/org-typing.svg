@@ -7,55 +7,55 @@
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.098;0.150;0.167;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.000;0.111;0.170;0.188;1"
+        dur="27.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>docs: document npm run release + Release Manage...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Fix Alt-F and input "D:\" cannot go to D:\ spac...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.167;0.265;0.317;0.333;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;205.60000000000002;205.60000000000002;0;0"
+        keyTimes="0;0.188;0.237;0.296;0.315;1"
+        dur="27.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): add release automation script +...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): v0.1.4</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.333;0.431;0.484;0.500;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.315;0.426;0.485;0.503;1"
+        dur="27.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: add Feature Reviewer agent (review featu...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): make CI the canonical publish p...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.500;0.598;0.650;0.667;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.503;0.614;0.673;0.692;1"
+        dur="27.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: add Dev Assistant custom agent (build/fi...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(context-menu): load same folder into both ...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.667;0.765;0.817;0.833;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;415.6;415.6;0;0"
+        keyTimes="0;0.692;0.796;0.855;0.874;1"
+        dur="27.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>docs: add English README as default, rename Chi...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(commits): show git tags in the commit list</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.833;0.931;0.984;1.000;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;205.60000000000002;205.60000000000002;0;0"
+        keyTimes="0;0.874;0.922;0.982;1.000;1"
+        dur="27.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(theme): multi-theme support with auto-disc...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): v0.1.3</text>
     </g>
 </svg>
