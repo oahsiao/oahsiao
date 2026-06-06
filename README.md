@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_GIT_DIFF@6c83d93`](https://github.com/M2Station/M2_GIT_DIFF/commit/6c83d93fe0d0674eae924d10491ac16e23a42170) — Fix Alt-F and input "D:\" cannot go to D:\ space issue · `2026-06-05` · asuka-wu
-02. [`M2_GIT_DIFF@2bbd989`](https://github.com/M2Station/M2_GIT_DIFF/commit/2bbd98973e7cfaa6374d50f4384975089bde1689) — chore(release): v0.1.4 · `2026-06-04` · oahsiao
-03. [`M2_GIT_DIFF@19f727c`](https://github.com/M2Station/M2_GIT_DIFF/commit/19f727cf748a9a8ff5af097456f2979da5fb5ed4) — chore(release): make CI the canonical publish path; relea... · `2026-06-04` · oahsiao
-04. [`M2_GIT_DIFF@2a4cb27`](https://github.com/M2Station/M2_GIT_DIFF/commit/2a4cb2732039c01129dcfb395966967615672477) — feat(context-menu): load same folder into both sides for ... · `2026-06-04` · oahsiao
-05. [`M2_GIT_DIFF@431a37f`](https://github.com/M2Station/M2_GIT_DIFF/commit/431a37f0a81ea7bbc4f0ecd05274b7cefadd0b92) — feat(commits): show git tags in the commit list · `2026-06-04` · oahsiao
-06. [`M2_GIT_DIFF@fdaf5f4`](https://github.com/M2Station/M2_GIT_DIFF/commit/fdaf5f4e2c00195f3ce6d3f886379c97e793ff10) — chore(release): v0.1.3 · `2026-06-04` · oahsiao
-07. [`M2_GIT_DIFF@eb183c8`](https://github.com/M2Station/M2_GIT_DIFF/commit/eb183c8f4368bafd5757dad5440fd6e825f74cb7) — docs: full-app README audit + sync-readme agent · `2026-06-04` · oahsiao
-08. [`M2_GIT_DIFF@67180da`](https://github.com/M2Station/M2_GIT_DIFF/commit/67180da43525b7cc476204439e15ba543da8e618) — feat(picker): smart self-learning folder picker (L2/L3) +... · `2026-06-04` · oahsiao
-09. [`M2_GIT_DIFF@7955d74`](https://github.com/M2Station/M2_GIT_DIFF/commit/7955d74b3af0efb36ca012cf7a0e3ad2199cb3c5) — feat(detail): underline PR/work-item numbers in commit bo... · `2026-06-04` · oahsiao
-10. [`M2_GIT_DIFF@cc46d3a`](https://github.com/M2Station/M2_GIT_DIFF/commit/cc46d3a00fc8503349a363525f81930eddf6b0c0) — feat: add keyboard-driven folder picker for Open repo · `2026-06-04` · oahsiao
+01. [`M2_DEVOPS@013ea2c`](https://github.com/M2Station/M2_DEVOPS/commit/013ea2cd597229366cf790152652bf83433ef85f) — downloads: add git/date-based version stamp to M2_PAT_AUT... · `2026-06-05` · oahsiao
+02. [`M2_DEVOPS@46adda7`](https://github.com/M2Station/M2_DEVOPS/commit/46adda75d74be99511fc9c657569ab2fc4be66a0) — M2_PAT_AUTORENEW: add preflight tool check with auto-inst... · `2026-06-05` · oahsiao
+03. [`M2_DEVOPS@cee9a98`](https://github.com/M2Station/M2_DEVOPS/commit/cee9a987295ecaf90168f10ca151caaebf21223c) — feat(downloads): add M2_PAT_AUTORENEW tool + catalogue en... · `2026-06-05` · OA Hsiao
+04. [`M2_GIT_DIFF@05855a0`](https://github.com/M2Station/M2_GIT_DIFF/commit/05855a06c7a2e80b9a25a0074df5cccb413fd35f) — docs: sync READMEs for virtual tags + clamped nav and bac... · `2026-06-05` · OA Hsiao
+05. [`M2_GIT_DIFF@eec3e11`](https://github.com/M2Station/M2_GIT_DIFF/commit/eec3e11a6fa74033eceb057e249311a2dd73aade) — chore(release): v0.1.5 · `2026-06-05` · OA Hsiao
+06. [`M2_WIKI@cfa2644`](https://github.com/M2Station/M2_WIKI/commit/cfa2644ccd9bcaf09ca80d69aa52f7c00afeac4d) — astra web ui · `2026-06-05` · Amos Lin (PEGATRON CORPORATION)
+07. [`M2_GIT_DIFF@109fb7d`](https://github.com/M2Station/M2_GIT_DIFF/commit/109fb7dc2b75c5f509585d22a5e66dbc047b7785) — feat(nav): clamp commit cursor at ends + floating back-to... · `2026-06-05` · OA Hsiao
+08. [`M2_GIT_DIFF@bfebd3f`](https://github.com/M2Station/M2_GIT_DIFF/commit/bfebd3faa21995391ccc95f83f02d6ddc0228b04) — fix: add UTF-8 BOM to remaining PS scripts with non-ASCII... · `2026-06-05` · OA Hsiao
+09. [`M2_GIT_DIFF@0cd3339`](https://github.com/M2Station/M2_GIT_DIFF/commit/0cd33394d33975087c709ca3098d442845ce9c70) — fix: save launcher as UTF-8 with BOM for PS 5.1 · `2026-06-05` · OA Hsiao
+10. [`M2_GIT_DIFF@2d5a9be`](https://github.com/M2Station/M2_GIT_DIFF/commit/2d5a9be66e91810ed330ad08d4ea805f5bde5438) — fix: save uninstaller as UTF-8 with BOM so PS 5.1 can par... · `2026-06-05` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

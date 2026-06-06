@@ -1,95 +1,95 @@
 {
-  "updated": "2026-06-05 14:35 TWN",
+  "updated": "2026-06-06 13:57 TWN",
   "latestChanges": [
     {
-      "date": 1780634361000,
-      "committedDate": "2026-06-05T04:39:21Z",
-      "header": "Fix Alt-F and input \"D:\\\" cannot go to D:\\ space issue",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/6c83d93fe0d0674eae924d10491ac16e23a42170",
-      "sha": "6c83d93",
-      "login": "asuka-wu"
-    },
-    {
-      "date": 1780599214000,
-      "committedDate": "2026-06-04T18:53:34Z",
-      "header": "chore(release): v0.1.4",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/2bbd98973e7cfaa6374d50f4384975089bde1689",
-      "sha": "2bbd989",
+      "date": 1780670966000,
+      "committedDate": "2026-06-05T14:49:26Z",
+      "header": "downloads: add git/date-based version stamp to M2_PAT_AUTORENEW zip filename + card badge",
+      "repo": "M2_DEVOPS",
+      "url": "https://github.com/M2Station/M2_DEVOPS/commit/013ea2cd597229366cf790152652bf83433ef85f",
+      "sha": "013ea2c",
       "login": "oahsiao"
     },
     {
-      "date": 1780598823000,
-      "committedDate": "2026-06-04T18:47:03Z",
-      "header": "chore(release): make CI the canonical publish path; release.ps1 verify-only by default",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/19f727cf748a9a8ff5af097456f2979da5fb5ed4",
-      "sha": "19f727c",
+      "date": 1780670505000,
+      "committedDate": "2026-06-05T14:41:45Z",
+      "header": "M2_PAT_AUTORENEW: add preflight tool check with auto-install (Node.js, npm deps, Playwright browser)",
+      "repo": "M2_DEVOPS",
+      "url": "https://github.com/M2Station/M2_DEVOPS/commit/46adda75d74be99511fc9c657569ab2fc4be66a0",
+      "sha": "46adda7",
       "login": "oahsiao"
     },
     {
-      "date": 1780597993000,
-      "committedDate": "2026-06-04T18:33:13Z",
-      "header": "feat(context-menu): load same folder into both sides for single-folder compare",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/2a4cb2732039c01129dcfb395966967615672477",
-      "sha": "2a4cb27",
-      "login": "oahsiao"
+      "date": 1780663051000,
+      "committedDate": "2026-06-05T12:37:31Z",
+      "header": "feat(downloads): add M2_PAT_AUTORENEW tool + catalogue entries",
+      "repo": "M2_DEVOPS",
+      "url": "https://github.com/M2Station/M2_DEVOPS/commit/cee9a987295ecaf90168f10ca151caaebf21223c",
+      "sha": "cee9a98",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1780597792000,
-      "committedDate": "2026-06-04T18:29:52Z",
-      "header": "feat(commits): show git tags in the commit list",
+      "date": 1780657129000,
+      "committedDate": "2026-06-05T10:58:49Z",
+      "header": "docs: sync READMEs for virtual tags + clamped nav and back-to-top",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/431a37f0a81ea7bbc4f0ecd05274b7cefadd0b92",
-      "sha": "431a37f",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/05855a06c7a2e80b9a25a0074df5cccb413fd35f",
+      "sha": "05855a0",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1780597254000,
-      "committedDate": "2026-06-04T18:20:54Z",
-      "header": "chore(release): v0.1.3",
+      "date": 1780655077000,
+      "committedDate": "2026-06-05T10:24:37Z",
+      "header": "chore(release): v0.1.5",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/fdaf5f4e2c00195f3ce6d3f886379c97e793ff10",
-      "sha": "fdaf5f4",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/eec3e11a6fa74033eceb057e249311a2dd73aade",
+      "sha": "eec3e11",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1780597031000,
-      "committedDate": "2026-06-04T18:17:11Z",
-      "header": "docs: full-app README audit + sync-readme agent",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/eb183c8f4368bafd5757dad5440fd6e825f74cb7",
-      "sha": "eb183c8",
-      "login": "oahsiao"
+      "date": 1780653151000,
+      "committedDate": "2026-06-05T09:52:31Z",
+      "header": "astra web ui",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/cfa2644ccd9bcaf09ca80d69aa52f7c00afeac4d",
+      "sha": "cfa2644",
+      "login": "Amos Lin (PEGATRON CORPORATION)"
     },
     {
-      "date": 1780596042000,
-      "committedDate": "2026-06-04T18:00:42Z",
-      "header": "feat(picker): smart self-learning folder picker (L2/L3) + async listDir",
+      "date": 1780652282000,
+      "committedDate": "2026-06-05T09:38:02Z",
+      "header": "feat(nav): clamp commit cursor at ends + floating back-to-top button",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/67180da43525b7cc476204439e15ba543da8e618",
-      "sha": "67180da",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/109fb7dc2b75c5f509585d22a5e66dbc047b7785",
+      "sha": "109fb7d",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1780594053000,
-      "committedDate": "2026-06-04T17:27:33Z",
-      "header": "feat(detail): underline PR/work-item numbers in commit body + add START_REBUILD launcher",
+      "date": 1780649226000,
+      "committedDate": "2026-06-05T08:47:06Z",
+      "header": "fix: add UTF-8 BOM to remaining PS scripts with non-ASCII content",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/7955d74b3af0efb36ca012cf7a0e3ad2199cb3c5",
-      "sha": "7955d74",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/bfebd3faa21995391ccc95f83f02d6ddc0228b04",
+      "sha": "bfebd3f",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1780588427000,
-      "committedDate": "2026-06-04T15:53:47Z",
-      "header": "feat: add keyboard-driven folder picker for Open repo",
+      "date": 1780649002000,
+      "committedDate": "2026-06-05T08:43:22Z",
+      "header": "fix: save launcher as UTF-8 with BOM for PS 5.1",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/cc46d3a00fc8503349a363525f81930eddf6b0c0",
-      "sha": "cc46d3a",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/0cd33394d33975087c709ca3098d442845ce9c70",
+      "sha": "0cd3339",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1780648923000,
+      "committedDate": "2026-06-05T08:42:03Z",
+      "header": "fix: save uninstaller as UTF-8 with BOM so PS 5.1 can parse it",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/2d5a9be66e91810ed330ad08d4ea805f5bde5438",
+      "sha": "2d5a9be",
+      "login": "OA Hsiao"
     }
   ]
 }
