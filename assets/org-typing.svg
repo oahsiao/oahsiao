@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.113;0.173;0.191;1"
-        dur="26.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;424;424;0;0"
+        keyTimes="0;0.000;0.104;0.161;0.179;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>downloads: add git/date-based version stamp to ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix: improve selected row contrast in dark theme</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.191;0.304;0.364;0.383;1"
-        dur="26.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;256;256;0;0"
+        keyTimes="0;0.179;0.240;0.297;0.315;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>M2_PAT_AUTORENEW: add preflight tool check with...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat: add VS Code Dark theme</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.383;0.495;0.556;0.574;1"
-        dur="26.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.315;0.423;0.481;0.499;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(downloads): add M2_PAT_AUTORENEW tool + ca...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat: open commit in a new VS Code chat session...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.574;0.687;0.747;0.766;1"
-        dur="26.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.499;0.607;0.665;0.683;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>docs: sync READMEs for virtual tags + clamped n...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix: prevent dropped prompt when opening VS Cod...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;205.60000000000002;205.60000000000002;0;0"
-        keyTimes="0;0.766;0.815;0.875;0.894;1"
-        dur="26.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;365.2;365.2;0;0"
+        keyTimes="0;0.683;0.771;0.829;0.847;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): v0.1.5</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>perf: avoid blank-window flash on startup</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;121.60000000000001;121.60000000000001;0;0"
-        keyTimes="0;0.894;0.921;0.981;1.000;1"
-        dur="26.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;323.2;323.2;0;0"
+        keyTimes="0;0.847;0.924;0.982;1.000;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>astra web ui</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: sync latest changes [skip ci]</text>
     </g>
 </svg>

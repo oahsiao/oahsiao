@@ -1,6 +1,60 @@
 {
-  "updated": "2026-06-06 13:57 TWN",
+  "updated": "2026-06-07 14:34 TWN",
   "latestChanges": [
+    {
+      "date": 1780809097000,
+      "committedDate": "2026-06-07T05:11:37Z",
+      "header": "fix: improve selected row contrast in dark theme",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/a55f6c1eaffacbafb3e57a86adbafe961b6b3f7b",
+      "sha": "a55f6c1",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780808483000,
+      "committedDate": "2026-06-07T05:01:23Z",
+      "header": "feat: add VS Code Dark theme",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/25504feba2322fcdfea615f6b0e7eb1c036337d1",
+      "sha": "25504fe",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780808358000,
+      "committedDate": "2026-06-07T04:59:18Z",
+      "header": "feat: open commit in a new VS Code chat session (waits for user prompt) + VS Code icon",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/855ebc4b35a38926a807e7feee8bdbe59892491b",
+      "sha": "855ebc4",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780807264000,
+      "committedDate": "2026-06-07T04:41:04Z",
+      "header": "fix: prevent dropped prompt when opening VS Code chat",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/db9e2d96dc96b870b3ecfdbd8ca659632804b9fb",
+      "sha": "db9e2d9",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780806949000,
+      "committedDate": "2026-06-07T04:35:49Z",
+      "header": "perf: avoid blank-window flash on startup",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/7671ce4c6b69d167cbf85c2d52cef111d2b12561",
+      "sha": "7671ce4",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780726014000,
+      "committedDate": "2026-06-06T06:06:54Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/8bcc344badffb3204a3654aa55ee7693c3fb9387",
+      "sha": "8bcc344",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1780670966000,
       "committedDate": "2026-06-05T14:49:26Z",
@@ -35,60 +89,6 @@
       "repo": "M2_GIT_DIFF",
       "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/05855a06c7a2e80b9a25a0074df5cccb413fd35f",
       "sha": "05855a0",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1780655077000,
-      "committedDate": "2026-06-05T10:24:37Z",
-      "header": "chore(release): v0.1.5",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/eec3e11a6fa74033eceb057e249311a2dd73aade",
-      "sha": "eec3e11",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1780653151000,
-      "committedDate": "2026-06-05T09:52:31Z",
-      "header": "astra web ui",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/cfa2644ccd9bcaf09ca80d69aa52f7c00afeac4d",
-      "sha": "cfa2644",
-      "login": "Amos Lin (PEGATRON CORPORATION)"
-    },
-    {
-      "date": 1780652282000,
-      "committedDate": "2026-06-05T09:38:02Z",
-      "header": "feat(nav): clamp commit cursor at ends + floating back-to-top button",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/109fb7dc2b75c5f509585d22a5e66dbc047b7785",
-      "sha": "109fb7d",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1780649226000,
-      "committedDate": "2026-06-05T08:47:06Z",
-      "header": "fix: add UTF-8 BOM to remaining PS scripts with non-ASCII content",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/bfebd3faa21995391ccc95f83f02d6ddc0228b04",
-      "sha": "bfebd3f",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1780649002000,
-      "committedDate": "2026-06-05T08:43:22Z",
-      "header": "fix: save launcher as UTF-8 with BOM for PS 5.1",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/0cd33394d33975087c709ca3098d442845ce9c70",
-      "sha": "0cd3339",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1780648923000,
-      "committedDate": "2026-06-05T08:42:03Z",
-      "header": "fix: save uninstaller as UTF-8 with BOM so PS 5.1 can parse it",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/2d5a9be66e91810ed330ad08d4ea805f5bde5438",
-      "sha": "2d5a9be",
       "login": "OA Hsiao"
     }
   ]

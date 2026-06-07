@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_DEVOPS@013ea2c`](https://github.com/M2Station/M2_DEVOPS/commit/013ea2cd597229366cf790152652bf83433ef85f) — downloads: add git/date-based version stamp to M2_PAT_AUT... · `2026-06-05` · oahsiao
-02. [`M2_DEVOPS@46adda7`](https://github.com/M2Station/M2_DEVOPS/commit/46adda75d74be99511fc9c657569ab2fc4be66a0) — M2_PAT_AUTORENEW: add preflight tool check with auto-inst... · `2026-06-05` · oahsiao
-03. [`M2_DEVOPS@cee9a98`](https://github.com/M2Station/M2_DEVOPS/commit/cee9a987295ecaf90168f10ca151caaebf21223c) — feat(downloads): add M2_PAT_AUTORENEW tool + catalogue en... · `2026-06-05` · OA Hsiao
-04. [`M2_GIT_DIFF@05855a0`](https://github.com/M2Station/M2_GIT_DIFF/commit/05855a06c7a2e80b9a25a0074df5cccb413fd35f) — docs: sync READMEs for virtual tags + clamped nav and bac... · `2026-06-05` · OA Hsiao
-05. [`M2_GIT_DIFF@eec3e11`](https://github.com/M2Station/M2_GIT_DIFF/commit/eec3e11a6fa74033eceb057e249311a2dd73aade) — chore(release): v0.1.5 · `2026-06-05` · OA Hsiao
-06. [`M2_WIKI@cfa2644`](https://github.com/M2Station/M2_WIKI/commit/cfa2644ccd9bcaf09ca80d69aa52f7c00afeac4d) — astra web ui · `2026-06-05` · Amos Lin (PEGATRON CORPORATION)
-07. [`M2_GIT_DIFF@109fb7d`](https://github.com/M2Station/M2_GIT_DIFF/commit/109fb7dc2b75c5f509585d22a5e66dbc047b7785) — feat(nav): clamp commit cursor at ends + floating back-to... · `2026-06-05` · OA Hsiao
-08. [`M2_GIT_DIFF@bfebd3f`](https://github.com/M2Station/M2_GIT_DIFF/commit/bfebd3faa21995391ccc95f83f02d6ddc0228b04) — fix: add UTF-8 BOM to remaining PS scripts with non-ASCII... · `2026-06-05` · OA Hsiao
-09. [`M2_GIT_DIFF@0cd3339`](https://github.com/M2Station/M2_GIT_DIFF/commit/0cd33394d33975087c709ca3098d442845ce9c70) — fix: save launcher as UTF-8 with BOM for PS 5.1 · `2026-06-05` · OA Hsiao
-10. [`M2_GIT_DIFF@2d5a9be`](https://github.com/M2Station/M2_GIT_DIFF/commit/2d5a9be66e91810ed330ad08d4ea805f5bde5438) — fix: save uninstaller as UTF-8 with BOM so PS 5.1 can par... · `2026-06-05` · OA Hsiao
+01. [`M2_GIT_DIFF@a55f6c1`](https://github.com/M2Station/M2_GIT_DIFF/commit/a55f6c1eaffacbafb3e57a86adbafe961b6b3f7b) — fix: improve selected row contrast in dark theme · `2026-06-07` · oahsiao
+02. [`M2_GIT_DIFF@25504fe`](https://github.com/M2Station/M2_GIT_DIFF/commit/25504feba2322fcdfea615f6b0e7eb1c036337d1) — feat: add VS Code Dark theme · `2026-06-07` · oahsiao
+03. [`M2_GIT_DIFF@855ebc4`](https://github.com/M2Station/M2_GIT_DIFF/commit/855ebc4b35a38926a807e7feee8bdbe59892491b) — feat: open commit in a new VS Code chat session (waits fo... · `2026-06-07` · oahsiao
+04. [`M2_GIT_DIFF@db9e2d9`](https://github.com/M2Station/M2_GIT_DIFF/commit/db9e2d96dc96b870b3ecfdbd8ca659632804b9fb) — fix: prevent dropped prompt when opening VS Code chat · `2026-06-07` · oahsiao
+05. [`M2_GIT_DIFF@7671ce4`](https://github.com/M2Station/M2_GIT_DIFF/commit/7671ce4c6b69d167cbf85c2d52cef111d2b12561) — perf: avoid blank-window flash on startup · `2026-06-07` · oahsiao
+06. [`.github@8bcc344`](https://github.com/M2Station/.github/commit/8bcc344badffb3204a3654aa55ee7693c3fb9387) — chore: sync latest changes [skip ci] · `2026-06-06` · github-actions[bot]
+07. [`M2_DEVOPS@013ea2c`](https://github.com/M2Station/M2_DEVOPS/commit/013ea2cd597229366cf790152652bf83433ef85f) — downloads: add git/date-based version stamp to M2_PAT_AUT... · `2026-06-05` · oahsiao
+08. [`M2_DEVOPS@46adda7`](https://github.com/M2Station/M2_DEVOPS/commit/46adda75d74be99511fc9c657569ab2fc4be66a0) — M2_PAT_AUTORENEW: add preflight tool check with auto-inst... · `2026-06-05` · oahsiao
+09. [`M2_DEVOPS@cee9a98`](https://github.com/M2Station/M2_DEVOPS/commit/cee9a987295ecaf90168f10ca151caaebf21223c) — feat(downloads): add M2_PAT_AUTORENEW tool + catalogue en... · `2026-06-05` · OA Hsiao
+10. [`M2_GIT_DIFF@05855a0`](https://github.com/M2Station/M2_GIT_DIFF/commit/05855a06c7a2e80b9a25a0074df5cccb413fd35f) — docs: sync READMEs for virtual tags + clamped nav and bac... · `2026-06-05` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
