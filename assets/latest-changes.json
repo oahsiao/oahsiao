@@ -1,95 +1,95 @@
 {
-  "updated": "2026-06-07 14:34 TWN",
+  "updated": "2026-06-08 14:49 TWN",
   "latestChanges": [
     {
-      "date": 1780809097000,
-      "committedDate": "2026-06-07T05:11:37Z",
-      "header": "fix: improve selected row contrast in dark theme",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/a55f6c1eaffacbafb3e57a86adbafe961b6b3f7b",
-      "sha": "a55f6c1",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780808483000,
-      "committedDate": "2026-06-07T05:01:23Z",
-      "header": "feat: add VS Code Dark theme",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/25504feba2322fcdfea615f6b0e7eb1c036337d1",
-      "sha": "25504fe",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780808358000,
-      "committedDate": "2026-06-07T04:59:18Z",
-      "header": "feat: open commit in a new VS Code chat session (waits for user prompt) + VS Code icon",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/855ebc4b35a38926a807e7feee8bdbe59892491b",
-      "sha": "855ebc4",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780807264000,
-      "committedDate": "2026-06-07T04:41:04Z",
-      "header": "fix: prevent dropped prompt when opening VS Code chat",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/db9e2d96dc96b870b3ecfdbd8ca659632804b9fb",
-      "sha": "db9e2d9",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780806949000,
-      "committedDate": "2026-06-07T04:35:49Z",
-      "header": "perf: avoid blank-window flash on startup",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/7671ce4c6b69d167cbf85c2d52cef111d2b12561",
-      "sha": "7671ce4",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780726014000,
-      "committedDate": "2026-06-06T06:06:54Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/8bcc344badffb3204a3654aa55ee7693c3fb9387",
-      "sha": "8bcc344",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1780670966000,
-      "committedDate": "2026-06-05T14:49:26Z",
-      "header": "downloads: add git/date-based version stamp to M2_PAT_AUTORENEW zip filename + card badge",
+      "date": 1780896408000,
+      "committedDate": "2026-06-08T05:26:48Z",
+      "header": "fix(pat-autorenew): correct self-referencing filename in help/error messages (pat_autorenew.mjs -> M2_pat_autorenew.mjs)",
       "repo": "M2_DEVOPS",
-      "url": "https://github.com/M2Station/M2_DEVOPS/commit/013ea2cd597229366cf790152652bf83433ef85f",
-      "sha": "013ea2c",
+      "url": "https://github.com/M2Station/M2_DEVOPS/commit/9d7ba784cf835717bdef06cd0608d76d18380ccf",
+      "sha": "9d7ba78",
       "login": "oahsiao"
     },
     {
-      "date": 1780670505000,
-      "committedDate": "2026-06-05T14:41:45Z",
-      "header": "M2_PAT_AUTORENEW: add preflight tool check with auto-install (Node.js, npm deps, Playwright browser)",
-      "repo": "M2_DEVOPS",
-      "url": "https://github.com/M2Station/M2_DEVOPS/commit/46adda75d74be99511fc9c657569ab2fc4be66a0",
-      "sha": "46adda7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780663051000,
-      "committedDate": "2026-06-05T12:37:31Z",
-      "header": "feat(downloads): add M2_PAT_AUTORENEW tool + catalogue entries",
-      "repo": "M2_DEVOPS",
-      "url": "https://github.com/M2Station/M2_DEVOPS/commit/cee9a987295ecaf90168f10ca151caaebf21223c",
-      "sha": "cee9a98",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1780657129000,
-      "committedDate": "2026-06-05T10:58:49Z",
-      "header": "docs: sync READMEs for virtual tags + clamped nav and back-to-top",
+      "date": 1780838079000,
+      "committedDate": "2026-06-07T13:14:39Z",
+      "header": "0.1.7",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/05855a06c7a2e80b9a25a0074df5cccb413fd35f",
-      "sha": "05855a0",
-      "login": "OA Hsiao"
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/b827e4644e0f3e2c3a363eafb104086482a3cc69",
+      "sha": "b827e46",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780837759000,
+      "committedDate": "2026-06-07T13:09:19Z",
+      "header": "chore: speed up single-folder context launch",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/594cdf9395d632b85efc105a331237176613853e",
+      "sha": "594cdf9",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780837484000,
+      "committedDate": "2026-06-07T13:04:44Z",
+      "header": "chore: use assisted installer flow",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/1c3cef55c0807d780d8b0535e06d4a1170d5d011",
+      "sha": "1c3cef5",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780831607000,
+      "committedDate": "2026-06-07T11:26:47Z",
+      "header": "chore(release): v0.1.6",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/ef12401347c7e1570624edaa3edc1c819ca2265f",
+      "sha": "ef12401",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780830985000,
+      "committedDate": "2026-06-07T11:16:25Z",
+      "header": "feat: add markdown review report export",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/c056e33ade91dd2710300a6a1f3f2bd532735f78",
+      "sha": "c056e33",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780827353000,
+      "committedDate": "2026-06-07T10:15:53Z",
+      "header": "feat: centralized error / log panel for git, cache and export failures",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/afbc305a7374dde1c094585b5b5b0eb063659ba5",
+      "sha": "afbc305",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780826013000,
+      "committedDate": "2026-06-07T09:53:33Z",
+      "header": "feat: redraw Compare icon as a circled \"VS\" versus badge",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/ca559b8869cd0886c8b28b58b05a2953431eb38a",
+      "sha": "ca559b8",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780825168000,
+      "committedDate": "2026-06-07T09:39:28Z",
+      "header": "test: add Vitest unit tests + CI for core logic (diff / git / markdown)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/6faf38ab3337a4ac07e3b3081c0642495f5a6205",
+      "sha": "6faf38a",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1780824346000,
+      "committedDate": "2026-06-07T09:25:46Z",
+      "header": "feat: undo/redo for notes, colors, virtual tags, and manual links",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/82144b1466853101f0da5e7a67c111eb838a0429",
+      "sha": "82144b1",
+      "login": "oahsiao"
     }
   ]
 }

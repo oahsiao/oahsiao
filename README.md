@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_GIT_DIFF@a55f6c1`](https://github.com/M2Station/M2_GIT_DIFF/commit/a55f6c1eaffacbafb3e57a86adbafe961b6b3f7b) — fix: improve selected row contrast in dark theme · `2026-06-07` · oahsiao
-02. [`M2_GIT_DIFF@25504fe`](https://github.com/M2Station/M2_GIT_DIFF/commit/25504feba2322fcdfea615f6b0e7eb1c036337d1) — feat: add VS Code Dark theme · `2026-06-07` · oahsiao
-03. [`M2_GIT_DIFF@855ebc4`](https://github.com/M2Station/M2_GIT_DIFF/commit/855ebc4b35a38926a807e7feee8bdbe59892491b) — feat: open commit in a new VS Code chat session (waits fo... · `2026-06-07` · oahsiao
-04. [`M2_GIT_DIFF@db9e2d9`](https://github.com/M2Station/M2_GIT_DIFF/commit/db9e2d96dc96b870b3ecfdbd8ca659632804b9fb) — fix: prevent dropped prompt when opening VS Code chat · `2026-06-07` · oahsiao
-05. [`M2_GIT_DIFF@7671ce4`](https://github.com/M2Station/M2_GIT_DIFF/commit/7671ce4c6b69d167cbf85c2d52cef111d2b12561) — perf: avoid blank-window flash on startup · `2026-06-07` · oahsiao
-06. [`.github@8bcc344`](https://github.com/M2Station/.github/commit/8bcc344badffb3204a3654aa55ee7693c3fb9387) — chore: sync latest changes [skip ci] · `2026-06-06` · github-actions[bot]
-07. [`M2_DEVOPS@013ea2c`](https://github.com/M2Station/M2_DEVOPS/commit/013ea2cd597229366cf790152652bf83433ef85f) — downloads: add git/date-based version stamp to M2_PAT_AUT... · `2026-06-05` · oahsiao
-08. [`M2_DEVOPS@46adda7`](https://github.com/M2Station/M2_DEVOPS/commit/46adda75d74be99511fc9c657569ab2fc4be66a0) — M2_PAT_AUTORENEW: add preflight tool check with auto-inst... · `2026-06-05` · oahsiao
-09. [`M2_DEVOPS@cee9a98`](https://github.com/M2Station/M2_DEVOPS/commit/cee9a987295ecaf90168f10ca151caaebf21223c) — feat(downloads): add M2_PAT_AUTORENEW tool + catalogue en... · `2026-06-05` · OA Hsiao
-10. [`M2_GIT_DIFF@05855a0`](https://github.com/M2Station/M2_GIT_DIFF/commit/05855a06c7a2e80b9a25a0074df5cccb413fd35f) — docs: sync READMEs for virtual tags + clamped nav and bac... · `2026-06-05` · OA Hsiao
+01. [`M2_DEVOPS@9d7ba78`](https://github.com/M2Station/M2_DEVOPS/commit/9d7ba784cf835717bdef06cd0608d76d18380ccf) — fix(pat-autorenew): correct self-referencing filename in ... · `2026-06-08` · oahsiao
+02. [`M2_GIT_DIFF@b827e46`](https://github.com/M2Station/M2_GIT_DIFF/commit/b827e4644e0f3e2c3a363eafb104086482a3cc69) — 0.1.7 · `2026-06-07` · oahsiao
+03. [`M2_GIT_DIFF@594cdf9`](https://github.com/M2Station/M2_GIT_DIFF/commit/594cdf9395d632b85efc105a331237176613853e) — chore: speed up single-folder context launch · `2026-06-07` · oahsiao
+04. [`M2_GIT_DIFF@1c3cef5`](https://github.com/M2Station/M2_GIT_DIFF/commit/1c3cef55c0807d780d8b0535e06d4a1170d5d011) — chore: use assisted installer flow · `2026-06-07` · oahsiao
+05. [`M2_GIT_DIFF@ef12401`](https://github.com/M2Station/M2_GIT_DIFF/commit/ef12401347c7e1570624edaa3edc1c819ca2265f) — chore(release): v0.1.6 · `2026-06-07` · oahsiao
+06. [`M2_GIT_DIFF@c056e33`](https://github.com/M2Station/M2_GIT_DIFF/commit/c056e33ade91dd2710300a6a1f3f2bd532735f78) — feat: add markdown review report export · `2026-06-07` · oahsiao
+07. [`M2_GIT_DIFF@afbc305`](https://github.com/M2Station/M2_GIT_DIFF/commit/afbc305a7374dde1c094585b5b5b0eb063659ba5) — feat: centralized error / log panel for git, cache and ex... · `2026-06-07` · oahsiao
+08. [`M2_GIT_DIFF@ca559b8`](https://github.com/M2Station/M2_GIT_DIFF/commit/ca559b8869cd0886c8b28b58b05a2953431eb38a) — feat: redraw Compare icon as a circled "VS" versus badge · `2026-06-07` · oahsiao
+09. [`M2_GIT_DIFF@6faf38a`](https://github.com/M2Station/M2_GIT_DIFF/commit/6faf38ab3337a4ac07e3b3081c0642495f5a6205) — test: add Vitest unit tests + CI for core logic (diff / g... · `2026-06-07` · oahsiao
+10. [`M2_GIT_DIFF@82144b1`](https://github.com/M2Station/M2_GIT_DIFF/commit/82144b1466853101f0da5e7a67c111eb838a0429) — feat: undo/redo for notes, colors, virtual tags, and manu... · `2026-06-07` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
