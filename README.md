@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_DEVOPS@9d7ba78`](https://github.com/M2Station/M2_DEVOPS/commit/9d7ba784cf835717bdef06cd0608d76d18380ccf) — fix(pat-autorenew): correct self-referencing filename in ... · `2026-06-08` · oahsiao
-02. [`M2_GIT_DIFF@b827e46`](https://github.com/M2Station/M2_GIT_DIFF/commit/b827e4644e0f3e2c3a363eafb104086482a3cc69) — 0.1.7 · `2026-06-07` · oahsiao
-03. [`M2_GIT_DIFF@594cdf9`](https://github.com/M2Station/M2_GIT_DIFF/commit/594cdf9395d632b85efc105a331237176613853e) — chore: speed up single-folder context launch · `2026-06-07` · oahsiao
-04. [`M2_GIT_DIFF@1c3cef5`](https://github.com/M2Station/M2_GIT_DIFF/commit/1c3cef55c0807d780d8b0535e06d4a1170d5d011) — chore: use assisted installer flow · `2026-06-07` · oahsiao
-05. [`M2_GIT_DIFF@ef12401`](https://github.com/M2Station/M2_GIT_DIFF/commit/ef12401347c7e1570624edaa3edc1c819ca2265f) — chore(release): v0.1.6 · `2026-06-07` · oahsiao
-06. [`M2_GIT_DIFF@c056e33`](https://github.com/M2Station/M2_GIT_DIFF/commit/c056e33ade91dd2710300a6a1f3f2bd532735f78) — feat: add markdown review report export · `2026-06-07` · oahsiao
-07. [`M2_GIT_DIFF@afbc305`](https://github.com/M2Station/M2_GIT_DIFF/commit/afbc305a7374dde1c094585b5b5b0eb063659ba5) — feat: centralized error / log panel for git, cache and ex... · `2026-06-07` · oahsiao
-08. [`M2_GIT_DIFF@ca559b8`](https://github.com/M2Station/M2_GIT_DIFF/commit/ca559b8869cd0886c8b28b58b05a2953431eb38a) — feat: redraw Compare icon as a circled "VS" versus badge · `2026-06-07` · oahsiao
-09. [`M2_GIT_DIFF@6faf38a`](https://github.com/M2Station/M2_GIT_DIFF/commit/6faf38ab3337a4ac07e3b3081c0642495f5a6205) — test: add Vitest unit tests + CI for core logic (diff / g... · `2026-06-07` · oahsiao
-10. [`M2_GIT_DIFF@82144b1`](https://github.com/M2Station/M2_GIT_DIFF/commit/82144b1466853101f0da5e7a67c111eb838a0429) — feat: undo/redo for notes, colors, virtual tags, and manu... · `2026-06-07` · oahsiao
+01. [`M2_WIKI@2a27b5b`](https://github.com/M2Station/M2_WIKI/commit/2a27b5b27582f0a0990504c8cdc9417f885ef1d7) — fix · `2026-06-09` · asuka-wu
+02. [`M2_WIKI@7dcd09d`](https://github.com/M2Station/M2_WIKI/commit/7dcd09dc9e1965f2cd9632c32bd4eb857766b04b) — fix pic · `2026-06-09` · asuka-wu
+03. [`M2_WIKI@de5b1c2`](https://github.com/M2Station/M2_WIKI/commit/de5b1c2d7c686ec22c9d941685021fddaeebafb3) — move RF var to RF power table · `2026-06-09` · asuka-wu
+04. [`.github@9e84ce6`](https://github.com/M2Station/.github/commit/9e84ce60c03c77cb69c4982029e252d380c18631) — chore: sync latest changes [skip ci] · `2026-06-08` · github-actions[bot]
+05. [`M2_DEVOPS@9d7ba78`](https://github.com/M2Station/M2_DEVOPS/commit/9d7ba784cf835717bdef06cd0608d76d18380ccf) — fix(pat-autorenew): correct self-referencing filename in ... · `2026-06-08` · oahsiao
+06. [`M2_GIT_DIFF@b827e46`](https://github.com/M2Station/M2_GIT_DIFF/commit/b827e4644e0f3e2c3a363eafb104086482a3cc69) — 0.1.7 · `2026-06-07` · oahsiao
+07. [`M2_GIT_DIFF@594cdf9`](https://github.com/M2Station/M2_GIT_DIFF/commit/594cdf9395d632b85efc105a331237176613853e) — chore: speed up single-folder context launch · `2026-06-07` · oahsiao
+08. [`M2_GIT_DIFF@1c3cef5`](https://github.com/M2Station/M2_GIT_DIFF/commit/1c3cef55c0807d780d8b0535e06d4a1170d5d011) — chore: use assisted installer flow · `2026-06-07` · oahsiao
+09. [`M2_GIT_DIFF@ef12401`](https://github.com/M2Station/M2_GIT_DIFF/commit/ef12401347c7e1570624edaa3edc1c819ca2265f) — chore(release): v0.1.6 · `2026-06-07` · oahsiao
+10. [`M2_GIT_DIFF@c056e33`](https://github.com/M2Station/M2_GIT_DIFF/commit/c056e33ade91dd2710300a6a1f3f2bd532735f78) — feat: add markdown review report export · `2026-06-07` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

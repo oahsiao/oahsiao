@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-08 14:49 TWN",
+  "updated": "2026-06-09 14:13 TWN",
   "latestChanges": [
+    {
+      "date": 1780972539000,
+      "committedDate": "2026-06-09T02:35:39Z",
+      "header": "fix",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/2a27b5b27582f0a0990504c8cdc9417f885ef1d7",
+      "sha": "2a27b5b",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1780972486000,
+      "committedDate": "2026-06-09T02:34:46Z",
+      "header": "fix pic",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/7dcd09dc9e1965f2cd9632c32bd4eb857766b04b",
+      "sha": "7dcd09d",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1780968472000,
+      "committedDate": "2026-06-09T01:27:52Z",
+      "header": "move RF var to RF power table",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/de5b1c2d7c686ec22c9d941685021fddaeebafb3",
+      "sha": "de5b1c2",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1780902773000,
+      "committedDate": "2026-06-08T07:12:53Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/9e84ce60c03c77cb69c4982029e252d380c18631",
+      "sha": "9e84ce6",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1780896408000,
       "committedDate": "2026-06-08T05:26:48Z",
@@ -53,42 +89,6 @@
       "repo": "M2_GIT_DIFF",
       "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/c056e33ade91dd2710300a6a1f3f2bd532735f78",
       "sha": "c056e33",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780827353000,
-      "committedDate": "2026-06-07T10:15:53Z",
-      "header": "feat: centralized error / log panel for git, cache and export failures",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/afbc305a7374dde1c094585b5b5b0eb063659ba5",
-      "sha": "afbc305",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780826013000,
-      "committedDate": "2026-06-07T09:53:33Z",
-      "header": "feat: redraw Compare icon as a circled \"VS\" versus badge",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/ca559b8869cd0886c8b28b58b05a2953431eb38a",
-      "sha": "ca559b8",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780825168000,
-      "committedDate": "2026-06-07T09:39:28Z",
-      "header": "test: add Vitest unit tests + CI for core logic (diff / git / markdown)",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/6faf38ab3337a4ac07e3b3081c0642495f5a6205",
-      "sha": "6faf38a",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780824346000,
-      "committedDate": "2026-06-07T09:25:46Z",
-      "header": "feat: undo/redo for notes, colors, virtual tags, and manual links",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/82144b1466853101f0da5e7a67c111eb838a0429",
-      "sha": "82144b1",
       "login": "oahsiao"
     }
   ]
