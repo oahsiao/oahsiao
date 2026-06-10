@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-09 14:13 TWN",
+  "updated": "2026-06-10 14:35 TWN",
   "latestChanges": [
+    {
+      "date": 1780992978000,
+      "committedDate": "2026-06-09T08:16:18Z",
+      "header": "automation test suite file configuration",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/2acb370a6e5e0d9d2a3cc89db8b4d4ef2e66bad2",
+      "sha": "2acb370",
+      "login": "Linpei727"
+    },
+    {
+      "date": 1780986696000,
+      "committedDate": "2026-06-09T06:31:36Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/ee82f91e62b8e5596b4a31bdd876c0dadcad18b1",
+      "sha": "ee82f91",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1780972539000,
       "committedDate": "2026-06-09T02:35:39Z",
@@ -71,24 +89,6 @@
       "repo": "M2_GIT_DIFF",
       "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/1c3cef55c0807d780d8b0535e06d4a1170d5d011",
       "sha": "1c3cef5",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780831607000,
-      "committedDate": "2026-06-07T11:26:47Z",
-      "header": "chore(release): v0.1.6",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/ef12401347c7e1570624edaa3edc1c819ca2265f",
-      "sha": "ef12401",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1780830985000,
-      "committedDate": "2026-06-07T11:16:25Z",
-      "header": "feat: add markdown review report export",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/c056e33ade91dd2710300a6a1f3f2bd532735f78",
-      "sha": "c056e33",
       "login": "oahsiao"
     }
   ]
