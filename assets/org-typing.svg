@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;390.40000000000003;390.40000000000003;0;0"
-        keyTimes="0;0.000;0.089;0.143;0.160;1"
-        dur="29.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;188.8;188.8;0;0"
+        keyTimes="0;0.000;0.044;0.103;0.121;1"
+        dur="27.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update MSAGUI_v7 exe and delete previous exe</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>+MICROSOFT_SENSOR.md</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;398.8;398.8;0;0"
-        keyTimes="0;0.160;0.252;0.306;0.323;1"
-        dur="29.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;323.2;323.2;0;0"
+        keyTimes="0;0.121;0.200;0.259;0.277;1"
+        dur="27.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update release note for MSAGUI_v7 change list</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: sync latest changes [skip ci]</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.323;0.424;0.478;0.495;1"
-        dur="29.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;390.40000000000003;390.40000000000003;0;0"
+        keyTimes="0;0.277;0.374;0.432;0.451;1"
+        dur="27.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Use min positive per-item Y_used for Actual_Y_R...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update MSAGUI_v7 exe and delete previous exe</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.495;0.596;0.650;0.667;1"
-        dur="29.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;398.8;398.8;0;0"
+        keyTimes="0;0.451;0.549;0.608;0.626;1"
+        dur="27.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add start-exe.bat for end users (launch EXE + o...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update release note for MSAGUI_v7 change list</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.667;0.769;0.823;0.840;1"
-        dur="29.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.626;0.736;0.795;0.813;1"
+        dur="27.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add EXE packaging: build-exe.bat, pkg config, E...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Use min positive per-item Y_used for Actual_Y_R...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;390.40000000000003;390.40000000000003;0;0"
-        keyTimes="0;0.840;0.929;0.983;1.000;1"
-        dur="29.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.813;0.923;0.982;1.000;1"
+        dur="27.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Fix command injection risk in openInExplorer</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add start-exe.bat for end users (launch EXE + o...</text>
     </g>
 </svg>
