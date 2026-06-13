@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-12 14:46 TWN",
+  "updated": "2026-06-13 14:21 TWN",
   "latestChanges": [
+    {
+      "date": 1781255282000,
+      "committedDate": "2026-06-12T09:08:02Z",
+      "header": "+MICROSOFT_DESIGN_REVIEW.md TCON",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/5e5176d995eb3add85fedce8c8899274d130b709",
+      "sha": "5e5176d",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1781247669000,
+      "committedDate": "2026-06-12T07:01:09Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/298a0c7a4cf4661cb7783b50bc17f8bad7d3d970",
+      "sha": "298a0c7",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1781240447000,
       "committedDate": "2026-06-12T05:00:47Z",
@@ -71,24 +89,6 @@
       "repo": "M2_LOG",
       "url": "https://github.com/M2Station/M2_LOG/commit/0ae72f0009f0856af5c79f70cb92d4dae55d8fa6",
       "sha": "0ae72f0",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781143180000,
-      "committedDate": "2026-06-11T01:59:40Z",
-      "header": "Add M2 LOG Tool web app (server, UI, i18n, docs)",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/800b0b7f04e080eab8d3e6d183603c1ace4a0f19",
-      "sha": "800b0b7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781139919000,
-      "committedDate": "2026-06-11T01:05:19Z",
-      "header": "Initial commit",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/30f4f227565d2b8bdd12c8243afbde3d09fa0170",
-      "sha": "30f4f22",
       "login": "oahsiao"
     }
   ]

@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@f9f93f0`](https://github.com/M2Station/M2_WIKI/commit/f9f93f04c91d2cb1c22456e4da420a7756d43f9d) — +MICROSOFT_SENSOR.md · `2026-06-12` · asuka-wu
-02. [`.github@45b7b2c`](https://github.com/M2Station/.github/commit/45b7b2c547c3a64e81226b84c3d863a10d8d8441) — chore: sync latest changes [skip ci] · `2026-06-11` · github-actions[bot]
-03. [`M2_MSAGUI@ed6b50d`](https://github.com/M2Station/M2_MSAGUI/commit/ed6b50d7dc6e5dc72c1f033d801fc177e2bf61a5) — Update MSAGUI_v7 exe and delete previous exe · `2026-06-11` · cin0429
-04. [`M2_MSAGUI@1fb0e59`](https://github.com/M2Station/M2_MSAGUI/commit/1fb0e59eb82ca04b2424c618c18a6805148bc08b) — Update release note for MSAGUI_v7 change list · `2026-06-11` · cin0429
-05. [`M2_MSAGUI@d8cabb6`](https://github.com/M2Station/M2_MSAGUI/commit/d8cabb6f7eefba516e9217f1134687d3dcabb7c8) — Use min positive per-item Y_used for Actual_Y_Repeat inst... · `2026-06-11` · cin0429
-06. [`M2_LOG@a1931d7`](https://github.com/M2Station/M2_LOG/commit/a1931d7f7f6a5bf3fdb326be0aa2c89e2f9ed37c) — Add start-exe.bat for end users (launch EXE + open browser) · `2026-06-11` · oahsiao
-07. [`M2_LOG@c16f9ac`](https://github.com/M2Station/M2_LOG/commit/c16f9acbc926a83034f1c29de59748d687332e4e) — Add EXE packaging: build-exe.bat, pkg config, EXE-safe ou... · `2026-06-11` · oahsiao
-08. [`M2_LOG@0ae72f0`](https://github.com/M2Station/M2_LOG/commit/0ae72f0009f0856af5c79f70cb92d4dae55d8fa6) — Fix command injection risk in openInExplorer · `2026-06-11` · oahsiao
-09. [`M2_LOG@800b0b7`](https://github.com/M2Station/M2_LOG/commit/800b0b7f04e080eab8d3e6d183603c1ace4a0f19) — Add M2 LOG Tool web app (server, UI, i18n, docs) · `2026-06-11` · oahsiao
-10. [`M2_LOG@30f4f22`](https://github.com/M2Station/M2_LOG/commit/30f4f227565d2b8bdd12c8243afbde3d09fa0170) — Initial commit · `2026-06-11` · oahsiao
+01. [`M2_WIKI@5e5176d`](https://github.com/M2Station/M2_WIKI/commit/5e5176d995eb3add85fedce8c8899274d130b709) — +MICROSOFT_DESIGN_REVIEW.md TCON · `2026-06-12` · asuka-wu
+02. [`.github@298a0c7`](https://github.com/M2Station/.github/commit/298a0c7a4cf4661cb7783b50bc17f8bad7d3d970) — chore: sync latest changes [skip ci] · `2026-06-12` · github-actions[bot]
+03. [`M2_WIKI@f9f93f0`](https://github.com/M2Station/M2_WIKI/commit/f9f93f04c91d2cb1c22456e4da420a7756d43f9d) — +MICROSOFT_SENSOR.md · `2026-06-12` · asuka-wu
+04. [`.github@45b7b2c`](https://github.com/M2Station/.github/commit/45b7b2c547c3a64e81226b84c3d863a10d8d8441) — chore: sync latest changes [skip ci] · `2026-06-11` · github-actions[bot]
+05. [`M2_MSAGUI@ed6b50d`](https://github.com/M2Station/M2_MSAGUI/commit/ed6b50d7dc6e5dc72c1f033d801fc177e2bf61a5) — Update MSAGUI_v7 exe and delete previous exe · `2026-06-11` · cin0429
+06. [`M2_MSAGUI@1fb0e59`](https://github.com/M2Station/M2_MSAGUI/commit/1fb0e59eb82ca04b2424c618c18a6805148bc08b) — Update release note for MSAGUI_v7 change list · `2026-06-11` · cin0429
+07. [`M2_MSAGUI@d8cabb6`](https://github.com/M2Station/M2_MSAGUI/commit/d8cabb6f7eefba516e9217f1134687d3dcabb7c8) — Use min positive per-item Y_used for Actual_Y_Repeat inst... · `2026-06-11` · cin0429
+08. [`M2_LOG@a1931d7`](https://github.com/M2Station/M2_LOG/commit/a1931d7f7f6a5bf3fdb326be0aa2c89e2f9ed37c) — Add start-exe.bat for end users (launch EXE + open browser) · `2026-06-11` · oahsiao
+09. [`M2_LOG@c16f9ac`](https://github.com/M2Station/M2_LOG/commit/c16f9acbc926a83034f1c29de59748d687332e4e) — Add EXE packaging: build-exe.bat, pkg config, EXE-safe ou... · `2026-06-11` · oahsiao
+10. [`M2_LOG@0ae72f0`](https://github.com/M2Station/M2_LOG/commit/0ae72f0009f0856af5c79f70cb92d4dae55d8fa6) — Fix command injection risk in openInExplorer · `2026-06-11` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
