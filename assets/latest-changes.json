@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-13 14:21 TWN",
+  "updated": "2026-06-14 14:45 TWN",
   "latestChanges": [
+    {
+      "date": 1781332602000,
+      "committedDate": "2026-06-13T06:36:42Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/7894e7985cd58556d91c4756256f31e9afb04517",
+      "sha": "7894e79",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1781255282000,
       "committedDate": "2026-06-12T09:08:02Z",
@@ -80,15 +89,6 @@
       "repo": "M2_LOG",
       "url": "https://github.com/M2Station/M2_LOG/commit/c16f9acbc926a83034f1c29de59748d687332e4e",
       "sha": "c16f9ac",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781143330000,
-      "committedDate": "2026-06-11T02:02:10Z",
-      "header": "Fix command injection risk in openInExplorer",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/0ae72f0009f0856af5c79f70cb92d4dae55d8fa6",
-      "sha": "0ae72f0",
       "login": "oahsiao"
     }
   ]
