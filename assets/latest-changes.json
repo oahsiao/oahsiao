@@ -1,94 +1,94 @@
 {
-  "updated": "2026-06-14 14:45 TWN",
+  "updated": "2026-06-15 15:26 TWN",
   "latestChanges": [
     {
-      "date": 1781332602000,
-      "committedDate": "2026-06-13T06:36:42Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/7894e7985cd58556d91c4756256f31e9afb04517",
-      "sha": "7894e79",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1781255282000,
-      "committedDate": "2026-06-12T09:08:02Z",
-      "header": "+MICROSOFT_DESIGN_REVIEW.md TCON",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/5e5176d995eb3add85fedce8c8899274d130b709",
-      "sha": "5e5176d",
-      "login": "asuka-wu"
-    },
-    {
-      "date": 1781247669000,
-      "committedDate": "2026-06-12T07:01:09Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/298a0c7a4cf4661cb7783b50bc17f8bad7d3d970",
-      "sha": "298a0c7",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1781240447000,
-      "committedDate": "2026-06-12T05:00:47Z",
-      "header": "+MICROSOFT_SENSOR.md",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/f9f93f04c91d2cb1c22456e4da420a7756d43f9d",
-      "sha": "f9f93f0",
-      "login": "asuka-wu"
-    },
-    {
-      "date": 1781162004000,
-      "committedDate": "2026-06-11T07:13:24Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/45b7b2c547c3a64e81226b84c3d863a10d8d8441",
-      "sha": "45b7b2c",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1781148577000,
-      "committedDate": "2026-06-11T03:29:37Z",
-      "header": "Update MSAGUI_v7 exe and delete previous exe",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/ed6b50d7dc6e5dc72c1f033d801fc177e2bf61a5",
-      "sha": "ed6b50d",
-      "login": "cin0429"
-    },
-    {
-      "date": 1781147983000,
-      "committedDate": "2026-06-11T03:19:43Z",
-      "header": "Update release note for MSAGUI_v7 change list",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/1fb0e59eb82ca04b2424c618c18a6805148bc08b",
-      "sha": "1fb0e59",
-      "login": "cin0429"
-    },
-    {
-      "date": 1781147808000,
-      "committedDate": "2026-06-11T03:16:48Z",
-      "header": "Use min positive per-item Y_used for Actual_Y_Repeat instead of df_msa['RunIdx'].nunique(), because nunique() is a union across all test items and can overstate the common repeat count.",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/d8cabb6f7eefba516e9217f1134687d3dcabb7c8",
-      "sha": "d8cabb6",
-      "login": "cin0429"
-    },
-    {
-      "date": 1781144029000,
-      "committedDate": "2026-06-11T02:13:49Z",
-      "header": "Add start-exe.bat for end users (launch EXE + open browser)",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/a1931d7f7f6a5bf3fdb326be0aa2c89e2f9ed37c",
-      "sha": "a1931d7",
+      "date": 1781528305000,
+      "committedDate": "2026-06-15T12:58:25Z",
+      "header": "fix: SVG icon color should follow theme CSS variables",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/86dbbf4d97b88015db2cd04e8cf70f02b8dba6ff",
+      "sha": "86dbbf4",
       "login": "oahsiao"
     },
     {
-      "date": 1781143889000,
-      "committedDate": "2026-06-11T02:11:29Z",
-      "header": "Add EXE packaging: build-exe.bat, pkg config, EXE-safe output dir",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/c16f9acbc926a83034f1c29de59748d687332e4e",
-      "sha": "c16f9ac",
+      "date": 1781527410000,
+      "committedDate": "2026-06-15T12:43:30Z",
+      "header": "style: enhance ARMY theme with tactical black and premium finish",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/0f60087e050bb5d84c84da84f5f9b04d248842ed",
+      "sha": "0f60087",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781519239000,
+      "committedDate": "2026-06-15T10:27:19Z",
+      "header": "release: v0.0.2",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/0c5ff4035e8e8d52f92904210944fee48ebe9d1c",
+      "sha": "0c5ff40",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781491346000,
+      "committedDate": "2026-06-15T02:42:26Z",
+      "header": "feat(ui): multi-select file actions + Beyond Compare integration",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/bd9caf0854fc2e039b9d32bebc49a13d0bba60ea",
+      "sha": "bd9caf0",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781489322000,
+      "committedDate": "2026-06-15T02:08:42Z",
+      "header": "chore: add MIT license headers to all source files + LICENSE",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/0734bc0ad48bc53607153ee8b56be302d1e2ebae",
+      "sha": "0734bc0",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781486568000,
+      "committedDate": "2026-06-15T01:22:48Z",
+      "header": "feat(ui): add animated 'Powered by OA Hsiao' author signature",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/5a842c0b33339e6ca2db22fa0493aa196556fcb7",
+      "sha": "5a842c0",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781485560000,
+      "committedDate": "2026-06-15T01:06:00Z",
+      "header": "fix(ui): show live system CPU% instead of always-0 indicator",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/644a7a44651cec6c7c896ebeb515723f4808f0c2",
+      "sha": "644a7a4",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781469675000,
+      "committedDate": "2026-06-14T20:41:15Z",
+      "header": "fix: CPU slot shows real rg/fd child-process CPU% (not the app's); sample child PIDs via Get-Process since wmic/pidusage is gone on Win11",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/9aa6a4ef3973194f953c6ff3976490de2aab1470",
+      "sha": "9aa6a4e",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781468929000,
+      "committedDate": "2026-06-14T20:28:49Z",
+      "header": "fix: show real app CPU% in the CPU slot (was always 0/s); use app.getAppMetrics() since wmic/pidusage is gone on Win11",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/2bffc0b255d762cbea5fec55fe92402730bf3b94",
+      "sha": "2bffc0b",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781468222000,
+      "committedDate": "2026-06-14T20:17:02Z",
+      "header": "fix: tree view Name/Count sort toggle now reorders folders and files (was always by name)",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/83d914912fe32ec33758c6412e1744bbe4c2a589",
+      "sha": "83d9149",
       "login": "oahsiao"
     }
   ]
