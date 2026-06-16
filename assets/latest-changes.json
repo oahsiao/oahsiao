@@ -1,6 +1,33 @@
 {
-  "updated": "2026-06-15 15:26 TWN",
+  "updated": "2026-06-16 15:31 TWN",
   "latestChanges": [
+    {
+      "date": 1781594017000,
+      "committedDate": "2026-06-16T07:13:37Z",
+      "header": "Add DPP capsule watchdog issue note",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/4e2db4f923c934142d8a2ac880053c437b782611",
+      "sha": "4e2db4f",
+      "login": "Sam6Su"
+    },
+    {
+      "date": 1781591552000,
+      "committedDate": "2026-06-16T06:32:32Z",
+      "header": "fix: set explicit AppUserModelID for Windows taskbar pin icon",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/7956268943ea385d69c28776e73c67dfffa9f497",
+      "sha": "7956268",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781590503000,
+      "committedDate": "2026-06-16T06:15:03Z",
+      "header": "fix: persist INI settings to userData instead of Program Files",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/3f8e9fdb3f02b57fe34787e1cfd5ca96f9cf8ee8",
+      "sha": "3f8e9fd",
+      "login": "oahsiao"
+    },
     {
       "date": 1781528305000,
       "committedDate": "2026-06-15T12:58:25Z",
@@ -29,6 +56,15 @@
       "login": "oahsiao"
     },
     {
+      "date": 1781509481000,
+      "committedDate": "2026-06-15T07:44:41Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/2874cb4397c50e39ef7b2d1f322c46383c5f3039",
+      "sha": "2874cb4",
+      "login": "github-actions[bot]"
+    },
+    {
       "date": 1781491346000,
       "committedDate": "2026-06-15T02:42:26Z",
       "header": "feat(ui): multi-select file actions + Beyond Compare integration",
@@ -53,42 +89,6 @@
       "repo": "M2_SCOUT",
       "url": "https://github.com/M2Station/M2_SCOUT/commit/5a842c0b33339e6ca2db22fa0493aa196556fcb7",
       "sha": "5a842c0",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781485560000,
-      "committedDate": "2026-06-15T01:06:00Z",
-      "header": "fix(ui): show live system CPU% instead of always-0 indicator",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/644a7a44651cec6c7c896ebeb515723f4808f0c2",
-      "sha": "644a7a4",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781469675000,
-      "committedDate": "2026-06-14T20:41:15Z",
-      "header": "fix: CPU slot shows real rg/fd child-process CPU% (not the app's); sample child PIDs via Get-Process since wmic/pidusage is gone on Win11",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/9aa6a4ef3973194f953c6ff3976490de2aab1470",
-      "sha": "9aa6a4e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781468929000,
-      "committedDate": "2026-06-14T20:28:49Z",
-      "header": "fix: show real app CPU% in the CPU slot (was always 0/s); use app.getAppMetrics() since wmic/pidusage is gone on Win11",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/2bffc0b255d762cbea5fec55fe92402730bf3b94",
-      "sha": "2bffc0b",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781468222000,
-      "committedDate": "2026-06-14T20:17:02Z",
-      "header": "fix: tree view Name/Count sort toggle now reorders folders and files (was always by name)",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/83d914912fe32ec33758c6412e1744bbe4c2a589",
-      "sha": "83d9149",
       "login": "oahsiao"
     }
   ]

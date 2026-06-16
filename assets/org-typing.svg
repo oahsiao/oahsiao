@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.105;0.161;0.179;1"
-        dur="28.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;314.8;314.8;0;0"
+        keyTimes="0;0.000;0.076;0.134;0.152;1"
+        dur="27.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix: SVG icon color should follow theme CSS var...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add DPP capsule watchdog issue note</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.179;0.284;0.340;0.358;1"
-        dur="28.5s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.152;0.261;0.319;0.337;1"
+        dur="27.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>style: enhance ARMY theme with tactical black a...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix: set explicit AppUserModelID for Windows ta...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;146.8;146.8;0;0"
-        keyTimes="0;0.358;0.389;0.446;0.463;1"
-        dur="28.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.337;0.446;0.504;0.522;1"
+        dur="27.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>release: v0.0.2</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix: persist INI settings to userData instead o...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.463;0.568;0.625;0.642;1"
-        dur="28.5s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.522;0.630;0.688;0.707;1"
+        dur="27.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(ui): multi-select file actions + Beyond Co...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix: SVG icon color should follow theme CSS var...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.642;0.747;0.804;0.821;1"
-        dur="28.5s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.707;0.815;0.873;0.891;1"
+        dur="27.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: add MIT license headers to all source fi...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>style: enhance ARMY theme with tactical black a...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.821;0.926;0.982;1.000;1"
-        dur="28.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;146.8;146.8;0;0"
+        keyTimes="0;0.891;0.924;0.982;1.000;1"
+        dur="27.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(ui): add animated 'Powered by OA Hsiao' au...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>release: v0.0.2</text>
     </g>
 </svg>
