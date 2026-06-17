@@ -1,94 +1,94 @@
 {
-  "updated": "2026-06-16 15:31 TWN",
+  "updated": "2026-06-17 15:16 TWN",
   "latestChanges": [
     {
-      "date": 1781594017000,
-      "committedDate": "2026-06-16T07:13:37Z",
-      "header": "Add DPP capsule watchdog issue note",
+      "date": 1781635740000,
+      "committedDate": "2026-06-16T18:49:00Z",
+      "header": "docs: add bilingual README and richer demo animations",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/d5101ef62048b3731bc5f9cf57e44d5ca2f63986",
+      "sha": "d5101ef",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781634461000,
+      "committedDate": "2026-06-16T18:27:41Z",
+      "header": "feat(preview): add in-preview find popup and fix hotkey routing",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/d6120e25413dfe23b78e590c0b7cfd0f2d76ad32",
+      "sha": "d6120e2",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781633344000,
+      "committedDate": "2026-06-16T18:09:04Z",
+      "header": "Use ASCII-safe Unicode escape for zh-TW preview context label",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/99ba03058b8d4aae52990e321820ccd0ecb10cb2",
+      "sha": "99ba030",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781633078000,
+      "committedDate": "2026-06-16T18:04:38Z",
+      "header": "Improve tree keyboard navigation and preview context settings",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/34884536d376918cc1ef1614ef42ea93255173dd",
+      "sha": "3488453",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781628678000,
+      "committedDate": "2026-06-16T16:51:18Z",
+      "header": "Improve startup responsiveness and in-app startup logs",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/11c5fdbc5aebdac88e33c5362358bb8d0d5b1ddd",
+      "sha": "11c5fdb",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1781619497000,
+      "committedDate": "2026-06-16T14:18:17Z",
+      "header": "Update wsl SOP to install outside C drive",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/4e2db4f923c934142d8a2ac880053c437b782611",
-      "sha": "4e2db4f",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/6410862d60762a514b6e90951591ed0c0112c3f5",
+      "sha": "6410862",
+      "login": "Sam Su"
+    },
+    {
+      "date": 1781602960000,
+      "committedDate": "2026-06-16T09:42:40Z",
+      "header": "Update build env error fix",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/6d6d49e454c8b00c233eb5272bd1dc37ca84cea2",
+      "sha": "6d6d49e",
       "login": "Sam6Su"
     },
     {
-      "date": 1781591552000,
-      "committedDate": "2026-06-16T06:32:32Z",
-      "header": "fix: set explicit AppUserModelID for Windows taskbar pin icon",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/7956268943ea385d69c28776e73c67dfffa9f497",
-      "sha": "7956268",
-      "login": "oahsiao"
+      "date": 1781600734000,
+      "committedDate": "2026-06-16T09:05:34Z",
+      "header": "Add Windows Task Manager tip",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/a8417c138cfc1f500028a7de1d91eb4f0cca9848",
+      "sha": "a8417c1",
+      "login": "Sam6Su"
     },
     {
-      "date": 1781590503000,
-      "committedDate": "2026-06-16T06:15:03Z",
-      "header": "fix: persist INI settings to userData instead of Program Files",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/3f8e9fdb3f02b57fe34787e1cfd5ca96f9cf8ee8",
-      "sha": "3f8e9fd",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781528305000,
-      "committedDate": "2026-06-15T12:58:25Z",
-      "header": "fix: SVG icon color should follow theme CSS variables",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/86dbbf4d97b88015db2cd04e8cf70f02b8dba6ff",
-      "sha": "86dbbf4",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781527410000,
-      "committedDate": "2026-06-15T12:43:30Z",
-      "header": "style: enhance ARMY theme with tactical black and premium finish",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/0f60087e050bb5d84c84da84f5f9b04d248842ed",
-      "sha": "0f60087",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781519239000,
-      "committedDate": "2026-06-15T10:27:19Z",
-      "header": "release: v0.0.2",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/0c5ff4035e8e8d52f92904210944fee48ebe9d1c",
-      "sha": "0c5ff40",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781509481000,
-      "committedDate": "2026-06-15T07:44:41Z",
+      "date": 1781598314000,
+      "committedDate": "2026-06-16T08:25:14Z",
       "header": "chore: sync latest changes [skip ci]",
       "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/2874cb4397c50e39ef7b2d1f322c46383c5f3039",
-      "sha": "2874cb4",
+      "url": "https://github.com/M2Station/.github/commit/41a1d2adc8b05320417ece1daf364bd6c3e44302",
+      "sha": "41a1d2a",
       "login": "github-actions[bot]"
     },
     {
-      "date": 1781491346000,
-      "committedDate": "2026-06-15T02:42:26Z",
-      "header": "feat(ui): multi-select file actions + Beyond Compare integration",
+      "date": 1781596427000,
+      "committedDate": "2026-06-16T07:53:47Z",
+      "header": "release: v0.0.3",
       "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/bd9caf0854fc2e039b9d32bebc49a13d0bba60ea",
-      "sha": "bd9caf0",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781489322000,
-      "committedDate": "2026-06-15T02:08:42Z",
-      "header": "chore: add MIT license headers to all source files + LICENSE",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/0734bc0ad48bc53607153ee8b56be302d1e2ebae",
-      "sha": "0734bc0",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781486568000,
-      "committedDate": "2026-06-15T01:22:48Z",
-      "header": "feat(ui): add animated 'Powered by OA Hsiao' author signature",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/5a842c0b33339e6ca2db22fa0493aa196556fcb7",
-      "sha": "5a842c0",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/3cad2bf8330890a4f28c746ca046981a3d525dcc",
+      "sha": "3cad2bf",
       "login": "oahsiao"
     }
   ]

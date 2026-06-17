@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@4e2db4f`](https://github.com/M2Station/M2_WIKI/commit/4e2db4f923c934142d8a2ac880053c437b782611) — Add DPP capsule watchdog issue note · `2026-06-16` · Sam6Su
-02. [`M2_SCOUT@7956268`](https://github.com/M2Station/M2_SCOUT/commit/7956268943ea385d69c28776e73c67dfffa9f497) — fix: set explicit AppUserModelID for Windows taskbar pin ... · `2026-06-16` · oahsiao
-03. [`M2_SCOUT@3f8e9fd`](https://github.com/M2Station/M2_SCOUT/commit/3f8e9fdb3f02b57fe34787e1cfd5ca96f9cf8ee8) — fix: persist INI settings to userData instead of Program ... · `2026-06-16` · oahsiao
-04. [`M2_SCOUT@86dbbf4`](https://github.com/M2Station/M2_SCOUT/commit/86dbbf4d97b88015db2cd04e8cf70f02b8dba6ff) — fix: SVG icon color should follow theme CSS variables · `2026-06-15` · oahsiao
-05. [`M2_SCOUT@0f60087`](https://github.com/M2Station/M2_SCOUT/commit/0f60087e050bb5d84c84da84f5f9b04d248842ed) — style: enhance ARMY theme with tactical black and premium... · `2026-06-15` · oahsiao
-06. [`M2_SCOUT@0c5ff40`](https://github.com/M2Station/M2_SCOUT/commit/0c5ff4035e8e8d52f92904210944fee48ebe9d1c) — release: v0.0.2 · `2026-06-15` · oahsiao
-07. [`.github@2874cb4`](https://github.com/M2Station/.github/commit/2874cb4397c50e39ef7b2d1f322c46383c5f3039) — chore: sync latest changes [skip ci] · `2026-06-15` · github-actions[bot]
-08. [`M2_SCOUT@bd9caf0`](https://github.com/M2Station/M2_SCOUT/commit/bd9caf0854fc2e039b9d32bebc49a13d0bba60ea) — feat(ui): multi-select file actions + Beyond Compare inte... · `2026-06-15` · oahsiao
-09. [`M2_SCOUT@0734bc0`](https://github.com/M2Station/M2_SCOUT/commit/0734bc0ad48bc53607153ee8b56be302d1e2ebae) — chore: add MIT license headers to all source files + LICENSE · `2026-06-15` · oahsiao
-10. [`M2_SCOUT@5a842c0`](https://github.com/M2Station/M2_SCOUT/commit/5a842c0b33339e6ca2db22fa0493aa196556fcb7) — feat(ui): add animated 'Powered by OA Hsiao' author signa... · `2026-06-15` · oahsiao
+01. [`M2_SCOUT@d5101ef`](https://github.com/M2Station/M2_SCOUT/commit/d5101ef62048b3731bc5f9cf57e44d5ca2f63986) — docs: add bilingual README and richer demo animations · `2026-06-16` · oahsiao
+02. [`M2_SCOUT@d6120e2`](https://github.com/M2Station/M2_SCOUT/commit/d6120e25413dfe23b78e590c0b7cfd0f2d76ad32) — feat(preview): add in-preview find popup and fix hotkey r... · `2026-06-16` · oahsiao
+03. [`M2_SCOUT@99ba030`](https://github.com/M2Station/M2_SCOUT/commit/99ba03058b8d4aae52990e321820ccd0ecb10cb2) — Use ASCII-safe Unicode escape for zh-TW preview context l... · `2026-06-16` · oahsiao
+04. [`M2_SCOUT@3488453`](https://github.com/M2Station/M2_SCOUT/commit/34884536d376918cc1ef1614ef42ea93255173dd) — Improve tree keyboard navigation and preview context sett... · `2026-06-16` · oahsiao
+05. [`M2_SCOUT@11c5fdb`](https://github.com/M2Station/M2_SCOUT/commit/11c5fdbc5aebdac88e33c5362358bb8d0d5b1ddd) — Improve startup responsiveness and in-app startup logs · `2026-06-16` · oahsiao
+06. [`M2_WIKI@6410862`](https://github.com/M2Station/M2_WIKI/commit/6410862d60762a514b6e90951591ed0c0112c3f5) — Update wsl SOP to install outside C drive · `2026-06-16` · Sam Su
+07. [`M2_WIKI@6d6d49e`](https://github.com/M2Station/M2_WIKI/commit/6d6d49e454c8b00c233eb5272bd1dc37ca84cea2) — Update build env error fix · `2026-06-16` · Sam6Su
+08. [`M2_WIKI@a8417c1`](https://github.com/M2Station/M2_WIKI/commit/a8417c138cfc1f500028a7de1d91eb4f0cca9848) — Add Windows Task Manager tip · `2026-06-16` · Sam6Su
+09. [`.github@41a1d2a`](https://github.com/M2Station/.github/commit/41a1d2adc8b05320417ece1daf364bd6c3e44302) — chore: sync latest changes [skip ci] · `2026-06-16` · github-actions[bot]
+10. [`M2_SCOUT@3cad2bf`](https://github.com/M2Station/M2_SCOUT/commit/3cad2bf8330890a4f28c746ca046981a3d525dcc) — release: v0.0.3 · `2026-06-16` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
