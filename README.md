@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_SCOUT@d5101ef`](https://github.com/M2Station/M2_SCOUT/commit/d5101ef62048b3731bc5f9cf57e44d5ca2f63986) — docs: add bilingual README and richer demo animations · `2026-06-16` · oahsiao
-02. [`M2_SCOUT@d6120e2`](https://github.com/M2Station/M2_SCOUT/commit/d6120e25413dfe23b78e590c0b7cfd0f2d76ad32) — feat(preview): add in-preview find popup and fix hotkey r... · `2026-06-16` · oahsiao
-03. [`M2_SCOUT@99ba030`](https://github.com/M2Station/M2_SCOUT/commit/99ba03058b8d4aae52990e321820ccd0ecb10cb2) — Use ASCII-safe Unicode escape for zh-TW preview context l... · `2026-06-16` · oahsiao
-04. [`M2_SCOUT@3488453`](https://github.com/M2Station/M2_SCOUT/commit/34884536d376918cc1ef1614ef42ea93255173dd) — Improve tree keyboard navigation and preview context sett... · `2026-06-16` · oahsiao
-05. [`M2_SCOUT@11c5fdb`](https://github.com/M2Station/M2_SCOUT/commit/11c5fdbc5aebdac88e33c5362358bb8d0d5b1ddd) — Improve startup responsiveness and in-app startup logs · `2026-06-16` · oahsiao
-06. [`M2_WIKI@6410862`](https://github.com/M2Station/M2_WIKI/commit/6410862d60762a514b6e90951591ed0c0112c3f5) — Update wsl SOP to install outside C drive · `2026-06-16` · Sam Su
-07. [`M2_WIKI@6d6d49e`](https://github.com/M2Station/M2_WIKI/commit/6d6d49e454c8b00c233eb5272bd1dc37ca84cea2) — Update build env error fix · `2026-06-16` · Sam6Su
-08. [`M2_WIKI@a8417c1`](https://github.com/M2Station/M2_WIKI/commit/a8417c138cfc1f500028a7de1d91eb4f0cca9848) — Add Windows Task Manager tip · `2026-06-16` · Sam6Su
-09. [`.github@41a1d2a`](https://github.com/M2Station/.github/commit/41a1d2adc8b05320417ece1daf364bd6c3e44302) — chore: sync latest changes [skip ci] · `2026-06-16` · github-actions[bot]
-10. [`M2_SCOUT@3cad2bf`](https://github.com/M2Station/M2_SCOUT/commit/3cad2bf8330890a4f28c746ca046981a3d525dcc) — release: v0.0.3 · `2026-06-16` · oahsiao
+01. [`M2_LOG@7a775c2`](https://github.com/M2Station/M2_LOG/commit/7a775c2764504122dc6281767193f8b1ded7d35d) — feat(analysis): add highlight-type selector and resizable... · `2026-06-18` · oahsiao
+02. [`M2_LOG@f729145`](https://github.com/M2Station/M2_LOG/commit/f729145d6d40b6e346252c0091a90488a4abf0d3) — feat(logoutput): single-LOG export, copy summary, time re... · `2026-06-18` · oahsiao
+03. [`M2_LOG@36b3e43`](https://github.com/M2Station/M2_LOG/commit/36b3e43b00ac3ccdbb8e09f6318c53014b1dd4b4) — feat(ui): port M2_SCOUT visual language + theme switcher · `2026-06-18` · oahsiao
+04. [`M2_LOG@1b4bad7`](https://github.com/M2Station/M2_LOG/commit/1b4bad7df5cf5d55f8e16411cf5b2502bfd95032) — feat(logoutput): multi-experiment tabs with + and close · `2026-06-18` · oahsiao
+05. [`M2_LOG@3adc1be`](https://github.com/M2Station/M2_LOG/commit/3adc1be595b53059a53b9e84242fe47aca8cc49e) — feat(viewer): line numbers, keyword highlight, error/warn... · `2026-06-17` · oahsiao
+06. [`M2_LOG@0bff543`](https://github.com/M2Station/M2_LOG/commit/0bff543802a2d365b2a8da513d18863d6dcc4f17) — UI: full-width layout + reset experiment fields button · `2026-06-17` · oahsiao
+07. [`M2_LOG@fef8eb7`](https://github.com/M2Station/M2_LOG/commit/fef8eb735cbc7770b7819cf7edc90ed226357d67) — Remove redundant launchers (START.cmd, build-app.cmd); re... · `2026-06-17` · oahsiao
+08. [`M2_LOG@3d60fa7`](https://github.com/M2Station/M2_LOG/commit/3d60fa7010273780720af3742d7db6d0f9cd5a45) — Rewrite M2_LOG as an Electron desktop app (IPC, no HTTP s... · `2026-06-17` · oahsiao
+09. [`M2_GIT_DIFF@8913512`](https://github.com/M2Station/M2_GIT_DIFF/commit/8913512e18ee5453ba06fef567537d6c61637cdd) — 0.1.8 · `2026-06-17` · oahsiao
+10. [`M2_GIT_DIFF@2aaf2fc`](https://github.com/M2Station/M2_GIT_DIFF/commit/2aaf2fc4c913704088df1047bf1fc5d800bd0575) — feat: add Code diff window to commit detail with scoped Esc · `2026-06-17` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
