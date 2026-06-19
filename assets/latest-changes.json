@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-18 14:57 TWN",
+  "updated": "2026-06-19 15:12 TWN",
   "latestChanges": [
+    {
+      "date": 1781859567000,
+      "committedDate": "2026-06-19T08:59:27Z",
+      "header": "Prefix Notes lines with '- ' in TXT export and Copy Summary",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/24862c963309847136e81b0335edde2f73cb95c6",
+      "sha": "24862c9",
+      "login": "oahsiao"
+    },
     {
       "date": 1781784831000,
       "committedDate": "2026-06-18T12:13:51Z",
@@ -38,6 +47,15 @@
       "login": "oahsiao"
     },
     {
+      "date": 1781766883000,
+      "committedDate": "2026-06-18T07:14:43Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/8b53de9fb07e556a9978d485a74ba9854ea7194b",
+      "sha": "8b53de9",
+      "login": "github-actions[bot]"
+    },
+    {
       "date": 1781721147000,
       "committedDate": "2026-06-17T18:32:27Z",
       "header": "feat(viewer): line numbers, keyword highlight, error/warn minimap nav, and Next-experiment button",
@@ -71,24 +89,6 @@
       "repo": "M2_LOG",
       "url": "https://github.com/M2Station/M2_LOG/commit/3d60fa7010273780720af3742d7db6d0f9cd5a45",
       "sha": "3d60fa7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781711042000,
-      "committedDate": "2026-06-17T15:44:02Z",
-      "header": "0.1.8",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/8913512e18ee5453ba06fef567537d6c61637cdd",
-      "sha": "8913512",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781710595000,
-      "committedDate": "2026-06-17T15:36:35Z",
-      "header": "feat: add Code diff window to commit detail with scoped Esc",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/2aaf2fc4c913704088df1047bf1fc5d800bd0575",
-      "sha": "2aaf2fc",
       "login": "oahsiao"
     }
   ]
