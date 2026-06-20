@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19 15:12 TWN",
+  "updated": "2026-06-20 14:26 TWN",
   "latestChanges": [
     {
       "date": 1781859567000,
@@ -9,6 +9,15 @@
       "url": "https://github.com/M2Station/M2_LOG/commit/24862c963309847136e81b0335edde2f73cb95c6",
       "sha": "24862c9",
       "login": "oahsiao"
+    },
+    {
+      "date": 1781854640000,
+      "committedDate": "2026-06-19T07:37:20Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/6a484ada552e1056ab30df4fa192ea5261ee32fc",
+      "sha": "6a484ad",
+      "login": "github-actions[bot]"
     },
     {
       "date": 1781784831000,
@@ -80,15 +89,6 @@
       "repo": "M2_LOG",
       "url": "https://github.com/M2Station/M2_LOG/commit/fef8eb735cbc7770b7819cf7edc90ed226357d67",
       "sha": "fef8eb7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1781717150000,
-      "committedDate": "2026-06-17T17:25:50Z",
-      "header": "Rewrite M2_LOG as an Electron desktop app (IPC, no HTTP server)",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/3d60fa7010273780720af3742d7db6d0f9cd5a45",
-      "sha": "3d60fa7",
       "login": "oahsiao"
     }
   ]
