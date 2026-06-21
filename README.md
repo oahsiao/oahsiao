@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_LOG@24862c9`](https://github.com/M2Station/M2_LOG/commit/24862c963309847136e81b0335edde2f73cb95c6) — Prefix Notes lines with '- ' in TXT export and Copy Summary · `2026-06-19` · oahsiao
-02. [`.github@6a484ad`](https://github.com/M2Station/.github/commit/6a484ada552e1056ab30df4fa192ea5261ee32fc) — chore: sync latest changes [skip ci] · `2026-06-19` · github-actions[bot]
-03. [`M2_LOG@7a775c2`](https://github.com/M2Station/M2_LOG/commit/7a775c2764504122dc6281767193f8b1ded7d35d) — feat(analysis): add highlight-type selector and resizable... · `2026-06-18` · oahsiao
-04. [`M2_LOG@f729145`](https://github.com/M2Station/M2_LOG/commit/f729145d6d40b6e346252c0091a90488a4abf0d3) — feat(logoutput): single-LOG export, copy summary, time re... · `2026-06-18` · oahsiao
-05. [`M2_LOG@36b3e43`](https://github.com/M2Station/M2_LOG/commit/36b3e43b00ac3ccdbb8e09f6318c53014b1dd4b4) — feat(ui): port M2_SCOUT visual language + theme switcher · `2026-06-18` · oahsiao
-06. [`M2_LOG@1b4bad7`](https://github.com/M2Station/M2_LOG/commit/1b4bad7df5cf5d55f8e16411cf5b2502bfd95032) — feat(logoutput): multi-experiment tabs with + and close · `2026-06-18` · oahsiao
-07. [`.github@8b53de9`](https://github.com/M2Station/.github/commit/8b53de9fb07e556a9978d485a74ba9854ea7194b) — chore: sync latest changes [skip ci] · `2026-06-18` · github-actions[bot]
-08. [`M2_LOG@3adc1be`](https://github.com/M2Station/M2_LOG/commit/3adc1be595b53059a53b9e84242fe47aca8cc49e) — feat(viewer): line numbers, keyword highlight, error/warn... · `2026-06-17` · oahsiao
-09. [`M2_LOG@0bff543`](https://github.com/M2Station/M2_LOG/commit/0bff543802a2d365b2a8da513d18863d6dcc4f17) — UI: full-width layout + reset experiment fields button · `2026-06-17` · oahsiao
-10. [`M2_LOG@fef8eb7`](https://github.com/M2Station/M2_LOG/commit/fef8eb735cbc7770b7819cf7edc90ed226357d67) — Remove redundant launchers (START.cmd, build-app.cmd); re... · `2026-06-17` · oahsiao
+01. [`M2_LOG@13d7732`](https://github.com/M2Station/M2_LOG/commit/13d773283d17e56bda402361e6d4627c33c8e39e) — ux(log-analysis): P1 viewer + filter enhancements · `2026-06-21` · oahsiao
+02. [`M2_LOG@741ac25`](https://github.com/M2Station/M2_LOG/commit/741ac25f6fa8974ad675c7dc8de714bc388c4126) — perf+ux(log-analysis): P0 first-tier improvements · `2026-06-21` · oahsiao
+03. [`M2_LOG@39d444d`](https://github.com/M2Station/M2_LOG/commit/39d444d39913a40098c37bf9a19cd4fb718010b1) — chore: add MIT LICENSE and license headers to source files · `2026-06-21` · oahsiao
+04. [`M2_LOG@95aad08`](https://github.com/M2Station/M2_LOG/commit/95aad084bd9f2a965039259088d2c6d156687eb1) — feat(log-analysis): add file-tree 'Type to filter' + VS C... · `2026-06-21` · oahsiao
+05. [`M2_LOG@f5547ee`](https://github.com/M2Station/M2_LOG/commit/f5547eed1db33e342af664d53fd73b7ad0c962a4) — fix(analysis): persist bookmarks per file across switches · `2026-06-20` · oahsiao
+06. [`M2_LOG@f2a807e`](https://github.com/M2Station/M2_LOG/commit/f2a807eeb441b5d55e9c118c6e6fab110b1d2519) — feat(analysis): add line bookmarks to LOG viewer · `2026-06-20` · oahsiao
+07. [`M2_LOG@d3cfcc2`](https://github.com/M2Station/M2_LOG/commit/d3cfcc2b2241106ae9986cddb89bf6467b862df2) — fix(analysis): match highlight rules on raw text; add SAM... · `2026-06-20` · oahsiao
+08. [`M2_LOG@919b6e0`](https://github.com/M2Station/M2_LOG/commit/919b6e08d73619b5f399f7591b9144edab3938dd) — feat(analysis): in-viewer search, manual highlights, mini... · `2026-06-20` · oahsiao
+09. [`.github@fe5f67b`](https://github.com/M2Station/.github/commit/fe5f67b71e70299cc55ef356d25824f313563a45) — chore: sync latest changes [skip ci] · `2026-06-20` · github-actions[bot]
+10. [`M2_LOG@24862c9`](https://github.com/M2Station/M2_LOG/commit/24862c963309847136e81b0335edde2f73cb95c6) — Prefix Notes lines with '- ' in TXT export and Copy Summary · `2026-06-19` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
