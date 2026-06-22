@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;432.40000000000003;432.40000000000003;0;0"
-        keyTimes="0;0.000;0.097;0.150;0.166;1"
-        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;163.6;163.6;0;0"
+        keyTimes="0;0.000;0.046;0.117;0.140;1"
+        dur="22.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>ux(log-analysis): P1 viewer + filter enhancements</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update new QC SOC</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;432.40000000000003;432.40000000000003;0;0"
-        keyTimes="0;0.166;0.263;0.316;0.332;1"
-        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;323.2;323.2;0;0"
+        keyTimes="0;0.140;0.237;0.308;0.331;1"
+        dur="22.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>perf+ux(log-analysis): P0 first-tier improvements</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add Capsule Test Signing Type Update</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.332;0.431;0.484;0.500;1"
-        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;205.60000000000002;205.60000000000002;0;0"
+        keyTimes="0;0.331;0.390;0.461;0.484;1"
+        dur="22.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: add MIT LICENSE and license headers to s...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): v0.0.2</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.500;0.599;0.652;0.668;1"
-        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;146.8;146.8;0;0"
+        keyTimes="0;0.484;0.524;0.596;0.618;1"
+        dur="22.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(log-analysis): add file-tree 'Type to filt...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>release: v0.0.6</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.668;0.767;0.819;0.836;1"
-        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;205.60000000000002;205.60000000000002;0;0"
+        keyTimes="0;0.618;0.677;0.749;0.772;1"
+        dur="22.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(analysis): persist bookmarks per file acros...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): v0.1.9</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;424;424;0;0"
-        keyTimes="0;0.836;0.931;0.984;1.000;1"
-        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.772;0.906;0.978;1.000;1"
+        dur="22.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(analysis): add line bookmarks to LOG viewer</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>style(credit): use M2 logo mark, recolored by t...</text>
     </g>
 </svg>

@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_LOG@13d7732`](https://github.com/M2Station/M2_LOG/commit/13d773283d17e56bda402361e6d4627c33c8e39e) — ux(log-analysis): P1 viewer + filter enhancements · `2026-06-21` · oahsiao
-02. [`M2_LOG@741ac25`](https://github.com/M2Station/M2_LOG/commit/741ac25f6fa8974ad675c7dc8de714bc388c4126) — perf+ux(log-analysis): P0 first-tier improvements · `2026-06-21` · oahsiao
-03. [`M2_LOG@39d444d`](https://github.com/M2Station/M2_LOG/commit/39d444d39913a40098c37bf9a19cd4fb718010b1) — chore: add MIT LICENSE and license headers to source files · `2026-06-21` · oahsiao
-04. [`M2_LOG@95aad08`](https://github.com/M2Station/M2_LOG/commit/95aad084bd9f2a965039259088d2c6d156687eb1) — feat(log-analysis): add file-tree 'Type to filter' + VS C... · `2026-06-21` · oahsiao
-05. [`M2_LOG@f5547ee`](https://github.com/M2Station/M2_LOG/commit/f5547eed1db33e342af664d53fd73b7ad0c962a4) — fix(analysis): persist bookmarks per file across switches · `2026-06-20` · oahsiao
-06. [`M2_LOG@f2a807e`](https://github.com/M2Station/M2_LOG/commit/f2a807eeb441b5d55e9c118c6e6fab110b1d2519) — feat(analysis): add line bookmarks to LOG viewer · `2026-06-20` · oahsiao
-07. [`M2_LOG@d3cfcc2`](https://github.com/M2Station/M2_LOG/commit/d3cfcc2b2241106ae9986cddb89bf6467b862df2) — fix(analysis): match highlight rules on raw text; add SAM... · `2026-06-20` · oahsiao
-08. [`M2_LOG@919b6e0`](https://github.com/M2Station/M2_LOG/commit/919b6e08d73619b5f399f7591b9144edab3938dd) — feat(analysis): in-viewer search, manual highlights, mini... · `2026-06-20` · oahsiao
-09. [`.github@fe5f67b`](https://github.com/M2Station/.github/commit/fe5f67b71e70299cc55ef356d25824f313563a45) — chore: sync latest changes [skip ci] · `2026-06-20` · github-actions[bot]
-10. [`M2_LOG@24862c9`](https://github.com/M2Station/M2_LOG/commit/24862c963309847136e81b0335edde2f73cb95c6) — Prefix Notes lines with '- ' in TXT export and Copy Summary · `2026-06-19` · oahsiao
+01. [`M2_WIKI@4b90cd4`](https://github.com/M2Station/M2_WIKI/commit/4b90cd4c2fda0fe72ecd2bb704c0ddb4013ec766) — Update new QC SOC · `2026-06-22` · Andy Sung
+02. [`M2_WIKI@9776402`](https://github.com/M2Station/M2_WIKI/commit/977640212df4b780569fef467e7dc43993e9240d) — Add Capsule Test Signing Type Update · `2026-06-22` · Sam6Su
+03. [`M2_LOG@e34f77d`](https://github.com/M2Station/M2_LOG/commit/e34f77d350a8399e47612c6147fea9ec61ff629e) — chore(release): v0.0.2 · `2026-06-21` · oahsiao
+04. [`M2_SCOUT@edd2227`](https://github.com/M2Station/M2_SCOUT/commit/edd22277889b4058064a130a227d5df0f5b78549) — release: v0.0.6 · `2026-06-21` · oahsiao
+05. [`M2_GIT_DIFF@0036c47`](https://github.com/M2Station/M2_GIT_DIFF/commit/0036c470a2ff5d382e3173b0fdb83bafd56be936) — chore(release): v0.1.9 · `2026-06-21` · oahsiao
+06. [`M2_GIT_DIFF@01a7d7a`](https://github.com/M2Station/M2_GIT_DIFF/commit/01a7d7abf0eae182ba4414d425cde0d9ea65a46f) — style(credit): use M2 logo mark, recolored by theme accent · `2026-06-21` · oahsiao
+07. [`M2_GIT_DIFF@881d27b`](https://github.com/M2Station/M2_GIT_DIFF/commit/881d27b7d21a5378daa486b475a2d0064155bbf9) — style(credit): match "Powered by OA Hsiao" badge to M2_SCOUT · `2026-06-21` · oahsiao
+08. [`M2_GIT_DIFF@0ee3ce6`](https://github.com/M2Station/M2_GIT_DIFF/commit/0ee3ce62ce02ff174ab0600843340f0a81e2f184) — fix(themes): align Army / Army (Dark) colors with M2_LOG · `2026-06-21` · oahsiao
+09. [`M2_GIT_DIFF@3c24342`](https://github.com/M2Station/M2_GIT_DIFF/commit/3c24342376b50f5fd72ce8bce45a1dc0f6b41101) — feat(themes): replace Matrix/Solarized with Army light + ... · `2026-06-21` · oahsiao
+10. [`M2_SCOUT@de86fe7`](https://github.com/M2Station/M2_SCOUT/commit/de86fe7654f0eba51fa6f5a8e8f66e7cadc6d9c5) — refactor(logo): rebuild M2 mark in refined brand green fr... · `2026-06-21` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
