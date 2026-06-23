@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@4b90cd4`](https://github.com/M2Station/M2_WIKI/commit/4b90cd4c2fda0fe72ecd2bb704c0ddb4013ec766) — Update new QC SOC · `2026-06-22` · Andy Sung
-02. [`M2_WIKI@9776402`](https://github.com/M2Station/M2_WIKI/commit/977640212df4b780569fef467e7dc43993e9240d) — Add Capsule Test Signing Type Update · `2026-06-22` · Sam6Su
-03. [`M2_LOG@e34f77d`](https://github.com/M2Station/M2_LOG/commit/e34f77d350a8399e47612c6147fea9ec61ff629e) — chore(release): v0.0.2 · `2026-06-21` · oahsiao
-04. [`M2_SCOUT@edd2227`](https://github.com/M2Station/M2_SCOUT/commit/edd22277889b4058064a130a227d5df0f5b78549) — release: v0.0.6 · `2026-06-21` · oahsiao
-05. [`M2_GIT_DIFF@0036c47`](https://github.com/M2Station/M2_GIT_DIFF/commit/0036c470a2ff5d382e3173b0fdb83bafd56be936) — chore(release): v0.1.9 · `2026-06-21` · oahsiao
-06. [`M2_GIT_DIFF@01a7d7a`](https://github.com/M2Station/M2_GIT_DIFF/commit/01a7d7abf0eae182ba4414d425cde0d9ea65a46f) — style(credit): use M2 logo mark, recolored by theme accent · `2026-06-21` · oahsiao
-07. [`M2_GIT_DIFF@881d27b`](https://github.com/M2Station/M2_GIT_DIFF/commit/881d27b7d21a5378daa486b475a2d0064155bbf9) — style(credit): match "Powered by OA Hsiao" badge to M2_SCOUT · `2026-06-21` · oahsiao
-08. [`M2_GIT_DIFF@0ee3ce6`](https://github.com/M2Station/M2_GIT_DIFF/commit/0ee3ce62ce02ff174ab0600843340f0a81e2f184) — fix(themes): align Army / Army (Dark) colors with M2_LOG · `2026-06-21` · oahsiao
-09. [`M2_GIT_DIFF@3c24342`](https://github.com/M2Station/M2_GIT_DIFF/commit/3c24342376b50f5fd72ce8bce45a1dc0f6b41101) — feat(themes): replace Matrix/Solarized with Army light + ... · `2026-06-21` · oahsiao
-10. [`M2_SCOUT@de86fe7`](https://github.com/M2Station/M2_SCOUT/commit/de86fe7654f0eba51fa6f5a8e8f66e7cadc6d9c5) — refactor(logo): rebuild M2 mark in refined brand green fr... · `2026-06-21` · oahsiao
+01. [`M2_WIKI@2ebb2b0`](https://github.com/M2Station/M2_WIKI/commit/2ebb2b0308c52d74f7cfd19e72dad07078cc7cd0) — add the prerequisite for KDCOM · `2026-06-23` · Den Teng
+02. [`M2_LOG@5cf08a5`](https://github.com/M2Station/M2_LOG/commit/5cf08a53d5faa3716ae4fc87a7658e8fda90f580) — feat(ai): attach LOG to empty chat box without auto-submi... · `2026-06-23` · OA Hsiao
+03. [`M2_LOG@41cfa41`](https://github.com/M2Station/M2_LOG/commit/41cfa4151990d4a9ba2cd65d48fbd4cbaaed9890) — fix(ai): reliable chat launch, log-named attachment, erro... · `2026-06-23` · OA Hsiao
+04. [`M2_LOG@6bf49b3`](https://github.com/M2Station/M2_LOG/commit/6bf49b3b67e023cd0e88d97b0913d02ec49e5fd6) — fix(ai): reuse window + ASCII prompt so chat opens and LO... · `2026-06-23` · OA Hsiao
+05. [`M2_LOG@4b80912`](https://github.com/M2Station/M2_LOG/commit/4b80912294536a0a689f709c68c4dd40675fd304) — fix(ai): open VS Code chat session with a kickoff prompt · `2026-06-23` · OA Hsiao
+06. [`M2_LOG@3cf1eb7`](https://github.com/M2Station/M2_LOG/commit/3cf1eb75abe702cf14e9908756d605913179813c) — perf(ana): smoother large-log viewing via off-screen skip... · `2026-06-23` · OA Hsiao
+07. [`M2_LOG@f114565`](https://github.com/M2Station/M2_LOG/commit/f114565cddbb490ecaa66b49901385bf194edd5e) — Rename highlight rulesets: UEFI->INTEL_UEFI, SAM->RUST_SAM · `2026-06-23` · OA Hsiao
+08. [`.github@670aa9b`](https://github.com/M2Station/.github/commit/670aa9b2ffd0d8f44525e1c61345f2f4648162db) — chore: sync latest changes [skip ci] · `2026-06-22` · github-actions[bot]
+09. [`M2_LOG@97442a4`](https://github.com/M2Station/M2_LOG/commit/97442a4631c158b3b2d96293bec036135db4b7ed) — feat(analysis): SAM highlight rules + clearer minimap pos... · `2026-06-22` · OA Hsiao
+10. [`M2_LOG@b05653c`](https://github.com/M2Station/M2_LOG/commit/b05653cd8833f6e24af37a30f78632ecba439350) — feat(analysis): tabbed multi-file viewer in LOG analysis · `2026-06-22` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

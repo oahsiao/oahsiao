@@ -1,95 +1,95 @@
 {
-  "updated": "2026-06-22 15:29 TWN",
+  "updated": "2026-06-23 14:11 TWN",
   "latestChanges": [
     {
-      "date": 1782109332000,
-      "committedDate": "2026-06-22T06:22:12Z",
-      "header": "Update new QC SOC",
+      "date": 1782191476000,
+      "committedDate": "2026-06-23T05:11:16Z",
+      "header": "add the prerequisite for KDCOM",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/4b90cd4c2fda0fe72ecd2bb704c0ddb4013ec766",
-      "sha": "4b90cd4",
-      "login": "Andy Sung"
+      "url": "https://github.com/M2Station/M2_WIKI/commit/2ebb2b0308c52d74f7cfd19e72dad07078cc7cd0",
+      "sha": "2ebb2b0",
+      "login": "Den Teng"
     },
     {
-      "date": 1782096706000,
-      "committedDate": "2026-06-22T02:51:46Z",
-      "header": "Add Capsule Test Signing Type Update",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/977640212df4b780569fef467e7dc43993e9240d",
-      "sha": "9776402",
-      "login": "Sam6Su"
-    },
-    {
-      "date": 1782044002000,
-      "committedDate": "2026-06-21T12:13:22Z",
-      "header": "chore(release): v0.0.2",
+      "date": 1782188272000,
+      "committedDate": "2026-06-23T04:17:52Z",
+      "header": "feat(ai): attach LOG to empty chat box without auto-submitting",
       "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/e34f77d350a8399e47612c6147fea9ec61ff629e",
-      "sha": "e34f77d",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_LOG/commit/5cf08a53d5faa3716ae4fc87a7658e8fda90f580",
+      "sha": "5cf08a5",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1782043031000,
-      "committedDate": "2026-06-21T11:57:11Z",
-      "header": "release: v0.0.6",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/edd22277889b4058064a130a227d5df0f5b78549",
-      "sha": "edd2227",
-      "login": "oahsiao"
+      "date": 1782187720000,
+      "committedDate": "2026-06-23T04:08:40Z",
+      "header": "fix(ai): reliable chat launch, log-named attachment, error surfacing",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/41cfa4151990d4a9ba2cd65d48fbd4cbaaed9890",
+      "sha": "41cfa41",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1782042971000,
-      "committedDate": "2026-06-21T11:56:11Z",
-      "header": "chore(release): v0.1.9",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/0036c470a2ff5d382e3173b0fdb83bafd56be936",
-      "sha": "0036c47",
-      "login": "oahsiao"
+      "date": 1782187207000,
+      "committedDate": "2026-06-23T04:00:07Z",
+      "header": "fix(ai): reuse window + ASCII prompt so chat opens and LOG attaches",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/6bf49b3b67e023cd0e88d97b0913d02ec49e5fd6",
+      "sha": "6bf49b3",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1782041620000,
-      "committedDate": "2026-06-21T11:33:40Z",
-      "header": "style(credit): use M2 logo mark, recolored by theme accent",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/01a7d7abf0eae182ba4414d425cde0d9ea65a46f",
-      "sha": "01a7d7a",
-      "login": "oahsiao"
+      "date": 1782186679000,
+      "committedDate": "2026-06-23T03:51:19Z",
+      "header": "fix(ai): open VS Code chat session with a kickoff prompt",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/4b80912294536a0a689f709c68c4dd40675fd304",
+      "sha": "4b80912",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1782040929000,
-      "committedDate": "2026-06-21T11:22:09Z",
-      "header": "style(credit): match \"Powered by OA Hsiao\" badge to M2_SCOUT",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/881d27b7d21a5378daa486b475a2d0064155bbf9",
-      "sha": "881d27b",
-      "login": "oahsiao"
+      "date": 1782181099000,
+      "committedDate": "2026-06-23T02:18:19Z",
+      "header": "perf(ana): smoother large-log viewing via off-screen skip + chunked render",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/3cf1eb75abe702cf14e9908756d605913179813c",
+      "sha": "3cf1eb7",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1782040434000,
-      "committedDate": "2026-06-21T11:13:54Z",
-      "header": "fix(themes): align Army / Army (Dark) colors with M2_LOG",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/0ee3ce62ce02ff174ab0600843340f0a81e2f184",
-      "sha": "0ee3ce6",
-      "login": "oahsiao"
+      "date": 1782180446000,
+      "committedDate": "2026-06-23T02:07:26Z",
+      "header": "Rename highlight rulesets: UEFI->INTEL_UEFI, SAM->RUST_SAM",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/f114565cddbb490ecaa66b49901385bf194edd5e",
+      "sha": "f114565",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1782040053000,
-      "committedDate": "2026-06-21T11:07:33Z",
-      "header": "feat(themes): replace Matrix/Solarized with Army light + Army (Dark)",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/3c24342376b50f5fd72ce8bce45a1dc0f6b41101",
-      "sha": "3c24342",
-      "login": "oahsiao"
+      "date": 1782117410000,
+      "committedDate": "2026-06-22T08:36:50Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/670aa9b2ffd0d8f44525e1c61345f2f4648162db",
+      "sha": "670aa9b",
+      "login": "github-actions[bot]"
     },
     {
-      "date": 1782039918000,
-      "committedDate": "2026-06-21T11:05:18Z",
-      "header": "refactor(logo): rebuild M2 mark in refined brand green from a single source",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/de86fe7654f0eba51fa6f5a8e8f66e7cadc6d9c5",
-      "sha": "de86fe7",
-      "login": "oahsiao"
+      "date": 1782116537000,
+      "committedDate": "2026-06-22T08:22:17Z",
+      "header": "feat(analysis): SAM highlight rules + clearer minimap position marker",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/97442a4631c158b3b2d96293bec036135db4b7ed",
+      "sha": "97442a4",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1782114867000,
+      "committedDate": "2026-06-22T07:54:27Z",
+      "header": "feat(analysis): tabbed multi-file viewer in LOG analysis",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/b05653cd8833f6e24af37a30f78632ecba439350",
+      "sha": "b05653c",
+      "login": "OA Hsiao"
     }
   ]
 }
