@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@2ebb2b0`](https://github.com/M2Station/M2_WIKI/commit/2ebb2b0308c52d74f7cfd19e72dad07078cc7cd0) — add the prerequisite for KDCOM · `2026-06-23` · Den Teng
-02. [`M2_LOG@5cf08a5`](https://github.com/M2Station/M2_LOG/commit/5cf08a53d5faa3716ae4fc87a7658e8fda90f580) — feat(ai): attach LOG to empty chat box without auto-submi... · `2026-06-23` · OA Hsiao
-03. [`M2_LOG@41cfa41`](https://github.com/M2Station/M2_LOG/commit/41cfa4151990d4a9ba2cd65d48fbd4cbaaed9890) — fix(ai): reliable chat launch, log-named attachment, erro... · `2026-06-23` · OA Hsiao
-04. [`M2_LOG@6bf49b3`](https://github.com/M2Station/M2_LOG/commit/6bf49b3b67e023cd0e88d97b0913d02ec49e5fd6) — fix(ai): reuse window + ASCII prompt so chat opens and LO... · `2026-06-23` · OA Hsiao
-05. [`M2_LOG@4b80912`](https://github.com/M2Station/M2_LOG/commit/4b80912294536a0a689f709c68c4dd40675fd304) — fix(ai): open VS Code chat session with a kickoff prompt · `2026-06-23` · OA Hsiao
-06. [`M2_LOG@3cf1eb7`](https://github.com/M2Station/M2_LOG/commit/3cf1eb75abe702cf14e9908756d605913179813c) — perf(ana): smoother large-log viewing via off-screen skip... · `2026-06-23` · OA Hsiao
-07. [`M2_LOG@f114565`](https://github.com/M2Station/M2_LOG/commit/f114565cddbb490ecaa66b49901385bf194edd5e) — Rename highlight rulesets: UEFI->INTEL_UEFI, SAM->RUST_SAM · `2026-06-23` · OA Hsiao
-08. [`.github@670aa9b`](https://github.com/M2Station/.github/commit/670aa9b2ffd0d8f44525e1c61345f2f4648162db) — chore: sync latest changes [skip ci] · `2026-06-22` · github-actions[bot]
-09. [`M2_LOG@97442a4`](https://github.com/M2Station/M2_LOG/commit/97442a4631c158b3b2d96293bec036135db4b7ed) — feat(analysis): SAM highlight rules + clearer minimap pos... · `2026-06-22` · OA Hsiao
-10. [`M2_LOG@b05653c`](https://github.com/M2Station/M2_LOG/commit/b05653cd8833f6e24af37a30f78632ecba439350) — feat(analysis): tabbed multi-file viewer in LOG analysis · `2026-06-22` · OA Hsiao
+01. [`M2_SCOUT@f657de5`](https://github.com/M2Station/M2_SCOUT/commit/f657de5e65912201c49bcf13d6482364987f3f70) — Speed up OR search, fd filename search, and preview · `2026-06-24` · OA Hsiao
+02. [`M2_LOG@4769b16`](https://github.com/M2Station/M2_LOG/commit/4769b165499a4daf2b2239d1ac8cc247ab6cbe17) — chore: release v0.0.4 · `2026-06-24` · OA Hsiao
+03. [`M2_LOG@dce14cc`](https://github.com/M2Station/M2_LOG/commit/dce14cc10e28590dd8ecebbc807105c7e30da5d5) — feat(analysis): breathing-light fold cue + edge-jump buttons · `2026-06-24` · OA Hsiao
+04. [`M2_SCOUT@fe0984f`](https://github.com/M2Station/M2_SCOUT/commit/fe0984ff8ff82346b3de9a4671de0f82885ef27f) — Add Electron auto-repair and default Case Sensitive to off · `2026-06-24` · OA Hsiao
+05. [`M2_NPU@17106c9`](https://github.com/M2Station/M2_NPU/commit/17106c9cb3e2ded2999d8529b62f7b4e47dffb7d) — Initial commit · `2026-06-24` · oahsiao
+06. [`M2_LOG@de4b232`](https://github.com/M2Station/M2_LOG/commit/de4b232873b819d104a6efbe4f57e8bc8c337e41) — feat(analysis): flash the fold bar when a run is collapsed · `2026-06-23` · OA Hsiao
+07. [`M2_LOG@d968723`](https://github.com/M2Station/M2_LOG/commit/d968723ddffb873703e5ad597540175e12496aec) — feat(analysis): add fold jump arrows and sync fold with l... · `2026-06-23` · OA Hsiao
+08. [`M2_LOG@9f4e621`](https://github.com/M2Station/M2_LOG/commit/9f4e62119a20ddf897f6623d634f7a9bb2c6131c) — feat(analysis): fold non-highlighted lines with row-based... · `2026-06-23` · OA Hsiao
+09. [`M2_LOG@de7beb8`](https://github.com/M2Station/M2_LOG/commit/de7beb8a841f8a255708b35ca73d12476999b31b) — fix(launcher): escape parens in winget error echo to prev... · `2026-06-23` · OA Hsiao
+10. [`M2_LOG@ce319d8`](https://github.com/M2Station/M2_LOG/commit/ce319d8436425f665f69a177be82ac1929c4ef2b) — perf(analysis): virtualize the LOG viewer (render only vi... · `2026-06-23` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;272.8;272.8;0;0"
-        keyTimes="0;0.000;0.061;0.116;0.133;1"
-        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.000;0.112;0.172;0.191;1"
+        dur="26.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>add the prerequisite for KDCOM</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Speed up OR search, fd filename search, and pre...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.133;0.235;0.289;0.306;1"
-        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;197.20000000000002;197.20000000000002;0;0"
+        keyTimes="0;0.191;0.238;0.298;0.317;1"
+        dur="26.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(ai): attach LOG to empty chat box without ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: release v0.0.4</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.306;0.408;0.463;0.480;1"
-        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.317;0.429;0.489;0.508;1"
+        dur="26.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(ai): reliable chat launch, log-named attach...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(analysis): breathing-light fold cue + edge...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.480;0.582;0.636;0.653;1"
-        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.508;0.620;0.680;0.699;1"
+        dur="26.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(ai): reuse window + ASCII prompt so chat op...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add Electron auto-repair and default Case Sensi...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.653;0.755;0.810;0.827;1"
-        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;138.4;138.4;0;0"
+        keyTimes="0;0.699;0.730;0.790;0.809;1"
+        dur="26.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(ai): open VS Code chat session with a kicko...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Initial commit</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.827;0.929;0.983;1.000;1"
-        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.809;0.921;0.981;1.000;1"
+        dur="26.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>perf(ana): smoother large-log viewing via off-s...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(analysis): flash the fold bar when a run i...</text>
     </g>
 </svg>
