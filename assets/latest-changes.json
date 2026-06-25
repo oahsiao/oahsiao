@@ -1,94 +1,94 @@
 {
-  "updated": "2026-06-24 14:10 TWN",
+  "updated": "2026-06-25 14:12 TWN",
   "latestChanges": [
     {
-      "date": 1782279207000,
-      "committedDate": "2026-06-24T05:33:27Z",
-      "header": "Speed up OR search, fd filename search, and preview",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/f657de5e65912201c49bcf13d6482364987f3f70",
-      "sha": "f657de5",
-      "login": "OA Hsiao"
+      "date": 1782356466000,
+      "committedDate": "2026-06-25T03:01:06Z",
+      "header": "Signing Type",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/2c82ee75471cce673f4918e768bad59aa4dbe81d",
+      "sha": "2c82ee7",
+      "login": "asuka-wu"
     },
     {
-      "date": 1782269369000,
-      "committedDate": "2026-06-24T02:49:29Z",
-      "header": "chore: release v0.0.4",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/4769b165499a4daf2b2239d1ac8cc247ab6cbe17",
-      "sha": "4769b16",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1782268496000,
-      "committedDate": "2026-06-24T02:34:56Z",
-      "header": "feat(analysis): breathing-light fold cue + edge-jump buttons",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/dce14cc10e28590dd8ecebbc807105c7e30da5d5",
-      "sha": "dce14cc",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1782268487000,
-      "committedDate": "2026-06-24T02:34:47Z",
-      "header": "Add Electron auto-repair and default Case Sensitive to off",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/fe0984ff8ff82346b3de9a4671de0f82885ef27f",
-      "sha": "fe0984f",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1782267168000,
-      "committedDate": "2026-06-24T02:12:48Z",
+      "date": 1782356410000,
+      "committedDate": "2026-06-25T03:00:10Z",
       "header": "Initial commit",
-      "repo": "M2_NPU",
-      "url": "https://github.com/M2Station/M2_NPU/commit/17106c9cb3e2ded2999d8529b62f7b4e47dffb7d",
-      "sha": "17106c9",
+      "repo": "M2_QMS",
+      "url": "https://github.com/M2Station/M2_QMS/commit/a66119b9cb07c4c67d7ce40387eb02267ad10a35",
+      "sha": "a66119b",
       "login": "oahsiao"
     },
     {
-      "date": 1782209202000,
-      "committedDate": "2026-06-23T10:06:42Z",
-      "header": "feat(analysis): flash the fold bar when a run is collapsed",
+      "date": 1782297904000,
+      "committedDate": "2026-06-24T10:45:04Z",
+      "header": "docs: add release guide and link from README",
       "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/de4b232873b819d104a6efbe4f57e8bc8c337e41",
-      "sha": "de4b232",
+      "url": "https://github.com/M2Station/M2_LOG/commit/d21551fd3eaf15528579189e5a956a70f1c502b1",
+      "sha": "d21551f",
       "login": "OA Hsiao"
     },
     {
-      "date": 1782209027000,
-      "committedDate": "2026-06-23T10:03:47Z",
-      "header": "feat(analysis): add fold jump arrows and sync fold with level toggles",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/d968723ddffb873703e5ad597540175e12496aec",
-      "sha": "d968723",
+      "date": 1782297140000,
+      "committedDate": "2026-06-24T10:32:20Z",
+      "header": "fix(release): single multi-arch electron-builder invocation (match M2_LOG)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/f010f41c6622bf0598c4df86f2a484eaeec59b7d",
+      "sha": "f010f41",
       "login": "OA Hsiao"
     },
     {
-      "date": 1782208646000,
-      "committedDate": "2026-06-23T09:57:26Z",
-      "header": "feat(analysis): fold non-highlighted lines with row-based virtualization",
+      "date": 1782296903000,
+      "committedDate": "2026-06-24T10:28:23Z",
+      "header": "chore: release v0.0.7",
       "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/9f4e62119a20ddf897f6623d634f7a9bb2c6131c",
-      "sha": "9f4e621",
+      "url": "https://github.com/M2Station/M2_LOG/commit/511e8cbfcc89d0bdae2f4d9307e65f63435a9426",
+      "sha": "511e8cb",
       "login": "OA Hsiao"
     },
     {
-      "date": 1782207172000,
-      "committedDate": "2026-06-23T09:32:52Z",
-      "header": "fix(launcher): escape parens in winget error echo to prevent cmd parse error",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/de7beb8a841f8a255708b35ca73d12476999b31b",
-      "sha": "de7beb8",
+      "date": 1782296899000,
+      "committedDate": "2026-06-24T10:28:19Z",
+      "header": "release: v0.0.7",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/4d2ec4fb91834ad9cf934efd61f54322e1e5b4ae",
+      "sha": "4d2ec4f",
       "login": "OA Hsiao"
     },
     {
-      "date": 1782207008000,
-      "committedDate": "2026-06-23T09:30:08Z",
-      "header": "perf(analysis): virtualize the LOG viewer (render only visible lines)",
+      "date": 1782296667000,
+      "committedDate": "2026-06-24T10:24:27Z",
+      "header": "fix(ci): release build attempts publish (duplicate --publish never)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/ba7a672419a2804d08a7f29dca3f5c98380f1004",
+      "sha": "ba7a672",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1782296123000,
+      "committedDate": "2026-06-24T10:15:23Z",
+      "header": "Build Windows x64 and arm64 installers with native tools",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/ebc390f603804b6df0461452bf9e231d1147ae33",
+      "sha": "ebc390f",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1782295951000,
+      "committedDate": "2026-06-24T10:12:31Z",
+      "header": "build(win): ship separate x64 and arm64 installers (v0.2.1)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/833255498178bac7cc4982cf5cad38aee1c182fd",
+      "sha": "8332554",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1782295827000,
+      "committedDate": "2026-06-24T10:10:27Z",
+      "header": "chore: release v0.0.5",
       "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/ce319d8436425f665f69a177be82ac1929c4ef2b",
-      "sha": "ce319d8",
+      "url": "https://github.com/M2Station/M2_LOG/commit/7a7d13aacfb722c37e2bdb1f8506b52f57aef86a",
+      "sha": "7a7d13a",
       "login": "OA Hsiao"
     }
   ]

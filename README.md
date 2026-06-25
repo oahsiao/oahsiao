@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_SCOUT@f657de5`](https://github.com/M2Station/M2_SCOUT/commit/f657de5e65912201c49bcf13d6482364987f3f70) — Speed up OR search, fd filename search, and preview · `2026-06-24` · OA Hsiao
-02. [`M2_LOG@4769b16`](https://github.com/M2Station/M2_LOG/commit/4769b165499a4daf2b2239d1ac8cc247ab6cbe17) — chore: release v0.0.4 · `2026-06-24` · OA Hsiao
-03. [`M2_LOG@dce14cc`](https://github.com/M2Station/M2_LOG/commit/dce14cc10e28590dd8ecebbc807105c7e30da5d5) — feat(analysis): breathing-light fold cue + edge-jump buttons · `2026-06-24` · OA Hsiao
-04. [`M2_SCOUT@fe0984f`](https://github.com/M2Station/M2_SCOUT/commit/fe0984ff8ff82346b3de9a4671de0f82885ef27f) — Add Electron auto-repair and default Case Sensitive to off · `2026-06-24` · OA Hsiao
-05. [`M2_NPU@17106c9`](https://github.com/M2Station/M2_NPU/commit/17106c9cb3e2ded2999d8529b62f7b4e47dffb7d) — Initial commit · `2026-06-24` · oahsiao
-06. [`M2_LOG@de4b232`](https://github.com/M2Station/M2_LOG/commit/de4b232873b819d104a6efbe4f57e8bc8c337e41) — feat(analysis): flash the fold bar when a run is collapsed · `2026-06-23` · OA Hsiao
-07. [`M2_LOG@d968723`](https://github.com/M2Station/M2_LOG/commit/d968723ddffb873703e5ad597540175e12496aec) — feat(analysis): add fold jump arrows and sync fold with l... · `2026-06-23` · OA Hsiao
-08. [`M2_LOG@9f4e621`](https://github.com/M2Station/M2_LOG/commit/9f4e62119a20ddf897f6623d634f7a9bb2c6131c) — feat(analysis): fold non-highlighted lines with row-based... · `2026-06-23` · OA Hsiao
-09. [`M2_LOG@de7beb8`](https://github.com/M2Station/M2_LOG/commit/de7beb8a841f8a255708b35ca73d12476999b31b) — fix(launcher): escape parens in winget error echo to prev... · `2026-06-23` · OA Hsiao
-10. [`M2_LOG@ce319d8`](https://github.com/M2Station/M2_LOG/commit/ce319d8436425f665f69a177be82ac1929c4ef2b) — perf(analysis): virtualize the LOG viewer (render only vi... · `2026-06-23` · OA Hsiao
+01. [`M2_WIKI@2c82ee7`](https://github.com/M2Station/M2_WIKI/commit/2c82ee75471cce673f4918e768bad59aa4dbe81d) — Signing Type · `2026-06-25` · asuka-wu
+02. [`M2_QMS@a66119b`](https://github.com/M2Station/M2_QMS/commit/a66119b9cb07c4c67d7ce40387eb02267ad10a35) — Initial commit · `2026-06-25` · oahsiao
+03. [`M2_LOG@d21551f`](https://github.com/M2Station/M2_LOG/commit/d21551fd3eaf15528579189e5a956a70f1c502b1) — docs: add release guide and link from README · `2026-06-24` · OA Hsiao
+04. [`M2_GIT_DIFF@f010f41`](https://github.com/M2Station/M2_GIT_DIFF/commit/f010f41c6622bf0598c4df86f2a484eaeec59b7d) — fix(release): single multi-arch electron-builder invocati... · `2026-06-24` · OA Hsiao
+05. [`M2_LOG@511e8cb`](https://github.com/M2Station/M2_LOG/commit/511e8cbfcc89d0bdae2f4d9307e65f63435a9426) — chore: release v0.0.7 · `2026-06-24` · OA Hsiao
+06. [`M2_SCOUT@4d2ec4f`](https://github.com/M2Station/M2_SCOUT/commit/4d2ec4fb91834ad9cf934efd61f54322e1e5b4ae) — release: v0.0.7 · `2026-06-24` · OA Hsiao
+07. [`M2_GIT_DIFF@ba7a672`](https://github.com/M2Station/M2_GIT_DIFF/commit/ba7a672419a2804d08a7f29dca3f5c98380f1004) — fix(ci): release build attempts publish (duplicate --publ... · `2026-06-24` · OA Hsiao
+08. [`M2_SCOUT@ebc390f`](https://github.com/M2Station/M2_SCOUT/commit/ebc390f603804b6df0461452bf9e231d1147ae33) — Build Windows x64 and arm64 installers with native tools · `2026-06-24` · OA Hsiao
+09. [`M2_GIT_DIFF@8332554`](https://github.com/M2Station/M2_GIT_DIFF/commit/833255498178bac7cc4982cf5cad38aee1c182fd) — build(win): ship separate x64 and arm64 installers (v0.2.1) · `2026-06-24` · OA Hsiao
+10. [`M2_LOG@7a7d13a`](https://github.com/M2Station/M2_LOG/commit/7a7d13aacfb722c37e2bdb1f8506b52f57aef86a) — chore: release v0.0.5 · `2026-06-24` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
