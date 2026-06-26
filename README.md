@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@2c82ee7`](https://github.com/M2Station/M2_WIKI/commit/2c82ee75471cce673f4918e768bad59aa4dbe81d) — Signing Type · `2026-06-25` · asuka-wu
-02. [`M2_QMS@a66119b`](https://github.com/M2Station/M2_QMS/commit/a66119b9cb07c4c67d7ce40387eb02267ad10a35) — Initial commit · `2026-06-25` · oahsiao
-03. [`M2_LOG@d21551f`](https://github.com/M2Station/M2_LOG/commit/d21551fd3eaf15528579189e5a956a70f1c502b1) — docs: add release guide and link from README · `2026-06-24` · OA Hsiao
-04. [`M2_GIT_DIFF@f010f41`](https://github.com/M2Station/M2_GIT_DIFF/commit/f010f41c6622bf0598c4df86f2a484eaeec59b7d) — fix(release): single multi-arch electron-builder invocati... · `2026-06-24` · OA Hsiao
-05. [`M2_LOG@511e8cb`](https://github.com/M2Station/M2_LOG/commit/511e8cbfcc89d0bdae2f4d9307e65f63435a9426) — chore: release v0.0.7 · `2026-06-24` · OA Hsiao
-06. [`M2_SCOUT@4d2ec4f`](https://github.com/M2Station/M2_SCOUT/commit/4d2ec4fb91834ad9cf934efd61f54322e1e5b4ae) — release: v0.0.7 · `2026-06-24` · OA Hsiao
-07. [`M2_GIT_DIFF@ba7a672`](https://github.com/M2Station/M2_GIT_DIFF/commit/ba7a672419a2804d08a7f29dca3f5c98380f1004) — fix(ci): release build attempts publish (duplicate --publ... · `2026-06-24` · OA Hsiao
-08. [`M2_SCOUT@ebc390f`](https://github.com/M2Station/M2_SCOUT/commit/ebc390f603804b6df0461452bf9e231d1147ae33) — Build Windows x64 and arm64 installers with native tools · `2026-06-24` · OA Hsiao
-09. [`M2_GIT_DIFF@8332554`](https://github.com/M2Station/M2_GIT_DIFF/commit/833255498178bac7cc4982cf5cad38aee1c182fd) — build(win): ship separate x64 and arm64 installers (v0.2.1) · `2026-06-24` · OA Hsiao
-10. [`M2_LOG@7a7d13a`](https://github.com/M2Station/M2_LOG/commit/7a7d13aacfb722c37e2bdb1f8506b52f57aef86a) — chore: release v0.0.5 · `2026-06-24` · OA Hsiao
+01. [`M2_QMS@857a511`](https://github.com/M2Station/M2_QMS/commit/857a511940296138423ada14436c905d51b305b9) — Add SOW Compliance & Security Review badge modal · `2026-06-25` · oahsiao
+02. [`M2_QMS@899fe0d`](https://github.com/M2Station/M2_QMS/commit/899fe0df502d39aa16aee7f2cb9d1d66d159011c) — Add account expiry, remember-me cookies; simplify roles t... · `2026-06-25` · oahsiao
+03. [`M2_QMS@88eb8a4`](https://github.com/M2Station/M2_QMS/commit/88eb8a45974736c30ca287fda8bef9fbf0e73220) — Short credentials (min 2); fix Army themes; 200 MB upload... · `2026-06-25` · OA Hsiao
+04. [`M2_QMS@7a7f03b`](https://github.com/M2Station/M2_QMS/commit/7a7f03bf98a5a888a6ce1dde582d7e3b72089050) — Preserve deep link through login; default password 'admin... · `2026-06-25` · OA Hsiao
+05. [`M2_QMS@7b9c23e`](https://github.com/M2Station/M2_QMS/commit/7b9c23ef1342ae38c1e27d05a2ed82a70fd6366d) — Add M2 QMS: queue board, tasks, file uploads, comments, auth · `2026-06-25` · OA Hsiao
+06. [`M2_LOG@685fa5f`](https://github.com/M2Station/M2_LOG/commit/685fa5f9609f6c4e77a451bcdfb3343a8bcb45f1) — perf: async main-process file I/O and debounced log counter · `2026-06-25` · oahsiao
+07. [`.github@7ddaeb0`](https://github.com/M2Station/.github/commit/7ddaeb00c66218035370412972594f5ec7d2ad24) — chore: sync latest changes [skip ci] · `2026-06-25` · github-actions[bot]
+08. [`M2_WIKI@88afd49`](https://github.com/M2Station/M2_WIKI/commit/88afd49c8914b6bf36beba8cde65e33118e089d1) — Update How to: fuse 8480 device · `2026-06-25` · Andy Sung
+09. [`M2_LOG@cfb0612`](https://github.com/M2Station/M2_LOG/commit/cfb0612dddc604ff5244d608755f25a95be7a3c0) — chore: release v0.0.8 · `2026-06-25` · Simon0719
+10. [`M2_LOG@112c3d3`](https://github.com/M2Station/M2_LOG/commit/112c3d3ddcc0d3034ba33205b511a9b223a34d91) — 1. Add analyze label on rust SAM (Power sequence, Keyboar... · `2026-06-25` · Simon0719
 <!-- LATEST-CHANGES:END -->
 
 ---

@@ -1,7 +1,7 @@
 <svg width="480" height="428" viewBox="0 0 480 428" xmlns="http://www.w3.org/2000/svg">
   <rect width="480" height="428" fill="#060a0f" rx="8"/>
   <text x="12" y="14" font-family="DM Mono,monospace" font-size="9" fill="#007a6a" letter-spacing="3">// M2STATION · MEMBER LEADERBOARD</text>
-  <text x="468" y="14" text-anchor="end" font-family="DM Mono,monospace" font-size="9" fill="#004a3e">97 DEVS · 4865 COMMITS</text>
+  <text x="468" y="14" text-anchor="end" font-family="DM Mono,monospace" font-size="9" fill="#004a3e">97 DEVS · 4877 COMMITS</text>
   <line x1="8" y1="22" x2="472" y2="22" stroke="#00f5d4" stroke-width="0.3" opacity="0.3"/>
   <g transform="translate(0,24)">
     <text x="14" y="38" font-family="Orbitron,monospace" font-size="13" font-weight="700" fill="#ffd700">1</text>
@@ -14,17 +14,17 @@
     <text x="14" y="76" font-family="Orbitron,monospace" font-size="13" font-weight="700" fill="#c0c0c0">2</text>
     <text x="32" y="76" font-family="DM Mono,monospace" font-size="12" fill="#00c9a7">OA Hsiao</text>
     <rect x="150" y="64" width="280" height="16" fill="#00f5d4" opacity="0.07" rx="2"/>
-    <rect x="150" y="64" width="265" height="16" fill="#00f5d4" opacity="0.6" rx="2">
-      <animate attributeName="width" from="0" to="265" dur="1.2s" begin="0.08s" fill="freeze"/>
+    <rect x="150" y="64" width="266" height="16" fill="#00f5d4" opacity="0.6" rx="2">
+      <animate attributeName="width" from="0" to="266" dur="1.2s" begin="0.08s" fill="freeze"/>
     </rect>
-    <text x="419" y="76" font-family="DM Mono,monospace" font-size="11" fill="#00f5d4">1098</text>
+    <text x="420" y="76" font-family="DM Mono,monospace" font-size="11" fill="#00f5d4">1101</text>
     <text x="14" y="114" font-family="Orbitron,monospace" font-size="13" font-weight="700" fill="#cd7f32">3</text>
     <text x="32" y="114" font-family="DM Mono,monospace" font-size="12" fill="#00c9a7">oahsiao</text>
     <rect x="150" y="102" width="280" height="16" fill="#00f5d4" opacity="0.07" rx="2"/>
-    <rect x="150" y="102" width="189" height="16" fill="#00f5d4" opacity="0.6" rx="2">
-      <animate attributeName="width" from="0" to="189" dur="1.2s" begin="0.16s" fill="freeze"/>
+    <rect x="150" y="102" width="190" height="16" fill="#00f5d4" opacity="0.6" rx="2">
+      <animate attributeName="width" from="0" to="190" dur="1.2s" begin="0.16s" fill="freeze"/>
     </rect>
-    <text x="343" y="114" font-family="DM Mono,monospace" font-size="11" fill="#00f5d4">783</text>
+    <text x="344" y="114" font-family="DM Mono,monospace" font-size="11" fill="#00f5d4">788</text>
     <text x="14" y="152" font-family="Orbitron,monospace" font-size="13" font-weight="700" fill="#007a6a">4</text>
     <text x="32" y="152" font-family="DM Mono,monospace" font-size="12" fill="#00c9a7">Your Name</text>
     <rect x="150" y="140" width="280" height="16" fill="#00f5d4" opacity="0.07" rx="2"/>
@@ -49,24 +49,24 @@
     <text x="14" y="266" font-family="Orbitron,monospace" font-size="13" font-weight="700" fill="#007a6a">7</text>
     <text x="32" y="266" font-family="DM Mono,monospace" font-size="12" fill="#00c9a7">Andy Sung</text>
     <rect x="150" y="254" width="280" height="16" fill="#00f5d4" opacity="0.07" rx="2"/>
-    <rect x="150" y="254" width="26" height="16" fill="#00f5d4" opacity="0.6" rx="2">
-      <animate attributeName="width" from="0" to="26" dur="1.2s" begin="0.48s" fill="freeze"/>
+    <rect x="150" y="254" width="27" height="16" fill="#00f5d4" opacity="0.6" rx="2">
+      <animate attributeName="width" from="0" to="27" dur="1.2s" begin="0.48s" fill="freeze"/>
     </rect>
-    <text x="180" y="266" font-family="DM Mono,monospace" font-size="11" fill="#00f5d4">109</text>
+    <text x="181" y="266" font-family="DM Mono,monospace" font-size="11" fill="#00f5d4">110</text>
     <text x="14" y="304" font-family="Orbitron,monospace" font-size="13" font-weight="700" fill="#007a6a">8</text>
-    <text x="32" y="304" font-family="DM Mono,monospace" font-size="12" fill="#00c9a7">Sam6Su</text>
+    <text x="32" y="304" font-family="DM Mono,monospace" font-size="12" fill="#00c9a7">pega-samsu</text>
     <rect x="150" y="292" width="280" height="16" fill="#00f5d4" opacity="0.07" rx="2"/>
     <rect x="150" y="292" width="20" height="16" fill="#00f5d4" opacity="0.6" rx="2">
       <animate attributeName="width" from="0" to="20" dur="1.2s" begin="0.56s" fill="freeze"/>
     </rect>
     <text x="174" y="304" font-family="DM Mono,monospace" font-size="11" fill="#00f5d4">84</text>
     <text x="14" y="342" font-family="Orbitron,monospace" font-size="13" font-weight="700" fill="#007a6a">9</text>
-    <text x="32" y="342" font-family="DM Mono,monospace" font-size="12" fill="#00c9a7">pega-samsu</text>
+    <text x="32" y="342" font-family="DM Mono,monospace" font-size="12" fill="#00c9a7">Sam6Su</text>
     <rect x="150" y="330" width="280" height="16" fill="#00f5d4" opacity="0.07" rx="2"/>
     <rect x="150" y="330" width="20" height="16" fill="#00f5d4" opacity="0.6" rx="2">
       <animate attributeName="width" from="0" to="20" dur="1.2s" begin="0.64s" fill="freeze"/>
     </rect>
-    <text x="174" y="342" font-family="DM Mono,monospace" font-size="11" fill="#00f5d4">84</text>
+    <text x="174" y="342" font-family="DM Mono,monospace" font-size="11" fill="#00f5d4">83</text>
     <text x="14" y="380" font-family="Orbitron,monospace" font-size="13" font-weight="700" fill="#007a6a">10</text>
     <text x="32" y="380" font-family="DM Mono,monospace" font-size="12" fill="#00c9a7">jackl</text>
     <rect x="150" y="368" width="280" height="16" fill="#00f5d4" opacity="0.07" rx="2"/>
@@ -74,5 +74,5 @@
       <animate attributeName="width" from="0" to="19" dur="1.2s" begin="0.72s" fill="freeze"/>
     </rect>
     <text x="173" y="380" font-family="DM Mono,monospace" font-size="11" fill="#00f5d4">77</text></g>
-  <text x="240" y="422" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-06-25 14:12 TWN</text>
+  <text x="240" y="422" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-06-26 14:15 TWN</text>
 </svg>
