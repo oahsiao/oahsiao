@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_QMS@857a511`](https://github.com/M2Station/M2_QMS/commit/857a511940296138423ada14436c905d51b305b9) — Add SOW Compliance & Security Review badge modal · `2026-06-25` · oahsiao
-02. [`M2_QMS@899fe0d`](https://github.com/M2Station/M2_QMS/commit/899fe0df502d39aa16aee7f2cb9d1d66d159011c) — Add account expiry, remember-me cookies; simplify roles t... · `2026-06-25` · oahsiao
-03. [`M2_QMS@88eb8a4`](https://github.com/M2Station/M2_QMS/commit/88eb8a45974736c30ca287fda8bef9fbf0e73220) — Short credentials (min 2); fix Army themes; 200 MB upload... · `2026-06-25` · OA Hsiao
-04. [`M2_QMS@7a7f03b`](https://github.com/M2Station/M2_QMS/commit/7a7f03bf98a5a888a6ce1dde582d7e3b72089050) — Preserve deep link through login; default password 'admin... · `2026-06-25` · OA Hsiao
-05. [`M2_QMS@7b9c23e`](https://github.com/M2Station/M2_QMS/commit/7b9c23ef1342ae38c1e27d05a2ed82a70fd6366d) — Add M2 QMS: queue board, tasks, file uploads, comments, auth · `2026-06-25` · OA Hsiao
-06. [`M2_LOG@685fa5f`](https://github.com/M2Station/M2_LOG/commit/685fa5f9609f6c4e77a451bcdfb3343a8bcb45f1) — perf: async main-process file I/O and debounced log counter · `2026-06-25` · oahsiao
-07. [`.github@7ddaeb0`](https://github.com/M2Station/.github/commit/7ddaeb00c66218035370412972594f5ec7d2ad24) — chore: sync latest changes [skip ci] · `2026-06-25` · github-actions[bot]
-08. [`M2_WIKI@88afd49`](https://github.com/M2Station/M2_WIKI/commit/88afd49c8914b6bf36beba8cde65e33118e089d1) — Update How to: fuse 8480 device · `2026-06-25` · Andy Sung
-09. [`M2_LOG@cfb0612`](https://github.com/M2Station/M2_LOG/commit/cfb0612dddc604ff5244d608755f25a95be7a3c0) — chore: release v0.0.8 · `2026-06-25` · Simon0719
-10. [`M2_LOG@112c3d3`](https://github.com/M2Station/M2_LOG/commit/112c3d3ddcc0d3034ba33205b511a9b223a34d91) — 1. Add analyze label on rust SAM (Power sequence, Keyboar... · `2026-06-25` · Simon0719
+01. [`.github@a25e450`](https://github.com/M2Station/.github/commit/a25e4508e0ae3943c6ef5065c24ffdbb41eae32c) — chore: sync latest changes [skip ci] · `2026-06-26` · github-actions[bot]
+02. [`M2_QMS@857a511`](https://github.com/M2Station/M2_QMS/commit/857a511940296138423ada14436c905d51b305b9) — Add SOW Compliance & Security Review badge modal · `2026-06-25` · oahsiao
+03. [`M2_QMS@899fe0d`](https://github.com/M2Station/M2_QMS/commit/899fe0df502d39aa16aee7f2cb9d1d66d159011c) — Add account expiry, remember-me cookies; simplify roles t... · `2026-06-25` · oahsiao
+04. [`M2_QMS@88eb8a4`](https://github.com/M2Station/M2_QMS/commit/88eb8a45974736c30ca287fda8bef9fbf0e73220) — Short credentials (min 2); fix Army themes; 200 MB upload... · `2026-06-25` · OA Hsiao
+05. [`M2_QMS@7a7f03b`](https://github.com/M2Station/M2_QMS/commit/7a7f03bf98a5a888a6ce1dde582d7e3b72089050) — Preserve deep link through login; default password 'admin... · `2026-06-25` · OA Hsiao
+06. [`M2_QMS@7b9c23e`](https://github.com/M2Station/M2_QMS/commit/7b9c23ef1342ae38c1e27d05a2ed82a70fd6366d) — Add M2 QMS: queue board, tasks, file uploads, comments, auth · `2026-06-25` · OA Hsiao
+07. [`M2_LOG@685fa5f`](https://github.com/M2Station/M2_LOG/commit/685fa5f9609f6c4e77a451bcdfb3343a8bcb45f1) — perf: async main-process file I/O and debounced log counter · `2026-06-25` · oahsiao
+08. [`.github@7ddaeb0`](https://github.com/M2Station/.github/commit/7ddaeb00c66218035370412972594f5ec7d2ad24) — chore: sync latest changes [skip ci] · `2026-06-25` · github-actions[bot]
+09. [`M2_WIKI@88afd49`](https://github.com/M2Station/M2_WIKI/commit/88afd49c8914b6bf36beba8cde65e33118e089d1) — Update How to: fuse 8480 device · `2026-06-25` · Andy Sung
+10. [`M2_LOG@cfb0612`](https://github.com/M2Station/M2_LOG/commit/cfb0612dddc604ff5244d608755f25a95be7a3c0) — chore: release v0.0.8 · `2026-06-25` · Simon0719
 <!-- LATEST-CHANGES:END -->
 
 ---
