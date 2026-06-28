@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-27 13:56 TWN",
+  "updated": "2026-06-28 14:23 TWN",
   "latestChanges": [
+    {
+      "date": 1782540436000,
+      "committedDate": "2026-06-27T06:07:16Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/2c04cedb4d86c6243938493848203b66d89d4890",
+      "sha": "2c04ced",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1782455642000,
       "committedDate": "2026-06-26T06:34:02Z",
@@ -81,15 +90,6 @@
       "url": "https://github.com/M2Station/M2_WIKI/commit/88afd49c8914b6bf36beba8cde65e33118e089d1",
       "sha": "88afd49",
       "login": "Andy Sung"
-    },
-    {
-      "date": 1782368442000,
-      "committedDate": "2026-06-25T06:20:42Z",
-      "header": "chore: release v0.0.8",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/cfb0612dddc604ff5244d608755f25a95be7a3c0",
-      "sha": "cfb0612",
-      "login": "Simon0719"
     }
   ]
 }
