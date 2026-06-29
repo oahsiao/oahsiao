@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`.github@2c04ced`](https://github.com/M2Station/.github/commit/2c04cedb4d86c6243938493848203b66d89d4890) — chore: sync latest changes [skip ci] · `2026-06-27` · github-actions[bot]
-02. [`.github@a25e450`](https://github.com/M2Station/.github/commit/a25e4508e0ae3943c6ef5065c24ffdbb41eae32c) — chore: sync latest changes [skip ci] · `2026-06-26` · github-actions[bot]
-03. [`M2_QMS@857a511`](https://github.com/M2Station/M2_QMS/commit/857a511940296138423ada14436c905d51b305b9) — Add SOW Compliance & Security Review badge modal · `2026-06-25` · oahsiao
-04. [`M2_QMS@899fe0d`](https://github.com/M2Station/M2_QMS/commit/899fe0df502d39aa16aee7f2cb9d1d66d159011c) — Add account expiry, remember-me cookies; simplify roles t... · `2026-06-25` · oahsiao
-05. [`M2_QMS@88eb8a4`](https://github.com/M2Station/M2_QMS/commit/88eb8a45974736c30ca287fda8bef9fbf0e73220) — Short credentials (min 2); fix Army themes; 200 MB upload... · `2026-06-25` · OA Hsiao
-06. [`M2_QMS@7a7f03b`](https://github.com/M2Station/M2_QMS/commit/7a7f03bf98a5a888a6ce1dde582d7e3b72089050) — Preserve deep link through login; default password 'admin... · `2026-06-25` · OA Hsiao
-07. [`M2_QMS@7b9c23e`](https://github.com/M2Station/M2_QMS/commit/7b9c23ef1342ae38c1e27d05a2ed82a70fd6366d) — Add M2 QMS: queue board, tasks, file uploads, comments, auth · `2026-06-25` · OA Hsiao
-08. [`M2_LOG@685fa5f`](https://github.com/M2Station/M2_LOG/commit/685fa5f9609f6c4e77a451bcdfb3343a8bcb45f1) — perf: async main-process file I/O and debounced log counter · `2026-06-25` · oahsiao
-09. [`.github@7ddaeb0`](https://github.com/M2Station/.github/commit/7ddaeb00c66218035370412972594f5ec7d2ad24) — chore: sync latest changes [skip ci] · `2026-06-25` · github-actions[bot]
-10. [`M2_WIKI@88afd49`](https://github.com/M2Station/M2_WIKI/commit/88afd49c8914b6bf36beba8cde65e33118e089d1) — Update How to: fuse 8480 device · `2026-06-25` · Andy Sung
+01. [`M2_DEVOPS@9b8c325`](https://github.com/M2Station/M2_DEVOPS/commit/9b8c32562099a3af43aa5783157e4181f180f762) — fix(pat-autorenew): point EDGE_USER_DATA_DIR to real user... · `2026-06-29` · OA Hsiao
+02. [`M2_TELEGRAM_BOT@c2694a7`](https://github.com/M2Station/M2_TELEGRAM_BOT/commit/c2694a78cbc02898c8eb08f6ce9a730aaf363dbc) — Add MANAGEMENT tools: list bots/tokens, groups, bot-group... · `2026-06-29` · OA Hsiao
+03. [`M2_FENCE@6b636d5`](https://github.com/M2Station/M2_FENCE/commit/6b636d5010b88a88c870dc078818b62ac4df0853) — Add M2_FENCE parental control MVP: web filtering, Telegra... · `2026-06-29` · oahsiao
+04. [`M2_ARTBANK@9768979`](https://github.com/M2Station/M2_ARTBANK/commit/9768979c03bb7ceee823073e653b176b5dc4ab2e) — Initial commit · `2026-06-29` · oahsiao
+05. [`M2_FENCE@17344e8`](https://github.com/M2Station/M2_FENCE/commit/17344e82593c4d44cd7b4393c12ad79d650ec16f) — Initial commit · `2026-06-29` · oahsiao
+06. [`M2_WIKI@e7717ac`](https://github.com/M2Station/M2_WIKI/commit/e7717acedcaf33415ee028a7778820c46c1403ab) — Add dead battery information in QC SAM. · `2026-06-29` · Harry
+07. [`M2_LOG@378a00c`](https://github.com/M2Station/M2_LOG/commit/378a00c623ba5f17046f047561dcbb60acb0c9f7) — Add GEN3 SAM highlight rules · `2026-06-29` · Harry
+08. [`.github@cf281f3`](https://github.com/M2Station/.github/commit/cf281f3399122aab9963009fa7b7b53e62ea263d) — chore: sync latest changes [skip ci] · `2026-06-28` · github-actions[bot]
+09. [`.github@2c04ced`](https://github.com/M2Station/.github/commit/2c04cedb4d86c6243938493848203b66d89d4890) — chore: sync latest changes [skip ci] · `2026-06-27` · github-actions[bot]
+10. [`.github@a25e450`](https://github.com/M2Station/.github/commit/a25e4508e0ae3943c6ef5065c24ffdbb41eae32c) — chore: sync latest changes [skip ci] · `2026-06-26` · github-actions[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---
