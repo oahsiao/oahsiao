@@ -7,55 +7,55 @@
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.113;0.174;0.193;1"
-        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.000;0.102;0.156;0.173;1"
+        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(pat-autorenew): point EDGE_USER_DATA_DIR to...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add single-instance guard, block-only mode, and...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.193;0.306;0.367;0.385;1"
-        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.173;0.276;0.330;0.347;1"
+        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add MANAGEMENT tools: list bots/tokens, groups,...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat: add diagnostic script for M2_FENCE troubl...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.385;0.499;0.559;0.578;1"
-        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;390.40000000000003;390.40000000000003;0;0"
+        keyTimes="0;0.347;0.437;0.491;0.508;1"
+        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add M2_FENCE parental control MVP: web filterin...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Fix install_task reliability across machines</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;138.4;138.4;0;0"
-        keyTimes="0;0.578;0.610;0.670;0.689;1"
-        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;432.40000000000003;432.40000000000003;0;0"
+        keyTimes="0;0.508;0.608;0.663;0.680;1"
+        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Initial commit</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>update: add new domains and keywords to blocklist</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;348.40000000000003;348.40000000000003;0;0"
-        keyTimes="0;0.689;0.778;0.838;0.857;1"
-        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;390.40000000000003;390.40000000000003;0;0"
+        keyTimes="0;0.680;0.769;0.824;0.841;1"
+        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add dead battery information in QC SAM.</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix: correct keyword formatting in blocklist</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;256;256;0;0"
-        keyTimes="0;0.857;0.921;0.981;1.000;1"
-        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;382;382;0;0"
+        keyTimes="0;0.841;0.929;0.983;1.000;1"
+        dur="29.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add GEN3 SAM highlight rules</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>update alert message formatting for clarity</text>
     </g>
 </svg>
