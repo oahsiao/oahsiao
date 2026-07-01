@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-30 14:16 TWN",
+  "updated": "2026-07-01 14:37 TWN",
   "latestChanges": [
+    {
+      "date": 1782801425000,
+      "committedDate": "2026-06-30T06:37:05Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/3b8ba60f352d70d6254653e32f12295981b3fe69",
+      "sha": "3b8ba60",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1782782067000,
       "committedDate": "2026-06-30T01:14:27Z",
@@ -80,15 +89,6 @@
       "repo": "M2_FENCE",
       "url": "https://github.com/M2Station/M2_FENCE/commit/aa617849442bf80bacf088df0e15662a2edbc217",
       "sha": "aa61784",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1782730226000,
-      "committedDate": "2026-06-29T10:50:26Z",
-      "header": "啟動自動檢查並補齊缺少的 pip 套件",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/ebef0ef79473de90451e1ad98ba7c06e9bb5bc93",
-      "sha": "ebef0ef",
       "login": "oahsiao"
     }
   ]
