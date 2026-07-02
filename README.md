@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`.github@3b8ba60`](https://github.com/M2Station/.github/commit/3b8ba60f352d70d6254653e32f12295981b3fe69) — chore: sync latest changes [skip ci] · `2026-06-30` · github-actions[bot]
-02. [`M2_FENCE@3376c49`](https://github.com/M2Station/M2_FENCE/commit/3376c492f08007445be55419ef7d3dc6541c4bdd) — Add single-instance guard, block-only mode, and file logging · `2026-06-30` · oahsiao
-03. [`M2_FENCE@1a65283`](https://github.com/M2Station/M2_FENCE/commit/1a6528301274a9299d27d22c6152047174af114f) — feat: add diagnostic script for M2_FENCE troubleshooting · `2026-06-30` · oahsiao
-04. [`M2_FENCE@b12247c`](https://github.com/M2Station/M2_FENCE/commit/b12247c6776670439b6eba2556b7eefc4b355169) — Fix install_task reliability across machines · `2026-06-30` · oahsiao
-05. [`M2_FENCE@6ef13f0`](https://github.com/M2Station/M2_FENCE/commit/6ef13f04ffe38f59ea0f0d53ebdf33085c6f49f5) — update: add new domains and keywords to blocklist · `2026-06-30` · oahsiao
-06. [`M2_FENCE@4cc6163`](https://github.com/M2Station/M2_FENCE/commit/4cc6163f759470db34ec73a58e31b064b0d81177) — fix: correct keyword formatting in blocklist · `2026-06-30` · oahsiao
-07. [`M2_FENCE@630c85d`](https://github.com/M2Station/M2_FENCE/commit/630c85d3f8de7d6e926b56e7c5475a0a5721c8ff) — update alert message formatting for clarity · `2026-06-30` · oahsiao
-08. [`M2_FENCE@9ecfcc1`](https://github.com/M2Station/M2_FENCE/commit/9ecfcc1c2319639d8a7b01a3e1c2fce7e509fa21) — update alert message for clarity · `2026-06-30` · oahsiao
-09. [`M2_FENCE@5ba48c1`](https://github.com/M2Station/M2_FENCE/commit/5ba48c159de5d8dad1af68dfa23930808d300278) — update alert message for clarity and tone · `2026-06-30` · oahsiao
-10. [`M2_FENCE@aa61784`](https://github.com/M2Station/M2_FENCE/commit/aa617849442bf80bacf088df0e15662a2edbc217) — 缺 venv 自動重建:啟動器先呼叫 setup_env.cmd 建環境裝套件 · `2026-06-29` · oahsiao
+01. [`M2_WIKI@7eedb0d`](https://github.com/M2Station/M2_WIKI/commit/7eedb0dfed87971a174b0dbf037f7e730b69ed47) — Update toolchain version to 1.95 · `2026-07-01` · Sam6Su
+02. [`M2_WIKI@8a62030`](https://github.com/M2Station/M2_WIKI/commit/8a62030a290400518ddd0321934944e44a2cd7be) — update the setuptools version · `2026-07-01` · Sam6Su
+03. [`.github@85200a2`](https://github.com/M2Station/.github/commit/85200a2dbf69ff20c383e8b0b1495e26561c1caa) — chore: sync latest changes [skip ci] · `2026-07-01` · github-actions[bot]
+04. [`.github@3b8ba60`](https://github.com/M2Station/.github/commit/3b8ba60f352d70d6254653e32f12295981b3fe69) — chore: sync latest changes [skip ci] · `2026-06-30` · github-actions[bot]
+05. [`M2_FENCE@3376c49`](https://github.com/M2Station/M2_FENCE/commit/3376c492f08007445be55419ef7d3dc6541c4bdd) — Add single-instance guard, block-only mode, and file logging · `2026-06-30` · oahsiao
+06. [`M2_FENCE@1a65283`](https://github.com/M2Station/M2_FENCE/commit/1a6528301274a9299d27d22c6152047174af114f) — feat: add diagnostic script for M2_FENCE troubleshooting · `2026-06-30` · oahsiao
+07. [`M2_FENCE@b12247c`](https://github.com/M2Station/M2_FENCE/commit/b12247c6776670439b6eba2556b7eefc4b355169) — Fix install_task reliability across machines · `2026-06-30` · oahsiao
+08. [`M2_FENCE@6ef13f0`](https://github.com/M2Station/M2_FENCE/commit/6ef13f04ffe38f59ea0f0d53ebdf33085c6f49f5) — update: add new domains and keywords to blocklist · `2026-06-30` · oahsiao
+09. [`M2_FENCE@4cc6163`](https://github.com/M2Station/M2_FENCE/commit/4cc6163f759470db34ec73a58e31b064b0d81177) — fix: correct keyword formatting in blocklist · `2026-06-30` · oahsiao
+10. [`M2_FENCE@630c85d`](https://github.com/M2Station/M2_FENCE/commit/630c85d3f8de7d6e926b56e7c5475a0a5721c8ff) — update alert message formatting for clarity · `2026-06-30` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

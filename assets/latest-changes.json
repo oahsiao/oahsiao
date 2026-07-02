@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-01 14:37 TWN",
+  "updated": "2026-07-02 14:03 TWN",
   "latestChanges": [
+    {
+      "date": 1782898113000,
+      "committedDate": "2026-07-01T09:28:33Z",
+      "header": "Update toolchain version to 1.95",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/7eedb0dfed87971a174b0dbf037f7e730b69ed47",
+      "sha": "7eedb0d",
+      "login": "Sam6Su"
+    },
+    {
+      "date": 1782897786000,
+      "committedDate": "2026-07-01T09:23:06Z",
+      "header": "update the setuptools version",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/8a62030a290400518ddd0321934944e44a2cd7be",
+      "sha": "8a62030",
+      "login": "Sam6Su"
+    },
+    {
+      "date": 1782888633000,
+      "committedDate": "2026-07-01T06:50:33Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/85200a2dbf69ff20c383e8b0b1495e26561c1caa",
+      "sha": "85200a2",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1782801425000,
       "committedDate": "2026-06-30T06:37:05Z",
@@ -62,33 +89,6 @@
       "repo": "M2_FENCE",
       "url": "https://github.com/M2Station/M2_FENCE/commit/630c85d3f8de7d6e926b56e7c5475a0a5721c8ff",
       "sha": "630c85d",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1782777779000,
-      "committedDate": "2026-06-30T00:02:59Z",
-      "header": "update alert message for clarity",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/9ecfcc1c2319639d8a7b01a3e1c2fce7e509fa21",
-      "sha": "9ecfcc1",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1782777749000,
-      "committedDate": "2026-06-30T00:02:29Z",
-      "header": "update alert message for clarity and tone",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/5ba48c159de5d8dad1af68dfa23930808d300278",
-      "sha": "5ba48c1",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1782730299000,
-      "committedDate": "2026-06-29T10:51:39Z",
-      "header": "缺 venv 自動重建:啟動器先呼叫 setup_env.cmd 建環境裝套件",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/aa617849442bf80bacf088df0e15662a2edbc217",
-      "sha": "aa61784",
       "login": "oahsiao"
     }
   ]
