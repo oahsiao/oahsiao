@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@7eedb0d`](https://github.com/M2Station/M2_WIKI/commit/7eedb0dfed87971a174b0dbf037f7e730b69ed47) — Update toolchain version to 1.95 · `2026-07-01` · Sam6Su
-02. [`M2_WIKI@8a62030`](https://github.com/M2Station/M2_WIKI/commit/8a62030a290400518ddd0321934944e44a2cd7be) — update the setuptools version · `2026-07-01` · Sam6Su
-03. [`.github@85200a2`](https://github.com/M2Station/.github/commit/85200a2dbf69ff20c383e8b0b1495e26561c1caa) — chore: sync latest changes [skip ci] · `2026-07-01` · github-actions[bot]
-04. [`.github@3b8ba60`](https://github.com/M2Station/.github/commit/3b8ba60f352d70d6254653e32f12295981b3fe69) — chore: sync latest changes [skip ci] · `2026-06-30` · github-actions[bot]
-05. [`M2_FENCE@3376c49`](https://github.com/M2Station/M2_FENCE/commit/3376c492f08007445be55419ef7d3dc6541c4bdd) — Add single-instance guard, block-only mode, and file logging · `2026-06-30` · oahsiao
-06. [`M2_FENCE@1a65283`](https://github.com/M2Station/M2_FENCE/commit/1a6528301274a9299d27d22c6152047174af114f) — feat: add diagnostic script for M2_FENCE troubleshooting · `2026-06-30` · oahsiao
-07. [`M2_FENCE@b12247c`](https://github.com/M2Station/M2_FENCE/commit/b12247c6776670439b6eba2556b7eefc4b355169) — Fix install_task reliability across machines · `2026-06-30` · oahsiao
-08. [`M2_FENCE@6ef13f0`](https://github.com/M2Station/M2_FENCE/commit/6ef13f04ffe38f59ea0f0d53ebdf33085c6f49f5) — update: add new domains and keywords to blocklist · `2026-06-30` · oahsiao
-09. [`M2_FENCE@4cc6163`](https://github.com/M2Station/M2_FENCE/commit/4cc6163f759470db34ec73a58e31b064b0d81177) — fix: correct keyword formatting in blocklist · `2026-06-30` · oahsiao
-10. [`M2_FENCE@630c85d`](https://github.com/M2Station/M2_FENCE/commit/630c85d3f8de7d6e926b56e7c5475a0a5721c8ff) — update alert message formatting for clarity · `2026-06-30` · oahsiao
+01. [`M2_MSAGUI@1adc12e`](https://github.com/M2Station/M2_MSAGUI/commit/1adc12e651ebb6a027c34aeb9694ccc5274c8b96) — Update MSAGUI_v8 exe and delete previous exe · `2026-07-03` · cin0429
+02. [`M2_MSAGUI@cefaf4e`](https://github.com/M2Station/M2_MSAGUI/commit/cefaf4e108340e6d0343df40808cc7c85357da24) — Update MSAGUI_Tool_Technical_Reference REV_2026_0701 for ... · `2026-07-02` · cin0429
+03. [`M2_MSAGUI@d4eeff5`](https://github.com/M2Station/M2_MSAGUI/commit/d4eeff5e642e767e8d293e03262ea719acdbc6a1) — Update release note for MSAGUI_v8 change list · `2026-07-02` · cin0429
+04. [`M2_MSAGUI@979ebbe`](https://github.com/M2Station/M2_MSAGUI/commit/979ebbe000470b95b7193f6cf4ff1533bd8d9034) — Fix zip format crash issue for ExtractCSV and StatisticsCSV · `2026-07-02` · cin0429
+05. [`M2_MSAGUI@4a21d1e`](https://github.com/M2Station/M2_MSAGUI/commit/4a21d1e37d8c47b2d143b6a165faac3087cb496b) — Add Pick .zip to support all source type with zip format · `2026-07-02` · cin0429
+06. [`M2_MSAGUI@1f81fc9`](https://github.com/M2Station/M2_MSAGUI/commit/1f81fc9a219e079b60c8b946a26eade1eb437dc6) — Fix UnboundLocalError when JSON zip file to run SplitJSON · `2026-07-02` · cin0429
+07. [`M2_MSAGUI@ad62540`](https://github.com/M2Station/M2_MSAGUI/commit/ad625400dbf4b368429c4a8531572af32050683f) — Remove Statistical Analysis Configuration table from EML · `2026-07-02` · cin0429
+08. [`M2_MSAGUI@9a4fac1`](https://github.com/M2Station/M2_MSAGUI/commit/9a4fac1e50588a00ce3fdcd08a9a713ed11690c7) — Modify max-width for the MSA Configuration table · `2026-07-02` · cin0429
+09. [`M2_MSAGUI@8cc031e`](https://github.com/M2Station/M2_MSAGUI/commit/8cc031ef1130bfbd58501206716c4dd655b18423) — Modify Statistical Analysis Configuration table format in... · `2026-07-02` · cin0429
+10. [`M2_MSAGUI@bad6013`](https://github.com/M2Station/M2_MSAGUI/commit/bad601312c97ea154f53acce03d4266f48b0b0db) — Always output StructureReview_Full.csv · `2026-07-02` · cin0429
 <!-- LATEST-CHANGES:END -->
 
 ---
