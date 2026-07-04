@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-03 13:57 TWN",
+  "updated": "2026-07-04 13:50 TWN",
   "latestChanges": [
+    {
+      "date": 1783059383000,
+      "committedDate": "2026-07-03T06:16:23Z",
+      "header": "Update rust version",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/588fcf3d53ffbf022eef7996b0faa1f53cc7c175",
+      "sha": "588fcf3",
+      "login": "Sam6Su"
+    },
+    {
+      "date": 1783058882000,
+      "committedDate": "2026-07-03T06:08:02Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/07a68236749494c183a0d93f84d3bf67f6eec731",
+      "sha": "07a6823",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1783046278000,
       "committedDate": "2026-07-03T02:37:58Z",
@@ -71,24 +89,6 @@
       "repo": "M2_MSAGUI",
       "url": "https://github.com/M2Station/M2_MSAGUI/commit/9a4fac1e50588a00ce3fdcd08a9a713ed11690c7",
       "sha": "9a4fac1",
-      "login": "cin0429"
-    },
-    {
-      "date": 1782997029000,
-      "committedDate": "2026-07-02T12:57:09Z",
-      "header": "Modify Statistical Analysis Configuration table format in MSA Summary HTML",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/8cc031ef1130bfbd58501206716c4dd655b18423",
-      "sha": "8cc031e",
-      "login": "cin0429"
-    },
-    {
-      "date": 1782997029000,
-      "committedDate": "2026-07-02T12:57:09Z",
-      "header": "Always output StructureReview_Full.csv",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/bad601312c97ea154f53acce03d4266f48b0b0db",
-      "sha": "bad6013",
       "login": "cin0429"
     }
   ]

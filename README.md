@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_MSAGUI@1adc12e`](https://github.com/M2Station/M2_MSAGUI/commit/1adc12e651ebb6a027c34aeb9694ccc5274c8b96) — Update MSAGUI_v8 exe and delete previous exe · `2026-07-03` · cin0429
-02. [`M2_MSAGUI@cefaf4e`](https://github.com/M2Station/M2_MSAGUI/commit/cefaf4e108340e6d0343df40808cc7c85357da24) — Update MSAGUI_Tool_Technical_Reference REV_2026_0701 for ... · `2026-07-02` · cin0429
-03. [`M2_MSAGUI@d4eeff5`](https://github.com/M2Station/M2_MSAGUI/commit/d4eeff5e642e767e8d293e03262ea719acdbc6a1) — Update release note for MSAGUI_v8 change list · `2026-07-02` · cin0429
-04. [`M2_MSAGUI@979ebbe`](https://github.com/M2Station/M2_MSAGUI/commit/979ebbe000470b95b7193f6cf4ff1533bd8d9034) — Fix zip format crash issue for ExtractCSV and StatisticsCSV · `2026-07-02` · cin0429
-05. [`M2_MSAGUI@4a21d1e`](https://github.com/M2Station/M2_MSAGUI/commit/4a21d1e37d8c47b2d143b6a165faac3087cb496b) — Add Pick .zip to support all source type with zip format · `2026-07-02` · cin0429
-06. [`M2_MSAGUI@1f81fc9`](https://github.com/M2Station/M2_MSAGUI/commit/1f81fc9a219e079b60c8b946a26eade1eb437dc6) — Fix UnboundLocalError when JSON zip file to run SplitJSON · `2026-07-02` · cin0429
-07. [`M2_MSAGUI@ad62540`](https://github.com/M2Station/M2_MSAGUI/commit/ad625400dbf4b368429c4a8531572af32050683f) — Remove Statistical Analysis Configuration table from EML · `2026-07-02` · cin0429
-08. [`M2_MSAGUI@9a4fac1`](https://github.com/M2Station/M2_MSAGUI/commit/9a4fac1e50588a00ce3fdcd08a9a713ed11690c7) — Modify max-width for the MSA Configuration table · `2026-07-02` · cin0429
-09. [`M2_MSAGUI@8cc031e`](https://github.com/M2Station/M2_MSAGUI/commit/8cc031ef1130bfbd58501206716c4dd655b18423) — Modify Statistical Analysis Configuration table format in... · `2026-07-02` · cin0429
-10. [`M2_MSAGUI@bad6013`](https://github.com/M2Station/M2_MSAGUI/commit/bad601312c97ea154f53acce03d4266f48b0b0db) — Always output StructureReview_Full.csv · `2026-07-02` · cin0429
+01. [`M2_WIKI@588fcf3`](https://github.com/M2Station/M2_WIKI/commit/588fcf3d53ffbf022eef7996b0faa1f53cc7c175) — Update rust version · `2026-07-03` · Sam6Su
+02. [`.github@07a6823`](https://github.com/M2Station/.github/commit/07a68236749494c183a0d93f84d3bf67f6eec731) — chore: sync latest changes [skip ci] · `2026-07-03` · github-actions[bot]
+03. [`M2_MSAGUI@1adc12e`](https://github.com/M2Station/M2_MSAGUI/commit/1adc12e651ebb6a027c34aeb9694ccc5274c8b96) — Update MSAGUI_v8 exe and delete previous exe · `2026-07-03` · cin0429
+04. [`M2_MSAGUI@cefaf4e`](https://github.com/M2Station/M2_MSAGUI/commit/cefaf4e108340e6d0343df40808cc7c85357da24) — Update MSAGUI_Tool_Technical_Reference REV_2026_0701 for ... · `2026-07-02` · cin0429
+05. [`M2_MSAGUI@d4eeff5`](https://github.com/M2Station/M2_MSAGUI/commit/d4eeff5e642e767e8d293e03262ea719acdbc6a1) — Update release note for MSAGUI_v8 change list · `2026-07-02` · cin0429
+06. [`M2_MSAGUI@979ebbe`](https://github.com/M2Station/M2_MSAGUI/commit/979ebbe000470b95b7193f6cf4ff1533bd8d9034) — Fix zip format crash issue for ExtractCSV and StatisticsCSV · `2026-07-02` · cin0429
+07. [`M2_MSAGUI@4a21d1e`](https://github.com/M2Station/M2_MSAGUI/commit/4a21d1e37d8c47b2d143b6a165faac3087cb496b) — Add Pick .zip to support all source type with zip format · `2026-07-02` · cin0429
+08. [`M2_MSAGUI@1f81fc9`](https://github.com/M2Station/M2_MSAGUI/commit/1f81fc9a219e079b60c8b946a26eade1eb437dc6) — Fix UnboundLocalError when JSON zip file to run SplitJSON · `2026-07-02` · cin0429
+09. [`M2_MSAGUI@ad62540`](https://github.com/M2Station/M2_MSAGUI/commit/ad625400dbf4b368429c4a8531572af32050683f) — Remove Statistical Analysis Configuration table from EML · `2026-07-02` · cin0429
+10. [`M2_MSAGUI@9a4fac1`](https://github.com/M2Station/M2_MSAGUI/commit/9a4fac1e50588a00ce3fdcd08a9a713ed11690c7) — Modify max-width for the MSA Configuration table · `2026-07-02` · cin0429
 <!-- LATEST-CHANGES:END -->
 
 ---
