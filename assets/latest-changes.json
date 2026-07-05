@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-04 13:50 TWN",
+  "updated": "2026-07-05 14:09 TWN",
   "latestChanges": [
+    {
+      "date": 1783144692000,
+      "committedDate": "2026-07-04T05:58:12Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/e8e45add1415f17c5a78732be86e70f9144ba29e",
+      "sha": "e8e45ad",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1783059383000,
       "committedDate": "2026-07-03T06:16:23Z",
@@ -80,15 +89,6 @@
       "repo": "M2_MSAGUI",
       "url": "https://github.com/M2Station/M2_MSAGUI/commit/ad625400dbf4b368429c4a8531572af32050683f",
       "sha": "ad62540",
-      "login": "cin0429"
-    },
-    {
-      "date": 1782997030000,
-      "committedDate": "2026-07-02T12:57:10Z",
-      "header": "Modify max-width for the MSA Configuration table",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/9a4fac1e50588a00ce3fdcd08a9a713ed11690c7",
-      "sha": "9a4fac1",
       "login": "cin0429"
     }
   ]
