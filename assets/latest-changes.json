@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-05 14:09 TWN",
+  "updated": "2026-07-06 14:40 TWN",
   "latestChanges": [
+    {
+      "date": 1783232593000,
+      "committedDate": "2026-07-05T06:23:13Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/7fadfa671b59f18548275b8deb741024e46f73e4",
+      "sha": "7fadfa6",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1783144692000,
       "committedDate": "2026-07-04T05:58:12Z",
@@ -80,15 +89,6 @@
       "repo": "M2_MSAGUI",
       "url": "https://github.com/M2Station/M2_MSAGUI/commit/1f81fc9a219e079b60c8b946a26eade1eb437dc6",
       "sha": "1f81fc9",
-      "login": "cin0429"
-    },
-    {
-      "date": 1782997030000,
-      "committedDate": "2026-07-02T12:57:10Z",
-      "header": "Remove Statistical Analysis Configuration table from EML",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/ad625400dbf4b368429c4a8531572af32050683f",
-      "sha": "ad62540",
       "login": "cin0429"
     }
   ]
