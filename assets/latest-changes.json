@@ -1,95 +1,95 @@
 {
-  "updated": "2026-07-06 14:40 TWN",
+  "updated": "2026-07-07 14:12 TWN",
   "latestChanges": [
     {
-      "date": 1783232593000,
-      "committedDate": "2026-07-05T06:23:13Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/7fadfa671b59f18548275b8deb741024e46f73e4",
-      "sha": "7fadfa6",
-      "login": "github-actions[bot]"
+      "date": 1783402732000,
+      "committedDate": "2026-07-07T05:38:52Z",
+      "header": "chore: release v0.0.9",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/34cedfba3a4b3f71eea19b6ae30f15ca76999bd3",
+      "sha": "34cedfb",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1783144692000,
-      "committedDate": "2026-07-04T05:58:12Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/e8e45add1415f17c5a78732be86e70f9144ba29e",
-      "sha": "e8e45ad",
-      "login": "github-actions[bot]"
+      "date": 1783400689000,
+      "committedDate": "2026-07-07T05:04:49Z",
+      "header": "chore(dev-deps): bump electron-builder from 25.1.8 to 26.15.3",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/0a5411921e32e496c685de91f0b2cf9d27b00d97",
+      "sha": "0a54119",
+      "login": "dependabot[bot]"
     },
     {
-      "date": 1783059383000,
-      "committedDate": "2026-07-03T06:16:23Z",
-      "header": "Update rust version",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/588fcf3d53ffbf022eef7996b0faa1f53cc7c175",
-      "sha": "588fcf3",
-      "login": "Sam6Su"
+      "date": 1783400657000,
+      "committedDate": "2026-07-07T05:04:17Z",
+      "header": "chore(dev-deps): bump wait-on from 8.0.5 to 9.0.10",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/5c1b8f5d4576d7e10c829a03f06f2e35c429a3f6",
+      "sha": "5c1b8f5",
+      "login": "dependabot[bot]"
     },
     {
-      "date": 1783058882000,
-      "committedDate": "2026-07-03T06:08:02Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/07a68236749494c183a0d93f84d3bf67f6eec731",
-      "sha": "07a6823",
-      "login": "github-actions[bot]"
+      "date": 1783400651000,
+      "committedDate": "2026-07-07T05:04:11Z",
+      "header": "chore(deps): bump better-sqlite3 from 11.10.0 to 12.11.1",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/db2f20082f8960e61d54c2497937776a325e614f",
+      "sha": "db2f200",
+      "login": "dependabot[bot]"
     },
     {
-      "date": 1783046278000,
-      "committedDate": "2026-07-03T02:37:58Z",
-      "header": "Update MSAGUI_v8 exe and delete previous exe",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/1adc12e651ebb6a027c34aeb9694ccc5274c8b96",
-      "sha": "1adc12e",
-      "login": "cin0429"
+      "date": 1783400638000,
+      "committedDate": "2026-07-07T05:03:58Z",
+      "header": "chore(dev-deps): bump @napi-rs/canvas in the npm-minor-and-patch group",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/8db9fd72b4a5157ca452436ca31c172335080dc7",
+      "sha": "8db9fd7",
+      "login": "dependabot[bot]"
     },
     {
-      "date": 1782998460000,
-      "committedDate": "2026-07-02T13:21:00Z",
-      "header": "Update MSAGUI_Tool_Technical_Reference REV_2026_0701 for MSAGUI_v8",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/cefaf4e108340e6d0343df40808cc7c85357da24",
-      "sha": "cefaf4e",
-      "login": "cin0429"
+      "date": 1783400617000,
+      "committedDate": "2026-07-07T05:03:37Z",
+      "header": "chore(ci): bump actions/upload-artifact from 4 to 7",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/6847d36aef7971a2727fb04fa9e74780a3d7007d",
+      "sha": "6847d36",
+      "login": "dependabot[bot]"
     },
     {
-      "date": 1782997031000,
-      "committedDate": "2026-07-02T12:57:11Z",
-      "header": "Update release note for MSAGUI_v8 change list",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/d4eeff5e642e767e8d293e03262ea719acdbc6a1",
-      "sha": "d4eeff5",
-      "login": "cin0429"
+      "date": 1783400614000,
+      "committedDate": "2026-07-07T05:03:34Z",
+      "header": "chore(ci): bump softprops/action-gh-release from 2 to 3",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/43ed509636686978ffcc430f714d09c5bbf83cff",
+      "sha": "43ed509",
+      "login": "dependabot[bot]"
     },
     {
-      "date": 1782997031000,
-      "committedDate": "2026-07-02T12:57:11Z",
-      "header": "Fix zip format crash issue for ExtractCSV and StatisticsCSV",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/979ebbe000470b95b7193f6cf4ff1533bd8d9034",
-      "sha": "979ebbe",
-      "login": "cin0429"
+      "date": 1783400614000,
+      "committedDate": "2026-07-07T05:03:34Z",
+      "header": "chore(ci): bump actions/setup-node from 4 to 6",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/5ce50cea455aaff2825e7cc26806856bb4cc2e49",
+      "sha": "5ce50ce",
+      "login": "dependabot[bot]"
     },
     {
-      "date": 1782997030000,
-      "committedDate": "2026-07-02T12:57:10Z",
-      "header": "Add Pick .zip to support all source type with zip format",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/4a21d1e37d8c47b2d143b6a165faac3087cb496b",
-      "sha": "4a21d1e",
-      "login": "cin0429"
+      "date": 1783400611000,
+      "committedDate": "2026-07-07T05:03:31Z",
+      "header": "chore(ci): bump actions/checkout from 4 to 7",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/3731098084510aa75b78ef698d241763fa0e4021",
+      "sha": "3731098",
+      "login": "dependabot[bot]"
     },
     {
-      "date": 1782997030000,
-      "committedDate": "2026-07-02T12:57:10Z",
-      "header": "Fix UnboundLocalError when JSON zip file to run SplitJSON",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/1f81fc9a219e079b60c8b946a26eade1eb437dc6",
-      "sha": "1f81fc9",
-      "login": "cin0429"
+      "date": 1783400343000,
+      "committedDate": "2026-07-07T04:59:03Z",
+      "header": "release: v0.0.8",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/f8b33ce9d99ab3dfe224bc046637d0eb10a2d029",
+      "sha": "f8b33ce",
+      "login": "OA Hsiao"
     }
   ]
 }
