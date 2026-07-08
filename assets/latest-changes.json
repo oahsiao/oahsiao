@@ -1,94 +1,94 @@
 {
-  "updated": "2026-07-07 14:12 TWN",
+  "updated": "2026-07-08 13:25 TWN",
   "latestChanges": [
     {
-      "date": 1783402732000,
-      "committedDate": "2026-07-07T05:38:52Z",
-      "header": "chore: release v0.0.9",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/34cedfba3a4b3f71eea19b6ae30f15ca76999bd3",
-      "sha": "34cedfb",
+      "date": 1783473992000,
+      "committedDate": "2026-07-08T01:26:32Z",
+      "header": "Add typing stopwatch and improve English space/case checking",
+      "repo": "M2_QWERTY",
+      "url": "https://github.com/M2Station/M2_QWERTY/commit/01a29594bf36d6bcabb5d60aeca324cdfe738175",
+      "sha": "01a2959",
       "login": "OA Hsiao"
     },
     {
-      "date": 1783400689000,
-      "committedDate": "2026-07-07T05:04:49Z",
-      "header": "chore(dev-deps): bump electron-builder from 25.1.8 to 26.15.3",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/0a5411921e32e496c685de91f0b2cf9d27b00d97",
-      "sha": "0a54119",
-      "login": "dependabot[bot]"
+      "date": 1783442566000,
+      "committedDate": "2026-07-07T16:42:46Z",
+      "header": "feat: Implement server-side progress tracking and parental PIN protection",
+      "repo": "M2_QWERTY",
+      "url": "https://github.com/M2Station/M2_QWERTY/commit/d786738383641a9ef0bf5a02b0ccc2bcf19b6c74",
+      "sha": "d786738",
+      "login": "oahsiao"
     },
     {
-      "date": 1783400657000,
-      "committedDate": "2026-07-07T05:04:17Z",
-      "header": "chore(dev-deps): bump wait-on from 8.0.5 to 9.0.10",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/5c1b8f5d4576d7e10c829a03f06f2e35c429a3f6",
-      "sha": "5c1b8f5",
-      "login": "dependabot[bot]"
+      "date": 1783438555000,
+      "committedDate": "2026-07-07T15:35:55Z",
+      "header": "feat: enhance typing practice app with task-based structure, progress tracking, and export/import features",
+      "repo": "M2_QWERTY",
+      "url": "https://github.com/M2Station/M2_QWERTY/commit/f1117c5a029abfb9d68a7ed9f43a4e3369e0e3a8",
+      "sha": "f1117c5",
+      "login": "oahsiao"
     },
     {
-      "date": 1783400651000,
-      "committedDate": "2026-07-07T05:04:11Z",
-      "header": "chore(deps): bump better-sqlite3 from 11.10.0 to 12.11.1",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/db2f20082f8960e61d54c2497937776a325e614f",
-      "sha": "db2f200",
-      "login": "dependabot[bot]"
+      "date": 1783435801000,
+      "committedDate": "2026-07-07T14:50:01Z",
+      "header": "feat: add typing practice app with user login, language selection, and progress tracking",
+      "repo": "M2_QWERTY",
+      "url": "https://github.com/M2Station/M2_QWERTY/commit/209ec1a7e63e341c1e8f31f867d4dac355cb1a07",
+      "sha": "209ec1a",
+      "login": "oahsiao"
     },
     {
-      "date": 1783400638000,
-      "committedDate": "2026-07-07T05:03:58Z",
-      "header": "chore(dev-deps): bump @napi-rs/canvas in the npm-minor-and-patch group",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/8db9fd72b4a5157ca452436ca31c172335080dc7",
-      "sha": "8db9fd7",
-      "login": "dependabot[bot]"
+      "date": 1783432683000,
+      "committedDate": "2026-07-07T13:58:03Z",
+      "header": "Fix cross-PC auto-start: base Python in shared ProgramData + ACLs",
+      "repo": "M2_FENCE",
+      "url": "https://github.com/M2Station/M2_FENCE/commit/2e755de3e4d36fd5fb4d37fa7a9022d3369e3df8",
+      "sha": "2e755de",
+      "login": "oahsiao"
     },
     {
-      "date": 1783400617000,
-      "committedDate": "2026-07-07T05:03:37Z",
-      "header": "chore(ci): bump actions/upload-artifact from 4 to 7",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/6847d36aef7971a2727fb04fa9e74780a3d7007d",
-      "sha": "6847d36",
-      "login": "dependabot[bot]"
+      "date": 1783431776000,
+      "committedDate": "2026-07-07T13:42:56Z",
+      "header": "Initial commit",
+      "repo": "M2_QWERTY",
+      "url": "https://github.com/M2Station/M2_QWERTY/commit/1f3b18330d5e92d3607681d10710b4c23ff66865",
+      "sha": "1f3b183",
+      "login": "oahsiao"
     },
     {
-      "date": 1783400614000,
-      "committedDate": "2026-07-07T05:03:34Z",
-      "header": "chore(ci): bump softprops/action-gh-release from 2 to 3",
+      "date": 1783416903000,
+      "committedDate": "2026-07-07T09:35:03Z",
+      "header": "perf(ci): cache electron-builder, cancel stale runs, x64-only PR builds",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/43ed509636686978ffcc430f714d09c5bbf83cff",
-      "sha": "43ed509",
-      "login": "dependabot[bot]"
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/508fb3363c3acd4bda57fdab9c0bce8002984b96",
+      "sha": "508fb33",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1783400614000,
-      "committedDate": "2026-07-07T05:03:34Z",
-      "header": "chore(ci): bump actions/setup-node from 4 to 6",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/5ce50cea455aaff2825e7cc26806856bb4cc2e49",
-      "sha": "5ce50ce",
-      "login": "dependabot[bot]"
+      "date": 1783413831000,
+      "committedDate": "2026-07-07T08:43:51Z",
+      "header": "update README.md",
+      "repo": "M2_ARTBANK",
+      "url": "https://github.com/M2Station/M2_ARTBANK/commit/2e5b0d95ed440a5a67a46290daa0bf7d14c4e466",
+      "sha": "2e5b0d9",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1783400611000,
-      "committedDate": "2026-07-07T05:03:31Z",
-      "header": "chore(ci): bump actions/checkout from 4 to 7",
+      "date": 1783409272000,
+      "committedDate": "2026-07-07T07:27:52Z",
+      "header": "chore(release): v0.2.2",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/3731098084510aa75b78ef698d241763fa0e4021",
-      "sha": "3731098",
-      "login": "dependabot[bot]"
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/e48fcb86bddae095721d5921606ff4d8d1bc3b48",
+      "sha": "e48fcb8",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1783400343000,
-      "committedDate": "2026-07-07T04:59:03Z",
-      "header": "release: v0.0.8",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/f8b33ce9d99ab3dfe224bc046637d0eb10a2d029",
-      "sha": "f8b33ce",
+      "date": 1783408683000,
+      "committedDate": "2026-07-07T07:18:03Z",
+      "header": "chore: release v0.1.0",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/401c9d4a545c0f91357ae7abea33a7764a949cf9",
+      "sha": "401c9d4",
       "login": "OA Hsiao"
     }
   ]

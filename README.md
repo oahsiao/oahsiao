@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_LOG@34cedfb`](https://github.com/M2Station/M2_LOG/commit/34cedfba3a4b3f71eea19b6ae30f15ca76999bd3) — chore: release v0.0.9 · `2026-07-07` · OA Hsiao
-02. [`M2_GIT_DIFF@0a54119`](https://github.com/M2Station/M2_GIT_DIFF/commit/0a5411921e32e496c685de91f0b2cf9d27b00d97) — chore(dev-deps): bump electron-builder from 25.1.8 to 26.... · `2026-07-07` · dependabot[bot]
-03. [`M2_GIT_DIFF@5c1b8f5`](https://github.com/M2Station/M2_GIT_DIFF/commit/5c1b8f5d4576d7e10c829a03f06f2e35c429a3f6) — chore(dev-deps): bump wait-on from 8.0.5 to 9.0.10 · `2026-07-07` · dependabot[bot]
-04. [`M2_GIT_DIFF@db2f200`](https://github.com/M2Station/M2_GIT_DIFF/commit/db2f20082f8960e61d54c2497937776a325e614f) — chore(deps): bump better-sqlite3 from 11.10.0 to 12.11.1 · `2026-07-07` · dependabot[bot]
-05. [`M2_GIT_DIFF@8db9fd7`](https://github.com/M2Station/M2_GIT_DIFF/commit/8db9fd72b4a5157ca452436ca31c172335080dc7) — chore(dev-deps): bump @napi-rs/canvas in the npm-minor-an... · `2026-07-07` · dependabot[bot]
-06. [`M2_GIT_DIFF@6847d36`](https://github.com/M2Station/M2_GIT_DIFF/commit/6847d36aef7971a2727fb04fa9e74780a3d7007d) — chore(ci): bump actions/upload-artifact from 4 to 7 · `2026-07-07` · dependabot[bot]
-07. [`M2_GIT_DIFF@43ed509`](https://github.com/M2Station/M2_GIT_DIFF/commit/43ed509636686978ffcc430f714d09c5bbf83cff) — chore(ci): bump softprops/action-gh-release from 2 to 3 · `2026-07-07` · dependabot[bot]
-08. [`M2_GIT_DIFF@5ce50ce`](https://github.com/M2Station/M2_GIT_DIFF/commit/5ce50cea455aaff2825e7cc26806856bb4cc2e49) — chore(ci): bump actions/setup-node from 4 to 6 · `2026-07-07` · dependabot[bot]
-09. [`M2_GIT_DIFF@3731098`](https://github.com/M2Station/M2_GIT_DIFF/commit/3731098084510aa75b78ef698d241763fa0e4021) — chore(ci): bump actions/checkout from 4 to 7 · `2026-07-07` · dependabot[bot]
-10. [`M2_SCOUT@f8b33ce`](https://github.com/M2Station/M2_SCOUT/commit/f8b33ce9d99ab3dfe224bc046637d0eb10a2d029) — release: v0.0.8 · `2026-07-07` · OA Hsiao
+01. [`M2_QWERTY@01a2959`](https://github.com/M2Station/M2_QWERTY/commit/01a29594bf36d6bcabb5d60aeca324cdfe738175) — Add typing stopwatch and improve English space/case checking · `2026-07-08` · OA Hsiao
+02. [`M2_QWERTY@d786738`](https://github.com/M2Station/M2_QWERTY/commit/d786738383641a9ef0bf5a02b0ccc2bcf19b6c74) — feat: Implement server-side progress tracking and parenta... · `2026-07-07` · oahsiao
+03. [`M2_QWERTY@f1117c5`](https://github.com/M2Station/M2_QWERTY/commit/f1117c5a029abfb9d68a7ed9f43a4e3369e0e3a8) — feat: enhance typing practice app with task-based structu... · `2026-07-07` · oahsiao
+04. [`M2_QWERTY@209ec1a`](https://github.com/M2Station/M2_QWERTY/commit/209ec1a7e63e341c1e8f31f867d4dac355cb1a07) — feat: add typing practice app with user login, language s... · `2026-07-07` · oahsiao
+05. [`M2_FENCE@2e755de`](https://github.com/M2Station/M2_FENCE/commit/2e755de3e4d36fd5fb4d37fa7a9022d3369e3df8) — Fix cross-PC auto-start: base Python in shared ProgramDat... · `2026-07-07` · oahsiao
+06. [`M2_QWERTY@1f3b183`](https://github.com/M2Station/M2_QWERTY/commit/1f3b18330d5e92d3607681d10710b4c23ff66865) — Initial commit · `2026-07-07` · oahsiao
+07. [`M2_GIT_DIFF@508fb33`](https://github.com/M2Station/M2_GIT_DIFF/commit/508fb3363c3acd4bda57fdab9c0bce8002984b96) — perf(ci): cache electron-builder, cancel stale runs, x64-... · `2026-07-07` · OA Hsiao
+08. [`M2_ARTBANK@2e5b0d9`](https://github.com/M2Station/M2_ARTBANK/commit/2e5b0d95ed440a5a67a46290daa0bf7d14c4e466) — update README.md · `2026-07-07` · OA Hsiao
+09. [`M2_GIT_DIFF@e48fcb8`](https://github.com/M2Station/M2_GIT_DIFF/commit/e48fcb86bddae095721d5921606ff4d8d1bc3b48) — chore(release): v0.2.2 · `2026-07-07` · OA Hsiao
+10. [`M2_LOG@401c9d4`](https://github.com/M2Station/M2_LOG/commit/401c9d4a545c0f91357ae7abea33a7764a949cf9) — chore: release v0.1.0 · `2026-07-07` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
