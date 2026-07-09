@@ -1,95 +1,95 @@
 {
-  "updated": "2026-07-08 13:25 TWN",
+  "updated": "2026-07-09 14:14 TWN",
   "latestChanges": [
     {
-      "date": 1783473992000,
-      "committedDate": "2026-07-08T01:26:32Z",
-      "header": "Add typing stopwatch and improve English space/case checking",
-      "repo": "M2_QWERTY",
-      "url": "https://github.com/M2Station/M2_QWERTY/commit/01a29594bf36d6bcabb5d60aeca324cdfe738175",
-      "sha": "01a2959",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1783442566000,
-      "committedDate": "2026-07-07T16:42:46Z",
-      "header": "feat: Implement server-side progress tracking and parental PIN protection",
-      "repo": "M2_QWERTY",
-      "url": "https://github.com/M2Station/M2_QWERTY/commit/d786738383641a9ef0bf5a02b0ccc2bcf19b6c74",
-      "sha": "d786738",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783438555000,
-      "committedDate": "2026-07-07T15:35:55Z",
-      "header": "feat: enhance typing practice app with task-based structure, progress tracking, and export/import features",
-      "repo": "M2_QWERTY",
-      "url": "https://github.com/M2Station/M2_QWERTY/commit/f1117c5a029abfb9d68a7ed9f43a4e3369e0e3a8",
-      "sha": "f1117c5",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783435801000,
-      "committedDate": "2026-07-07T14:50:01Z",
-      "header": "feat: add typing practice app with user login, language selection, and progress tracking",
-      "repo": "M2_QWERTY",
-      "url": "https://github.com/M2Station/M2_QWERTY/commit/209ec1a7e63e341c1e8f31f867d4dac355cb1a07",
-      "sha": "209ec1a",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783432683000,
-      "committedDate": "2026-07-07T13:58:03Z",
-      "header": "Fix cross-PC auto-start: base Python in shared ProgramData + ACLs",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/2e755de3e4d36fd5fb4d37fa7a9022d3369e3df8",
-      "sha": "2e755de",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783431776000,
-      "committedDate": "2026-07-07T13:42:56Z",
-      "header": "Initial commit",
-      "repo": "M2_QWERTY",
-      "url": "https://github.com/M2Station/M2_QWERTY/commit/1f3b18330d5e92d3607681d10710b4c23ff66865",
-      "sha": "1f3b183",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783416903000,
-      "committedDate": "2026-07-07T09:35:03Z",
-      "header": "perf(ci): cache electron-builder, cancel stale runs, x64-only PR builds",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/508fb3363c3acd4bda57fdab9c0bce8002984b96",
-      "sha": "508fb33",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1783413831000,
-      "committedDate": "2026-07-07T08:43:51Z",
-      "header": "update README.md",
+      "date": 1783573165000,
+      "committedDate": "2026-07-09T04:59:25Z",
+      "header": "feat(export): Excel export templates with embedded images and offline lightbox",
       "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/2e5b0d95ed440a5a67a46290daa0bf7d14c4e466",
-      "sha": "2e5b0d9",
+      "url": "https://github.com/M2Station/M2_ARTBANK/commit/871fc7036696ebd050ed95e2280e44379c6f8859",
+      "sha": "871fc70",
       "login": "OA Hsiao"
     },
     {
-      "date": 1783409272000,
-      "committedDate": "2026-07-07T07:27:52Z",
-      "header": "chore(release): v0.2.2",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/e48fcb86bddae095721d5921606ff4d8d1bc3b48",
-      "sha": "e48fcb8",
-      "login": "OA Hsiao"
+      "date": 1783571415000,
+      "committedDate": "2026-07-09T04:30:15Z",
+      "header": "Update MSAGUI_v10 exe and delete previous exe",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/8e4aa1c144b2f60c76bd411f47fcd2069ffb3f90",
+      "sha": "8e4aa1c",
+      "login": "cin0429"
     },
     {
-      "date": 1783408683000,
-      "committedDate": "2026-07-07T07:18:03Z",
-      "header": "chore: release v0.1.0",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/401c9d4a545c0f91357ae7abea33a7764a949cf9",
-      "sha": "401c9d4",
-      "login": "OA Hsiao"
+      "date": 1783571346000,
+      "committedDate": "2026-07-09T04:29:06Z",
+      "header": "Update MSAGUI_v9 exe and delete previous exe",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/50e91c8d9d3109ca7e211b6e84c41a5053a64926",
+      "sha": "50e91c8",
+      "login": "cin0429"
+    },
+    {
+      "date": 1783569702000,
+      "committedDate": "2026-07-09T04:01:42Z",
+      "header": "Initial commit",
+      "repo": "M2_GITEA_ADMIN",
+      "url": "https://github.com/M2Station/M2_GITEA_ADMIN/commit/d30904fcc501af3cc71a17db4379e81676740373",
+      "sha": "d30904f",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783566318000,
+      "committedDate": "2026-07-09T03:05:18Z",
+      "header": "Update release note for MSAGUI v9 and  v10 change list",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/4372fe9cd719fa5c47fc800aee973b20dc1b201a",
+      "sha": "4372fe9",
+      "login": "cin0429"
+    },
+    {
+      "date": 1783566317000,
+      "committedDate": "2026-07-09T03:05:17Z",
+      "header": "Optimize SpecLimit Patch tab function",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/cbe0cfb29f0990d9dd9ba836437610ebc247b3b3",
+      "sha": "cbe0cfb",
+      "login": "cin0429"
+    },
+    {
+      "date": 1783566317000,
+      "committedDate": "2026-07-09T03:05:17Z",
+      "header": "Add filiter function for only analyzable item and include non-analyzable items in the RawDataCompleteness_*.html",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/4d6e3b61751403937f278560e64475b382aeb34f",
+      "sha": "4d6e3b6",
+      "login": "cin0429"
+    },
+    {
+      "date": 1783566316000,
+      "committedDate": "2026-07-09T03:05:16Z",
+      "header": "Refactor LogParsing_MSA tab",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/d061a0b609ef3a2dac1099188429b33e0557d55e",
+      "sha": "d061a0b",
+      "login": "cin0429"
+    },
+    {
+      "date": 1783566316000,
+      "committedDate": "2026-07-09T03:05:16Z",
+      "header": "if duplicated logs are detected, the tool will automatically parse and separate them.",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/4550d779be2398870a77d6fd719412c2f5a1de37",
+      "sha": "4550d77",
+      "login": "cin0429"
+    },
+    {
+      "date": 1783566315000,
+      "committedDate": "2026-07-09T03:05:15Z",
+      "header": "Fix zip source issue",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/1bfce985537d0c4906fad4f11bdea60c7cd26d16",
+      "sha": "1bfce98",
+      "login": "cin0429"
     }
   ]
 }

@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_QWERTY@01a2959`](https://github.com/M2Station/M2_QWERTY/commit/01a29594bf36d6bcabb5d60aeca324cdfe738175) — Add typing stopwatch and improve English space/case checking · `2026-07-08` · OA Hsiao
-02. [`M2_QWERTY@d786738`](https://github.com/M2Station/M2_QWERTY/commit/d786738383641a9ef0bf5a02b0ccc2bcf19b6c74) — feat: Implement server-side progress tracking and parenta... · `2026-07-07` · oahsiao
-03. [`M2_QWERTY@f1117c5`](https://github.com/M2Station/M2_QWERTY/commit/f1117c5a029abfb9d68a7ed9f43a4e3369e0e3a8) — feat: enhance typing practice app with task-based structu... · `2026-07-07` · oahsiao
-04. [`M2_QWERTY@209ec1a`](https://github.com/M2Station/M2_QWERTY/commit/209ec1a7e63e341c1e8f31f867d4dac355cb1a07) — feat: add typing practice app with user login, language s... · `2026-07-07` · oahsiao
-05. [`M2_FENCE@2e755de`](https://github.com/M2Station/M2_FENCE/commit/2e755de3e4d36fd5fb4d37fa7a9022d3369e3df8) — Fix cross-PC auto-start: base Python in shared ProgramDat... · `2026-07-07` · oahsiao
-06. [`M2_QWERTY@1f3b183`](https://github.com/M2Station/M2_QWERTY/commit/1f3b18330d5e92d3607681d10710b4c23ff66865) — Initial commit · `2026-07-07` · oahsiao
-07. [`M2_GIT_DIFF@508fb33`](https://github.com/M2Station/M2_GIT_DIFF/commit/508fb3363c3acd4bda57fdab9c0bce8002984b96) — perf(ci): cache electron-builder, cancel stale runs, x64-... · `2026-07-07` · OA Hsiao
-08. [`M2_ARTBANK@2e5b0d9`](https://github.com/M2Station/M2_ARTBANK/commit/2e5b0d95ed440a5a67a46290daa0bf7d14c4e466) — update README.md · `2026-07-07` · OA Hsiao
-09. [`M2_GIT_DIFF@e48fcb8`](https://github.com/M2Station/M2_GIT_DIFF/commit/e48fcb86bddae095721d5921606ff4d8d1bc3b48) — chore(release): v0.2.2 · `2026-07-07` · OA Hsiao
-10. [`M2_LOG@401c9d4`](https://github.com/M2Station/M2_LOG/commit/401c9d4a545c0f91357ae7abea33a7764a949cf9) — chore: release v0.1.0 · `2026-07-07` · OA Hsiao
+01. [`M2_ARTBANK@871fc70`](https://github.com/M2Station/M2_ARTBANK/commit/871fc7036696ebd050ed95e2280e44379c6f8859) — feat(export): Excel export templates with embedded images... · `2026-07-09` · OA Hsiao
+02. [`M2_MSAGUI@8e4aa1c`](https://github.com/M2Station/M2_MSAGUI/commit/8e4aa1c144b2f60c76bd411f47fcd2069ffb3f90) — Update MSAGUI_v10 exe and delete previous exe · `2026-07-09` · cin0429
+03. [`M2_MSAGUI@50e91c8`](https://github.com/M2Station/M2_MSAGUI/commit/50e91c8d9d3109ca7e211b6e84c41a5053a64926) — Update MSAGUI_v9 exe and delete previous exe · `2026-07-09` · cin0429
+04. [`M2_GITEA_ADMIN@d30904f`](https://github.com/M2Station/M2_GITEA_ADMIN/commit/d30904fcc501af3cc71a17db4379e81676740373) — Initial commit · `2026-07-09` · oahsiao
+05. [`M2_MSAGUI@4372fe9`](https://github.com/M2Station/M2_MSAGUI/commit/4372fe9cd719fa5c47fc800aee973b20dc1b201a) — Update release note for MSAGUI v9 and  v10 change list · `2026-07-09` · cin0429
+06. [`M2_MSAGUI@cbe0cfb`](https://github.com/M2Station/M2_MSAGUI/commit/cbe0cfb29f0990d9dd9ba836437610ebc247b3b3) — Optimize SpecLimit Patch tab function · `2026-07-09` · cin0429
+07. [`M2_MSAGUI@4d6e3b6`](https://github.com/M2Station/M2_MSAGUI/commit/4d6e3b61751403937f278560e64475b382aeb34f) — Add filiter function for only analyzable item and include... · `2026-07-09` · cin0429
+08. [`M2_MSAGUI@d061a0b`](https://github.com/M2Station/M2_MSAGUI/commit/d061a0b609ef3a2dac1099188429b33e0557d55e) — Refactor LogParsing_MSA tab · `2026-07-09` · cin0429
+09. [`M2_MSAGUI@4550d77`](https://github.com/M2Station/M2_MSAGUI/commit/4550d779be2398870a77d6fd719412c2f5a1de37) — if duplicated logs are detected, the tool will automatica... · `2026-07-09` · cin0429
+10. [`M2_MSAGUI@1bfce98`](https://github.com/M2Station/M2_MSAGUI/commit/1bfce985537d0c4906fad4f11bdea60c7cd26d16) — Fix zip source issue · `2026-07-09` · cin0429
 <!-- LATEST-CHANGES:END -->
 
 ---
