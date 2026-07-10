@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_ARTBANK@871fc70`](https://github.com/M2Station/M2_ARTBANK/commit/871fc7036696ebd050ed95e2280e44379c6f8859) — feat(export): Excel export templates with embedded images... · `2026-07-09` · OA Hsiao
-02. [`M2_MSAGUI@8e4aa1c`](https://github.com/M2Station/M2_MSAGUI/commit/8e4aa1c144b2f60c76bd411f47fcd2069ffb3f90) — Update MSAGUI_v10 exe and delete previous exe · `2026-07-09` · cin0429
-03. [`M2_MSAGUI@50e91c8`](https://github.com/M2Station/M2_MSAGUI/commit/50e91c8d9d3109ca7e211b6e84c41a5053a64926) — Update MSAGUI_v9 exe and delete previous exe · `2026-07-09` · cin0429
-04. [`M2_GITEA_ADMIN@d30904f`](https://github.com/M2Station/M2_GITEA_ADMIN/commit/d30904fcc501af3cc71a17db4379e81676740373) — Initial commit · `2026-07-09` · oahsiao
-05. [`M2_MSAGUI@4372fe9`](https://github.com/M2Station/M2_MSAGUI/commit/4372fe9cd719fa5c47fc800aee973b20dc1b201a) — Update release note for MSAGUI v9 and  v10 change list · `2026-07-09` · cin0429
-06. [`M2_MSAGUI@cbe0cfb`](https://github.com/M2Station/M2_MSAGUI/commit/cbe0cfb29f0990d9dd9ba836437610ebc247b3b3) — Optimize SpecLimit Patch tab function · `2026-07-09` · cin0429
-07. [`M2_MSAGUI@4d6e3b6`](https://github.com/M2Station/M2_MSAGUI/commit/4d6e3b61751403937f278560e64475b382aeb34f) — Add filiter function for only analyzable item and include... · `2026-07-09` · cin0429
-08. [`M2_MSAGUI@d061a0b`](https://github.com/M2Station/M2_MSAGUI/commit/d061a0b609ef3a2dac1099188429b33e0557d55e) — Refactor LogParsing_MSA tab · `2026-07-09` · cin0429
-09. [`M2_MSAGUI@4550d77`](https://github.com/M2Station/M2_MSAGUI/commit/4550d779be2398870a77d6fd719412c2f5a1de37) — if duplicated logs are detected, the tool will automatica... · `2026-07-09` · cin0429
-10. [`M2_MSAGUI@1bfce98`](https://github.com/M2Station/M2_MSAGUI/commit/1bfce985537d0c4906fad4f11bdea60c7cd26d16) — Fix zip source issue · `2026-07-09` · cin0429
+01. [`M2_FENCE@2b7e1b8`](https://github.com/M2Station/M2_FENCE/commit/2b7e1b8c011468083a778ba0ad42f5cbe4956980) — Shorten watchdog interval from 10 to 3 minutes · `2026-07-10` · oahsiao
+02. [`M2_FENCE@af87fb3`](https://github.com/M2Station/M2_FENCE/commit/af87fb3057c52755117eb6b5d7e619d8fcb43dbe) — Relaunch monitor after sleep/hibernate resume · `2026-07-10` · oahsiao
+03. [`M2_MSAGUI@0dfe122`](https://github.com/M2Station/M2_MSAGUI/commit/0dfe12244e37d43afb6cf8fd0b8879b97333ab47) — Update MSAGUI_Tool_Technical_Reference_Rev_2026_0708 for ... · `2026-07-09` · cin0429
+04. [`M2_GITEA_ADMIN@c7e704c`](https://github.com/M2Station/M2_GITEA_ADMIN/commit/c7e704c62846a22444073454153e8094d5d7ba6c) — +++ · `2026-07-09` · OA Hsiao
+05. [`M2_GITEA_ADMIN@804d0d2`](https://github.com/M2Station/M2_GITEA_ADMIN/commit/804d0d27f3806c1b0a4d360c261420a223885ccf) — ++ · `2026-07-09` · oahsiao
+06. [`.github@cc46e17`](https://github.com/M2Station/.github/commit/cc46e17c1e1fde85b48d76d3126a2689aee07e76) — chore: sync latest changes [skip ci] · `2026-07-09` · github-actions[bot]
+07. [`M2_GITEA_ADMIN@90b7014`](https://github.com/M2Station/M2_GITEA_ADMIN/commit/90b70148a55b43ae8260f477e8ec9e9a890bba02) — ++ · `2026-07-09` · oahsiao
+08. [`M2_ARTBANK@871fc70`](https://github.com/M2Station/M2_ARTBANK/commit/871fc7036696ebd050ed95e2280e44379c6f8859) — feat(export): Excel export templates with embedded images... · `2026-07-09` · OA Hsiao
+09. [`M2_MSAGUI@8e4aa1c`](https://github.com/M2Station/M2_MSAGUI/commit/8e4aa1c144b2f60c76bd411f47fcd2069ffb3f90) — Update MSAGUI_v10 exe and delete previous exe · `2026-07-09` · cin0429
+10. [`M2_MSAGUI@50e91c8`](https://github.com/M2Station/M2_MSAGUI/commit/50e91c8d9d3109ca7e211b6e84c41a5053a64926) — Update MSAGUI_v9 exe and delete previous exe · `2026-07-09` · cin0429
 <!-- LATEST-CHANGES:END -->
 
 ---

@@ -1,6 +1,69 @@
 {
-  "updated": "2026-07-09 14:14 TWN",
+  "updated": "2026-07-10 14:08 TWN",
   "latestChanges": [
+    {
+      "date": 1783657920000,
+      "committedDate": "2026-07-10T04:32:00Z",
+      "header": "Shorten watchdog interval from 10 to 3 minutes",
+      "repo": "M2_FENCE",
+      "url": "https://github.com/M2Station/M2_FENCE/commit/2b7e1b8c011468083a778ba0ad42f5cbe4956980",
+      "sha": "2b7e1b8",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783657545000,
+      "committedDate": "2026-07-10T04:25:45Z",
+      "header": "Relaunch monitor after sleep/hibernate resume",
+      "repo": "M2_FENCE",
+      "url": "https://github.com/M2Station/M2_FENCE/commit/af87fb3057c52755117eb6b5d7e619d8fcb43dbe",
+      "sha": "af87fb3",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783594372000,
+      "committedDate": "2026-07-09T10:52:52Z",
+      "header": "Update MSAGUI_Tool_Technical_Reference_Rev_2026_0708 for MSAGUI_v10",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/0dfe12244e37d43afb6cf8fd0b8879b97333ab47",
+      "sha": "0dfe122",
+      "login": "cin0429"
+    },
+    {
+      "date": 1783582001000,
+      "committedDate": "2026-07-09T07:26:41Z",
+      "header": "+++",
+      "repo": "M2_GITEA_ADMIN",
+      "url": "https://github.com/M2Station/M2_GITEA_ADMIN/commit/c7e704c62846a22444073454153e8094d5d7ba6c",
+      "sha": "c7e704c",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1783579023000,
+      "committedDate": "2026-07-09T06:37:03Z",
+      "header": "++",
+      "repo": "M2_GITEA_ADMIN",
+      "url": "https://github.com/M2Station/M2_GITEA_ADMIN/commit/804d0d27f3806c1b0a4d360c261420a223885ccf",
+      "sha": "804d0d2",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783578350000,
+      "committedDate": "2026-07-09T06:25:50Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/cc46e17c1e1fde85b48d76d3126a2689aee07e76",
+      "sha": "cc46e17",
+      "login": "github-actions[bot]"
+    },
+    {
+      "date": 1783578342000,
+      "committedDate": "2026-07-09T06:25:42Z",
+      "header": "++",
+      "repo": "M2_GITEA_ADMIN",
+      "url": "https://github.com/M2Station/M2_GITEA_ADMIN/commit/90b70148a55b43ae8260f477e8ec9e9a890bba02",
+      "sha": "90b7014",
+      "login": "oahsiao"
+    },
     {
       "date": 1783573165000,
       "committedDate": "2026-07-09T04:59:25Z",
@@ -26,69 +89,6 @@
       "repo": "M2_MSAGUI",
       "url": "https://github.com/M2Station/M2_MSAGUI/commit/50e91c8d9d3109ca7e211b6e84c41a5053a64926",
       "sha": "50e91c8",
-      "login": "cin0429"
-    },
-    {
-      "date": 1783569702000,
-      "committedDate": "2026-07-09T04:01:42Z",
-      "header": "Initial commit",
-      "repo": "M2_GITEA_ADMIN",
-      "url": "https://github.com/M2Station/M2_GITEA_ADMIN/commit/d30904fcc501af3cc71a17db4379e81676740373",
-      "sha": "d30904f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783566318000,
-      "committedDate": "2026-07-09T03:05:18Z",
-      "header": "Update release note for MSAGUI v9 and  v10 change list",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/4372fe9cd719fa5c47fc800aee973b20dc1b201a",
-      "sha": "4372fe9",
-      "login": "cin0429"
-    },
-    {
-      "date": 1783566317000,
-      "committedDate": "2026-07-09T03:05:17Z",
-      "header": "Optimize SpecLimit Patch tab function",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/cbe0cfb29f0990d9dd9ba836437610ebc247b3b3",
-      "sha": "cbe0cfb",
-      "login": "cin0429"
-    },
-    {
-      "date": 1783566317000,
-      "committedDate": "2026-07-09T03:05:17Z",
-      "header": "Add filiter function for only analyzable item and include non-analyzable items in the RawDataCompleteness_*.html",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/4d6e3b61751403937f278560e64475b382aeb34f",
-      "sha": "4d6e3b6",
-      "login": "cin0429"
-    },
-    {
-      "date": 1783566316000,
-      "committedDate": "2026-07-09T03:05:16Z",
-      "header": "Refactor LogParsing_MSA tab",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/d061a0b609ef3a2dac1099188429b33e0557d55e",
-      "sha": "d061a0b",
-      "login": "cin0429"
-    },
-    {
-      "date": 1783566316000,
-      "committedDate": "2026-07-09T03:05:16Z",
-      "header": "if duplicated logs are detected, the tool will automatically parse and separate them.",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/4550d779be2398870a77d6fd719412c2f5a1de37",
-      "sha": "4550d77",
-      "login": "cin0429"
-    },
-    {
-      "date": 1783566315000,
-      "committedDate": "2026-07-09T03:05:15Z",
-      "header": "Fix zip source issue",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/1bfce985537d0c4906fad4f11bdea60c7cd26d16",
-      "sha": "1bfce98",
       "login": "cin0429"
     }
   ]
