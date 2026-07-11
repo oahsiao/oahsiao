@@ -1,6 +1,87 @@
 {
-  "updated": "2026-07-10 14:08 TWN",
+  "updated": "2026-07-11 13:17 TWN",
   "latestChanges": [
+    {
+      "date": 1783702880000,
+      "committedDate": "2026-07-10T17:01:20Z",
+      "header": "feat: resume-to-Telegram alert + dashboard force-reboot",
+      "repo": "M2_FENCE",
+      "url": "https://github.com/M2Station/M2_FENCE/commit/c606b2590d85edb8b0958f933c03f68f9fe32306",
+      "sha": "c606b25",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783702090000,
+      "committedDate": "2026-07-10T16:48:10Z",
+      "header": "fix(blocklist): add '漫画' keyword to enhance content filtering",
+      "repo": "M2_FENCE",
+      "url": "https://github.com/M2Station/M2_FENCE/commit/25c239e2dc1ef360890c3ffe96b2ade9ba288594",
+      "sha": "25c239e",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783701648000,
+      "committedDate": "2026-07-10T16:40:48Z",
+      "header": "fix(tasks): clear on-battery conditions so auto-start works on battery and AC",
+      "repo": "M2_FENCE",
+      "url": "https://github.com/M2Station/M2_FENCE/commit/56acab1b84dbb82052fe52a7bfb0e3863e070ee5",
+      "sha": "56acab1",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783700042000,
+      "committedDate": "2026-07-10T16:14:02Z",
+      "header": "fix(agent): run startup Telegram alert in background so monitor starts immediately",
+      "repo": "M2_FENCE",
+      "url": "https://github.com/M2Station/M2_FENCE/commit/280eafbd839aa5c8ebc56256e344c4ef4b451835",
+      "sha": "280eafb",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783698807000,
+      "committedDate": "2026-07-10T15:53:27Z",
+      "header": "fix(install): free locked .venv on redeploy so rebuild no longer fails with 'file in use'",
+      "repo": "M2_FENCE",
+      "url": "https://github.com/M2Station/M2_FENCE/commit/e0ba9cfe5a8e054a4cad9a9b74b33c3358d198dc",
+      "sha": "e0ba9cf",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783670524000,
+      "committedDate": "2026-07-10T08:02:04Z",
+      "header": "feat: loud task self-check on install + agent.log/heartbeat diagnostics (C3)",
+      "repo": "M2_FENCE",
+      "url": "https://github.com/M2Station/M2_FENCE/commit/f82110ea099d55d4bbb0ebf6e6e5096d3d9bd537",
+      "sha": "f82110e",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783670071000,
+      "committedDate": "2026-07-10T07:54:31Z",
+      "header": "fix: harden monitor startup (retry init) + heartbeat reaper for hung agent",
+      "repo": "M2_FENCE",
+      "url": "https://github.com/M2Station/M2_FENCE/commit/8723c3bfefc0bad77d64eb7dd35f87cb4dff1af8",
+      "sha": "8723c3b",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783669202000,
+      "committedDate": "2026-07-10T07:40:02Z",
+      "header": "feat: periodic usage-time report to Telegram (boot time + uptime every 1h10m)",
+      "repo": "M2_FENCE",
+      "url": "https://github.com/M2Station/M2_FENCE/commit/860f844164b57e479aaafd7ee39f0720161bfb23",
+      "sha": "860f844",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783664680000,
+      "committedDate": "2026-07-10T06:24:40Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/07de12c1dea6854f6b8b832e7981762e6457016a",
+      "sha": "07de12c",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1783657920000,
       "committedDate": "2026-07-10T04:32:00Z",
@@ -9,87 +90,6 @@
       "url": "https://github.com/M2Station/M2_FENCE/commit/2b7e1b8c011468083a778ba0ad42f5cbe4956980",
       "sha": "2b7e1b8",
       "login": "oahsiao"
-    },
-    {
-      "date": 1783657545000,
-      "committedDate": "2026-07-10T04:25:45Z",
-      "header": "Relaunch monitor after sleep/hibernate resume",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/af87fb3057c52755117eb6b5d7e619d8fcb43dbe",
-      "sha": "af87fb3",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783594372000,
-      "committedDate": "2026-07-09T10:52:52Z",
-      "header": "Update MSAGUI_Tool_Technical_Reference_Rev_2026_0708 for MSAGUI_v10",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/0dfe12244e37d43afb6cf8fd0b8879b97333ab47",
-      "sha": "0dfe122",
-      "login": "cin0429"
-    },
-    {
-      "date": 1783582001000,
-      "committedDate": "2026-07-09T07:26:41Z",
-      "header": "+++",
-      "repo": "M2_GITEA_ADMIN",
-      "url": "https://github.com/M2Station/M2_GITEA_ADMIN/commit/c7e704c62846a22444073454153e8094d5d7ba6c",
-      "sha": "c7e704c",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1783579023000,
-      "committedDate": "2026-07-09T06:37:03Z",
-      "header": "++",
-      "repo": "M2_GITEA_ADMIN",
-      "url": "https://github.com/M2Station/M2_GITEA_ADMIN/commit/804d0d27f3806c1b0a4d360c261420a223885ccf",
-      "sha": "804d0d2",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783578350000,
-      "committedDate": "2026-07-09T06:25:50Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/cc46e17c1e1fde85b48d76d3126a2689aee07e76",
-      "sha": "cc46e17",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1783578342000,
-      "committedDate": "2026-07-09T06:25:42Z",
-      "header": "++",
-      "repo": "M2_GITEA_ADMIN",
-      "url": "https://github.com/M2Station/M2_GITEA_ADMIN/commit/90b70148a55b43ae8260f477e8ec9e9a890bba02",
-      "sha": "90b7014",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783573165000,
-      "committedDate": "2026-07-09T04:59:25Z",
-      "header": "feat(export): Excel export templates with embedded images and offline lightbox",
-      "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/871fc7036696ebd050ed95e2280e44379c6f8859",
-      "sha": "871fc70",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1783571415000,
-      "committedDate": "2026-07-09T04:30:15Z",
-      "header": "Update MSAGUI_v10 exe and delete previous exe",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/8e4aa1c144b2f60c76bd411f47fcd2069ffb3f90",
-      "sha": "8e4aa1c",
-      "login": "cin0429"
-    },
-    {
-      "date": 1783571346000,
-      "committedDate": "2026-07-09T04:29:06Z",
-      "header": "Update MSAGUI_v9 exe and delete previous exe",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/50e91c8d9d3109ca7e211b6e84c41a5053a64926",
-      "sha": "50e91c8",
-      "login": "cin0429"
     }
   ]
 }

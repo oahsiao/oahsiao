@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_FENCE@2b7e1b8`](https://github.com/M2Station/M2_FENCE/commit/2b7e1b8c011468083a778ba0ad42f5cbe4956980) — Shorten watchdog interval from 10 to 3 minutes · `2026-07-10` · oahsiao
-02. [`M2_FENCE@af87fb3`](https://github.com/M2Station/M2_FENCE/commit/af87fb3057c52755117eb6b5d7e619d8fcb43dbe) — Relaunch monitor after sleep/hibernate resume · `2026-07-10` · oahsiao
-03. [`M2_MSAGUI@0dfe122`](https://github.com/M2Station/M2_MSAGUI/commit/0dfe12244e37d43afb6cf8fd0b8879b97333ab47) — Update MSAGUI_Tool_Technical_Reference_Rev_2026_0708 for ... · `2026-07-09` · cin0429
-04. [`M2_GITEA_ADMIN@c7e704c`](https://github.com/M2Station/M2_GITEA_ADMIN/commit/c7e704c62846a22444073454153e8094d5d7ba6c) — +++ · `2026-07-09` · OA Hsiao
-05. [`M2_GITEA_ADMIN@804d0d2`](https://github.com/M2Station/M2_GITEA_ADMIN/commit/804d0d27f3806c1b0a4d360c261420a223885ccf) — ++ · `2026-07-09` · oahsiao
-06. [`.github@cc46e17`](https://github.com/M2Station/.github/commit/cc46e17c1e1fde85b48d76d3126a2689aee07e76) — chore: sync latest changes [skip ci] · `2026-07-09` · github-actions[bot]
-07. [`M2_GITEA_ADMIN@90b7014`](https://github.com/M2Station/M2_GITEA_ADMIN/commit/90b70148a55b43ae8260f477e8ec9e9a890bba02) — ++ · `2026-07-09` · oahsiao
-08. [`M2_ARTBANK@871fc70`](https://github.com/M2Station/M2_ARTBANK/commit/871fc7036696ebd050ed95e2280e44379c6f8859) — feat(export): Excel export templates with embedded images... · `2026-07-09` · OA Hsiao
-09. [`M2_MSAGUI@8e4aa1c`](https://github.com/M2Station/M2_MSAGUI/commit/8e4aa1c144b2f60c76bd411f47fcd2069ffb3f90) — Update MSAGUI_v10 exe and delete previous exe · `2026-07-09` · cin0429
-10. [`M2_MSAGUI@50e91c8`](https://github.com/M2Station/M2_MSAGUI/commit/50e91c8d9d3109ca7e211b6e84c41a5053a64926) — Update MSAGUI_v9 exe and delete previous exe · `2026-07-09` · cin0429
+01. [`M2_FENCE@c606b25`](https://github.com/M2Station/M2_FENCE/commit/c606b2590d85edb8b0958f933c03f68f9fe32306) — feat: resume-to-Telegram alert + dashboard force-reboot · `2026-07-10` · oahsiao
+02. [`M2_FENCE@25c239e`](https://github.com/M2Station/M2_FENCE/commit/25c239e2dc1ef360890c3ffe96b2ade9ba288594) — fix(blocklist): add '漫画' keyword to enhance content filte... · `2026-07-10` · oahsiao
+03. [`M2_FENCE@56acab1`](https://github.com/M2Station/M2_FENCE/commit/56acab1b84dbb82052fe52a7bfb0e3863e070ee5) — fix(tasks): clear on-battery conditions so auto-start wor... · `2026-07-10` · oahsiao
+04. [`M2_FENCE@280eafb`](https://github.com/M2Station/M2_FENCE/commit/280eafbd839aa5c8ebc56256e344c4ef4b451835) — fix(agent): run startup Telegram alert in background so m... · `2026-07-10` · oahsiao
+05. [`M2_FENCE@e0ba9cf`](https://github.com/M2Station/M2_FENCE/commit/e0ba9cfe5a8e054a4cad9a9b74b33c3358d198dc) — fix(install): free locked .venv on redeploy so rebuild no... · `2026-07-10` · oahsiao
+06. [`M2_FENCE@f82110e`](https://github.com/M2Station/M2_FENCE/commit/f82110ea099d55d4bbb0ebf6e6e5096d3d9bd537) — feat: loud task self-check on install + agent.log/heartbe... · `2026-07-10` · oahsiao
+07. [`M2_FENCE@8723c3b`](https://github.com/M2Station/M2_FENCE/commit/8723c3bfefc0bad77d64eb7dd35f87cb4dff1af8) — fix: harden monitor startup (retry init) + heartbeat reap... · `2026-07-10` · oahsiao
+08. [`M2_FENCE@860f844`](https://github.com/M2Station/M2_FENCE/commit/860f844164b57e479aaafd7ee39f0720161bfb23) — feat: periodic usage-time report to Telegram (boot time +... · `2026-07-10` · oahsiao
+09. [`.github@07de12c`](https://github.com/M2Station/.github/commit/07de12c1dea6854f6b8b832e7981762e6457016a) — chore: sync latest changes [skip ci] · `2026-07-10` · github-actions[bot]
+10. [`M2_FENCE@2b7e1b8`](https://github.com/M2Station/M2_FENCE/commit/2b7e1b8c011468083a778ba0ad42f5cbe4956980) — Shorten watchdog interval from 10 to 3 minutes · `2026-07-10` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;407.20000000000005;407.20000000000005;0;0"
-        keyTimes="0;0.000;0.117;0.185;0.207;1"
-        dur="23.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.000;0.098;0.150;0.167;1"
+        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Shorten watchdog interval from 10 to 3 minutes</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat: resume-to-Telegram alert + dashboard forc...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;398.8;398.8;0;0"
-        keyTimes="0;0.207;0.321;0.389;0.411;1"
-        dur="23.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.167;0.265;0.317;0.333;1"
+        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Relaunch monitor after sleep/hibernate resume</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(blocklist): add '漫画' keyword to enhance con...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.411;0.538;0.606;0.628;1"
-        dur="23.5s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.333;0.431;0.484;0.500;1"
+        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update MSAGUI_Tool_Technical_Reference_Rev_2026...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(tasks): clear on-battery conditions so auto...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;46;46;0;0"
-        keyTimes="0;0.628;0.635;0.703;0.724;1"
-        dur="23.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.500;0.598;0.650;0.667;1"
+        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>+++</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(agent): run startup Telegram alert in backg...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;37.6;37.6;0;0"
-        keyTimes="0;0.724;0.730;0.798;0.819;1"
-        dur="23.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.667;0.765;0.817;0.833;1"
+        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>++</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(install): free locked .venv on redeploy so ...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;323.2;323.2;0;0"
-        keyTimes="0;0.819;0.911;0.979;1.000;1"
-        dur="23.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.833;0.931;0.984;1.000;1"
+        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: sync latest changes [skip ci]</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat: loud task self-check on install + agent.l...</text>
     </g>
 </svg>

@@ -2,11 +2,11 @@
   <rect width="480" height="130" fill="#060a0f" rx="8"/>
   <text x="12" y="14" font-family="DM Mono,monospace" font-size="9" fill="#007a6a" letter-spacing="3">// M2STATION · ACTIVE HOURS (TWN UTC+8)</text>
   <line x1="8" y1="22" x2="472" y2="22" stroke="#00f5d4" stroke-width="0.3" opacity="0.3"/>
-  <rect x="20" y="90" width="16" height="4" fill="#00f5d4" opacity="0.20" rx="1">
-      <animate attributeName="height" from="0" to="4" dur="1s" begin="0.00s" fill="freeze"/>
-      <animate attributeName="y" from="94" to="90" dur="1s" begin="0.00s" fill="freeze"/>
+  <rect x="20" y="89" width="16" height="5" fill="#00f5d4" opacity="0.21" rx="1">
+      <animate attributeName="height" from="0" to="5" dur="1s" begin="0.00s" fill="freeze"/>
+      <animate attributeName="y" from="94" to="89" dur="1s" begin="0.00s" fill="freeze"/>
     </rect>
-    <text x="28" y="106" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">00</text><rect x="38" y="91" width="16" height="3" fill="#00f5d4" opacity="0.18" rx="1">
+    <text x="28" y="106" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">00</text><rect x="38" y="91" width="16" height="3" fill="#00f5d4" opacity="0.19" rx="1">
       <animate attributeName="height" from="0" to="3" dur="1s" begin="0.03s" fill="freeze"/>
       <animate attributeName="y" from="94" to="91" dur="1s" begin="0.03s" fill="freeze"/>
     </rect>
@@ -94,10 +94,10 @@
       <animate attributeName="height" from="0" to="8" dur="1s" begin="0.66s" fill="freeze"/>
       <animate attributeName="y" from="94" to="86" dur="1s" begin="0.66s" fill="freeze"/>
     </rect>
-    <rect x="434" y="87" width="16" height="7" fill="#00f5d4" opacity="0.23" rx="1">
+    <rect x="434" y="87" width="16" height="7" fill="#00f5d4" opacity="0.24" rx="1">
       <animate attributeName="height" from="0" to="7" dur="1s" begin="0.69s" fill="freeze"/>
       <animate attributeName="y" from="94" to="87" dur="1s" begin="0.69s" fill="freeze"/>
     </rect>
     <text x="442" y="106" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">23</text>
-  <text x="240" y="124" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-07-10 14:08 TWN</text>
+  <text x="240" y="124" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-07-11 13:17 TWN</text>
 </svg>
