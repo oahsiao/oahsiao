@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-11 13:17 TWN",
+  "updated": "2026-07-12 13:32 TWN",
   "latestChanges": [
+    {
+      "date": 1783765789000,
+      "committedDate": "2026-07-11T10:29:49Z",
+      "header": "feat: 代幣記錄網頁（欠款帳本／大銀行／清償／操作紀錄）",
+      "repo": "M2_TOKEN",
+      "url": "https://github.com/M2Station/M2_TOKEN/commit/9c9a1dd2db284092f802bba55eca801931db9be4",
+      "sha": "9c9a1dd",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783757717000,
+      "committedDate": "2026-07-11T08:15:17Z",
+      "header": "Initial commit",
+      "repo": "M2_TOKEN",
+      "url": "https://github.com/M2Station/M2_TOKEN/commit/7db7fdd426963b4965fe4bba5c4971d117b0e5fd",
+      "sha": "7db7fdd",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1783747520000,
+      "committedDate": "2026-07-11T05:25:20Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/eff78cf52807f660b41e94c02cf242ccfa19f53a",
+      "sha": "eff78cf",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1783702880000,
       "committedDate": "2026-07-10T17:01:20Z",
@@ -62,33 +89,6 @@
       "repo": "M2_FENCE",
       "url": "https://github.com/M2Station/M2_FENCE/commit/8723c3bfefc0bad77d64eb7dd35f87cb4dff1af8",
       "sha": "8723c3b",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783669202000,
-      "committedDate": "2026-07-10T07:40:02Z",
-      "header": "feat: periodic usage-time report to Telegram (boot time + uptime every 1h10m)",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/860f844164b57e479aaafd7ee39f0720161bfb23",
-      "sha": "860f844",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783664680000,
-      "committedDate": "2026-07-10T06:24:40Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/07de12c1dea6854f6b8b832e7981762e6457016a",
-      "sha": "07de12c",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1783657920000,
-      "committedDate": "2026-07-10T04:32:00Z",
-      "header": "Shorten watchdog interval from 10 to 3 minutes",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/2b7e1b8c011468083a778ba0ad42f5cbe4956980",
-      "sha": "2b7e1b8",
       "login": "oahsiao"
     }
   ]
