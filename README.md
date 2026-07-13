@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TOKEN@9c9a1dd`](https://github.com/M2Station/M2_TOKEN/commit/9c9a1dd2db284092f802bba55eca801931db9be4) — feat: 代幣記錄網頁（欠款帳本／大銀行／清償／操作紀錄） · `2026-07-11` · oahsiao
-02. [`M2_TOKEN@7db7fdd`](https://github.com/M2Station/M2_TOKEN/commit/7db7fdd426963b4965fe4bba5c4971d117b0e5fd) — Initial commit · `2026-07-11` · oahsiao
-03. [`.github@eff78cf`](https://github.com/M2Station/.github/commit/eff78cf52807f660b41e94c02cf242ccfa19f53a) — chore: sync latest changes [skip ci] · `2026-07-11` · github-actions[bot]
-04. [`M2_FENCE@c606b25`](https://github.com/M2Station/M2_FENCE/commit/c606b2590d85edb8b0958f933c03f68f9fe32306) — feat: resume-to-Telegram alert + dashboard force-reboot · `2026-07-10` · oahsiao
-05. [`M2_FENCE@25c239e`](https://github.com/M2Station/M2_FENCE/commit/25c239e2dc1ef360890c3ffe96b2ade9ba288594) — fix(blocklist): add '漫画' keyword to enhance content filte... · `2026-07-10` · oahsiao
-06. [`M2_FENCE@56acab1`](https://github.com/M2Station/M2_FENCE/commit/56acab1b84dbb82052fe52a7bfb0e3863e070ee5) — fix(tasks): clear on-battery conditions so auto-start wor... · `2026-07-10` · oahsiao
-07. [`M2_FENCE@280eafb`](https://github.com/M2Station/M2_FENCE/commit/280eafbd839aa5c8ebc56256e344c4ef4b451835) — fix(agent): run startup Telegram alert in background so m... · `2026-07-10` · oahsiao
-08. [`M2_FENCE@e0ba9cf`](https://github.com/M2Station/M2_FENCE/commit/e0ba9cfe5a8e054a4cad9a9b74b33c3358d198dc) — fix(install): free locked .venv on redeploy so rebuild no... · `2026-07-10` · oahsiao
-09. [`M2_FENCE@f82110e`](https://github.com/M2Station/M2_FENCE/commit/f82110ea099d55d4bbb0ebf6e6e5096d3d9bd537) — feat: loud task self-check on install + agent.log/heartbe... · `2026-07-10` · oahsiao
-10. [`M2_FENCE@8723c3b`](https://github.com/M2Station/M2_FENCE/commit/8723c3bfefc0bad77d64eb7dd35f87cb4dff1af8) — fix: harden monitor startup (retry init) + heartbeat reap... · `2026-07-10` · oahsiao
+01. [`M2_LOG@cd35069`](https://github.com/M2Station/M2_LOG/commit/cd3506955a988126cbbbc692a7983d02ff38cab6) — chore: release v0.1.1 · `2026-07-13` · OA Hsiao
+02. [`M2_LOG@dd8a5d7`](https://github.com/M2Station/M2_LOG/commit/dd8a5d7d45a83ff0d5f77065c96335b1953ef226) — fix: preserve Chinese (Unicode) characters in experiment ... · `2026-07-13` · OA Hsiao
+03. [`M2_GIT_DIFF@7a28a01`](https://github.com/M2Station/M2_GIT_DIFF/commit/7a28a0193d9b6e087abfe77f9e54d16510ea92ec) — chore(dev-deps): bump the electron group with 2 updates · `2026-07-13` · dependabot[bot]
+04. [`M2_GIT_DIFF@75dab9f`](https://github.com/M2Station/M2_GIT_DIFF/commit/75dab9fe94282d2e85949df47f92456c90ca7987) — chore(dev-deps): bump vite in the vite-vitest-toolchain g... · `2026-07-13` · dependabot[bot]
+05. [`M2_LOG@1186403`](https://github.com/M2Station/M2_LOG/commit/1186403c7583396e4d1607bae22ae39cd9e32b60) — chore(deps-dev): bump electron from 43.0.0 to 43.1.0 · `2026-07-12` · dependabot[bot]
+06. [`.github@3df88bd`](https://github.com/M2Station/.github/commit/3df88bdc7617f78975c527cb6e454ef9b7a09922) — chore: sync latest changes [skip ci] · `2026-07-12` · github-actions[bot]
+07. [`M2_TOKEN@9c9a1dd`](https://github.com/M2Station/M2_TOKEN/commit/9c9a1dd2db284092f802bba55eca801931db9be4) — feat: 代幣記錄網頁（欠款帳本／大銀行／清償／操作紀錄） · `2026-07-11` · oahsiao
+08. [`M2_TOKEN@7db7fdd`](https://github.com/M2Station/M2_TOKEN/commit/7db7fdd426963b4965fe4bba5c4971d117b0e5fd) — Initial commit · `2026-07-11` · oahsiao
+09. [`.github@eff78cf`](https://github.com/M2Station/.github/commit/eff78cf52807f660b41e94c02cf242ccfa19f53a) — chore: sync latest changes [skip ci] · `2026-07-11` · github-actions[bot]
+10. [`M2_FENCE@c606b25`](https://github.com/M2Station/M2_FENCE/commit/c606b2590d85edb8b0958f933c03f68f9fe32306) — feat: resume-to-Telegram alert + dashboard force-reboot · `2026-07-10` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

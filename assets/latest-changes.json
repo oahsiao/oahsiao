@@ -1,6 +1,60 @@
 {
-  "updated": "2026-07-12 13:32 TWN",
+  "updated": "2026-07-13 13:41 TWN",
   "latestChanges": [
+    {
+      "date": 1783915556000,
+      "committedDate": "2026-07-13T04:05:56Z",
+      "header": "chore: release v0.1.1",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/cd3506955a988126cbbbc692a7983d02ff38cab6",
+      "sha": "cd35069",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1783915204000,
+      "committedDate": "2026-07-13T04:00:04Z",
+      "header": "fix: preserve Chinese (Unicode) characters in experiment and LOG names",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/dd8a5d7d45a83ff0d5f77065c96335b1953ef226",
+      "sha": "dd8a5d7",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1783905058000,
+      "committedDate": "2026-07-13T01:10:58Z",
+      "header": "chore(dev-deps): bump the electron group with 2 updates",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/7a28a0193d9b6e087abfe77f9e54d16510ea92ec",
+      "sha": "7a28a01",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1783905027000,
+      "committedDate": "2026-07-13T01:10:27Z",
+      "header": "chore(dev-deps): bump vite in the vite-vitest-toolchain group",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/75dab9fe94282d2e85949df47f92456c90ca7987",
+      "sha": "75dab9f",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1783860178000,
+      "committedDate": "2026-07-12T12:42:58Z",
+      "header": "chore(deps-dev): bump electron from 43.0.0 to 43.1.0",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/1186403c7583396e4d1607bae22ae39cd9e32b60",
+      "sha": "1186403",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1783834860000,
+      "committedDate": "2026-07-12T05:41:00Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/3df88bdc7617f78975c527cb6e454ef9b7a09922",
+      "sha": "3df88bd",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1783765789000,
       "committedDate": "2026-07-11T10:29:49Z",
@@ -35,60 +89,6 @@
       "repo": "M2_FENCE",
       "url": "https://github.com/M2Station/M2_FENCE/commit/c606b2590d85edb8b0958f933c03f68f9fe32306",
       "sha": "c606b25",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783702090000,
-      "committedDate": "2026-07-10T16:48:10Z",
-      "header": "fix(blocklist): add '漫画' keyword to enhance content filtering",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/25c239e2dc1ef360890c3ffe96b2ade9ba288594",
-      "sha": "25c239e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783701648000,
-      "committedDate": "2026-07-10T16:40:48Z",
-      "header": "fix(tasks): clear on-battery conditions so auto-start works on battery and AC",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/56acab1b84dbb82052fe52a7bfb0e3863e070ee5",
-      "sha": "56acab1",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783700042000,
-      "committedDate": "2026-07-10T16:14:02Z",
-      "header": "fix(agent): run startup Telegram alert in background so monitor starts immediately",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/280eafbd839aa5c8ebc56256e344c4ef4b451835",
-      "sha": "280eafb",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783698807000,
-      "committedDate": "2026-07-10T15:53:27Z",
-      "header": "fix(install): free locked .venv on redeploy so rebuild no longer fails with 'file in use'",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/e0ba9cfe5a8e054a4cad9a9b74b33c3358d198dc",
-      "sha": "e0ba9cf",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783670524000,
-      "committedDate": "2026-07-10T08:02:04Z",
-      "header": "feat: loud task self-check on install + agent.log/heartbeat diagnostics (C3)",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/f82110ea099d55d4bbb0ebf6e6e5096d3d9bd537",
-      "sha": "f82110e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1783670071000,
-      "committedDate": "2026-07-10T07:54:31Z",
-      "header": "fix: harden monitor startup (retry init) + heartbeat reaper for hung agent",
-      "repo": "M2_FENCE",
-      "url": "https://github.com/M2Station/M2_FENCE/commit/8723c3bfefc0bad77d64eb7dd35f87cb4dff1af8",
-      "sha": "8723c3b",
       "login": "oahsiao"
     }
   ]
