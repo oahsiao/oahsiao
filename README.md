@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_LOG@cd35069`](https://github.com/M2Station/M2_LOG/commit/cd3506955a988126cbbbc692a7983d02ff38cab6) — chore: release v0.1.1 · `2026-07-13` · OA Hsiao
-02. [`M2_LOG@dd8a5d7`](https://github.com/M2Station/M2_LOG/commit/dd8a5d7d45a83ff0d5f77065c96335b1953ef226) — fix: preserve Chinese (Unicode) characters in experiment ... · `2026-07-13` · OA Hsiao
-03. [`M2_GIT_DIFF@7a28a01`](https://github.com/M2Station/M2_GIT_DIFF/commit/7a28a0193d9b6e087abfe77f9e54d16510ea92ec) — chore(dev-deps): bump the electron group with 2 updates · `2026-07-13` · dependabot[bot]
-04. [`M2_GIT_DIFF@75dab9f`](https://github.com/M2Station/M2_GIT_DIFF/commit/75dab9fe94282d2e85949df47f92456c90ca7987) — chore(dev-deps): bump vite in the vite-vitest-toolchain g... · `2026-07-13` · dependabot[bot]
-05. [`M2_LOG@1186403`](https://github.com/M2Station/M2_LOG/commit/1186403c7583396e4d1607bae22ae39cd9e32b60) — chore(deps-dev): bump electron from 43.0.0 to 43.1.0 · `2026-07-12` · dependabot[bot]
-06. [`.github@3df88bd`](https://github.com/M2Station/.github/commit/3df88bdc7617f78975c527cb6e454ef9b7a09922) — chore: sync latest changes [skip ci] · `2026-07-12` · github-actions[bot]
-07. [`M2_TOKEN@9c9a1dd`](https://github.com/M2Station/M2_TOKEN/commit/9c9a1dd2db284092f802bba55eca801931db9be4) — feat: 代幣記錄網頁（欠款帳本／大銀行／清償／操作紀錄） · `2026-07-11` · oahsiao
-08. [`M2_TOKEN@7db7fdd`](https://github.com/M2Station/M2_TOKEN/commit/7db7fdd426963b4965fe4bba5c4971d117b0e5fd) — Initial commit · `2026-07-11` · oahsiao
-09. [`.github@eff78cf`](https://github.com/M2Station/.github/commit/eff78cf52807f660b41e94c02cf242ccfa19f53a) — chore: sync latest changes [skip ci] · `2026-07-11` · github-actions[bot]
-10. [`M2_FENCE@c606b25`](https://github.com/M2Station/M2_FENCE/commit/c606b2590d85edb8b0958f933c03f68f9fe32306) — feat: resume-to-Telegram alert + dashboard force-reboot · `2026-07-10` · oahsiao
+01. [`M2_WIKI@e852561`](https://github.com/M2Station/M2_WIKI/commit/e85256186272a552c68c07d729e9a8ef6b0d0bbb) — ++ · `2026-07-14` · OA Hsiao
+02. [`M2_WIKI@f6a4f34`](https://github.com/M2Station/M2_WIKI/commit/f6a4f34af0de78e3e7069fbd5f709bb7f988c704) — add NVL FSP Build process. · `2026-07-14` · OA Hsiao
+03. [`M2_LOG@f72824b`](https://github.com/M2Station/M2_LOG/commit/f72824b780bd029d77961be1af4741a1531581ea) — chore: release v0.1.3 · `2026-07-13` · OA Hsiao
+04. [`M2_LOG@59b87bb`](https://github.com/M2Station/M2_LOG/commit/59b87bb972ceb3aa926734d42436f9835674ed35) — feat(analysis): in-place LOG editor + Output Root workflow · `2026-07-13` · OA Hsiao
+05. [`M2_LOG@e059c32`](https://github.com/M2Station/M2_LOG/commit/e059c324b9dc818ce65b23c369701078ba514d78) — chore: release v0.1.2 · `2026-07-13` · OA Hsiao
+06. [`M2_LOG@f416aa3`](https://github.com/M2Station/M2_LOG/commit/f416aa3d75fc830cfd3a5b5856d2cd9c404fc28f) — feat(highlight): add CriticalSocError rule to RUST_SAM · `2026-07-13` · OA Hsiao
+07. [`.github@99b22eb`](https://github.com/M2Station/.github/commit/99b22eb3913d72f5bb3356e3785cdac78b71d3e8) — chore: sync latest changes [skip ci] · `2026-07-13` · github-actions[bot]
+08. [`M2_LOG@cd35069`](https://github.com/M2Station/M2_LOG/commit/cd3506955a988126cbbbc692a7983d02ff38cab6) — chore: release v0.1.1 · `2026-07-13` · OA Hsiao
+09. [`M2_LOG@dd8a5d7`](https://github.com/M2Station/M2_LOG/commit/dd8a5d7d45a83ff0d5f77065c96335b1953ef226) — fix: preserve Chinese (Unicode) characters in experiment ... · `2026-07-13` · OA Hsiao
+10. [`M2_GIT_DIFF@7a28a01`](https://github.com/M2Station/M2_GIT_DIFF/commit/7a28a0193d9b6e087abfe77f9e54d16510ea92ec) — chore(dev-deps): bump the electron group with 2 updates · `2026-07-13` · dependabot[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---
