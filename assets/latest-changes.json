@@ -1,6 +1,87 @@
 {
-  "updated": "2026-07-14 12:54 TWN",
+  "updated": "2026-07-15 12:55 TWN",
   "latestChanges": [
+    {
+      "date": 1784087465000,
+      "committedDate": "2026-07-15T03:51:05Z",
+      "header": "feat: add draggable Git commands quick-copy panel to branch map",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/5021d452fbea2fe056c2f37fa6144e14777ebb21",
+      "sha": "5021d45",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1784084411000,
+      "committedDate": "2026-07-15T03:00:11Z",
+      "header": "git submodule update --init --recursive --progress --jobs 8",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/c539d64aaeed910a987d2f29da6a8d3fdeea4fbc",
+      "sha": "c539d64",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1784082242000,
+      "committedDate": "2026-07-15T02:24:02Z",
+      "header": "Correct USB3",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/e87b680f53b833a3f20fbe84ca2ac33fe0d761ea",
+      "sha": "e87b680",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1784039175000,
+      "committedDate": "2026-07-14T14:26:15Z",
+      "header": "chore: release v0.2.4",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/96165fbb60476bb4e6b5366b237af064d541b9e8",
+      "sha": "96165fb",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784034877000,
+      "committedDate": "2026-07-14T13:14:37Z",
+      "header": "feat: worktree lock detection + Task Manager shortcut, split worktree popups",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/3a6e99a076c63ac1e3b5c1b7e2ca907991da297e",
+      "sha": "3a6e99a",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1784015562000,
+      "committedDate": "2026-07-14T07:52:42Z",
+      "header": "chore(release): v0.2.3 (#99)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/9590e801e1483a1e2f41785ca503a5cb7dc0ffc7",
+      "sha": "9590e80",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784013982000,
+      "committedDate": "2026-07-14T07:26:22Z",
+      "header": "feat: worktree management panel (add / switch / remove worktrees)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/0b44dc47b5fba80f21b0293f6e5f7c767ebf17e5",
+      "sha": "0b44dc4",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1784012683000,
+      "committedDate": "2026-07-14T07:04:43Z",
+      "header": "GIT WORKTREE",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/881a22dc048d0d486530a2d87d58d85099c59fbd",
+      "sha": "881a22d",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1784005970000,
+      "committedDate": "2026-07-14T05:12:50Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/7e3b90d38fd29e63c61afadcd7bab517a2b13279",
+      "sha": "7e3b90d",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1783994439000,
       "committedDate": "2026-07-14T02:00:39Z",
@@ -9,87 +90,6 @@
       "url": "https://github.com/M2Station/M2_WIKI/commit/e85256186272a552c68c07d729e9a8ef6b0d0bbb",
       "sha": "e852561",
       "login": "OA Hsiao"
-    },
-    {
-      "date": 1783994345000,
-      "committedDate": "2026-07-14T01:59:05Z",
-      "header": "add NVL FSP Build process.",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/f6a4f34af0de78e3e7069fbd5f709bb7f988c704",
-      "sha": "f6a4f34",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1783937260000,
-      "committedDate": "2026-07-13T10:07:40Z",
-      "header": "chore: release v0.1.3",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/f72824b780bd029d77961be1af4741a1531581ea",
-      "sha": "f72824b",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1783935596000,
-      "committedDate": "2026-07-13T09:39:56Z",
-      "header": "feat(analysis): in-place LOG editor + Output Root workflow",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/59b87bb972ceb3aa926734d42436f9835674ed35",
-      "sha": "59b87bb",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1783928236000,
-      "committedDate": "2026-07-13T07:37:16Z",
-      "header": "chore: release v0.1.2",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/e059c324b9dc818ce65b23c369701078ba514d78",
-      "sha": "e059c32",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1783927997000,
-      "committedDate": "2026-07-13T07:33:17Z",
-      "header": "feat(highlight): add CriticalSocError rule to RUST_SAM",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/f416aa3d75fc830cfd3a5b5856d2cd9c404fc28f",
-      "sha": "f416aa3",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1783921895000,
-      "committedDate": "2026-07-13T05:51:35Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/99b22eb3913d72f5bb3356e3785cdac78b71d3e8",
-      "sha": "99b22eb",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1783915556000,
-      "committedDate": "2026-07-13T04:05:56Z",
-      "header": "chore: release v0.1.1",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/cd3506955a988126cbbbc692a7983d02ff38cab6",
-      "sha": "cd35069",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1783915204000,
-      "committedDate": "2026-07-13T04:00:04Z",
-      "header": "fix: preserve Chinese (Unicode) characters in experiment and LOG names",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/dd8a5d7d45a83ff0d5f77065c96335b1953ef226",
-      "sha": "dd8a5d7",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1783905058000,
-      "committedDate": "2026-07-13T01:10:58Z",
-      "header": "chore(dev-deps): bump the electron group with 2 updates",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/7a28a0193d9b6e087abfe77f9e54d16510ea92ec",
-      "sha": "7a28a01",
-      "login": "dependabot[bot]"
     }
   ]
 }

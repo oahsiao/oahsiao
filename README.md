@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@e852561`](https://github.com/M2Station/M2_WIKI/commit/e85256186272a552c68c07d729e9a8ef6b0d0bbb) — ++ · `2026-07-14` · OA Hsiao
-02. [`M2_WIKI@f6a4f34`](https://github.com/M2Station/M2_WIKI/commit/f6a4f34af0de78e3e7069fbd5f709bb7f988c704) — add NVL FSP Build process. · `2026-07-14` · OA Hsiao
-03. [`M2_LOG@f72824b`](https://github.com/M2Station/M2_LOG/commit/f72824b780bd029d77961be1af4741a1531581ea) — chore: release v0.1.3 · `2026-07-13` · OA Hsiao
-04. [`M2_LOG@59b87bb`](https://github.com/M2Station/M2_LOG/commit/59b87bb972ceb3aa926734d42436f9835674ed35) — feat(analysis): in-place LOG editor + Output Root workflow · `2026-07-13` · OA Hsiao
-05. [`M2_LOG@e059c32`](https://github.com/M2Station/M2_LOG/commit/e059c324b9dc818ce65b23c369701078ba514d78) — chore: release v0.1.2 · `2026-07-13` · OA Hsiao
-06. [`M2_LOG@f416aa3`](https://github.com/M2Station/M2_LOG/commit/f416aa3d75fc830cfd3a5b5856d2cd9c404fc28f) — feat(highlight): add CriticalSocError rule to RUST_SAM · `2026-07-13` · OA Hsiao
-07. [`.github@99b22eb`](https://github.com/M2Station/.github/commit/99b22eb3913d72f5bb3356e3785cdac78b71d3e8) — chore: sync latest changes [skip ci] · `2026-07-13` · github-actions[bot]
-08. [`M2_LOG@cd35069`](https://github.com/M2Station/M2_LOG/commit/cd3506955a988126cbbbc692a7983d02ff38cab6) — chore: release v0.1.1 · `2026-07-13` · OA Hsiao
-09. [`M2_LOG@dd8a5d7`](https://github.com/M2Station/M2_LOG/commit/dd8a5d7d45a83ff0d5f77065c96335b1953ef226) — fix: preserve Chinese (Unicode) characters in experiment ... · `2026-07-13` · OA Hsiao
-10. [`M2_GIT_DIFF@7a28a01`](https://github.com/M2Station/M2_GIT_DIFF/commit/7a28a0193d9b6e087abfe77f9e54d16510ea92ec) — chore(dev-deps): bump the electron group with 2 updates · `2026-07-13` · dependabot[bot]
+01. [`M2_GIT_DIFF@5021d45`](https://github.com/M2Station/M2_GIT_DIFF/commit/5021d452fbea2fe056c2f37fa6144e14777ebb21) — feat: add draggable Git commands quick-copy panel to bran... · `2026-07-15` · OA Hsiao
+02. [`M2_WIKI@c539d64`](https://github.com/M2Station/M2_WIKI/commit/c539d64aaeed910a987d2f29da6a8d3fdeea4fbc) — git submodule update --init --recursive --progress --jobs 8 · `2026-07-15` · OA Hsiao
+03. [`M2_WIKI@e87b680`](https://github.com/M2Station/M2_WIKI/commit/e87b680f53b833a3f20fbe84ca2ac33fe0d761ea) — Correct USB3 · `2026-07-15` · asuka-wu
+04. [`M2_GIT_DIFF@96165fb`](https://github.com/M2Station/M2_GIT_DIFF/commit/96165fbb60476bb4e6b5366b237af064d541b9e8) — chore: release v0.2.4 · `2026-07-14` · oahsiao
+05. [`M2_GIT_DIFF@3a6e99a`](https://github.com/M2Station/M2_GIT_DIFF/commit/3a6e99a076c63ac1e3b5c1b7e2ca907991da297e) — feat: worktree lock detection + Task Manager shortcut, sp... · `2026-07-14` · OA Hsiao
+06. [`M2_GIT_DIFF@9590e80`](https://github.com/M2Station/M2_GIT_DIFF/commit/9590e801e1483a1e2f41785ca503a5cb7dc0ffc7) — chore(release): v0.2.3 (#99) · `2026-07-14` · oahsiao
+07. [`M2_GIT_DIFF@0b44dc4`](https://github.com/M2Station/M2_GIT_DIFF/commit/0b44dc47b5fba80f21b0293f6e5f7c767ebf17e5) — feat: worktree management panel (add / switch / remove wo... · `2026-07-14` · OA Hsiao
+08. [`M2_WIKI@881a22d`](https://github.com/M2Station/M2_WIKI/commit/881a22dc048d0d486530a2d87d58d85099c59fbd) — GIT WORKTREE · `2026-07-14` · OA Hsiao
+09. [`.github@7e3b90d`](https://github.com/M2Station/.github/commit/7e3b90d38fd29e63c61afadcd7bab517a2b13279) — chore: sync latest changes [skip ci] · `2026-07-14` · github-actions[bot]
+10. [`M2_WIKI@e852561`](https://github.com/M2Station/M2_WIKI/commit/e85256186272a552c68c07d729e9a8ef6b0d0bbb) — ++ · `2026-07-14` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
