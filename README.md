@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_GIT_DIFF@5021d45`](https://github.com/M2Station/M2_GIT_DIFF/commit/5021d452fbea2fe056c2f37fa6144e14777ebb21) — feat: add draggable Git commands quick-copy panel to bran... · `2026-07-15` · OA Hsiao
-02. [`M2_WIKI@c539d64`](https://github.com/M2Station/M2_WIKI/commit/c539d64aaeed910a987d2f29da6a8d3fdeea4fbc) — git submodule update --init --recursive --progress --jobs 8 · `2026-07-15` · OA Hsiao
-03. [`M2_WIKI@e87b680`](https://github.com/M2Station/M2_WIKI/commit/e87b680f53b833a3f20fbe84ca2ac33fe0d761ea) — Correct USB3 · `2026-07-15` · asuka-wu
-04. [`M2_GIT_DIFF@96165fb`](https://github.com/M2Station/M2_GIT_DIFF/commit/96165fbb60476bb4e6b5366b237af064d541b9e8) — chore: release v0.2.4 · `2026-07-14` · oahsiao
-05. [`M2_GIT_DIFF@3a6e99a`](https://github.com/M2Station/M2_GIT_DIFF/commit/3a6e99a076c63ac1e3b5c1b7e2ca907991da297e) — feat: worktree lock detection + Task Manager shortcut, sp... · `2026-07-14` · OA Hsiao
-06. [`M2_GIT_DIFF@9590e80`](https://github.com/M2Station/M2_GIT_DIFF/commit/9590e801e1483a1e2f41785ca503a5cb7dc0ffc7) — chore(release): v0.2.3 (#99) · `2026-07-14` · oahsiao
-07. [`M2_GIT_DIFF@0b44dc4`](https://github.com/M2Station/M2_GIT_DIFF/commit/0b44dc47b5fba80f21b0293f6e5f7c767ebf17e5) — feat: worktree management panel (add / switch / remove wo... · `2026-07-14` · OA Hsiao
-08. [`M2_WIKI@881a22d`](https://github.com/M2Station/M2_WIKI/commit/881a22dc048d0d486530a2d87d58d85099c59fbd) — GIT WORKTREE · `2026-07-14` · OA Hsiao
-09. [`.github@7e3b90d`](https://github.com/M2Station/.github/commit/7e3b90d38fd29e63c61afadcd7bab517a2b13279) — chore: sync latest changes [skip ci] · `2026-07-14` · github-actions[bot]
-10. [`M2_WIKI@e852561`](https://github.com/M2Station/M2_WIKI/commit/e85256186272a552c68c07d729e9a8ef6b0d0bbb) — ++ · `2026-07-14` · OA Hsiao
+01. [`M2_GIT_DIFF@c985309`](https://github.com/M2Station/M2_GIT_DIFF/commit/c98530940041949067e168b83571519042e974bb) — feat(worktree): submodule skip-list, path guards, self-he... · `2026-07-16` · oahsiao
+02. [`M2_GIT_DIFF@2689e1d`](https://github.com/M2Station/M2_GIT_DIFF/commit/2689e1decfd3d0502e6bd73b3ca365958558a5a4) — feat(mirror): add "Use folder (no fetch)" to link an exis... · `2026-07-16` · oahsiao
+03. [`M2_GIT_DIFF@7652427`](https://github.com/M2Station/M2_GIT_DIFF/commit/7652427913259df868eb198d460e00ac318d07a4) — docs: add SignPath Foundation code signing policy (#129) · `2026-07-16` · oahsiao
+04. [`M2_GIT_DIFF@7124019`](https://github.com/M2Station/M2_GIT_DIFF/commit/71240194217344c86a114143eeeed75dcfbd3d98) — chore(release): v0.2.8 (#128) · `2026-07-16` · oahsiao
+05. [`M2_GIT_DIFF@7114e4b`](https://github.com/M2Station/M2_GIT_DIFF/commit/7114e4b83d852cc2bfd5fc49fa9316da2dd89626) — fix(build): pin electron-builder to 26.14.0 (26.15.0 brea... · `2026-07-16` · oahsiao
+06. [`M2_GIT_DIFF@5eb9328`](https://github.com/M2Station/M2_GIT_DIFF/commit/5eb932895e226328579ad2e9d84c182d351927ef) — chore(ci): bump actions/setup-node from 6 to 7 (#125) · `2026-07-16` · dependabot[bot]
+07. [`M2_GIT_DIFF@e660f17`](https://github.com/M2Station/M2_GIT_DIFF/commit/e660f179acbf800a80a4dd677fe07998e1c1f673) — chore(dev-deps): bump electron in the electron group · `2026-07-15` · dependabot[bot]
+08. [`M2_GIT_DIFF@f6a2bd0`](https://github.com/M2Station/M2_GIT_DIFF/commit/f6a2bd06275134f417bbd0147a2dda9f22330c2f) — fix(build): pin electron-builder to 25.1.8 (eb 26 breaks ... · `2026-07-15` · oahsiao
+09. [`M2_GIT_DIFF@8a495be`](https://github.com/M2Station/M2_GIT_DIFF/commit/8a495be084bab6b94cdb15d2b087bae110b58386) — fix(build): correct arm64 installer packaging (release v0... · `2026-07-15` · oahsiao
+10. [`M2_SCOUT@f25b17b`](https://github.com/M2Station/M2_SCOUT/commit/f25b17b9c2f6155617421c07498dc29cc71b56b4) — docs: document current features in README (en + zh-TW) · `2026-07-15` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

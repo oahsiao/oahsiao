@@ -1,95 +1,95 @@
 {
-  "updated": "2026-07-15 12:55 TWN",
+  "updated": "2026-07-16 13:14 TWN",
   "latestChanges": [
     {
-      "date": 1784087465000,
-      "committedDate": "2026-07-15T03:51:05Z",
-      "header": "feat: add draggable Git commands quick-copy panel to branch map",
+      "date": 1784178429000,
+      "committedDate": "2026-07-16T05:07:09Z",
+      "header": "feat(worktree): submodule skip-list, path guards, self-healing mirror, draggable popups (#131)",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/5021d452fbea2fe056c2f37fa6144e14777ebb21",
-      "sha": "5021d45",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1784084411000,
-      "committedDate": "2026-07-15T03:00:11Z",
-      "header": "git submodule update --init --recursive --progress --jobs 8",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/c539d64aaeed910a987d2f29da6a8d3fdeea4fbc",
-      "sha": "c539d64",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1784082242000,
-      "committedDate": "2026-07-15T02:24:02Z",
-      "header": "Correct USB3",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/e87b680f53b833a3f20fbe84ca2ac33fe0d761ea",
-      "sha": "e87b680",
-      "login": "asuka-wu"
-    },
-    {
-      "date": 1784039175000,
-      "committedDate": "2026-07-14T14:26:15Z",
-      "header": "chore: release v0.2.4",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/96165fbb60476bb4e6b5366b237af064d541b9e8",
-      "sha": "96165fb",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/c98530940041949067e168b83571519042e974bb",
+      "sha": "c985309",
       "login": "oahsiao"
     },
     {
-      "date": 1784034877000,
-      "committedDate": "2026-07-14T13:14:37Z",
-      "header": "feat: worktree lock detection + Task Manager shortcut, split worktree popups",
+      "date": 1784174748000,
+      "committedDate": "2026-07-16T04:05:48Z",
+      "header": "feat(mirror): add \"Use folder (no fetch)\" to link an existing mirror cache (#130)",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/3a6e99a076c63ac1e3b5c1b7e2ca907991da297e",
-      "sha": "3a6e99a",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1784015562000,
-      "committedDate": "2026-07-14T07:52:42Z",
-      "header": "chore(release): v0.2.3 (#99)",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/9590e801e1483a1e2f41785ca503a5cb7dc0ffc7",
-      "sha": "9590e80",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/2689e1decfd3d0502e6bd73b3ca365958558a5a4",
+      "sha": "2689e1d",
       "login": "oahsiao"
     },
     {
-      "date": 1784013982000,
-      "committedDate": "2026-07-14T07:26:22Z",
-      "header": "feat: worktree management panel (add / switch / remove worktrees)",
+      "date": 1784164802000,
+      "committedDate": "2026-07-16T01:20:02Z",
+      "header": "docs: add SignPath Foundation code signing policy (#129)",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/0b44dc47b5fba80f21b0293f6e5f7c767ebf17e5",
-      "sha": "0b44dc4",
-      "login": "OA Hsiao"
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/7652427913259df868eb198d460e00ac318d07a4",
+      "sha": "7652427",
+      "login": "oahsiao"
     },
     {
-      "date": 1784012683000,
-      "committedDate": "2026-07-14T07:04:43Z",
-      "header": "GIT WORKTREE",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/881a22dc048d0d486530a2d87d58d85099c59fbd",
-      "sha": "881a22d",
-      "login": "OA Hsiao"
+      "date": 1784163786000,
+      "committedDate": "2026-07-16T01:03:06Z",
+      "header": "chore(release): v0.2.8 (#128)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/71240194217344c86a114143eeeed75dcfbd3d98",
+      "sha": "7124019",
+      "login": "oahsiao"
     },
     {
-      "date": 1784005970000,
-      "committedDate": "2026-07-14T05:12:50Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/7e3b90d38fd29e63c61afadcd7bab517a2b13279",
-      "sha": "7e3b90d",
-      "login": "github-actions[bot]"
+      "date": 1784162971000,
+      "committedDate": "2026-07-16T00:49:31Z",
+      "header": "fix(build): pin electron-builder to 26.14.0 (26.15.0 breaks Windows install) (#127)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/7114e4b83d852cc2bfd5fc49fa9316da2dd89626",
+      "sha": "7114e4b",
+      "login": "oahsiao"
     },
     {
-      "date": 1783994439000,
-      "committedDate": "2026-07-14T02:00:39Z",
-      "header": "++",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/e85256186272a552c68c07d729e9a8ef6b0d0bbb",
-      "sha": "e852561",
-      "login": "OA Hsiao"
+      "date": 1784162312000,
+      "committedDate": "2026-07-16T00:38:32Z",
+      "header": "chore(ci): bump actions/setup-node from 6 to 7 (#125)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/5eb932895e226328579ad2e9d84c182d351927ef",
+      "sha": "5eb9328",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1784142908000,
+      "committedDate": "2026-07-15T19:15:08Z",
+      "header": "chore(dev-deps): bump electron in the electron group",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/e660f179acbf800a80a4dd677fe07998e1c1f673",
+      "sha": "e660f17",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1784142840000,
+      "committedDate": "2026-07-15T19:14:00Z",
+      "header": "fix(build): pin electron-builder to 25.1.8 (eb 26 breaks Windows install) (#124)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/f6a2bd06275134f417bbd0147a2dda9f22330c2f",
+      "sha": "f6a2bd0",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784135575000,
+      "committedDate": "2026-07-15T17:12:55Z",
+      "header": "fix(build): correct arm64 installer packaging (release v0.2.7) (#123)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/8a495be084bab6b94cdb15d2b087bae110b58386",
+      "sha": "8a495be",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784131856000,
+      "committedDate": "2026-07-15T16:10:56Z",
+      "header": "docs: document current features in README (en + zh-TW)",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/f25b17b9c2f6155617421c07498dc29cc71b56b4",
+      "sha": "f25b17b",
+      "login": "oahsiao"
     }
   ]
 }
