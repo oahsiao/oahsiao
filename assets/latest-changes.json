@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17 13:17 TWN",
+  "updated": "2026-07-18 12:52 TWN",
   "latestChanges": [
+    {
+      "date": 1784265941000,
+      "committedDate": "2026-07-17T05:25:41Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/00f772e1e80a88e35e4aa9af7805f4888d3b7ddd",
+      "sha": "00f772e",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1784212724000,
       "committedDate": "2026-07-16T14:38:44Z",
@@ -80,15 +89,6 @@
       "repo": "M2_GIT_DIFF",
       "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/4959be70f5b5f6213cf0f7ba2d6d92067fadc636",
       "sha": "4959be7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1784197929000,
-      "committedDate": "2026-07-16T10:32:09Z",
-      "header": "feat(worktree): rename worktree folder + lock-holder tools (#136)",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/3d11713165320d7c654c5561431354f8337f4f87",
-      "sha": "3d11713",
       "login": "oahsiao"
     }
   ]
