@@ -82,7 +82,7 @@
       <animate attributeName="height" from="0" to="27" dur="1s" begin="0.57s" fill="freeze"/>
       <animate attributeName="y" from="94" to="67" dur="1s" begin="0.57s" fill="freeze"/>
     </rect>
-    <rect x="380" y="80" width="16" height="14" fill="#00f5d4" opacity="0.32" rx="1">
+    <rect x="380" y="80" width="16" height="14" fill="#00f5d4" opacity="0.33" rx="1">
       <animate attributeName="height" from="0" to="14" dur="1s" begin="0.60s" fill="freeze"/>
       <animate attributeName="y" from="94" to="80" dur="1s" begin="0.60s" fill="freeze"/>
     </rect>
@@ -99,5 +99,5 @@
       <animate attributeName="y" from="94" to="86" dur="1s" begin="0.69s" fill="freeze"/>
     </rect>
     <text x="442" y="106" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">23</text>
-  <text x="240" y="124" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-07-19 13:26 TWN</text>
+  <text x="240" y="124" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-07-20 13:43 TWN</text>
 </svg>

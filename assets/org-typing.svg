@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;323.2;323.2;0;0"
-        keyTimes="0;0.000;0.077;0.135;0.153;1"
-        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;306.40000000000003;306.40000000000003;0;0"
+        keyTimes="0;0.000;0.072;0.129;0.146;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: sync latest changes [skip ci]</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Relocate image to the right folder</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;356.8;356.8;0;0"
-        keyTimes="0;0.153;0.239;0.296;0.314;1"
-        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;264.40000000000003;264.40000000000003;0;0"
+        keyTimes="0;0.146;0.208;0.265;0.282;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>content: refine default snippet phrasing</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): v0.3.2 (#142)</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.314;0.422;0.479;0.497;1"
-        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.282;0.389;0.445;0.463;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(snippets): keep manager open on Save, add ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add MCXA reset reason and decoding raw reset value</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.497;0.604;0.662;0.680;1"
-        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.463;0.569;0.626;0.643;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>content: update default snippets (add release p...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(mirror): default cache folder to Mirror_Ca...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.680;0.787;0.844;0.862;1"
-        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.643;0.749;0.806;0.824;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(snippets): open snippets.json, Esc-to-clos...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(deps-dev): bump electron from 43.1.0 to 4...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;264.40000000000003;264.40000000000003;0;0"
-        keyTimes="0;0.862;0.925;0.982;1.000;1"
-        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;424;424;0;0"
+        keyTimes="0;0.824;0.926;0.982;1.000;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): v0.3.1 (#139)</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(deps): bump actions/setup-node from 4 to 7</text>
     </g>
 </svg>
