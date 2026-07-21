@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@7150a08`](https://github.com/M2Station/M2_WIKI/commit/7150a088842483171bc41e0241793ff018e66b01) — Relocate image to the right folder · `2026-07-20` · Kris Wang (PEGATRON CORPORATION)
-02. [`M2_GIT_DIFF@3262ac9`](https://github.com/M2Station/M2_GIT_DIFF/commit/3262ac93b1c846a4b1a6a61a3691bbc880d39021) — chore(release): v0.3.2 (#142) · `2026-07-20` · oahsiao
-03. [`M2_WIKI@9b05b8c`](https://github.com/M2Station/M2_WIKI/commit/9b05b8c9fec8d7c6a003fb03c96d188883497e09) — Add MCXA reset reason and decoding raw reset value · `2026-07-20` · Kris Wang (PEGATRON CORPORATION)
-04. [`M2_GIT_DIFF@f672344`](https://github.com/M2Station/M2_GIT_DIFF/commit/f672344eedd2dc7710837d423caf4903748590b8) — feat(mirror): default cache folder to Mirror_Cache_Repro ... · `2026-07-20` · oahsiao
-05. [`M2_LOG@3863a1f`](https://github.com/M2Station/M2_LOG/commit/3863a1f281562663a895ed6a2aa8923743751797) — chore(deps-dev): bump electron from 43.1.0 to 43.1.1 · `2026-07-19` · dependabot[bot]
-06. [`M2_LOG@9040373`](https://github.com/M2Station/M2_LOG/commit/90403737f402d6df2b7a7114db55c784c0114129) — chore(deps): bump actions/setup-node from 4 to 7 · `2026-07-19` · dependabot[bot]
-07. [`.github@3734c84`](https://github.com/M2Station/.github/commit/3734c84e6e6517c618d140485d0da9edac185627) — chore: sync latest changes [skip ci] · `2026-07-19` · github-actions[bot]
-08. [`.github@e128dfb`](https://github.com/M2Station/.github/commit/e128dfba1748a128b325b560be440e49d6825f72) — chore: sync latest changes [skip ci] · `2026-07-18` · github-actions[bot]
-09. [`.github@00f772e`](https://github.com/M2Station/.github/commit/00f772e1e80a88e35e4aa9af7805f4888d3b7ddd) — chore: sync latest changes [skip ci] · `2026-07-17` · github-actions[bot]
-10. [`M2_PROMPT@272f1bd`](https://github.com/M2Station/M2_PROMPT/commit/272f1bd2f44cef62478ed96e962e7520a77d481a) — content: refine default snippet phrasing · `2026-07-16` · oahsiao
+01. [`M2_LOG@db6bc96`](https://github.com/M2Station/M2_LOG/commit/db6bc9608cf648dc74ff7945c46549bb8135270d) — fix(analysis): raise LOG viewer read cap 5MB to 64MB to a... · `2026-07-21` · OA Hsiao
+02. [`M2_LOG@ff4fc7b`](https://github.com/M2Station/M2_LOG/commit/ff4fc7babf5f77142f1558f0a190267379626572) — feat(highlight): add INTEL_UEFI rules BOOT_MODE, Capsule,... · `2026-07-21` · OA Hsiao
+03. [`M2_WIKI@19d9059`](https://github.com/M2Station/M2_WIKI/commit/19d9059aab3f451ec5b635104f310c1af4632757) — BAA EV review 7/21 · `2026-07-21` · asuka-wu
+04. [`M2_PROMPT@b47d204`](https://github.com/M2Station/M2_PROMPT/commit/b47d2041fa7f47343bf154cdc9f2cb9c6a177981) — feat: Typora-style Markdown WYSIWYG editor with image pas... · `2026-07-20` · oahsiao
+05. [`M2_HSIAO_WEB_MANAGER@54550ab`](https://github.com/M2Station/M2_HSIAO_WEB_MANAGER/commit/54550abd92662b42cc64c1f7527d26b33347e073) — feat(web-manager): reorderable pages & cards, unified acc... · `2026-07-20` · oahsiao
+06. [`M2_PROMPT@3e6357a`](https://github.com/M2Station/M2_PROMPT/commit/3e6357a00c384e13d8adc541a612de1652b7139a) — feat: add Explorer right-click 'open folder as project' w... · `2026-07-20` · oahsiao
+07. [`M2_PROMPT@142aa3e`](https://github.com/M2Station/M2_PROMPT/commit/142aa3e0adfed02f78ccaa997b947f39930661fa) — chore: release v0.1.1 · `2026-07-20` · oahsiao
+08. [`M2_PROMPT@5e1adc4`](https://github.com/M2Station/M2_PROMPT/commit/5e1adc4e99163521c33938f573896af8a2706170) — chore: refine iteration-feedback snippet; add vscode sett... · `2026-07-20` · oahsiao
+09. [`M2_PROMPT@6c82533`](https://github.com/M2Station/M2_PROMPT/commit/6c8253386f22a04ba99ea47e76dc8ca7c9508e22) — ci: add GitHub Release + build workflows and RELEASE guide · `2026-07-20` · oahsiao
+10. [`M2_WIKI@80b67d6`](https://github.com/M2Station/M2_WIKI/commit/80b67d6d505f4c795542075903795d3882084e17) — Add PTE server setup · `2026-07-20` · Sam6Su
 <!-- LATEST-CHANGES:END -->
 
 ---

@@ -1,95 +1,95 @@
 {
-  "updated": "2026-07-20 13:43 TWN",
+  "updated": "2026-07-21 13:24 TWN",
   "latestChanges": [
     {
-      "date": 1784517641000,
-      "committedDate": "2026-07-20T03:20:41Z",
-      "header": "Relocate image to the right folder",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/7150a088842483171bc41e0241793ff018e66b01",
-      "sha": "7150a08",
-      "login": "Kris Wang (PEGATRON CORPORATION)"
-    },
-    {
-      "date": 1784517630000,
-      "committedDate": "2026-07-20T03:20:30Z",
-      "header": "chore(release): v0.3.2 (#142)",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/3262ac93b1c846a4b1a6a61a3691bbc880d39021",
-      "sha": "3262ac9",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1784517266000,
-      "committedDate": "2026-07-20T03:14:26Z",
-      "header": "Add MCXA reset reason and decoding raw reset value",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/9b05b8c9fec8d7c6a003fb03c96d188883497e09",
-      "sha": "9b05b8c",
-      "login": "Kris Wang (PEGATRON CORPORATION)"
-    },
-    {
-      "date": 1784516160000,
-      "committedDate": "2026-07-20T02:56:00Z",
-      "header": "feat(mirror): default cache folder to Mirror_Cache_Repro (#141)",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/f672344eedd2dc7710837d423caf4903748590b8",
-      "sha": "f672344",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1784464977000,
-      "committedDate": "2026-07-19T12:42:57Z",
-      "header": "chore(deps-dev): bump electron from 43.1.0 to 43.1.1",
+      "date": 1784610702000,
+      "committedDate": "2026-07-21T05:11:42Z",
+      "header": "fix(analysis): raise LOG viewer read cap 5MB to 64MB to avoid truncation",
       "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/3863a1f281562663a895ed6a2aa8923743751797",
-      "sha": "3863a1f",
-      "login": "dependabot[bot]"
+      "url": "https://github.com/M2Station/M2_LOG/commit/db6bc9608cf648dc74ff7945c46549bb8135270d",
+      "sha": "db6bc96",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1784464951000,
-      "committedDate": "2026-07-19T12:42:31Z",
-      "header": "chore(deps): bump actions/setup-node from 4 to 7",
+      "date": 1784610702000,
+      "committedDate": "2026-07-21T05:11:42Z",
+      "header": "feat(highlight): add INTEL_UEFI rules BOOT_MODE, Capsule, Screen Notifications, UEFI Runtime Mode",
       "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/90403737f402d6df2b7a7114db55c784c0114129",
-      "sha": "9040373",
-      "login": "dependabot[bot]"
+      "url": "https://github.com/M2Station/M2_LOG/commit/ff4fc7babf5f77142f1558f0a190267379626572",
+      "sha": "ff4fc7b",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1784439326000,
-      "committedDate": "2026-07-19T05:35:26Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/3734c84e6e6517c618d140485d0da9edac185627",
-      "sha": "3734c84",
-      "login": "github-actions[bot]"
+      "date": 1784606746000,
+      "committedDate": "2026-07-21T04:05:46Z",
+      "header": "BAA EV review 7/21",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/19d9059aab3f451ec5b635104f310c1af4632757",
+      "sha": "19d9059",
+      "login": "asuka-wu"
     },
     {
-      "date": 1784351269000,
-      "committedDate": "2026-07-18T05:07:49Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/e128dfba1748a128b325b560be440e49d6825f72",
-      "sha": "e128dfb",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1784265941000,
-      "committedDate": "2026-07-17T05:25:41Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/00f772e1e80a88e35e4aa9af7805f4888d3b7ddd",
-      "sha": "00f772e",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1784212724000,
-      "committedDate": "2026-07-16T14:38:44Z",
-      "header": "content: refine default snippet phrasing",
+      "date": 1784570114000,
+      "committedDate": "2026-07-20T17:55:14Z",
+      "header": "feat: Typora-style Markdown WYSIWYG editor with image paste, render + right-click menu",
       "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/272f1bd2f44cef62478ed96e962e7520a77d481a",
-      "sha": "272f1bd",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/b47d2041fa7f47343bf154cdc9f2cb9c6a177981",
+      "sha": "b47d204",
       "login": "oahsiao"
+    },
+    {
+      "date": 1784565465000,
+      "committedDate": "2026-07-20T16:37:45Z",
+      "header": "feat(web-manager): reorderable pages & cards, unified access control, timeline edit",
+      "repo": "M2_HSIAO_WEB_MANAGER",
+      "url": "https://github.com/M2Station/M2_HSIAO_WEB_MANAGER/commit/54550abd92662b42cc64c1f7527d26b33347e073",
+      "sha": "54550ab",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784564591000,
+      "committedDate": "2026-07-20T16:23:11Z",
+      "header": "feat: add Explorer right-click 'open folder as project' with installer registration",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/3e6357a00c384e13d8adc541a612de1652b7139a",
+      "sha": "3e6357a",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784562849000,
+      "committedDate": "2026-07-20T15:54:09Z",
+      "header": "chore: release v0.1.1",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/142aa3e0adfed02f78ccaa997b947f39930661fa",
+      "sha": "142aa3e",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784562516000,
+      "committedDate": "2026-07-20T15:48:36Z",
+      "header": "chore: refine iteration-feedback snippet; add vscode settings",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/5e1adc4e99163521c33938f573896af8a2706170",
+      "sha": "5e1adc4",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784562516000,
+      "committedDate": "2026-07-20T15:48:36Z",
+      "header": "ci: add GitHub Release + build workflows and RELEASE guide",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/6c8253386f22a04ba99ea47e76dc8ca7c9508e22",
+      "sha": "6c82533",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784550580000,
+      "committedDate": "2026-07-20T12:29:40Z",
+      "header": "Add PTE server setup",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/80b67d6d505f4c795542075903795d3882084e17",
+      "sha": "80b67d6",
+      "login": "Sam6Su"
     }
   ]
 }
