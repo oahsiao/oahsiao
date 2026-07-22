@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.104;0.159;0.176;1"
-        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;356.8;356.8;0;0"
+        keyTimes="0;0.000;0.085;0.142;0.159;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(analysis): raise LOG viewer read cap 5MB to...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: bump version to 0.0.2 for release</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.176;0.280;0.335;0.353;1"
-        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.159;0.265;0.322;0.340;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(highlight): add INTEL_UEFI rules BOOT_MODE...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat: correct EXE/app icon everywhere, Settings...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;172;172;0;0"
-        keyTimes="0;0.353;0.390;0.445;0.463;1"
-        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;197.20000000000002;197.20000000000002;0;0"
+        keyTimes="0;0.340;0.384;0.441;0.459;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>BAA EV review 7/21</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: release v0.1.5</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.463;0.566;0.622;0.639;1"
-        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.459;0.565;0.621;0.639;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat: Typora-style Markdown WYSIWYG editor with...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat: localization (EN/繁中), crash-log diagnosti...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;474.40000000000003;474.40000000000003;0;0"
-        keyTimes="0;0.639;0.751;0.806;0.824;1"
-        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.639;0.745;0.802;0.820;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(web-manager): reorderable pages &amp; cards, u...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>ci: add fast PR status check (syntax, JSON, ver...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.824;0.927;0.983;1.000;1"
-        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.820;0.926;0.982;1.000;1"
+        dur="28.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat: add Explorer right-click 'open folder as ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>docs: bilingual README (English + Traditional C...</text>
     </g>
 </svg>

@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_LOG@db6bc96`](https://github.com/M2Station/M2_LOG/commit/db6bc9608cf648dc74ff7945c46549bb8135270d) — fix(analysis): raise LOG viewer read cap 5MB to 64MB to a... · `2026-07-21` · OA Hsiao
-02. [`M2_LOG@ff4fc7b`](https://github.com/M2Station/M2_LOG/commit/ff4fc7babf5f77142f1558f0a190267379626572) — feat(highlight): add INTEL_UEFI rules BOOT_MODE, Capsule,... · `2026-07-21` · OA Hsiao
-03. [`M2_WIKI@19d9059`](https://github.com/M2Station/M2_WIKI/commit/19d9059aab3f451ec5b635104f310c1af4632757) — BAA EV review 7/21 · `2026-07-21` · asuka-wu
-04. [`M2_PROMPT@b47d204`](https://github.com/M2Station/M2_PROMPT/commit/b47d2041fa7f47343bf154cdc9f2cb9c6a177981) — feat: Typora-style Markdown WYSIWYG editor with image pas... · `2026-07-20` · oahsiao
-05. [`M2_HSIAO_WEB_MANAGER@54550ab`](https://github.com/M2Station/M2_HSIAO_WEB_MANAGER/commit/54550abd92662b42cc64c1f7527d26b33347e073) — feat(web-manager): reorderable pages & cards, unified acc... · `2026-07-20` · oahsiao
-06. [`M2_PROMPT@3e6357a`](https://github.com/M2Station/M2_PROMPT/commit/3e6357a00c384e13d8adc541a612de1652b7139a) — feat: add Explorer right-click 'open folder as project' w... · `2026-07-20` · oahsiao
-07. [`M2_PROMPT@142aa3e`](https://github.com/M2Station/M2_PROMPT/commit/142aa3e0adfed02f78ccaa997b947f39930661fa) — chore: release v0.1.1 · `2026-07-20` · oahsiao
-08. [`M2_PROMPT@5e1adc4`](https://github.com/M2Station/M2_PROMPT/commit/5e1adc4e99163521c33938f573896af8a2706170) — chore: refine iteration-feedback snippet; add vscode sett... · `2026-07-20` · oahsiao
-09. [`M2_PROMPT@6c82533`](https://github.com/M2Station/M2_PROMPT/commit/6c8253386f22a04ba99ea47e76dc8ca7c9508e22) — ci: add GitHub Release + build workflows and RELEASE guide · `2026-07-20` · oahsiao
-10. [`M2_WIKI@80b67d6`](https://github.com/M2Station/M2_WIKI/commit/80b67d6d505f4c795542075903795d3882084e17) — Add PTE server setup · `2026-07-20` · Sam6Su
+01. [`M2_APEX@85d1967`](https://github.com/M2Station/M2_APEX/commit/85d19670927d0951a25510975da6b858c09a725b) — chore: bump version to 0.0.2 for release · `2026-07-22` · OA Hsiao
+02. [`M2_APEX@41d1f55`](https://github.com/M2Station/M2_APEX/commit/41d1f55ffd390a61ac905f8ac87c9e201b19d505) — feat: correct EXE/app icon everywhere, Settings branding ... · `2026-07-22` · OA Hsiao
+03. [`M2_PROMPT@c24a2a2`](https://github.com/M2Station/M2_PROMPT/commit/c24a2a2db3a25c7c928531d86b536ff21aa9fe54) — chore: release v0.1.5 · `2026-07-22` · OA Hsiao
+04. [`M2_APEX@a40ac57`](https://github.com/M2Station/M2_APEX/commit/a40ac57f44559278e1f9977c326bfcaa1f2af65b) — feat: localization (EN/繁中), crash-log diagnostics, and PR... · `2026-07-22` · OA Hsiao
+05. [`M2_PROMPT@52e9397`](https://github.com/M2Station/M2_PROMPT/commit/52e93972992f09212459c27c25115ee729079a10) — ci: add fast PR status check (syntax, JSON, version, lock... · `2026-07-22` · OA Hsiao
+06. [`M2_APEX@89fdd02`](https://github.com/M2Station/M2_APEX/commit/89fdd027cf564b0510f47f8f46576192933ab1b7) — docs: bilingual README (English + Traditional Chinese) · `2026-07-22` · OA Hsiao
+07. [`M2_APEX@12151b5`](https://github.com/M2Station/M2_APEX/commit/12151b53336845bee9eb432d223a2ddfd99ee670) — feat: updater, CI/release, positions, icon polish; fix KV... · `2026-07-22` · OA Hsiao
+08. [`M2_PROMPT@2909519`](https://github.com/M2Station/M2_PROMPT/commit/290951941be133ba3f83f832a05122ad06e5f01c) — perf(renderer): debounce autosave, cheaper line counter, ... · `2026-07-22` · OA Hsiao
+09. [`M2_PROMPT@42a2c4c`](https://github.com/M2Station/M2_PROMPT/commit/42a2c4c9e18412bd101f101058d9714481f9bd7a) — chore: release v0.1.4 · `2026-07-22` · OA Hsiao
+10. [`M2_PROMPT@65deb54`](https://github.com/M2Station/M2_PROMPT/commit/65deb5405c4e8326502f65d87b3367196262cafa) — feat(update): in-app update check, download & install via... · `2026-07-22` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

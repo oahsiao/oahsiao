@@ -1,95 +1,95 @@
 {
-  "updated": "2026-07-21 13:24 TWN",
+  "updated": "2026-07-22 13:23 TWN",
   "latestChanges": [
     {
-      "date": 1784610702000,
-      "committedDate": "2026-07-21T05:11:42Z",
-      "header": "fix(analysis): raise LOG viewer read cap 5MB to 64MB to avoid truncation",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/db6bc9608cf648dc74ff7945c46549bb8135270d",
-      "sha": "db6bc96",
+      "date": 1784697191000,
+      "committedDate": "2026-07-22T05:13:11Z",
+      "header": "chore: bump version to 0.0.2 for release",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/85d19670927d0951a25510975da6b858c09a725b",
+      "sha": "85d1967",
       "login": "OA Hsiao"
     },
     {
-      "date": 1784610702000,
-      "committedDate": "2026-07-21T05:11:42Z",
-      "header": "feat(highlight): add INTEL_UEFI rules BOOT_MODE, Capsule, Screen Notifications, UEFI Runtime Mode",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/ff4fc7babf5f77142f1558f0a190267379626572",
-      "sha": "ff4fc7b",
+      "date": 1784696963000,
+      "committedDate": "2026-07-22T05:09:23Z",
+      "header": "feat: correct EXE/app icon everywhere, Settings branding header, installers & build scripts",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/41d1f55ffd390a61ac905f8ac87c9e201b19d505",
+      "sha": "41d1f55",
       "login": "OA Hsiao"
     },
     {
-      "date": 1784606746000,
-      "committedDate": "2026-07-21T04:05:46Z",
-      "header": "BAA EV review 7/21",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/19d9059aab3f451ec5b635104f310c1af4632757",
-      "sha": "19d9059",
-      "login": "asuka-wu"
-    },
-    {
-      "date": 1784570114000,
-      "committedDate": "2026-07-20T17:55:14Z",
-      "header": "feat: Typora-style Markdown WYSIWYG editor with image paste, render + right-click menu",
+      "date": 1784694260000,
+      "committedDate": "2026-07-22T04:24:20Z",
+      "header": "chore: release v0.1.5",
       "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/b47d2041fa7f47343bf154cdc9f2cb9c6a177981",
-      "sha": "b47d204",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/c24a2a2db3a25c7c928531d86b536ff21aa9fe54",
+      "sha": "c24a2a2",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1784565465000,
-      "committedDate": "2026-07-20T16:37:45Z",
-      "header": "feat(web-manager): reorderable pages & cards, unified access control, timeline edit",
-      "repo": "M2_HSIAO_WEB_MANAGER",
-      "url": "https://github.com/M2Station/M2_HSIAO_WEB_MANAGER/commit/54550abd92662b42cc64c1f7527d26b33347e073",
-      "sha": "54550ab",
-      "login": "oahsiao"
+      "date": 1784693278000,
+      "committedDate": "2026-07-22T04:07:58Z",
+      "header": "feat: localization (EN/繁中), crash-log diagnostics, and PR CI gate",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/a40ac57f44559278e1f9977c326bfcaa1f2af65b",
+      "sha": "a40ac57",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1784564591000,
-      "committedDate": "2026-07-20T16:23:11Z",
-      "header": "feat: add Explorer right-click 'open folder as project' with installer registration",
+      "date": 1784691776000,
+      "committedDate": "2026-07-22T03:42:56Z",
+      "header": "ci: add fast PR status check (syntax, JSON, version, lockfile)",
       "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/3e6357a00c384e13d8adc541a612de1652b7139a",
-      "sha": "3e6357a",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/52e93972992f09212459c27c25115ee729079a10",
+      "sha": "52e9397",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1784562849000,
-      "committedDate": "2026-07-20T15:54:09Z",
-      "header": "chore: release v0.1.1",
+      "date": 1784691068000,
+      "committedDate": "2026-07-22T03:31:08Z",
+      "header": "docs: bilingual README (English + Traditional Chinese)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/89fdd027cf564b0510f47f8f46576192933ab1b7",
+      "sha": "89fdd02",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1784690599000,
+      "committedDate": "2026-07-22T03:23:19Z",
+      "header": "feat: updater, CI/release, positions, icon polish; fix KVM input + Quick Switch",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/12151b53336845bee9eb432d223a2ddfd99ee670",
+      "sha": "12151b5",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1784688771000,
+      "committedDate": "2026-07-22T02:52:51Z",
+      "header": "perf(renderer): debounce autosave, cheaper line counter, parallel startup",
       "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/142aa3e0adfed02f78ccaa997b947f39930661fa",
-      "sha": "142aa3e",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/290951941be133ba3f83f832a05122ad06e5f01c",
+      "sha": "2909519",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1784562516000,
-      "committedDate": "2026-07-20T15:48:36Z",
-      "header": "chore: refine iteration-feedback snippet; add vscode settings",
+      "date": 1784687134000,
+      "committedDate": "2026-07-22T02:25:34Z",
+      "header": "chore: release v0.1.4",
       "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/5e1adc4e99163521c33938f573896af8a2706170",
-      "sha": "5e1adc4",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/42a2c4c9e18412bd101f101058d9714481f9bd7a",
+      "sha": "42a2c4c",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1784562516000,
-      "committedDate": "2026-07-20T15:48:36Z",
-      "header": "ci: add GitHub Release + build workflows and RELEASE guide",
+      "date": 1784686851000,
+      "committedDate": "2026-07-22T02:20:51Z",
+      "header": "feat(update): in-app update check, download & install via GitHub Releases",
       "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/6c8253386f22a04ba99ea47e76dc8ca7c9508e22",
-      "sha": "6c82533",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1784550580000,
-      "committedDate": "2026-07-20T12:29:40Z",
-      "header": "Add PTE server setup",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/80b67d6d505f4c795542075903795d3882084e17",
-      "sha": "80b67d6",
-      "login": "Sam6Su"
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/65deb5405c4e8326502f65d87b3367196262cafa",
+      "sha": "65deb54",
+      "login": "OA Hsiao"
     }
   ]
 }
