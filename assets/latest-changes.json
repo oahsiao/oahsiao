@@ -1,95 +1,95 @@
 {
-  "updated": "2026-07-22 13:23 TWN",
+  "updated": "2026-07-23 13:29 TWN",
   "latestChanges": [
     {
-      "date": 1784697191000,
-      "committedDate": "2026-07-22T05:13:11Z",
-      "header": "chore: bump version to 0.0.2 for release",
+      "date": 1784783257000,
+      "committedDate": "2026-07-23T05:07:37Z",
+      "header": "Release v0.0.5 (#40)",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/85d19670927d0951a25510975da6b858c09a725b",
-      "sha": "85d1967",
-      "login": "OA Hsiao"
+      "url": "https://github.com/M2Station/M2_APEX/commit/ae75758cc6b41ca05409513701d674919f99489f",
+      "sha": "ae75758",
+      "login": "oahsiao"
     },
     {
-      "date": 1784696963000,
-      "committedDate": "2026-07-22T05:09:23Z",
-      "header": "feat: correct EXE/app icon everywhere, Settings branding header, installers & build scripts",
+      "date": 1784782995000,
+      "committedDate": "2026-07-23T05:03:15Z",
+      "header": "Optimize startup time and memory: off-thread index load, streaming cache, slim IndexItem (#39)",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/41d1f55ffd390a61ac905f8ac87c9e201b19d505",
-      "sha": "41d1f55",
-      "login": "OA Hsiao"
+      "url": "https://github.com/M2Station/M2_APEX/commit/378f5ae1349f15d1562359a6b18c7ea44489da05",
+      "sha": "378f5ae",
+      "login": "oahsiao"
     },
     {
-      "date": 1784694260000,
-      "committedDate": "2026-07-22T04:24:20Z",
-      "header": "chore: release v0.1.5",
+      "date": 1784782520000,
+      "committedDate": "2026-07-23T04:55:20Z",
+      "header": "chore: add copilot-instructions and update prompt snippets",
       "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/c24a2a2db3a25c7c928531d86b536ff21aa9fe54",
-      "sha": "c24a2a2",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/32c278d94ec4fe68720809fb81e9105d113e0463",
+      "sha": "32c278d",
       "login": "OA Hsiao"
     },
     {
-      "date": 1784693278000,
-      "committedDate": "2026-07-22T04:07:58Z",
-      "header": "feat: localization (EN/繁中), crash-log diagnostics, and PR CI gate",
+      "date": 1784777742000,
+      "committedDate": "2026-07-23T03:35:42Z",
+      "header": "Fix double-Ctrl not firing on a Synergy/KVM secondary PC (#38)",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/a40ac57f44559278e1f9977c326bfcaa1f2af65b",
-      "sha": "a40ac57",
-      "login": "OA Hsiao"
+      "url": "https://github.com/M2Station/M2_APEX/commit/cd9dac13046f17914e603ac49e7e27f29369d6a0",
+      "sha": "cd9dac1",
+      "login": "oahsiao"
     },
     {
-      "date": 1784691776000,
-      "committedDate": "2026-07-22T03:42:56Z",
-      "header": "ci: add fast PR status check (syntax, JSON, version, lockfile)",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/52e93972992f09212459c27c25115ee729079a10",
-      "sha": "52e9397",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1784691068000,
-      "committedDate": "2026-07-22T03:31:08Z",
-      "header": "docs: bilingual README (English + Traditional Chinese)",
+      "date": 1784777356000,
+      "committedDate": "2026-07-23T03:29:16Z",
+      "header": "Tabbed Settings, quick-pick apps (Install/Check Update), shared default catalogs (#37)",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/89fdd027cf564b0510f47f8f46576192933ab1b7",
-      "sha": "89fdd02",
-      "login": "OA Hsiao"
+      "url": "https://github.com/M2Station/M2_APEX/commit/72d7d24c17f50f9ef97c97b3b99ba9011d4bb7f5",
+      "sha": "72d7d24",
+      "login": "oahsiao"
     },
     {
-      "date": 1784690599000,
-      "committedDate": "2026-07-22T03:23:19Z",
-      "header": "feat: updater, CI/release, positions, icon polish; fix KVM input + Quick Switch",
+      "date": 1784742758000,
+      "committedDate": "2026-07-22T17:52:38Z",
+      "header": "Release v0.0.4 (#36)",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/12151b53336845bee9eb432d223a2ddfd99ee670",
-      "sha": "12151b5",
-      "login": "OA Hsiao"
+      "url": "https://github.com/M2Station/M2_APEX/commit/238d3ad5284ec3c78ccc8492e424f648b5755715",
+      "sha": "238d3ad",
+      "login": "oahsiao"
     },
     {
-      "date": 1784688771000,
-      "committedDate": "2026-07-22T02:52:51Z",
-      "header": "perf(renderer): debounce autosave, cheaper line counter, parallel startup",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/290951941be133ba3f83f832a05122ad06e5f01c",
-      "sha": "2909519",
-      "login": "OA Hsiao"
+      "date": 1784742512000,
+      "committedDate": "2026-07-22T17:48:32Z",
+      "header": "Add pinned quick picks to search and clean search history (#35)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/927c6975c6037a47a2c59b80847bc87cd7bf7e0e",
+      "sha": "927c697",
+      "login": "oahsiao"
     },
     {
-      "date": 1784687134000,
-      "committedDate": "2026-07-22T02:25:34Z",
-      "header": "chore: release v0.1.4",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/42a2c4c9e18412bd101f101058d9714481f9bd7a",
-      "sha": "42a2c4c",
-      "login": "OA Hsiao"
+      "date": 1784740784000,
+      "committedDate": "2026-07-22T17:19:44Z",
+      "header": "Add startup registration status check and unregister to Settings (#34)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/8c9696c63522195e5396369ea8ab77777fdbd7ff",
+      "sha": "8c9696c",
+      "login": "oahsiao"
     },
     {
-      "date": 1784686851000,
-      "committedDate": "2026-07-22T02:20:51Z",
-      "header": "feat(update): in-app update check, download & install via GitHub Releases",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/65deb5405c4e8326502f65d87b3367196262cafa",
-      "sha": "65deb54",
-      "login": "OA Hsiao"
+      "date": 1784739972000,
+      "committedDate": "2026-07-22T17:06:12Z",
+      "header": "M2 Commander: hide custom commands with a blank Program from the menu and button strip (#33)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/63ea6be1818d2371d4f452459ad13114bc36614a",
+      "sha": "63ea6be",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784739345000,
+      "committedDate": "2026-07-22T16:55:45Z",
+      "header": "M2 Commander: fix right-click on a file name not opening the action menu (#32)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/e7f735b845d8e9ba0a85f3c7a53db012d10938f4",
+      "sha": "e7f735b",
+      "login": "oahsiao"
     }
   ]
 }

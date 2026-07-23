@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@85d1967`](https://github.com/M2Station/M2_APEX/commit/85d19670927d0951a25510975da6b858c09a725b) — chore: bump version to 0.0.2 for release · `2026-07-22` · OA Hsiao
-02. [`M2_APEX@41d1f55`](https://github.com/M2Station/M2_APEX/commit/41d1f55ffd390a61ac905f8ac87c9e201b19d505) — feat: correct EXE/app icon everywhere, Settings branding ... · `2026-07-22` · OA Hsiao
-03. [`M2_PROMPT@c24a2a2`](https://github.com/M2Station/M2_PROMPT/commit/c24a2a2db3a25c7c928531d86b536ff21aa9fe54) — chore: release v0.1.5 · `2026-07-22` · OA Hsiao
-04. [`M2_APEX@a40ac57`](https://github.com/M2Station/M2_APEX/commit/a40ac57f44559278e1f9977c326bfcaa1f2af65b) — feat: localization (EN/繁中), crash-log diagnostics, and PR... · `2026-07-22` · OA Hsiao
-05. [`M2_PROMPT@52e9397`](https://github.com/M2Station/M2_PROMPT/commit/52e93972992f09212459c27c25115ee729079a10) — ci: add fast PR status check (syntax, JSON, version, lock... · `2026-07-22` · OA Hsiao
-06. [`M2_APEX@89fdd02`](https://github.com/M2Station/M2_APEX/commit/89fdd027cf564b0510f47f8f46576192933ab1b7) — docs: bilingual README (English + Traditional Chinese) · `2026-07-22` · OA Hsiao
-07. [`M2_APEX@12151b5`](https://github.com/M2Station/M2_APEX/commit/12151b53336845bee9eb432d223a2ddfd99ee670) — feat: updater, CI/release, positions, icon polish; fix KV... · `2026-07-22` · OA Hsiao
-08. [`M2_PROMPT@2909519`](https://github.com/M2Station/M2_PROMPT/commit/290951941be133ba3f83f832a05122ad06e5f01c) — perf(renderer): debounce autosave, cheaper line counter, ... · `2026-07-22` · OA Hsiao
-09. [`M2_PROMPT@42a2c4c`](https://github.com/M2Station/M2_PROMPT/commit/42a2c4c9e18412bd101f101058d9714481f9bd7a) — chore: release v0.1.4 · `2026-07-22` · OA Hsiao
-10. [`M2_PROMPT@65deb54`](https://github.com/M2Station/M2_PROMPT/commit/65deb5405c4e8326502f65d87b3367196262cafa) — feat(update): in-app update check, download & install via... · `2026-07-22` · OA Hsiao
+01. [`M2_APEX@ae75758`](https://github.com/M2Station/M2_APEX/commit/ae75758cc6b41ca05409513701d674919f99489f) — Release v0.0.5 (#40) · `2026-07-23` · oahsiao
+02. [`M2_APEX@378f5ae`](https://github.com/M2Station/M2_APEX/commit/378f5ae1349f15d1562359a6b18c7ea44489da05) — Optimize startup time and memory: off-thread index load, ... · `2026-07-23` · oahsiao
+03. [`M2_PROMPT@32c278d`](https://github.com/M2Station/M2_PROMPT/commit/32c278d94ec4fe68720809fb81e9105d113e0463) — chore: add copilot-instructions and update prompt snippets · `2026-07-23` · OA Hsiao
+04. [`M2_APEX@cd9dac1`](https://github.com/M2Station/M2_APEX/commit/cd9dac13046f17914e603ac49e7e27f29369d6a0) — Fix double-Ctrl not firing on a Synergy/KVM secondary PC ... · `2026-07-23` · oahsiao
+05. [`M2_APEX@72d7d24`](https://github.com/M2Station/M2_APEX/commit/72d7d24c17f50f9ef97c97b3b99ba9011d4bb7f5) — Tabbed Settings, quick-pick apps (Install/Check Update), ... · `2026-07-23` · oahsiao
+06. [`M2_APEX@238d3ad`](https://github.com/M2Station/M2_APEX/commit/238d3ad5284ec3c78ccc8492e424f648b5755715) — Release v0.0.4 (#36) · `2026-07-22` · oahsiao
+07. [`M2_APEX@927c697`](https://github.com/M2Station/M2_APEX/commit/927c6975c6037a47a2c59b80847bc87cd7bf7e0e) — Add pinned quick picks to search and clean search history... · `2026-07-22` · oahsiao
+08. [`M2_APEX@8c9696c`](https://github.com/M2Station/M2_APEX/commit/8c9696c63522195e5396369ea8ab77777fdbd7ff) — Add startup registration status check and unregister to S... · `2026-07-22` · oahsiao
+09. [`M2_APEX@63ea6be`](https://github.com/M2Station/M2_APEX/commit/63ea6be1818d2371d4f452459ad13114bc36614a) — M2 Commander: hide custom commands with a blank Program f... · `2026-07-22` · oahsiao
+10. [`M2_APEX@e7f735b`](https://github.com/M2Station/M2_APEX/commit/e7f735b845d8e9ba0a85f3c7a53db012d10938f4) — M2 Commander: fix right-click on a file name not opening ... · `2026-07-22` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
