@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@ae75758`](https://github.com/M2Station/M2_APEX/commit/ae75758cc6b41ca05409513701d674919f99489f) — Release v0.0.5 (#40) · `2026-07-23` · oahsiao
-02. [`M2_APEX@378f5ae`](https://github.com/M2Station/M2_APEX/commit/378f5ae1349f15d1562359a6b18c7ea44489da05) — Optimize startup time and memory: off-thread index load, ... · `2026-07-23` · oahsiao
-03. [`M2_PROMPT@32c278d`](https://github.com/M2Station/M2_PROMPT/commit/32c278d94ec4fe68720809fb81e9105d113e0463) — chore: add copilot-instructions and update prompt snippets · `2026-07-23` · OA Hsiao
-04. [`M2_APEX@cd9dac1`](https://github.com/M2Station/M2_APEX/commit/cd9dac13046f17914e603ac49e7e27f29369d6a0) — Fix double-Ctrl not firing on a Synergy/KVM secondary PC ... · `2026-07-23` · oahsiao
-05. [`M2_APEX@72d7d24`](https://github.com/M2Station/M2_APEX/commit/72d7d24c17f50f9ef97c97b3b99ba9011d4bb7f5) — Tabbed Settings, quick-pick apps (Install/Check Update), ... · `2026-07-23` · oahsiao
-06. [`M2_APEX@238d3ad`](https://github.com/M2Station/M2_APEX/commit/238d3ad5284ec3c78ccc8492e424f648b5755715) — Release v0.0.4 (#36) · `2026-07-22` · oahsiao
-07. [`M2_APEX@927c697`](https://github.com/M2Station/M2_APEX/commit/927c6975c6037a47a2c59b80847bc87cd7bf7e0e) — Add pinned quick picks to search and clean search history... · `2026-07-22` · oahsiao
-08. [`M2_APEX@8c9696c`](https://github.com/M2Station/M2_APEX/commit/8c9696c63522195e5396369ea8ab77777fdbd7ff) — Add startup registration status check and unregister to S... · `2026-07-22` · oahsiao
-09. [`M2_APEX@63ea6be`](https://github.com/M2Station/M2_APEX/commit/63ea6be1818d2371d4f452459ad13114bc36614a) — M2 Commander: hide custom commands with a blank Program f... · `2026-07-22` · oahsiao
-10. [`M2_APEX@e7f735b`](https://github.com/M2Station/M2_APEX/commit/e7f735b845d8e9ba0a85f3c7a53db012d10938f4) — M2 Commander: fix right-click on a file name not opening ... · `2026-07-22` · oahsiao
+01. [`M2_COMMON_AI@e0f0630`](https://github.com/M2Station/M2_COMMON_AI/commit/e0f0630b48714ac75137790879e3e1de17eeadf0) — refactor(sync): move sync logic into a reusable workflow ... · `2026-07-24` · oahsiao
+02. [`M2_APEX@1a78742`](https://github.com/M2Station/M2_APEX/commit/1a78742b8617ed3c807ad43b53ab1dc2c9d51a1a) — ci: bump sync-ai actions and assign automated PRs (#52) · `2026-07-24` · oahsiao
+03. [`M2_COMMON_AI@ce1ed6f`](https://github.com/M2Station/M2_COMMON_AI/commit/ce1ed6fe9f58015bbb170d43da696f0ba2a7d5ab) — ci(sync): bump PR actions to Node 24 and auto-assign sync... · `2026-07-24` · oahsiao
+04. [`M2_APEX@7af66be`](https://github.com/M2Station/M2_APEX/commit/7af66bed4a5c46f24b4fd8e6c32891fe6217431d) — chore(ai): sync Copilot config from central repo (#51) · `2026-07-24` · github-actions[bot]
+05. [`M2_APEX@843f733`](https://github.com/M2Station/M2_APEX/commit/843f733c3e90dde9baf2c6ec4e01e5675e26474a) — chore: fix eWDK build SDK resolution and refine AI-sync w... · `2026-07-24` · oahsiao
+06. [`M2_COMMON_AI@b312c10`](https://github.com/M2Station/M2_COMMON_AI/commit/b312c10ab2eeb903ffdace08a5d7b326d5ea5e20) — feat(prompts): add /m2_next post-merge cleanup command (#11) · `2026-07-24` · oahsiao
+07. [`M2_GIT_DIFF@b2c389b`](https://github.com/M2Station/M2_GIT_DIFF/commit/b2c389bebfe39ac6d38f37976eb96549a1013a62) — ci(sync): bump checkout to v5 and refine PR/issue templat... · `2026-07-24` · oahsiao
+08. [`M2_APEX@83f509e`](https://github.com/M2Station/M2_APEX/commit/83f509e4bdb9051b709afce303032c531109f8fe) — feat(debug): add opt-in Debug tab with diagnostic logs (#49) · `2026-07-24` · oahsiao
+09. [`M2_APEX@e4e2d6a`](https://github.com/M2Station/M2_APEX/commit/e4e2d6ad3db651a6373a38991d15372f4b2331c0) — chore(ai): sync Copilot config from central repo (#48) · `2026-07-24` · github-actions[bot]
+10. [`M2_COMMON_AI@5914fdd`](https://github.com/M2Station/M2_COMMON_AI/commit/5914fdd12393cb1b8382076aa6ba730cbb5c5881) — feat(prompts): button-style choices instead of typing · `2026-07-24` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

@@ -1,95 +1,95 @@
 {
-  "updated": "2026-07-23 13:29 TWN",
+  "updated": "2026-07-24 13:23 TWN",
   "latestChanges": [
     {
-      "date": 1784783257000,
-      "committedDate": "2026-07-23T05:07:37Z",
-      "header": "Release v0.0.5 (#40)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/ae75758cc6b41ca05409513701d674919f99489f",
-      "sha": "ae75758",
+      "date": 1784869918000,
+      "committedDate": "2026-07-24T05:11:58Z",
+      "header": "refactor(sync): move sync logic into a reusable workflow (#13)",
+      "repo": "M2_COMMON_AI",
+      "url": "https://github.com/M2Station/M2_COMMON_AI/commit/e0f0630b48714ac75137790879e3e1de17eeadf0",
+      "sha": "e0f0630",
       "login": "oahsiao"
     },
     {
-      "date": 1784782995000,
-      "committedDate": "2026-07-23T05:03:15Z",
-      "header": "Optimize startup time and memory: off-thread index load, streaming cache, slim IndexItem (#39)",
+      "date": 1784868029000,
+      "committedDate": "2026-07-24T04:40:29Z",
+      "header": "ci: bump sync-ai actions and assign automated PRs (#52)",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/378f5ae1349f15d1562359a6b18c7ea44489da05",
-      "sha": "378f5ae",
+      "url": "https://github.com/M2Station/M2_APEX/commit/1a78742b8617ed3c807ad43b53ab1dc2c9d51a1a",
+      "sha": "1a78742",
       "login": "oahsiao"
     },
     {
-      "date": 1784782520000,
-      "committedDate": "2026-07-23T04:55:20Z",
-      "header": "chore: add copilot-instructions and update prompt snippets",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/32c278d94ec4fe68720809fb81e9105d113e0463",
-      "sha": "32c278d",
+      "date": 1784866740000,
+      "committedDate": "2026-07-24T04:19:00Z",
+      "header": "ci(sync): bump PR actions to Node 24 and auto-assign sync PRs (#12)",
+      "repo": "M2_COMMON_AI",
+      "url": "https://github.com/M2Station/M2_COMMON_AI/commit/ce1ed6fe9f58015bbb170d43da696f0ba2a7d5ab",
+      "sha": "ce1ed6f",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784865959000,
+      "committedDate": "2026-07-24T04:05:59Z",
+      "header": "chore(ai): sync Copilot config from central repo (#51)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/7af66bed4a5c46f24b4fd8e6c32891fe6217431d",
+      "sha": "7af66be",
+      "login": "github-actions[bot]"
+    },
+    {
+      "date": 1784865265000,
+      "committedDate": "2026-07-24T03:54:25Z",
+      "header": "chore: fix eWDK build SDK resolution and refine AI-sync workflow text (#50)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/843f733c3e90dde9baf2c6ec4e01e5675e26474a",
+      "sha": "843f733",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784865257000,
+      "committedDate": "2026-07-24T03:54:17Z",
+      "header": "feat(prompts): add /m2_next post-merge cleanup command (#11)",
+      "repo": "M2_COMMON_AI",
+      "url": "https://github.com/M2Station/M2_COMMON_AI/commit/b312c10ab2eeb903ffdace08a5d7b326d5ea5e20",
+      "sha": "b312c10",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784863339000,
+      "committedDate": "2026-07-24T03:22:19Z",
+      "header": "ci(sync): bump checkout to v5 and refine PR/issue templates (#145)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/b2c389bebfe39ac6d38f37976eb96549a1013a62",
+      "sha": "b2c389b",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784863256000,
+      "committedDate": "2026-07-24T03:20:56Z",
+      "header": "feat(debug): add opt-in Debug tab with diagnostic logs (#49)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/83f509e4bdb9051b709afce303032c531109f8fe",
+      "sha": "83f509e",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1784862883000,
+      "committedDate": "2026-07-24T03:14:43Z",
+      "header": "chore(ai): sync Copilot config from central repo (#48)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/e4e2d6ad3db651a6373a38991d15372f4b2331c0",
+      "sha": "e4e2d6a",
+      "login": "github-actions[bot]"
+    },
+    {
+      "date": 1784861688000,
+      "committedDate": "2026-07-24T02:54:48Z",
+      "header": "feat(prompts): button-style choices instead of typing",
+      "repo": "M2_COMMON_AI",
+      "url": "https://github.com/M2Station/M2_COMMON_AI/commit/5914fdd12393cb1b8382076aa6ba730cbb5c5881",
+      "sha": "5914fdd",
       "login": "OA Hsiao"
-    },
-    {
-      "date": 1784777742000,
-      "committedDate": "2026-07-23T03:35:42Z",
-      "header": "Fix double-Ctrl not firing on a Synergy/KVM secondary PC (#38)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/cd9dac13046f17914e603ac49e7e27f29369d6a0",
-      "sha": "cd9dac1",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1784777356000,
-      "committedDate": "2026-07-23T03:29:16Z",
-      "header": "Tabbed Settings, quick-pick apps (Install/Check Update), shared default catalogs (#37)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/72d7d24c17f50f9ef97c97b3b99ba9011d4bb7f5",
-      "sha": "72d7d24",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1784742758000,
-      "committedDate": "2026-07-22T17:52:38Z",
-      "header": "Release v0.0.4 (#36)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/238d3ad5284ec3c78ccc8492e424f648b5755715",
-      "sha": "238d3ad",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1784742512000,
-      "committedDate": "2026-07-22T17:48:32Z",
-      "header": "Add pinned quick picks to search and clean search history (#35)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/927c6975c6037a47a2c59b80847bc87cd7bf7e0e",
-      "sha": "927c697",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1784740784000,
-      "committedDate": "2026-07-22T17:19:44Z",
-      "header": "Add startup registration status check and unregister to Settings (#34)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/8c9696c63522195e5396369ea8ab77777fdbd7ff",
-      "sha": "8c9696c",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1784739972000,
-      "committedDate": "2026-07-22T17:06:12Z",
-      "header": "M2 Commander: hide custom commands with a blank Program from the menu and button strip (#33)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/63ea6be1818d2371d4f452459ad13114bc36614a",
-      "sha": "63ea6be",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1784739345000,
-      "committedDate": "2026-07-22T16:55:45Z",
-      "header": "M2 Commander: fix right-click on a file name not opening the action menu (#32)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/e7f735b845d8e9ba0a85f3c7a53db012d10938f4",
-      "sha": "e7f735b",
-      "login": "oahsiao"
     }
   ]
 }
