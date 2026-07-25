@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_COMMON_AI@e0f0630`](https://github.com/M2Station/M2_COMMON_AI/commit/e0f0630b48714ac75137790879e3e1de17eeadf0) — refactor(sync): move sync logic into a reusable workflow ... · `2026-07-24` · oahsiao
-02. [`M2_APEX@1a78742`](https://github.com/M2Station/M2_APEX/commit/1a78742b8617ed3c807ad43b53ab1dc2c9d51a1a) — ci: bump sync-ai actions and assign automated PRs (#52) · `2026-07-24` · oahsiao
-03. [`M2_COMMON_AI@ce1ed6f`](https://github.com/M2Station/M2_COMMON_AI/commit/ce1ed6fe9f58015bbb170d43da696f0ba2a7d5ab) — ci(sync): bump PR actions to Node 24 and auto-assign sync... · `2026-07-24` · oahsiao
-04. [`M2_APEX@7af66be`](https://github.com/M2Station/M2_APEX/commit/7af66bed4a5c46f24b4fd8e6c32891fe6217431d) — chore(ai): sync Copilot config from central repo (#51) · `2026-07-24` · github-actions[bot]
-05. [`M2_APEX@843f733`](https://github.com/M2Station/M2_APEX/commit/843f733c3e90dde9baf2c6ec4e01e5675e26474a) — chore: fix eWDK build SDK resolution and refine AI-sync w... · `2026-07-24` · oahsiao
-06. [`M2_COMMON_AI@b312c10`](https://github.com/M2Station/M2_COMMON_AI/commit/b312c10ab2eeb903ffdace08a5d7b326d5ea5e20) — feat(prompts): add /m2_next post-merge cleanup command (#11) · `2026-07-24` · oahsiao
-07. [`M2_GIT_DIFF@b2c389b`](https://github.com/M2Station/M2_GIT_DIFF/commit/b2c389bebfe39ac6d38f37976eb96549a1013a62) — ci(sync): bump checkout to v5 and refine PR/issue templat... · `2026-07-24` · oahsiao
-08. [`M2_APEX@83f509e`](https://github.com/M2Station/M2_APEX/commit/83f509e4bdb9051b709afce303032c531109f8fe) — feat(debug): add opt-in Debug tab with diagnostic logs (#49) · `2026-07-24` · oahsiao
-09. [`M2_APEX@e4e2d6a`](https://github.com/M2Station/M2_APEX/commit/e4e2d6ad3db651a6373a38991d15372f4b2331c0) — chore(ai): sync Copilot config from central repo (#48) · `2026-07-24` · github-actions[bot]
-10. [`M2_COMMON_AI@5914fdd`](https://github.com/M2Station/M2_COMMON_AI/commit/5914fdd12393cb1b8382076aa6ba730cbb5c5881) — feat(prompts): button-style choices instead of typing · `2026-07-24` · OA Hsiao
+01. [`M2_APEX@202c4a7`](https://github.com/M2Station/M2_APEX/commit/202c4a74fc9ef3e4077593dbfcd8fbaa67ebf6e2) — chore(ai): sync Copilot config from central repo (#66) · `2026-07-25` · github-actions[bot]
+02. [`M2_ARTBANK@998a9c6`](https://github.com/M2Station/M2_ARTBANK/commit/998a9c6b1250ee64c1e0d563d2a674bceed17079) — chore(ai): sync Copilot config from central repo · `2026-07-25` · oahsiao
+03. [`M2_COMMON_AI@b699b4b`](https://github.com/M2Station/M2_COMMON_AI/commit/b699b4b57ba0f336b80a8c78a7c7a9a5135d0c40) — docs(prompts): self-terminating CI monitoring and button ... · `2026-07-25` · oahsiao
+04. [`M2_ARTBANK@8345c49`](https://github.com/M2Station/M2_ARTBANK/commit/8345c49ecfd2bb766c7d0cf3b56f090da68beafe) — feat: add GitHub workflows and prompts for PR management ... · `2026-07-25` · oahsiao
+05. [`M2_APEX@55bd7f2`](https://github.com/M2Station/M2_APEX/commit/55bd7f22d396dda678f678b0617a73e87be178bc) — chore(release): bump version to 0.0.9 (#65) · `2026-07-25` · oahsiao
+06. [`M2_ARTBANK@88f0ec5`](https://github.com/M2Station/M2_ARTBANK/commit/88f0ec5574f8476afea973800b99abcd5aaa652a) — feat(branding): update logo styling and add SVG logo as f... · `2026-07-25` · oahsiao
+07. [`M2_APEX@5401704`](https://github.com/M2Station/M2_APEX/commit/5401704c7570440b3af03a97e67d5739e44fd5bd) — feat(commander): add a Hotkey tab and split F11 settings ... · `2026-07-25` · oahsiao
+08. [`M2_APEX@55c93d2`](https://github.com/M2Station/M2_APEX/commit/55c93d232d05a750b3139a35f5462d0279281c47) — fix(startup): run autostart on battery and fix app-exit c... · `2026-07-25` · oahsiao
+09. [`M2_PROMPT@06eea89`](https://github.com/M2Station/M2_PROMPT/commit/06eea89d53cf3ebe313e9a061dd0afd0b1fc182d) — chore(ai): sync Copilot config from central repo · `2026-07-24` · oahsiao
+10. [`M2_LOG@7a36542`](https://github.com/M2Station/M2_LOG/commit/7a36542a1f0e51951eff2f6231f61a70de9e8752) — chore(ai): sync Copilot config from central repo · `2026-07-24` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
