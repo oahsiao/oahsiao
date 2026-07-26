@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@202c4a7`](https://github.com/M2Station/M2_APEX/commit/202c4a74fc9ef3e4077593dbfcd8fbaa67ebf6e2) — chore(ai): sync Copilot config from central repo (#66) · `2026-07-25` · github-actions[bot]
-02. [`M2_ARTBANK@998a9c6`](https://github.com/M2Station/M2_ARTBANK/commit/998a9c6b1250ee64c1e0d563d2a674bceed17079) — chore(ai): sync Copilot config from central repo · `2026-07-25` · oahsiao
-03. [`M2_COMMON_AI@b699b4b`](https://github.com/M2Station/M2_COMMON_AI/commit/b699b4b57ba0f336b80a8c78a7c7a9a5135d0c40) — docs(prompts): self-terminating CI monitoring and button ... · `2026-07-25` · oahsiao
-04. [`M2_ARTBANK@8345c49`](https://github.com/M2Station/M2_ARTBANK/commit/8345c49ecfd2bb766c7d0cf3b56f090da68beafe) — feat: add GitHub workflows and prompts for PR management ... · `2026-07-25` · oahsiao
-05. [`M2_APEX@55bd7f2`](https://github.com/M2Station/M2_APEX/commit/55bd7f22d396dda678f678b0617a73e87be178bc) — chore(release): bump version to 0.0.9 (#65) · `2026-07-25` · oahsiao
-06. [`M2_ARTBANK@88f0ec5`](https://github.com/M2Station/M2_ARTBANK/commit/88f0ec5574f8476afea973800b99abcd5aaa652a) — feat(branding): update logo styling and add SVG logo as f... · `2026-07-25` · oahsiao
-07. [`M2_APEX@5401704`](https://github.com/M2Station/M2_APEX/commit/5401704c7570440b3af03a97e67d5739e44fd5bd) — feat(commander): add a Hotkey tab and split F11 settings ... · `2026-07-25` · oahsiao
-08. [`M2_APEX@55c93d2`](https://github.com/M2Station/M2_APEX/commit/55c93d232d05a750b3139a35f5462d0279281c47) — fix(startup): run autostart on battery and fix app-exit c... · `2026-07-25` · oahsiao
-09. [`M2_PROMPT@06eea89`](https://github.com/M2Station/M2_PROMPT/commit/06eea89d53cf3ebe313e9a061dd0afd0b1fc182d) — chore(ai): sync Copilot config from central repo · `2026-07-24` · oahsiao
-10. [`M2_LOG@7a36542`](https://github.com/M2Station/M2_LOG/commit/7a36542a1f0e51951eff2f6231f61a70de9e8752) — chore(ai): sync Copilot config from central repo · `2026-07-24` · oahsiao
+01. [`M2_APEX@63edb88`](https://github.com/M2Station/M2_APEX/commit/63edb88f25522d0ddc250ddfe76243ca2606fe06) — chore(release): bump version to 0.1.3 (#77) · `2026-07-26` · oahsiao
+02. [`M2_APEX@a8858f4`](https://github.com/M2Station/M2_APEX/commit/a8858f4027e15dfa998e42a10687412d67412998) — fix(apex): keep startup pointing at the running copy and ... · `2026-07-26` · oahsiao
+03. [`M2_ARTBANK@4ebb123`](https://github.com/M2Station/M2_ARTBANK/commit/4ebb1233cb305b7a10512927135703eede977a37) — feat(tools): support multi-batch prefixes and harden clas... · `2026-07-26` · oahsiao
+04. [`M2_COMMON_AI@06f334a`](https://github.com/M2Station/M2_COMMON_AI/commit/06f334a797cd3ea5006ea68fbc7f4751ca12f8f7) — fix(sync): keep downstream-only files when syncing folder... · `2026-07-26` · oahsiao
+05. [`M2_ARTBANK@a92f7df`](https://github.com/M2Station/M2_ARTBANK/commit/a92f7df01de8af34c77c71d86ba2be790d2e9e8f) — chore(ai): sync Copilot config from central repo · `2026-07-25` · oahsiao
+06. [`M2_ARTBANK@d039535`](https://github.com/M2Station/M2_ARTBANK/commit/d039535d02ccf97a7e707e67cbb3892e5593376d) — feat(tools): add burst-shot grouping workflow for artwork... · `2026-07-25` · oahsiao
+07. [`M2_APEX@ba64156`](https://github.com/M2Station/M2_APEX/commit/ba641569ce5e0ee0b80666f630af34a142cc601b) — chore(release): bump version to 0.1.2 (#75) · `2026-07-25` · oahsiao
+08. [`M2_APEX@335f5a6`](https://github.com/M2Station/M2_APEX/commit/335f5a682586ee54a99890d6e9b6b8f3bfc3bde9) — fix(commander): raise M2 Commander to the foreground on h... · `2026-07-25` · oahsiao
+09. [`M2_APEX@80b8afe`](https://github.com/M2Station/M2_APEX/commit/80b8afe961765fa605c3000375a97d40bf201faa) — chore(release): bump version to 0.1.1 (#73) · `2026-07-25` · oahsiao
+10. [`M2_APEX@f09fb51`](https://github.com/M2Station/M2_APEX/commit/f09fb5116850b7ae861beeb44d24e0968a049006) — feat(update): in-app download + silent install with progr... · `2026-07-25` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
