@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@63edb88`](https://github.com/M2Station/M2_APEX/commit/63edb88f25522d0ddc250ddfe76243ca2606fe06) — chore(release): bump version to 0.1.3 (#77) · `2026-07-26` · oahsiao
-02. [`M2_APEX@a8858f4`](https://github.com/M2Station/M2_APEX/commit/a8858f4027e15dfa998e42a10687412d67412998) — fix(apex): keep startup pointing at the running copy and ... · `2026-07-26` · oahsiao
-03. [`M2_ARTBANK@4ebb123`](https://github.com/M2Station/M2_ARTBANK/commit/4ebb1233cb305b7a10512927135703eede977a37) — feat(tools): support multi-batch prefixes and harden clas... · `2026-07-26` · oahsiao
-04. [`M2_COMMON_AI@06f334a`](https://github.com/M2Station/M2_COMMON_AI/commit/06f334a797cd3ea5006ea68fbc7f4751ca12f8f7) — fix(sync): keep downstream-only files when syncing folder... · `2026-07-26` · oahsiao
-05. [`M2_ARTBANK@a92f7df`](https://github.com/M2Station/M2_ARTBANK/commit/a92f7df01de8af34c77c71d86ba2be790d2e9e8f) — chore(ai): sync Copilot config from central repo · `2026-07-25` · oahsiao
-06. [`M2_ARTBANK@d039535`](https://github.com/M2Station/M2_ARTBANK/commit/d039535d02ccf97a7e707e67cbb3892e5593376d) — feat(tools): add burst-shot grouping workflow for artwork... · `2026-07-25` · oahsiao
-07. [`M2_APEX@ba64156`](https://github.com/M2Station/M2_APEX/commit/ba641569ce5e0ee0b80666f630af34a142cc601b) — chore(release): bump version to 0.1.2 (#75) · `2026-07-25` · oahsiao
-08. [`M2_APEX@335f5a6`](https://github.com/M2Station/M2_APEX/commit/335f5a682586ee54a99890d6e9b6b8f3bfc3bde9) — fix(commander): raise M2 Commander to the foreground on h... · `2026-07-25` · oahsiao
-09. [`M2_APEX@80b8afe`](https://github.com/M2Station/M2_APEX/commit/80b8afe961765fa605c3000375a97d40bf201faa) — chore(release): bump version to 0.1.1 (#73) · `2026-07-25` · oahsiao
-10. [`M2_APEX@f09fb51`](https://github.com/M2Station/M2_APEX/commit/f09fb5116850b7ae861beeb44d24e0968a049006) — feat(update): in-app download + silent install with progr... · `2026-07-25` · oahsiao
+01. [`M2_ARTBANK@e043391`](https://github.com/M2Station/M2_ARTBANK/commit/e04339148b5917a3f897bbf700265d4a776934d6) — feat(front-end): add server-side collections and data re-... · `2026-07-27` · oahsiao
+02. [`M2_LOG@49350e6`](https://github.com/M2Station/M2_LOG/commit/49350e6079011ca14fd3bbadafe8a42aa1542816) — chore(deps-dev): bump electron from 43.1.1 to 43.2.0 · `2026-07-27` · dependabot[bot]
+03. [`M2_LOG@480c7a0`](https://github.com/M2Station/M2_LOG/commit/480c7a046e23459176027d5e02abbec99f2221e6) — chore: release v0.1.8 · `2026-07-27` · OA Hsiao
+04. [`M2_LOG@623c0d4`](https://github.com/M2Station/M2_LOG/commit/623c0d4205aa1310f3789e0c12f00e1a2968b466) — fix(installer): force-close a running M2_LOG before repla... · `2026-07-27` · OA Hsiao
+05. [`M2_GIT_DIFF@3e1a328`](https://github.com/M2Station/M2_GIT_DIFF/commit/3e1a3284967a433db371dc7638f7df16a60530ae) — chore(release): v0.3.3 (#152) · `2026-07-27` · oahsiao
+06. [`M2_GIT_DIFF@5b55518`](https://github.com/M2Station/M2_GIT_DIFF/commit/5b55518648ef2e6dc244350cb56a3ddce459872a) — feat(release): add portable builds and silent-install set... · `2026-07-27` · oahsiao
+07. [`M2_SCOUT@2fe3c68`](https://github.com/M2Station/M2_SCOUT/commit/2fe3c6836dac755ff70f855f0b733e31f81da11c) — release: v0.0.9 · `2026-07-27` · OA Hsiao
+08. [`M2_LOG@783f07e`](https://github.com/M2Station/M2_LOG/commit/783f07e6071c026a079f76da01dcb82b48381aeb) — chore: release v0.1.7 · `2026-07-27` · OA Hsiao
+09. [`M2_PROMPT@a5fd917`](https://github.com/M2Station/M2_PROMPT/commit/a5fd917d136ac9706e5f94e6d11e0b7f9720e84f) — chore: release v0.1.6 · `2026-07-27` · OA Hsiao
+10. [`M2_SCOUT@e2ab93e`](https://github.com/M2Station/M2_SCOUT/commit/e2ab93eb98b6ac84e963d01387f059f638d6ed8e) — build: switch releases to portable + Inno Setup with sile... · `2026-07-27` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

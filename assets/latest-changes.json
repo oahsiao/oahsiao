@@ -1,95 +1,95 @@
 {
-  "updated": "2026-07-26 13:36 TWN",
+  "updated": "2026-07-27 13:54 TWN",
   "latestChanges": [
     {
-      "date": 1785044209000,
-      "committedDate": "2026-07-26T05:36:49Z",
-      "header": "chore(release): bump version to 0.1.3 (#77)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/63edb88f25522d0ddc250ddfe76243ca2606fe06",
-      "sha": "63edb88",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785043848000,
-      "committedDate": "2026-07-26T05:30:48Z",
-      "header": "fix(apex): keep startup pointing at the running copy and force half-width English input (#76)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/a8858f4027e15dfa998e42a10687412d67412998",
-      "sha": "a8858f4",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785043110000,
-      "committedDate": "2026-07-26T05:18:30Z",
-      "header": "feat(tools): support multi-batch prefixes and harden classify toolchain",
+      "date": 1785124152000,
+      "committedDate": "2026-07-27T03:49:12Z",
+      "header": "feat(front-end): add server-side collections and data re-index (#5)",
       "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/4ebb1233cb305b7a10512927135703eede977a37",
-      "sha": "4ebb123",
+      "url": "https://github.com/M2Station/M2_ARTBANK/commit/e04339148b5917a3f897bbf700265d4a776934d6",
+      "sha": "e043391",
       "login": "oahsiao"
     },
     {
-      "date": 1785040952000,
-      "committedDate": "2026-07-26T04:42:32Z",
-      "header": "fix(sync): keep downstream-only files when syncing folders (#18)",
-      "repo": "M2_COMMON_AI",
-      "url": "https://github.com/M2Station/M2_COMMON_AI/commit/06f334a797cd3ea5006ea68fbc7f4751ca12f8f7",
-      "sha": "06f334a",
+      "date": 1785124146000,
+      "committedDate": "2026-07-27T03:49:06Z",
+      "header": "chore(deps-dev): bump electron from 43.1.1 to 43.2.0",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/49350e6079011ca14fd3bbadafe8a42aa1542816",
+      "sha": "49350e6",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1785123805000,
+      "committedDate": "2026-07-27T03:43:25Z",
+      "header": "chore: release v0.1.8",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/480c7a046e23459176027d5e02abbec99f2221e6",
+      "sha": "480c7a0",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1785123572000,
+      "committedDate": "2026-07-27T03:39:32Z",
+      "header": "fix(installer): force-close a running M2_LOG before replacing files",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/623c0d4205aa1310f3789e0c12f00e1a2968b466",
+      "sha": "623c0d4",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1785123237000,
+      "committedDate": "2026-07-27T03:33:57Z",
+      "header": "chore(release): v0.3.3 (#152)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/3e1a3284967a433db371dc7638f7df16a60530ae",
+      "sha": "3e1a328",
       "login": "oahsiao"
     },
     {
-      "date": 1785016366000,
-      "committedDate": "2026-07-25T21:52:46Z",
-      "header": "chore(ai): sync Copilot config from central repo",
-      "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/a92f7df01de8af34c77c71d86ba2be790d2e9e8f",
-      "sha": "a92f7df",
+      "date": 1785122758000,
+      "committedDate": "2026-07-27T03:25:58Z",
+      "header": "feat(release): add portable builds and silent-install setup (#151)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/5b55518648ef2e6dc244350cb56a3ddce459872a",
+      "sha": "5b55518",
       "login": "oahsiao"
     },
     {
-      "date": 1784994131000,
-      "committedDate": "2026-07-25T15:42:11Z",
-      "header": "feat(tools): add burst-shot grouping workflow for artwork photos",
-      "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/d039535d02ccf97a7e707e67cbb3892e5593376d",
-      "sha": "d039535",
-      "login": "oahsiao"
+      "date": 1785122737000,
+      "committedDate": "2026-07-27T03:25:37Z",
+      "header": "release: v0.0.9",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/2fe3c6836dac755ff70f855f0b733e31f81da11c",
+      "sha": "2fe3c68",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1784983734000,
-      "committedDate": "2026-07-25T12:48:54Z",
-      "header": "chore(release): bump version to 0.1.2 (#75)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/ba641569ce5e0ee0b80666f630af34a142cc601b",
-      "sha": "ba64156",
-      "login": "oahsiao"
+      "date": 1785122616000,
+      "committedDate": "2026-07-27T03:23:36Z",
+      "header": "chore: release v0.1.7",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/783f07e6071c026a079f76da01dcb82b48381aeb",
+      "sha": "783f07e",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1784983440000,
-      "committedDate": "2026-07-25T12:44:00Z",
-      "header": "fix(commander): raise M2 Commander to the foreground on hotkey open (#74)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/335f5a682586ee54a99890d6e9b6b8f3bfc3bde9",
-      "sha": "335f5a6",
-      "login": "oahsiao"
+      "date": 1785122555000,
+      "committedDate": "2026-07-27T03:22:35Z",
+      "header": "chore: release v0.1.6",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/a5fd917d136ac9706e5f94e6d11e0b7f9720e84f",
+      "sha": "a5fd917",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1784981856000,
-      "committedDate": "2026-07-25T12:17:36Z",
-      "header": "chore(release): bump version to 0.1.1 (#73)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/80b8afe961765fa605c3000375a97d40bf201faa",
-      "sha": "80b8afe",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1784981568000,
-      "committedDate": "2026-07-25T12:12:48Z",
-      "header": "feat(update): in-app download + silent install with progress (#72)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/f09fb5116850b7ae861beeb44d24e0968a049006",
-      "sha": "f09fb51",
-      "login": "oahsiao"
+      "date": 1785122378000,
+      "committedDate": "2026-07-27T03:19:38Z",
+      "header": "build: switch releases to portable + Inno Setup with silent install",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/e2ab93eb98b6ac84e963d01387f059f638d6ed8e",
+      "sha": "e2ab93e",
+      "login": "OA Hsiao"
     }
   ]
 }
