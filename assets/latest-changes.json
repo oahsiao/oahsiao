@@ -1,94 +1,94 @@
 {
-  "updated": "2026-07-28 13:18 TWN",
+  "updated": "2026-07-29 13:25 TWN",
   "latestChanges": [
     {
-      "date": 1785214145000,
-      "committedDate": "2026-07-28T04:49:05Z",
-      "header": "chore(drafts): keep working output out of version control (#5)",
-      "repo": "M2_IP_DEV",
-      "url": "https://github.com/M2Station/M2_IP_DEV/commit/f8572f9958256fbc3643b9e8604eeaff8975069b",
-      "sha": "f8572f9",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785213292000,
-      "committedDate": "2026-07-28T04:34:52Z",
-      "header": "feat(history): add audit log, metadata snapshots and a recycle bin (#9)",
-      "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/580a0024f5965d51a0d2ee2acad9ab886ab47608",
-      "sha": "580a002",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785213121000,
-      "committedDate": "2026-07-28T04:32:01Z",
-      "header": "feat(ip): add fix mode and make drafts/ the sole output directory (#4)",
-      "repo": "M2_IP_DEV",
-      "url": "https://github.com/M2Station/M2_IP_DEV/commit/72f3766da3ddccdc9f556fa720268f68b440d591",
-      "sha": "72f3766",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785212747000,
-      "committedDate": "2026-07-28T04:25:47Z",
-      "header": "feat(update): add auto check for updates with silent install on launch (#93)",
+      "date": 1785302690000,
+      "committedDate": "2026-07-29T05:24:50Z",
+      "header": "feat(debug): pinpoint where the UI stalls, and auto-install Inno Setup (#97)",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/c8ef8c617bdf8d26163e4cbd302f53402e67dbb6",
-      "sha": "c8ef8c6",
+      "url": "https://github.com/M2Station/M2_APEX/commit/b3f7636b30c32da2e22876b361b1e26f2ab5e1d0",
+      "sha": "b3f7636",
       "login": "oahsiao"
     },
     {
-      "date": 1785212375000,
-      "committedDate": "2026-07-28T04:19:35Z",
-      "header": "feat(security): 可設定的登入有效期（預設 1 天）與企業級登入防護",
+      "date": 1785252641000,
+      "committedDate": "2026-07-28T15:30:41Z",
+      "header": "refactor(frontend): flatten front controller to FRONT_END root",
+      "repo": "M2_888",
+      "url": "https://github.com/M2Station/M2_888/commit/c63b251909a5118ed85abca7b04d28fdfbebd2b6",
+      "sha": "c63b251",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785245565000,
+      "committedDate": "2026-07-28T13:32:45Z",
+      "header": "chore(release): v0.3.4 (#157)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/1c97f2a284eb1aad5a3a6a9272a678d7b794643f",
+      "sha": "1c97f2a",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785244901000,
+      "committedDate": "2026-07-28T13:21:41Z",
+      "header": "fix(agents): resolve the npm-installed Copilot CLI binary (#156)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/8d268674e0f947d968e816491e93eff736e0fe3d",
+      "sha": "8d26867",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785237853000,
+      "committedDate": "2026-07-28T11:24:13Z",
+      "header": "feat(commit-detail): add Agents button that seeds a Copilot CLI session (#154)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/11c0fcedd34705dfe5c1fd2cd9c8aa3a0fd8aa9a",
+      "sha": "11c0fce",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785237684000,
+      "committedDate": "2026-07-28T11:21:24Z",
+      "header": "chore: add workspace editor tab colours",
+      "repo": "M2_888",
+      "url": "https://github.com/M2Station/M2_888/commit/a0bc2c1c05e307d76b0b47202828059ffa3a65a7",
+      "sha": "a0bc2c1",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1785237675000,
+      "committedDate": "2026-07-28T11:21:15Z",
+      "header": "feat(backend): add S0 spike scripts and check runner",
+      "repo": "M2_888",
+      "url": "https://github.com/M2Station/M2_888/commit/3c791de23b9b9b6a47849442fbdf5ace03653f31",
+      "sha": "3c791de",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1785237656000,
+      "committedDate": "2026-07-28T11:20:56Z",
+      "header": "docs: add backend design specification v1",
+      "repo": "M2_888",
+      "url": "https://github.com/M2Station/M2_888/commit/3beea6061c0045049cb798f084d4c0144524ecf1",
+      "sha": "3beea60",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1785237161000,
+      "committedDate": "2026-07-28T11:12:41Z",
+      "header": "feat(security): implement portable page guard for independent development and access control",
+      "repo": "M2_ARTBANK",
+      "url": "https://github.com/M2Station/M2_ARTBANK/commit/40d42b6183ad9c31ae6f5cfd1e30d97ea5ef757b",
+      "sha": "40d42b6",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1785237014000,
+      "committedDate": "2026-07-28T11:10:14Z",
+      "header": "docs(template): 說明 PAGE_SLUG 與 PAGE_TITLE 皆可留空",
       "repo": "M2_HSIAO_WEB_MANAGER",
-      "url": "https://github.com/M2Station/M2_HSIAO_WEB_MANAGER/commit/67dd900f4a7dd567cec6894389b05da27c47321d",
-      "sha": "67dd900",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1785209461000,
-      "committedDate": "2026-07-28T03:31:01Z",
-      "header": "feat(items): add sold flag with details and make the edit modal movable",
-      "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/42664e8fb8d7ffde9e5b5c9c6287c388102f7169",
-      "sha": "42664e8",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1785208915000,
-      "committedDate": "2026-07-28T03:21:55Z",
-      "header": "feat(ip): add a spec-driven IP disclosure authoring system (#3)",
-      "repo": "M2_IP_DEV",
-      "url": "https://github.com/M2Station/M2_IP_DEV/commit/874dd0a980c098c80cbe9393083f40d4e369d58d",
-      "sha": "874dd0a",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785207986000,
-      "committedDate": "2026-07-28T03:06:26Z",
-      "header": "feat(prompts): add /m2_smoketest for app verification workflow (#24)",
-      "repo": "M2_COMMON_AI",
-      "url": "https://github.com/M2Station/M2_COMMON_AI/commit/7f0cb1812a759844b29c5f5c6f3f7e4988f37ae7",
-      "sha": "7f0cb18",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785206873000,
-      "committedDate": "2026-07-28T02:47:53Z",
-      "header": "chore: keep the import review report out of version control",
-      "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/ea3b2dd7aa30da369059de3ec585b752f9943167",
-      "sha": "ea3b2dd",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1785206739000,
-      "committedDate": "2026-07-28T02:45:39Z",
-      "header": "feat(tools): add ECURIO inventory import into M2 ArtBank data format",
-      "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/f7264b35150a3aaf51d684854bbd39190b19802b",
-      "sha": "f7264b3",
+      "url": "https://github.com/M2Station/M2_HSIAO_WEB_MANAGER/commit/9b6359753a87ca6ad44d06049ffb45e916c37623",
+      "sha": "9b63597",
       "login": "OA Hsiao"
     }
   ]

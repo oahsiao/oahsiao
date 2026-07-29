@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_IP_DEV@f8572f9`](https://github.com/M2Station/M2_IP_DEV/commit/f8572f9958256fbc3643b9e8604eeaff8975069b) — chore(drafts): keep working output out of version control... · `2026-07-28` · oahsiao
-02. [`M2_ARTBANK@580a002`](https://github.com/M2Station/M2_ARTBANK/commit/580a0024f5965d51a0d2ee2acad9ab886ab47608) — feat(history): add audit log, metadata snapshots and a re... · `2026-07-28` · oahsiao
-03. [`M2_IP_DEV@72f3766`](https://github.com/M2Station/M2_IP_DEV/commit/72f3766da3ddccdc9f556fa720268f68b440d591) — feat(ip): add fix mode and make drafts/ the sole output d... · `2026-07-28` · oahsiao
-04. [`M2_APEX@c8ef8c6`](https://github.com/M2Station/M2_APEX/commit/c8ef8c617bdf8d26163e4cbd302f53402e67dbb6) — feat(update): add auto check for updates with silent inst... · `2026-07-28` · oahsiao
-05. [`M2_HSIAO_WEB_MANAGER@67dd900`](https://github.com/M2Station/M2_HSIAO_WEB_MANAGER/commit/67dd900f4a7dd567cec6894389b05da27c47321d) — feat(security): 可設定的登入有效期（預設 1 天）與企業級登入防護 · `2026-07-28` · OA Hsiao
-06. [`M2_ARTBANK@42664e8`](https://github.com/M2Station/M2_ARTBANK/commit/42664e8fb8d7ffde9e5b5c9c6287c388102f7169) — feat(items): add sold flag with details and make the edit... · `2026-07-28` · OA Hsiao
-07. [`M2_IP_DEV@874dd0a`](https://github.com/M2Station/M2_IP_DEV/commit/874dd0a980c098c80cbe9393083f40d4e369d58d) — feat(ip): add a spec-driven IP disclosure authoring syste... · `2026-07-28` · oahsiao
-08. [`M2_COMMON_AI@7f0cb18`](https://github.com/M2Station/M2_COMMON_AI/commit/7f0cb1812a759844b29c5f5c6f3f7e4988f37ae7) — feat(prompts): add /m2_smoketest for app verification wor... · `2026-07-28` · oahsiao
-09. [`M2_ARTBANK@ea3b2dd`](https://github.com/M2Station/M2_ARTBANK/commit/ea3b2dd7aa30da369059de3ec585b752f9943167) — chore: keep the import review report out of version control · `2026-07-28` · OA Hsiao
-10. [`M2_ARTBANK@f7264b3`](https://github.com/M2Station/M2_ARTBANK/commit/f7264b35150a3aaf51d684854bbd39190b19802b) — feat(tools): add ECURIO inventory import into M2 ArtBank ... · `2026-07-28` · OA Hsiao
+01. [`M2_APEX@b3f7636`](https://github.com/M2Station/M2_APEX/commit/b3f7636b30c32da2e22876b361b1e26f2ab5e1d0) — feat(debug): pinpoint where the UI stalls, and auto-insta... · `2026-07-29` · oahsiao
+02. [`M2_888@c63b251`](https://github.com/M2Station/M2_888/commit/c63b251909a5118ed85abca7b04d28fdfbebd2b6) — refactor(frontend): flatten front controller to FRONT_END... · `2026-07-28` · oahsiao
+03. [`M2_GIT_DIFF@1c97f2a`](https://github.com/M2Station/M2_GIT_DIFF/commit/1c97f2a284eb1aad5a3a6a9272a678d7b794643f) — chore(release): v0.3.4 (#157) · `2026-07-28` · oahsiao
+04. [`M2_GIT_DIFF@8d26867`](https://github.com/M2Station/M2_GIT_DIFF/commit/8d268674e0f947d968e816491e93eff736e0fe3d) — fix(agents): resolve the npm-installed Copilot CLI binary... · `2026-07-28` · oahsiao
+05. [`M2_GIT_DIFF@11c0fce`](https://github.com/M2Station/M2_GIT_DIFF/commit/11c0fcedd34705dfe5c1fd2cd9c8aa3a0fd8aa9a) — feat(commit-detail): add Agents button that seeds a Copil... · `2026-07-28` · oahsiao
+06. [`M2_888@a0bc2c1`](https://github.com/M2Station/M2_888/commit/a0bc2c1c05e307d76b0b47202828059ffa3a65a7) — chore: add workspace editor tab colours · `2026-07-28` · OA Hsiao
+07. [`M2_888@3c791de`](https://github.com/M2Station/M2_888/commit/3c791de23b9b9b6a47849442fbdf5ace03653f31) — feat(backend): add S0 spike scripts and check runner · `2026-07-28` · OA Hsiao
+08. [`M2_888@3beea60`](https://github.com/M2Station/M2_888/commit/3beea6061c0045049cb798f084d4c0144524ecf1) — docs: add backend design specification v1 · `2026-07-28` · OA Hsiao
+09. [`M2_ARTBANK@40d42b6`](https://github.com/M2Station/M2_ARTBANK/commit/40d42b6183ad9c31ae6f5cfd1e30d97ea5ef757b) — feat(security): implement portable page guard for indepen... · `2026-07-28` · OA Hsiao
+10. [`M2_HSIAO_WEB_MANAGER@9b63597`](https://github.com/M2Station/M2_HSIAO_WEB_MANAGER/commit/9b6359753a87ca6ad44d06049ffb45e916c37623) — docs(template): 說明 PAGE_SLUG 與 PAGE_TITLE 皆可留空 · `2026-07-28` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
