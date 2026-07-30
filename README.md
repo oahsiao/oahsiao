@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@b3f7636`](https://github.com/M2Station/M2_APEX/commit/b3f7636b30c32da2e22876b361b1e26f2ab5e1d0) — feat(debug): pinpoint where the UI stalls, and auto-insta... · `2026-07-29` · oahsiao
-02. [`M2_888@c63b251`](https://github.com/M2Station/M2_888/commit/c63b251909a5118ed85abca7b04d28fdfbebd2b6) — refactor(frontend): flatten front controller to FRONT_END... · `2026-07-28` · oahsiao
-03. [`M2_GIT_DIFF@1c97f2a`](https://github.com/M2Station/M2_GIT_DIFF/commit/1c97f2a284eb1aad5a3a6a9272a678d7b794643f) — chore(release): v0.3.4 (#157) · `2026-07-28` · oahsiao
-04. [`M2_GIT_DIFF@8d26867`](https://github.com/M2Station/M2_GIT_DIFF/commit/8d268674e0f947d968e816491e93eff736e0fe3d) — fix(agents): resolve the npm-installed Copilot CLI binary... · `2026-07-28` · oahsiao
-05. [`M2_GIT_DIFF@11c0fce`](https://github.com/M2Station/M2_GIT_DIFF/commit/11c0fcedd34705dfe5c1fd2cd9c8aa3a0fd8aa9a) — feat(commit-detail): add Agents button that seeds a Copil... · `2026-07-28` · oahsiao
-06. [`M2_888@a0bc2c1`](https://github.com/M2Station/M2_888/commit/a0bc2c1c05e307d76b0b47202828059ffa3a65a7) — chore: add workspace editor tab colours · `2026-07-28` · OA Hsiao
-07. [`M2_888@3c791de`](https://github.com/M2Station/M2_888/commit/3c791de23b9b9b6a47849442fbdf5ace03653f31) — feat(backend): add S0 spike scripts and check runner · `2026-07-28` · OA Hsiao
-08. [`M2_888@3beea60`](https://github.com/M2Station/M2_888/commit/3beea6061c0045049cb798f084d4c0144524ecf1) — docs: add backend design specification v1 · `2026-07-28` · OA Hsiao
-09. [`M2_ARTBANK@40d42b6`](https://github.com/M2Station/M2_ARTBANK/commit/40d42b6183ad9c31ae6f5cfd1e30d97ea5ef757b) — feat(security): implement portable page guard for indepen... · `2026-07-28` · OA Hsiao
-10. [`M2_HSIAO_WEB_MANAGER@9b63597`](https://github.com/M2Station/M2_HSIAO_WEB_MANAGER/commit/9b6359753a87ca6ad44d06049ffb45e916c37623) — docs(template): 說明 PAGE_SLUG 與 PAGE_TITLE 皆可留空 · `2026-07-28` · OA Hsiao
+01. [`M2_888@e5a3a00`](https://github.com/M2Station/M2_888/commit/e5a3a00da3080992146db9e500e9a5686a4e7ddd) — feat(backend): publish instrument names, english names an... · `2026-07-30` · oahsiao
+02. [`M2_888@0a9c9d0`](https://github.com/M2Station/M2_888/commit/0a9c9d0052cc50a8029eea619bba17d16b35df0b) — feat(backend): publish US valuation ratios and support te... · `2026-07-30` · oahsiao
+03. [`M2_LOG@e6d3abc`](https://github.com/M2Station/M2_LOG/commit/e6d3abc7a1458e72e50418f3abb0a0df62dbd939) — chore: release v0.2.3 (#84) · `2026-07-30` · oahsiao
+04. [`M2_LOG@b7d2694`](https://github.com/M2Station/M2_LOG/commit/b7d26944f66f7851edeb971e6c6ae04cb3c29a2e) — feat(logs): add sub-groups, file extensions, and a virtua... · `2026-07-30` · oahsiao
+05. [`M2_888@6c9872d`](https://github.com/M2Station/M2_888/commit/6c9872d3d15b94482f84a1f7d8adc7e96f7d276d) — feat(backend): add US market support via a Yahoo Finance ... · `2026-07-30` · oahsiao
+06. [`M2_888@c5d83db`](https://github.com/M2Station/M2_888/commit/c5d83dbdd391abf15a9d17fcd2fd954247c47652) — chore(backend): add PRE_INSTALL.cmd and surface daily pip... · `2026-07-30` · oahsiao
+07. [`M2_888@d96b67e`](https://github.com/M2Station/M2_888/commit/d96b67e5e711c7ac757b2c9315b9463714264ef1) — fix(backend): trust certifi roots, publish real PE, skip ... · `2026-07-30` · oahsiao
+08. [`M2_WIKI@d4cd564`](https://github.com/M2Station/M2_WIKI/commit/d4cd5649f72a1894453c99052a955ee04f6fe80d) — Add instructions for cleaning USB key/SSD and include rel... · `2026-07-30` · OA Hsiao
+09. [`M2_COMMON_AI@5a2855e`](https://github.com/M2Station/M2_COMMON_AI/commit/5a2855e16c6616d9dabdf98b1b87b95bc7920867) — feat(deploy): add one-click trigger for downstream sync w... · `2026-07-30` · oahsiao
+10. [`M2_IP_DEV@aa0d657`](https://github.com/M2Station/M2_IP_DEV/commit/aa0d657d110323da42d0d94d6f3c657a04c952f8) — chore(ai): sync Copilot config from central repo (#8) · `2026-07-30` · github-actions[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---
