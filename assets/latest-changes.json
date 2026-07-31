@@ -1,95 +1,95 @@
 {
-  "updated": "2026-07-30 13:12 TWN",
+  "updated": "2026-07-31 13:39 TWN",
   "latestChanges": [
     {
-      "date": 1785388086000,
-      "committedDate": "2026-07-30T05:08:06Z",
-      "header": "feat(backend): publish instrument names, english names and sectors",
-      "repo": "M2_888",
-      "url": "https://github.com/M2Station/M2_888/commit/e5a3a00da3080992146db9e500e9a5686a4e7ddd",
-      "sha": "e5a3a00",
+      "date": 1785475124000,
+      "committedDate": "2026-07-31T05:18:44Z",
+      "header": "chore(ci): expire release build artifacts after one day (#108)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/3a68b9a4b88721077a980a2163c857f02a78910a",
+      "sha": "3a68b9a",
+      "login": "erickuo1111"
+    },
+    {
+      "date": 1785474302000,
+      "committedDate": "2026-07-31T05:05:02Z",
+      "header": "chore(release): bump version to 0.2.5 (#107)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/1fb73678d6a8008f475fcab84a771694e99209f7",
+      "sha": "1fb7367",
+      "login": "erickuo1111"
+    },
+    {
+      "date": 1785474038000,
+      "committedDate": "2026-07-31T05:00:38Z",
+      "header": "feat(updater): add public release mirror (#106)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/e7a9ab770c4b4a86419f88af1b1bfc5515f394eb",
+      "sha": "e7a9ab7",
+      "login": "erickuo1111"
+    },
+    {
+      "date": 1785472663000,
+      "committedDate": "2026-07-31T04:37:43Z",
+      "header": "chore(m2-log): publish v0.2.5",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/77c7312ce42e7defc36865a5259c05004e551a7e",
+      "sha": "77c7312",
       "login": "oahsiao"
     },
     {
-      "date": 1785387387000,
-      "committedDate": "2026-07-30T04:56:27Z",
-      "header": "feat(backend): publish US valuation ratios and support ten-year history",
-      "repo": "M2_888",
-      "url": "https://github.com/M2Station/M2_888/commit/0a9c9d0052cc50a8029eea619bba17d16b35df0b",
-      "sha": "0a9c9d0",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785387001000,
-      "committedDate": "2026-07-30T04:50:01Z",
-      "header": "chore: release v0.2.3 (#84)",
+      "date": 1785471992000,
+      "committedDate": "2026-07-31T04:26:32Z",
+      "header": "chore: release v0.2.5 (#90)",
       "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/e6d3abc7a1458e72e50418f3abb0a0df62dbd939",
-      "sha": "e6d3abc",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_LOG/commit/405d99e8cc3319651bebc79d1430cd9637d415ea",
+      "sha": "405d99e",
+      "login": "erickuo1111"
     },
     {
-      "date": 1785386653000,
-      "committedDate": "2026-07-30T04:44:13Z",
-      "header": "feat(logs): add sub-groups, file extensions, and a virtualized editor (#83)",
+      "date": 1785469953000,
+      "committedDate": "2026-07-31T03:52:33Z",
+      "header": "chore(ci): stop uploading build artifacts that fill the storage quota",
       "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/b7d26944f66f7851edeb971e6c6ae04cb3c29a2e",
-      "sha": "b7d2694",
+      "url": "https://github.com/M2Station/M2_LOG/commit/0b4c3802eaaaebc3bcc6388d59e3299e07485ed4",
+      "sha": "0b4c380",
       "login": "oahsiao"
     },
     {
-      "date": 1785384604000,
-      "committedDate": "2026-07-30T04:10:04Z",
-      "header": "feat(backend): add US market support via a Yahoo Finance provider",
-      "repo": "M2_888",
-      "url": "https://github.com/M2Station/M2_888/commit/6c9872d3d15b94482f84a1f7d8adc7e96f7d276d",
-      "sha": "6c9872d",
+      "date": 1785469536000,
+      "committedDate": "2026-07-31T03:45:36Z",
+      "header": "chore(ci): run CodeQL on demand only, since the plan lacks code scanning",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/63ace8fb59196bccf4c135f675f0c265e0f67a96",
+      "sha": "63ace8f",
       "login": "oahsiao"
     },
     {
-      "date": 1785383935000,
-      "committedDate": "2026-07-30T03:58:55Z",
-      "header": "chore(backend): add PRE_INSTALL.cmd and surface daily pipeline progress",
-      "repo": "M2_888",
-      "url": "https://github.com/M2Station/M2_888/commit/c5d83dbdd391abf15a9d17fcd2fd954247c47652",
-      "sha": "c5d83db",
+      "date": 1785469243000,
+      "committedDate": "2026-07-31T03:40:43Z",
+      "header": "chore(ci): cut artifact retention to stay inside the storage quota",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/b84154b4b80a698a4599cae551cd04c2d8a65de3",
+      "sha": "b84154b",
       "login": "oahsiao"
     },
     {
-      "date": 1785383927000,
-      "committedDate": "2026-07-30T03:58:47Z",
-      "header": "fix(backend): trust certifi roots, publish real PE, skip markets without a provider",
-      "repo": "M2_888",
-      "url": "https://github.com/M2Station/M2_888/commit/d96b67e5e711c7ac757b2c9315b9463714264ef1",
-      "sha": "d96b67e",
+      "date": 1785468210000,
+      "committedDate": "2026-07-31T03:23:30Z",
+      "header": "feat(release): mirror releases to the public repo and update from its manifest",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/e55ba49c5359aa1f4313ccd1f803690066dad824",
+      "sha": "e55ba49",
       "login": "oahsiao"
     },
     {
-      "date": 1785383565000,
-      "committedDate": "2026-07-30T03:52:45Z",
-      "header": "Add instructions for cleaning USB key/SSD and include relevant images",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/d4cd5649f72a1894453c99052a955ee04f6fe80d",
-      "sha": "d4cd564",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1785382179000,
-      "committedDate": "2026-07-30T03:29:39Z",
-      "header": "feat(deploy): add one-click trigger for downstream sync workflows (#27)",
-      "repo": "M2_COMMON_AI",
-      "url": "https://github.com/M2Station/M2_COMMON_AI/commit/5a2855e16c6616d9dabdf98b1b87b95bc7920867",
-      "sha": "5a2855e",
+      "date": 1785462536000,
+      "committedDate": "2026-07-31T01:48:56Z",
+      "header": "Initial commit",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2829ff3229bd4f402f79e93108349e1785ef518c",
+      "sha": "2829ff3",
       "login": "oahsiao"
-    },
-    {
-      "date": 1785381473000,
-      "committedDate": "2026-07-30T03:17:53Z",
-      "header": "chore(ai): sync Copilot config from central repo (#8)",
-      "repo": "M2_IP_DEV",
-      "url": "https://github.com/M2Station/M2_IP_DEV/commit/aa0d657d110323da42d0d94d6f3c657a04c952f8",
-      "sha": "aa0d657",
-      "login": "github-actions[bot]"
     }
   ]
 }

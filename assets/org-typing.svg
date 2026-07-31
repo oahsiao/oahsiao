@@ -7,55 +7,55 @@
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.103;0.157;0.175;1"
-        dur="29.2s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.000;0.109;0.168;0.186;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(backend): publish instrument names, englis...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(ci): expire release build artifacts after...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.175;0.277;0.332;0.349;1"
-        dur="29.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;390.40000000000003;390.40000000000003;0;0"
+        keyTimes="0;0.186;0.282;0.341;0.359;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(backend): publish US valuation ratios and ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): bump version to 0.2.5 (#107)</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;247.60000000000002;247.60000000000002;0;0"
-        keyTimes="0;0.349;0.405;0.459;0.476;1"
-        dur="29.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;415.6;415.6;0;0"
+        keyTimes="0;0.359;0.462;0.520;0.538;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: release v0.2.3 (#84)</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(updater): add public release mirror (#106)</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.476;0.579;0.634;0.651;1"
-        dur="29.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;264.40000000000003;264.40000000000003;0;0"
+        keyTimes="0;0.538;0.602;0.660;0.678;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(logs): add sub-groups, file extensions, an...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-log): publish v0.2.5</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.651;0.754;0.808;0.825;1"
-        dur="29.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;247.60000000000002;247.60000000000002;0;0"
+        keyTimes="0;0.678;0.737;0.796;0.814;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(backend): add US market support via a Yaho...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: release v0.2.5 (#90)</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.825;0.928;0.983;1.000;1"
-        dur="29.2s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.814;0.923;0.982;1.000;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(backend): add PRE_INSTALL.cmd and surface...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(ci): stop uploading build artifacts that ...</text>
     </g>
 </svg>
