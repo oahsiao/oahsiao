@@ -1,94 +1,94 @@
 {
-  "updated": "2026-07-31 13:39 TWN",
+  "updated": "2026-08-01 13:31 TWN",
   "latestChanges": [
     {
-      "date": 1785475124000,
-      "committedDate": "2026-07-31T05:18:44Z",
-      "header": "chore(ci): expire release build artifacts after one day (#108)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/3a68b9a4b88721077a980a2163c857f02a78910a",
-      "sha": "3a68b9a",
-      "login": "erickuo1111"
+      "date": 1785534492000,
+      "committedDate": "2026-07-31T21:48:12Z",
+      "header": "chore(ai): sync Copilot config from central repo (#18)",
+      "repo": "M2_ARTBANK",
+      "url": "https://github.com/M2Station/M2_ARTBANK/commit/ad8adbee3cb03a33b8fabeaffca2b0592f7941b3",
+      "sha": "ad8adbe",
+      "login": "github-actions[bot]"
     },
     {
-      "date": 1785474302000,
-      "committedDate": "2026-07-31T05:05:02Z",
-      "header": "chore(release): bump version to 0.2.5 (#107)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/1fb73678d6a8008f475fcab84a771694e99209f7",
-      "sha": "1fb7367",
-      "login": "erickuo1111"
+      "date": 1785534481000,
+      "committedDate": "2026-07-31T21:48:01Z",
+      "header": "chore(ai): sync Copilot config from central repo (#5)",
+      "repo": "M2_888",
+      "url": "https://github.com/M2Station/M2_888/commit/06998a207902d78f7be08107db7d80b6e25cfff1",
+      "sha": "06998a2",
+      "login": "github-actions[bot]"
     },
     {
-      "date": 1785474038000,
-      "committedDate": "2026-07-31T05:00:38Z",
-      "header": "feat(updater): add public release mirror (#106)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/e7a9ab770c4b4a86419f88af1b1bfc5515f394eb",
-      "sha": "e7a9ab7",
-      "login": "erickuo1111"
-    },
-    {
-      "date": 1785472663000,
-      "committedDate": "2026-07-31T04:37:43Z",
-      "header": "chore(m2-log): publish v0.2.5",
+      "date": 1785533742000,
+      "committedDate": "2026-07-31T21:35:42Z",
+      "header": "chore(m2-log): publish v0.2.6",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/77c7312ce42e7defc36865a5259c05004e551a7e",
-      "sha": "77c7312",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f6bb25f117d066fdb239211c7cab552fd2ea43f3",
+      "sha": "f6bb25f",
       "login": "oahsiao"
     },
     {
-      "date": 1785471992000,
-      "committedDate": "2026-07-31T04:26:32Z",
-      "header": "chore: release v0.2.5 (#90)",
+      "date": 1785533006000,
+      "committedDate": "2026-07-31T21:23:26Z",
+      "header": "feat: bump version to 0.2.6 in package.json and package-lock.json",
       "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/405d99e8cc3319651bebc79d1430cd9637d415ea",
-      "sha": "405d99e",
-      "login": "erickuo1111"
-    },
-    {
-      "date": 1785469953000,
-      "committedDate": "2026-07-31T03:52:33Z",
-      "header": "chore(ci): stop uploading build artifacts that fill the storage quota",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/0b4c3802eaaaebc3bcc6388d59e3299e07485ed4",
-      "sha": "0b4c380",
+      "url": "https://github.com/M2Station/M2_LOG/commit/70535ae4a6bac4779e2c5f7f61a098133f708470",
+      "sha": "70535ae",
       "login": "oahsiao"
     },
     {
-      "date": 1785469536000,
-      "committedDate": "2026-07-31T03:45:36Z",
-      "header": "chore(ci): run CodeQL on demand only, since the plan lacks code scanning",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/63ace8fb59196bccf4c135f675f0c265e0f67a96",
-      "sha": "63ace8f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785469243000,
-      "committedDate": "2026-07-31T03:40:43Z",
-      "header": "chore(ci): cut artifact retention to stay inside the storage quota",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/b84154b4b80a698a4599cae551cd04c2d8a65de3",
-      "sha": "b84154b",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785468210000,
-      "committedDate": "2026-07-31T03:23:30Z",
-      "header": "feat(release): mirror releases to the public repo and update from its manifest",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/e55ba49c5359aa1f4313ccd1f803690066dad824",
-      "sha": "e55ba49",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785462536000,
-      "committedDate": "2026-07-31T01:48:56Z",
-      "header": "Initial commit",
+      "date": 1785532362000,
+      "committedDate": "2026-07-31T21:12:42Z",
+      "header": "chore(m2-apex): publish v0.2.9",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2829ff3229bd4f402f79e93108349e1785ef518c",
-      "sha": "2829ff3",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/534dd244d0d7f9718c1e772183191ced739f96d1",
+      "sha": "534dd24",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785532129000,
+      "committedDate": "2026-07-31T21:08:49Z",
+      "header": "chore: bump version to 0.2.9 in project file",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/9ea1b693054c7f147ffaebd693c1f16d7cee1304",
+      "sha": "9ea1b69",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785532109000,
+      "committedDate": "2026-07-31T21:08:29Z",
+      "header": "feat(ui): add custom title bar with minimize and maximize buttons for borderless window",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/b6dddc96e0bdab15aea081e1168f2b33d5916fcc",
+      "sha": "b6dddc9",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785531112000,
+      "committedDate": "2026-07-31T20:51:52Z",
+      "header": "chore(m2-apex): publish v0.2.8",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/802b6b4b49e3bab5c32d425986d7542b15f89097",
+      "sha": "802b6b4",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785530679000,
+      "committedDate": "2026-07-31T20:44:39Z",
+      "header": "chore: bump version to 0.2.8 in project file",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/a23fbfc42c2113ebc55b4ba1ddea671f69d0cba8",
+      "sha": "a23fbfc",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785529432000,
+      "committedDate": "2026-07-31T20:23:52Z",
+      "header": "feat(update): check sibling app updates via shared public manifest (#112)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/ce2546fbc2376e9ca3035cbc8ea84df2f1172ff6",
+      "sha": "ce2546f",
       "login": "oahsiao"
     }
   ]

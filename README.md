@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@3a68b9a`](https://github.com/M2Station/M2_APEX/commit/3a68b9a4b88721077a980a2163c857f02a78910a) — chore(ci): expire release build artifacts after one day (... · `2026-07-31` · erickuo1111
-02. [`M2_APEX@1fb7367`](https://github.com/M2Station/M2_APEX/commit/1fb73678d6a8008f475fcab84a771694e99209f7) — chore(release): bump version to 0.2.5 (#107) · `2026-07-31` · erickuo1111
-03. [`M2_APEX@e7a9ab7`](https://github.com/M2Station/M2_APEX/commit/e7a9ab770c4b4a86419f88af1b1bfc5515f394eb) — feat(updater): add public release mirror (#106) · `2026-07-31` · erickuo1111
-04. [`M2_PUBLIC_RELEASE@77c7312`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/77c7312ce42e7defc36865a5259c05004e551a7e) — chore(m2-log): publish v0.2.5 · `2026-07-31` · oahsiao
-05. [`M2_LOG@405d99e`](https://github.com/M2Station/M2_LOG/commit/405d99e8cc3319651bebc79d1430cd9637d415ea) — chore: release v0.2.5 (#90) · `2026-07-31` · erickuo1111
-06. [`M2_LOG@0b4c380`](https://github.com/M2Station/M2_LOG/commit/0b4c3802eaaaebc3bcc6388d59e3299e07485ed4) — chore(ci): stop uploading build artifacts that fill the s... · `2026-07-31` · oahsiao
-07. [`M2_LOG@63ace8f`](https://github.com/M2Station/M2_LOG/commit/63ace8fb59196bccf4c135f675f0c265e0f67a96) — chore(ci): run CodeQL on demand only, since the plan lack... · `2026-07-31` · oahsiao
-08. [`M2_LOG@b84154b`](https://github.com/M2Station/M2_LOG/commit/b84154b4b80a698a4599cae551cd04c2d8a65de3) — chore(ci): cut artifact retention to stay inside the stor... · `2026-07-31` · oahsiao
-09. [`M2_LOG@e55ba49`](https://github.com/M2Station/M2_LOG/commit/e55ba49c5359aa1f4313ccd1f803690066dad824) — feat(release): mirror releases to the public repo and upd... · `2026-07-31` · oahsiao
-10. [`M2_PUBLIC_RELEASE@2829ff3`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2829ff3229bd4f402f79e93108349e1785ef518c) — Initial commit · `2026-07-31` · oahsiao
+01. [`M2_ARTBANK@ad8adbe`](https://github.com/M2Station/M2_ARTBANK/commit/ad8adbee3cb03a33b8fabeaffca2b0592f7941b3) — chore(ai): sync Copilot config from central repo (#18) · `2026-07-31` · github-actions[bot]
+02. [`M2_888@06998a2`](https://github.com/M2Station/M2_888/commit/06998a207902d78f7be08107db7d80b6e25cfff1) — chore(ai): sync Copilot config from central repo (#5) · `2026-07-31` · github-actions[bot]
+03. [`M2_PUBLIC_RELEASE@f6bb25f`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f6bb25f117d066fdb239211c7cab552fd2ea43f3) — chore(m2-log): publish v0.2.6 · `2026-07-31` · oahsiao
+04. [`M2_LOG@70535ae`](https://github.com/M2Station/M2_LOG/commit/70535ae4a6bac4779e2c5f7f61a098133f708470) — feat: bump version to 0.2.6 in package.json and package-l... · `2026-07-31` · oahsiao
+05. [`M2_PUBLIC_RELEASE@534dd24`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/534dd244d0d7f9718c1e772183191ced739f96d1) — chore(m2-apex): publish v0.2.9 · `2026-07-31` · oahsiao
+06. [`M2_APEX@9ea1b69`](https://github.com/M2Station/M2_APEX/commit/9ea1b693054c7f147ffaebd693c1f16d7cee1304) — chore: bump version to 0.2.9 in project file · `2026-07-31` · oahsiao
+07. [`M2_APEX@b6dddc9`](https://github.com/M2Station/M2_APEX/commit/b6dddc96e0bdab15aea081e1168f2b33d5916fcc) — feat(ui): add custom title bar with minimize and maximize... · `2026-07-31` · oahsiao
+08. [`M2_PUBLIC_RELEASE@802b6b4`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/802b6b4b49e3bab5c32d425986d7542b15f89097) — chore(m2-apex): publish v0.2.8 · `2026-07-31` · oahsiao
+09. [`M2_APEX@a23fbfc`](https://github.com/M2Station/M2_APEX/commit/a23fbfc42c2113ebc55b4ba1ddea671f69d0cba8) — chore: bump version to 0.2.8 in project file · `2026-07-31` · oahsiao
+10. [`M2_APEX@ce2546f`](https://github.com/M2Station/M2_APEX/commit/ce2546fbc2376e9ca3035cbc8ea84df2f1172ff6) — feat(update): check sibling app updates via shared public... · `2026-07-31` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
