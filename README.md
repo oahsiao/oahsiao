@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_ARTBANK@ad8adbe`](https://github.com/M2Station/M2_ARTBANK/commit/ad8adbee3cb03a33b8fabeaffca2b0592f7941b3) — chore(ai): sync Copilot config from central repo (#18) · `2026-07-31` · github-actions[bot]
-02. [`M2_888@06998a2`](https://github.com/M2Station/M2_888/commit/06998a207902d78f7be08107db7d80b6e25cfff1) — chore(ai): sync Copilot config from central repo (#5) · `2026-07-31` · github-actions[bot]
-03. [`M2_PUBLIC_RELEASE@f6bb25f`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f6bb25f117d066fdb239211c7cab552fd2ea43f3) — chore(m2-log): publish v0.2.6 · `2026-07-31` · oahsiao
-04. [`M2_LOG@70535ae`](https://github.com/M2Station/M2_LOG/commit/70535ae4a6bac4779e2c5f7f61a098133f708470) — feat: bump version to 0.2.6 in package.json and package-l... · `2026-07-31` · oahsiao
-05. [`M2_PUBLIC_RELEASE@534dd24`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/534dd244d0d7f9718c1e772183191ced739f96d1) — chore(m2-apex): publish v0.2.9 · `2026-07-31` · oahsiao
-06. [`M2_APEX@9ea1b69`](https://github.com/M2Station/M2_APEX/commit/9ea1b693054c7f147ffaebd693c1f16d7cee1304) — chore: bump version to 0.2.9 in project file · `2026-07-31` · oahsiao
-07. [`M2_APEX@b6dddc9`](https://github.com/M2Station/M2_APEX/commit/b6dddc96e0bdab15aea081e1168f2b33d5916fcc) — feat(ui): add custom title bar with minimize and maximize... · `2026-07-31` · oahsiao
-08. [`M2_PUBLIC_RELEASE@802b6b4`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/802b6b4b49e3bab5c32d425986d7542b15f89097) — chore(m2-apex): publish v0.2.8 · `2026-07-31` · oahsiao
-09. [`M2_APEX@a23fbfc`](https://github.com/M2Station/M2_APEX/commit/a23fbfc42c2113ebc55b4ba1ddea671f69d0cba8) — chore: bump version to 0.2.8 in project file · `2026-07-31` · oahsiao
-10. [`M2_APEX@ce2546f`](https://github.com/M2Station/M2_APEX/commit/ce2546fbc2376e9ca3035cbc8ea84df2f1172ff6) — feat(update): check sibling app updates via shared public... · `2026-07-31` · oahsiao
+01. [`M2_PUBLIC_RELEASE@48f5d20`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/48f5d203fdd1838c814457b639da8955d0ab3569) — chore(m2-apex): publish v0.3.1 · `2026-08-01` · oahsiao
+02. [`M2_APEX@b721ffd`](https://github.com/M2Station/M2_APEX/commit/b721ffd4e089d733f3a73419268dd03b0f6210e7) — chore: bump version to 0.3.1 in project file · `2026-08-01` · oahsiao
+03. [`M2_APEX@ccb5619`](https://github.com/M2Station/M2_APEX/commit/ccb5619018462a84c4f1b1fe2ee43a89437b168a) — feat(config): add search directories for M2_ST4 in defaul... · `2026-08-01` · oahsiao
+04. [`M2_APEX@af06bd7`](https://github.com/M2Station/M2_APEX/commit/af06bd78fed5429fc732bef95e6f6593441ea160) — feat(ui): implement custom title bar and borderless windo... · `2026-08-01` · oahsiao
+05. [`M2_PUBLIC_RELEASE@6f57d21`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6f57d213a0f7c8bdf087c6c1583fdb991ebc5a01) — chore(m2-apex): publish v0.3.0 · `2026-08-01` · oahsiao
+06. [`M2_APEX@18534ae`](https://github.com/M2Station/M2_APEX/commit/18534ae6739ae798d874a722e0e572dafe6aa1b6) — chore: bump version to 0.3.0 in project file · `2026-08-01` · oahsiao
+07. [`M2_APEX@6584a0c`](https://github.com/M2Station/M2_APEX/commit/6584a0cbff1b3f3ebf68201516552dea5f664f2e) — feat(ui): update context menu handling and keyboard short... · `2026-08-01` · oahsiao
+08. [`.github@6174b68`](https://github.com/M2Station/.github/commit/6174b681cf0925e92c53f495ee4e38e7694ef516) — chore: sync latest changes [skip ci] · `2026-08-01` · github-actions[bot]
+09. [`M2_ARTBANK@ad8adbe`](https://github.com/M2Station/M2_ARTBANK/commit/ad8adbee3cb03a33b8fabeaffca2b0592f7941b3) — chore(ai): sync Copilot config from central repo (#18) · `2026-07-31` · github-actions[bot]
+10. [`M2_888@06998a2`](https://github.com/M2Station/M2_888/commit/06998a207902d78f7be08107db7d80b6e25cfff1) — chore(ai): sync Copilot config from central repo (#5) · `2026-07-31` · github-actions[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---

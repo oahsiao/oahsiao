@@ -1,6 +1,78 @@
 {
-  "updated": "2026-08-01 13:31 TWN",
+  "updated": "2026-08-02 13:31 TWN",
   "latestChanges": [
+    {
+      "date": 1785598971000,
+      "committedDate": "2026-08-01T15:42:51Z",
+      "header": "chore(m2-apex): publish v0.3.1",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/48f5d203fdd1838c814457b639da8955d0ab3569",
+      "sha": "48f5d20",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785598722000,
+      "committedDate": "2026-08-01T15:38:42Z",
+      "header": "chore: bump version to 0.3.1 in project file",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/b721ffd4e089d733f3a73419268dd03b0f6210e7",
+      "sha": "b721ffd",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785598668000,
+      "committedDate": "2026-08-01T15:37:48Z",
+      "header": "feat(config): add search directories for M2_ST4 in default-app-list.json",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/ccb5619018462a84c4f1b1fe2ee43a89437b168a",
+      "sha": "ccb5619",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785598557000,
+      "committedDate": "2026-08-01T15:35:57Z",
+      "header": "feat(ui): implement custom title bar and borderless window functionality in SettingsWindow",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/af06bd78fed5429fc732bef95e6f6593441ea160",
+      "sha": "af06bd7",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785589252000,
+      "committedDate": "2026-08-01T13:00:52Z",
+      "header": "chore(m2-apex): publish v0.3.0",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6f57d213a0f7c8bdf087c6c1583fdb991ebc5a01",
+      "sha": "6f57d21",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785589023000,
+      "committedDate": "2026-08-01T12:57:03Z",
+      "header": "chore: bump version to 0.3.0 in project file",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/18534ae6739ae798d874a722e0e572dafe6aa1b6",
+      "sha": "18534ae",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785588996000,
+      "committedDate": "2026-08-01T12:56:36Z",
+      "header": "feat(ui): update context menu handling and keyboard shortcuts in M2CommanderWindow ( Add Support for Menu Key and Mouse Right-Click )",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/6584a0cbff1b3f3ebf68201516552dea5f664f2e",
+      "sha": "6584a0c",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785562785000,
+      "committedDate": "2026-08-01T05:39:45Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/6174b681cf0925e92c53f495ee4e38e7694ef516",
+      "sha": "6174b68",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1785534492000,
       "committedDate": "2026-07-31T21:48:12Z",
@@ -18,78 +90,6 @@
       "url": "https://github.com/M2Station/M2_888/commit/06998a207902d78f7be08107db7d80b6e25cfff1",
       "sha": "06998a2",
       "login": "github-actions[bot]"
-    },
-    {
-      "date": 1785533742000,
-      "committedDate": "2026-07-31T21:35:42Z",
-      "header": "chore(m2-log): publish v0.2.6",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f6bb25f117d066fdb239211c7cab552fd2ea43f3",
-      "sha": "f6bb25f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785533006000,
-      "committedDate": "2026-07-31T21:23:26Z",
-      "header": "feat: bump version to 0.2.6 in package.json and package-lock.json",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/70535ae4a6bac4779e2c5f7f61a098133f708470",
-      "sha": "70535ae",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785532362000,
-      "committedDate": "2026-07-31T21:12:42Z",
-      "header": "chore(m2-apex): publish v0.2.9",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/534dd244d0d7f9718c1e772183191ced739f96d1",
-      "sha": "534dd24",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785532129000,
-      "committedDate": "2026-07-31T21:08:49Z",
-      "header": "chore: bump version to 0.2.9 in project file",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/9ea1b693054c7f147ffaebd693c1f16d7cee1304",
-      "sha": "9ea1b69",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785532109000,
-      "committedDate": "2026-07-31T21:08:29Z",
-      "header": "feat(ui): add custom title bar with minimize and maximize buttons for borderless window",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/b6dddc96e0bdab15aea081e1168f2b33d5916fcc",
-      "sha": "b6dddc9",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785531112000,
-      "committedDate": "2026-07-31T20:51:52Z",
-      "header": "chore(m2-apex): publish v0.2.8",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/802b6b4b49e3bab5c32d425986d7542b15f89097",
-      "sha": "802b6b4",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785530679000,
-      "committedDate": "2026-07-31T20:44:39Z",
-      "header": "chore: bump version to 0.2.8 in project file",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/a23fbfc42c2113ebc55b4ba1ddea671f69d0cba8",
-      "sha": "a23fbfc",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785529432000,
-      "committedDate": "2026-07-31T20:23:52Z",
-      "header": "feat(update): check sibling app updates via shared public manifest (#112)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/ce2546fbc2376e9ca3035cbc8ea84df2f1172ff6",
-      "sha": "ce2546f",
-      "login": "oahsiao"
     }
   ]
 }
