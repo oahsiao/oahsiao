@@ -1,95 +1,95 @@
 {
-  "updated": "2026-08-02 13:31 TWN",
+  "updated": "2026-08-03 13:46 TWN",
   "latestChanges": [
     {
-      "date": 1785598971000,
-      "committedDate": "2026-08-01T15:42:51Z",
-      "header": "chore(m2-apex): publish v0.3.1",
+      "date": 1785731018000,
+      "committedDate": "2026-08-03T04:23:38Z",
+      "header": "chore(m2-git-diff): publish v0.4.0",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/48f5d203fdd1838c814457b639da8955d0ab3569",
-      "sha": "48f5d20",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/34b9a2edd6f532379a058df166b2db0dc1a7a655",
+      "sha": "34b9a2e",
       "login": "oahsiao"
     },
     {
-      "date": 1785598722000,
-      "committedDate": "2026-08-01T15:38:42Z",
-      "header": "chore: bump version to 0.3.1 in project file",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/b721ffd4e089d733f3a73419268dd03b0f6210e7",
-      "sha": "b721ffd",
+      "date": 1785730649000,
+      "committedDate": "2026-08-03T04:17:29Z",
+      "header": "chore(release): bump version to 0.4.0",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/2b2abb6f074465f52865e36e08d0e2a46c217035",
+      "sha": "2b2abb6",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1785730613000,
+      "committedDate": "2026-08-03T04:16:53Z",
+      "header": "fix(release): correct API call for fetching SHA in release workflow",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/1ec2f29af8904748f9b1254e3272caea5eba06b0",
+      "sha": "1ec2f29",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1785724900000,
+      "committedDate": "2026-08-03T02:41:40Z",
+      "header": "chore(deps): bump better-sqlite3 from 12.11.1 to 13.0.1 (#168)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/c391b153d452a0d6890b8d88512b61aed70c2592",
+      "sha": "c391b15",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1785724865000,
+      "committedDate": "2026-08-03T02:41:05Z",
+      "header": "chore(release): bump version to 0.3.9",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/ef8818048b9140e2374af04184c77b428472cd29",
+      "sha": "ef88180",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1785719565000,
+      "committedDate": "2026-08-03T01:12:45Z",
+      "header": "chore(dev-deps): bump the react group across 1 directory with 2 updates",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/a80ebd1c7e5a12dba2fa27f208fd62b70cf282c9",
+      "sha": "a80ebd1",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1785719415000,
+      "committedDate": "2026-08-03T01:10:15Z",
+      "header": "chore(dev-deps): bump the npm-minor-and-patch group with 2 updates",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/8d95dcc91bc0f6f934329b59de35e12d147e4ecd",
+      "sha": "8d95dcc",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1785719377000,
+      "committedDate": "2026-08-03T01:09:37Z",
+      "header": "chore(dev-deps): bump electron in the electron group",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/6a9608e3cbb1103ebe9ccad6a5f6668305e30703",
+      "sha": "6a9608e",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1785719358000,
+      "committedDate": "2026-08-03T01:09:18Z",
+      "header": "chore(dev-deps): bump @vitejs/plugin-react",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/1b0c76786caf0f615a24eb8d41261732cff75b9c",
+      "sha": "1b0c767",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1785697164000,
+      "committedDate": "2026-08-02T18:59:24Z",
+      "header": "feat: add SubTree functionality and improve UI for SubTree management",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/14d7b7dad3f099a796625b9886f4d6f2443ceea3",
+      "sha": "14d7b7d",
       "login": "oahsiao"
-    },
-    {
-      "date": 1785598668000,
-      "committedDate": "2026-08-01T15:37:48Z",
-      "header": "feat(config): add search directories for M2_ST4 in default-app-list.json",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/ccb5619018462a84c4f1b1fe2ee43a89437b168a",
-      "sha": "ccb5619",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785598557000,
-      "committedDate": "2026-08-01T15:35:57Z",
-      "header": "feat(ui): implement custom title bar and borderless window functionality in SettingsWindow",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/af06bd78fed5429fc732bef95e6f6593441ea160",
-      "sha": "af06bd7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785589252000,
-      "committedDate": "2026-08-01T13:00:52Z",
-      "header": "chore(m2-apex): publish v0.3.0",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6f57d213a0f7c8bdf087c6c1583fdb991ebc5a01",
-      "sha": "6f57d21",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785589023000,
-      "committedDate": "2026-08-01T12:57:03Z",
-      "header": "chore: bump version to 0.3.0 in project file",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/18534ae6739ae798d874a722e0e572dafe6aa1b6",
-      "sha": "18534ae",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785588996000,
-      "committedDate": "2026-08-01T12:56:36Z",
-      "header": "feat(ui): update context menu handling and keyboard shortcuts in M2CommanderWindow ( Add Support for Menu Key and Mouse Right-Click )",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/6584a0cbff1b3f3ebf68201516552dea5f664f2e",
-      "sha": "6584a0c",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785562785000,
-      "committedDate": "2026-08-01T05:39:45Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/6174b681cf0925e92c53f495ee4e38e7694ef516",
-      "sha": "6174b68",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1785534492000,
-      "committedDate": "2026-07-31T21:48:12Z",
-      "header": "chore(ai): sync Copilot config from central repo (#18)",
-      "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/ad8adbee3cb03a33b8fabeaffca2b0592f7941b3",
-      "sha": "ad8adbe",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1785534481000,
-      "committedDate": "2026-07-31T21:48:01Z",
-      "header": "chore(ai): sync Copilot config from central repo (#5)",
-      "repo": "M2_888",
-      "url": "https://github.com/M2Station/M2_888/commit/06998a207902d78f7be08107db7d80b6e25cfff1",
-      "sha": "06998a2",
-      "login": "github-actions[bot]"
     }
   ]
 }

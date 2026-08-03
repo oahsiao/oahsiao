@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PUBLIC_RELEASE@48f5d20`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/48f5d203fdd1838c814457b639da8955d0ab3569) — chore(m2-apex): publish v0.3.1 · `2026-08-01` · oahsiao
-02. [`M2_APEX@b721ffd`](https://github.com/M2Station/M2_APEX/commit/b721ffd4e089d733f3a73419268dd03b0f6210e7) — chore: bump version to 0.3.1 in project file · `2026-08-01` · oahsiao
-03. [`M2_APEX@ccb5619`](https://github.com/M2Station/M2_APEX/commit/ccb5619018462a84c4f1b1fe2ee43a89437b168a) — feat(config): add search directories for M2_ST4 in defaul... · `2026-08-01` · oahsiao
-04. [`M2_APEX@af06bd7`](https://github.com/M2Station/M2_APEX/commit/af06bd78fed5429fc732bef95e6f6593441ea160) — feat(ui): implement custom title bar and borderless windo... · `2026-08-01` · oahsiao
-05. [`M2_PUBLIC_RELEASE@6f57d21`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6f57d213a0f7c8bdf087c6c1583fdb991ebc5a01) — chore(m2-apex): publish v0.3.0 · `2026-08-01` · oahsiao
-06. [`M2_APEX@18534ae`](https://github.com/M2Station/M2_APEX/commit/18534ae6739ae798d874a722e0e572dafe6aa1b6) — chore: bump version to 0.3.0 in project file · `2026-08-01` · oahsiao
-07. [`M2_APEX@6584a0c`](https://github.com/M2Station/M2_APEX/commit/6584a0cbff1b3f3ebf68201516552dea5f664f2e) — feat(ui): update context menu handling and keyboard short... · `2026-08-01` · oahsiao
-08. [`.github@6174b68`](https://github.com/M2Station/.github/commit/6174b681cf0925e92c53f495ee4e38e7694ef516) — chore: sync latest changes [skip ci] · `2026-08-01` · github-actions[bot]
-09. [`M2_ARTBANK@ad8adbe`](https://github.com/M2Station/M2_ARTBANK/commit/ad8adbee3cb03a33b8fabeaffca2b0592f7941b3) — chore(ai): sync Copilot config from central repo (#18) · `2026-07-31` · github-actions[bot]
-10. [`M2_888@06998a2`](https://github.com/M2Station/M2_888/commit/06998a207902d78f7be08107db7d80b6e25cfff1) — chore(ai): sync Copilot config from central repo (#5) · `2026-07-31` · github-actions[bot]
+01. [`M2_PUBLIC_RELEASE@34b9a2e`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/34b9a2edd6f532379a058df166b2db0dc1a7a655) — chore(m2-git-diff): publish v0.4.0 · `2026-08-03` · oahsiao
+02. [`M2_GIT_DIFF@2b2abb6`](https://github.com/M2Station/M2_GIT_DIFF/commit/2b2abb6f074465f52865e36e08d0e2a46c217035) — chore(release): bump version to 0.4.0 · `2026-08-03` · OA Hsiao
+03. [`M2_GIT_DIFF@1ec2f29`](https://github.com/M2Station/M2_GIT_DIFF/commit/1ec2f29af8904748f9b1254e3272caea5eba06b0) — fix(release): correct API call for fetching SHA in releas... · `2026-08-03` · OA Hsiao
+04. [`M2_GIT_DIFF@c391b15`](https://github.com/M2Station/M2_GIT_DIFF/commit/c391b153d452a0d6890b8d88512b61aed70c2592) — chore(deps): bump better-sqlite3 from 12.11.1 to 13.0.1 (... · `2026-08-03` · dependabot[bot]
+05. [`M2_GIT_DIFF@ef88180`](https://github.com/M2Station/M2_GIT_DIFF/commit/ef8818048b9140e2374af04184c77b428472cd29) — chore(release): bump version to 0.3.9 · `2026-08-03` · OA Hsiao
+06. [`M2_GIT_DIFF@a80ebd1`](https://github.com/M2Station/M2_GIT_DIFF/commit/a80ebd1c7e5a12dba2fa27f208fd62b70cf282c9) — chore(dev-deps): bump the react group across 1 directory ... · `2026-08-03` · dependabot[bot]
+07. [`M2_GIT_DIFF@8d95dcc`](https://github.com/M2Station/M2_GIT_DIFF/commit/8d95dcc91bc0f6f934329b59de35e12d147e4ecd) — chore(dev-deps): bump the npm-minor-and-patch group with ... · `2026-08-03` · dependabot[bot]
+08. [`M2_GIT_DIFF@6a9608e`](https://github.com/M2Station/M2_GIT_DIFF/commit/6a9608e3cbb1103ebe9ccad6a5f6668305e30703) — chore(dev-deps): bump electron in the electron group · `2026-08-03` · dependabot[bot]
+09. [`M2_GIT_DIFF@1b0c767`](https://github.com/M2Station/M2_GIT_DIFF/commit/1b0c76786caf0f615a24eb8d41261732cff75b9c) — chore(dev-deps): bump @vitejs/plugin-react · `2026-08-03` · dependabot[bot]
+10. [`M2_GIT_DIFF@14d7b7d`](https://github.com/M2Station/M2_GIT_DIFF/commit/14d7b7dad3f099a796625b9886f4d6f2443ceea3) — feat: add SubTree functionality and improve UI for SubTre... · `2026-08-02` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
