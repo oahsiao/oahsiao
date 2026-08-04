@@ -1,95 +1,95 @@
 {
-  "updated": "2026-08-03 13:46 TWN",
+  "updated": "2026-08-04 13:18 TWN",
   "latestChanges": [
     {
-      "date": 1785731018000,
-      "committedDate": "2026-08-03T04:23:38Z",
-      "header": "chore(m2-git-diff): publish v0.4.0",
+      "date": 1785807164000,
+      "committedDate": "2026-08-04T01:32:44Z",
+      "header": "add missing files.",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/2fd8ee692afdc3fcf9bc029e1ad6eae71e66e0bb",
+      "sha": "2fd8ee6",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785777200000,
+      "committedDate": "2026-08-03T17:13:20Z",
+      "header": "所有 llama.cpp 錯誤會在 DEBUG CONSOLE 顯示 exit code、耗時、output bytes 與 stderr。",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/b7098a26dbd66a6d4e7ab6f26566f9f541e710bd",
+      "sha": "b7098a2",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785772711000,
+      "committedDate": "2026-08-03T15:58:31Z",
+      "header": "支援最多 3 個 Prompt Preview Panel：",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/bceca127b94abab0345f8a4feafa3b2830d20de0",
+      "sha": "bceca12",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785770871000,
+      "committedDate": "2026-08-03T15:27:51Z",
+      "header": "- Normalize：清理換行、行尾空白、過多空行。",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/78275c47aadc796e9ccdf34296ba1245bab09e5f",
+      "sha": "78275c4",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785769629000,
+      "committedDate": "2026-08-03T15:07:09Z",
+      "header": "新增 對話式生成PROMPT",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/cea90a91ac90dfa84156223c707157113085dab0",
+      "sha": "cea90a9",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785768026000,
+      "committedDate": "2026-08-03T14:40:26Z",
+      "header": "流程 UI 與狀態切換，尚未執行實際 Rule Engine",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/ca5283cbe1d2ca6b24bafa84b6d6eaef154fce4d",
+      "sha": "ca5283c",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785764361000,
+      "committedDate": "2026-08-03T13:39:21Z",
+      "header": "Add Library function",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/602dc27b631e3956cfbc58f7b406d953003009a6",
+      "sha": "602dc27",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785754575000,
+      "committedDate": "2026-08-03T10:56:15Z",
+      "header": "v0.4.0 - Add GIT Tag Function.",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/b2eabc0ed0d066e7577517b64d7c5f0ecc6aee63",
+      "sha": "b2eabc0",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785753841000,
+      "committedDate": "2026-08-03T10:44:01Z",
+      "header": "chore(m2-log): publish v0.2.9",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/34b9a2edd6f532379a058df166b2db0dc1a7a655",
-      "sha": "34b9a2e",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/96a3ec5ffc80141108299966eb722b55e99e99a2",
+      "sha": "96a3ec5",
       "login": "oahsiao"
     },
     {
-      "date": 1785730649000,
-      "committedDate": "2026-08-03T04:17:29Z",
-      "header": "chore(release): bump version to 0.4.0",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/2b2abb6f074465f52865e36e08d0e2a46c217035",
-      "sha": "2b2abb6",
+      "date": 1785752035000,
+      "committedDate": "2026-08-03T10:13:55Z",
+      "header": "Bump vernion to v0.2.9",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/e3d9666dc08ab93d7a77da87860029c234ed79a7",
+      "sha": "e3d9666",
       "login": "OA Hsiao"
-    },
-    {
-      "date": 1785730613000,
-      "committedDate": "2026-08-03T04:16:53Z",
-      "header": "fix(release): correct API call for fetching SHA in release workflow",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/1ec2f29af8904748f9b1254e3272caea5eba06b0",
-      "sha": "1ec2f29",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1785724900000,
-      "committedDate": "2026-08-03T02:41:40Z",
-      "header": "chore(deps): bump better-sqlite3 from 12.11.1 to 13.0.1 (#168)",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/c391b153d452a0d6890b8d88512b61aed70c2592",
-      "sha": "c391b15",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1785724865000,
-      "committedDate": "2026-08-03T02:41:05Z",
-      "header": "chore(release): bump version to 0.3.9",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/ef8818048b9140e2374af04184c77b428472cd29",
-      "sha": "ef88180",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1785719565000,
-      "committedDate": "2026-08-03T01:12:45Z",
-      "header": "chore(dev-deps): bump the react group across 1 directory with 2 updates",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/a80ebd1c7e5a12dba2fa27f208fd62b70cf282c9",
-      "sha": "a80ebd1",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1785719415000,
-      "committedDate": "2026-08-03T01:10:15Z",
-      "header": "chore(dev-deps): bump the npm-minor-and-patch group with 2 updates",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/8d95dcc91bc0f6f934329b59de35e12d147e4ecd",
-      "sha": "8d95dcc",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1785719377000,
-      "committedDate": "2026-08-03T01:09:37Z",
-      "header": "chore(dev-deps): bump electron in the electron group",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/6a9608e3cbb1103ebe9ccad6a5f6668305e30703",
-      "sha": "6a9608e",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1785719358000,
-      "committedDate": "2026-08-03T01:09:18Z",
-      "header": "chore(dev-deps): bump @vitejs/plugin-react",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/1b0c76786caf0f615a24eb8d41261732cff75b9c",
-      "sha": "1b0c767",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1785697164000,
-      "committedDate": "2026-08-02T18:59:24Z",
-      "header": "feat: add SubTree functionality and improve UI for SubTree management",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/14d7b7dad3f099a796625b9886f4d6f2443ceea3",
-      "sha": "14d7b7d",
-      "login": "oahsiao"
     }
   ]
 }

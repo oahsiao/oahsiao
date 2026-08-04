@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;306.40000000000003;306.40000000000003;0;0"
-        keyTimes="0;0.000;0.073;0.130;0.147;1"
-        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;172;172;0;0"
+        keyTimes="0;0.000;0.047;0.118;0.140;1"
+        dur="22.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-git-diff): publish v0.4.0</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>add missing files.</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;331.6;331.6;0;0"
-        keyTimes="0;0.147;0.226;0.283;0.301;1"
-        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.140;0.272;0.342;0.364;1"
+        dur="22.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): bump version to 0.4.0</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>所有 llama.cpp 錯誤會在 DEBUG CONSOLE 顯示 exit code、耗時...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.301;0.408;0.465;0.483;1"
-        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;272.8;272.8;0;0"
+        keyTimes="0;0.364;0.443;0.514;0.536;1"
+        dur="22.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(release): correct API call for fetching SHA...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>支援最多 3 個 Prompt Preview Panel：</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.483;0.590;0.647;0.665;1"
-        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;247.60000000000002;247.60000000000002;0;0"
+        keyTimes="0;0.536;0.607;0.677;0.699;1"
+        dur="22.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(deps): bump better-sqlite3 from 12.11.1 t...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>- Normalize：清理換行、行尾空白、過多空行。</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;331.6;331.6;0;0"
-        keyTimes="0;0.665;0.744;0.801;0.818;1"
-        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;138.4;138.4;0;0"
+        keyTimes="0;0.699;0.736;0.807;0.828;1"
+        dur="22.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): bump version to 0.3.9</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>新增 對話式生成PROMPT</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.818;0.925;0.982;1.000;1"
-        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;272.8;272.8;0;0"
+        keyTimes="0;0.828;0.908;0.978;1.000;1"
+        dur="22.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(dev-deps): bump the react group across 1 ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>流程 UI 與狀態切換，尚未執行實際 Rule Engine</text>
     </g>
 </svg>
