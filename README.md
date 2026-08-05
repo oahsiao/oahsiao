@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PROMPT@2fd8ee6`](https://github.com/M2Station/M2_PROMPT/commit/2fd8ee692afdc3fcf9bc029e1ad6eae71e66e0bb) — add missing files. · `2026-08-04` · oahsiao
-02. [`M2_PROMPT@b7098a2`](https://github.com/M2Station/M2_PROMPT/commit/b7098a26dbd66a6d4e7ab6f26566f9f541e710bd) — 所有 llama.cpp 錯誤會在 DEBUG CONSOLE 顯示 exit code、耗時、output by... · `2026-08-03` · oahsiao
-03. [`M2_PROMPT@bceca12`](https://github.com/M2Station/M2_PROMPT/commit/bceca127b94abab0345f8a4feafa3b2830d20de0) — 支援最多 3 個 Prompt Preview Panel： · `2026-08-03` · oahsiao
-04. [`M2_PROMPT@78275c4`](https://github.com/M2Station/M2_PROMPT/commit/78275c47aadc796e9ccdf34296ba1245bab09e5f) — - Normalize：清理換行、行尾空白、過多空行。 · `2026-08-03` · oahsiao
-05. [`M2_PROMPT@cea90a9`](https://github.com/M2Station/M2_PROMPT/commit/cea90a91ac90dfa84156223c707157113085dab0) — 新增 對話式生成PROMPT · `2026-08-03` · oahsiao
-06. [`M2_PROMPT@ca5283c`](https://github.com/M2Station/M2_PROMPT/commit/ca5283cbe1d2ca6b24bafa84b6d6eaef154fce4d) — 流程 UI 與狀態切換，尚未執行實際 Rule Engine · `2026-08-03` · oahsiao
-07. [`M2_PROMPT@602dc27`](https://github.com/M2Station/M2_PROMPT/commit/602dc27b631e3956cfbc58f7b406d953003009a6) — Add Library function · `2026-08-03` · oahsiao
-08. [`M2_GIT_DIFF@b2eabc0`](https://github.com/M2Station/M2_GIT_DIFF/commit/b2eabc0ed0d066e7577517b64d7c5f0ecc6aee63) — v0.4.0 - Add GIT Tag Function. · `2026-08-03` · oahsiao
-09. [`M2_PUBLIC_RELEASE@96a3ec5`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/96a3ec5ffc80141108299966eb722b55e99e99a2) — chore(m2-log): publish v0.2.9 · `2026-08-03` · oahsiao
-10. [`M2_LOG@e3d9666`](https://github.com/M2Station/M2_LOG/commit/e3d9666dc08ab93d7a77da87860029c234ed79a7) — Bump vernion to v0.2.9 · `2026-08-03` · OA Hsiao
+01. [`M2_PROMPT@a341d4d`](https://github.com/M2Station/M2_PROMPT/commit/a341d4dbf718cefc4877e308c82cfaf5afee810f) — [feat] 重構LOCAL AI [3.共用設定] 為RPC做準備 · `2026-08-05` · OA Hsiao
+02. [`M2_WIKI@5f3eb58`](https://github.com/M2Station/M2_WIKI/commit/5f3eb58cee3b9f599a7bf9182a13d26377a7c992) — +Look into DevOS USB Key - boot.win · `2026-08-05` · asuka-wu
+03. [`M2_GIT_DIFF@827f548`](https://github.com/M2Station/M2_GIT_DIFF/commit/827f548acc11733ae06747410c95dd09c7e3b14f) — [Feat] [AddSubtree] apply when subtree Tartget is dirty. ... · `2026-08-05` · OA Hsiao
+04. [`M2_APEX@ac5386f`](https://github.com/M2Station/M2_APEX/commit/ac5386fd066a5033b9e781950e7b685f412f5961) — [Bug] Fix Quick Search in File Explorer 搜尋以及目錄列誤動作 · `2026-08-05` · OA Hsiao
+05. [`M2_AI_WORKER@f52dd4e`](https://github.com/M2Station/M2_AI_WORKER/commit/f52dd4e934a748b2701aff535a451d0ee16f1795) — Initial commit · `2026-08-05` · oahsiao
+06. [`M2_PROMPT@db86a52`](https://github.com/M2Station/M2_PROMPT/commit/db86a52dbca01596b581e1fd9bf34e2217e92e28) — refine wording · `2026-08-04` · oahsiao
+07. [`M2_PROMPT@381b9b0`](https://github.com/M2Station/M2_PROMPT/commit/381b9b030ea704cec6f59ff3dba0807af8f03338) — Refine Hoykey · `2026-08-04` · oahsiao
+08. [`M2_PROMPT@9bf787f`](https://github.com/M2Station/M2_PROMPT/commit/9bf787f453d050bd71f35407a42c8e625a980211) — PROMPT_SESSTION Implementation. · `2026-08-04` · oahsiao
+09. [`M2_PROMPT@18bd17e`](https://github.com/M2Station/M2_PROMPT/commit/18bd17e35de230a82065693457adb9cf81ee5051) — 2026/08/04 refine LOCAL AI section · `2026-08-04` · oahsiao
+10. [`M2_PROMPT@08625f8`](https://github.com/M2Station/M2_PROMPT/commit/08625f876378bace6d2625387b57e90f61e09f26) — Add LOCAL_AI Tab and function. Active LOCAL AI SERVER fun... · `2026-08-04` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

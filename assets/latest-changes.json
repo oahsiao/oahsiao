@@ -1,94 +1,94 @@
 {
-  "updated": "2026-08-04 13:18 TWN",
+  "updated": "2026-08-05 13:18 TWN",
   "latestChanges": [
     {
-      "date": 1785807164000,
-      "committedDate": "2026-08-04T01:32:44Z",
-      "header": "add missing files.",
+      "date": 1785903356000,
+      "committedDate": "2026-08-05T04:15:56Z",
+      "header": "[feat] 重構LOCAL AI [3.共用設定] 為RPC做準備",
       "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/2fd8ee692afdc3fcf9bc029e1ad6eae71e66e0bb",
-      "sha": "2fd8ee6",
-      "login": "oahsiao"
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/a341d4dbf718cefc4877e308c82cfaf5afee810f",
+      "sha": "a341d4d",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1785777200000,
-      "committedDate": "2026-08-03T17:13:20Z",
-      "header": "所有 llama.cpp 錯誤會在 DEBUG CONSOLE 顯示 exit code、耗時、output bytes 與 stderr。",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/b7098a26dbd66a6d4e7ab6f26566f9f541e710bd",
-      "sha": "b7098a2",
-      "login": "oahsiao"
+      "date": 1785901283000,
+      "committedDate": "2026-08-05T03:41:23Z",
+      "header": "+Look into DevOS USB Key - boot.win",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/5f3eb58cee3b9f599a7bf9182a13d26377a7c992",
+      "sha": "5f3eb58",
+      "login": "asuka-wu"
     },
     {
-      "date": 1785772711000,
-      "committedDate": "2026-08-03T15:58:31Z",
-      "header": "支援最多 3 個 Prompt Preview Panel：",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/bceca127b94abab0345f8a4feafa3b2830d20de0",
-      "sha": "bceca12",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785770871000,
-      "committedDate": "2026-08-03T15:27:51Z",
-      "header": "- Normalize：清理換行、行尾空白、過多空行。",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/78275c47aadc796e9ccdf34296ba1245bab09e5f",
-      "sha": "78275c4",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785769629000,
-      "committedDate": "2026-08-03T15:07:09Z",
-      "header": "新增 對話式生成PROMPT",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/cea90a91ac90dfa84156223c707157113085dab0",
-      "sha": "cea90a9",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785768026000,
-      "committedDate": "2026-08-03T14:40:26Z",
-      "header": "流程 UI 與狀態切換，尚未執行實際 Rule Engine",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/ca5283cbe1d2ca6b24bafa84b6d6eaef154fce4d",
-      "sha": "ca5283c",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785764361000,
-      "committedDate": "2026-08-03T13:39:21Z",
-      "header": "Add Library function",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/602dc27b631e3956cfbc58f7b406d953003009a6",
-      "sha": "602dc27",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1785754575000,
-      "committedDate": "2026-08-03T10:56:15Z",
-      "header": "v0.4.0 - Add GIT Tag Function.",
+      "date": 1785900416000,
+      "committedDate": "2026-08-05T03:26:56Z",
+      "header": "[Feat] [AddSubtree] apply when subtree Tartget is dirty. suggest git stash and clean -fd. also provide interaction button for next action.",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/b2eabc0ed0d066e7577517b64d7c5f0ecc6aee63",
-      "sha": "b2eabc0",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/827f548acc11733ae06747410c95dd09c7e3b14f",
+      "sha": "827f548",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1785899136000,
+      "committedDate": "2026-08-05T03:05:36Z",
+      "header": "[Bug] Fix Quick Search in File Explorer 搜尋以及目錄列誤動作",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/ac5386fd066a5033b9e781950e7b685f412f5961",
+      "sha": "ac5386f",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1785897086000,
+      "committedDate": "2026-08-05T02:31:26Z",
+      "header": "Initial commit",
+      "repo": "M2_AI_WORKER",
+      "url": "https://github.com/M2Station/M2_AI_WORKER/commit/f52dd4e934a748b2701aff535a451d0ee16f1795",
+      "sha": "f52dd4e",
       "login": "oahsiao"
     },
     {
-      "date": 1785753841000,
-      "committedDate": "2026-08-03T10:44:01Z",
-      "header": "chore(m2-log): publish v0.2.9",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/96a3ec5ffc80141108299966eb722b55e99e99a2",
-      "sha": "96a3ec5",
+      "date": 1785863585000,
+      "committedDate": "2026-08-04T17:13:05Z",
+      "header": "refine wording",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/db86a52dbca01596b581e1fd9bf34e2217e92e28",
+      "sha": "db86a52",
       "login": "oahsiao"
     },
     {
-      "date": 1785752035000,
-      "committedDate": "2026-08-03T10:13:55Z",
-      "header": "Bump vernion to v0.2.9",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/e3d9666dc08ab93d7a77da87860029c234ed79a7",
-      "sha": "e3d9666",
+      "date": 1785863361000,
+      "committedDate": "2026-08-04T17:09:21Z",
+      "header": "Refine Hoykey",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/381b9b030ea704cec6f59ff3dba0807af8f03338",
+      "sha": "381b9b0",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785862940000,
+      "committedDate": "2026-08-04T17:02:20Z",
+      "header": "PROMPT_SESSTION Implementation.",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/9bf787f453d050bd71f35407a42c8e625a980211",
+      "sha": "9bf787f",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785856094000,
+      "committedDate": "2026-08-04T15:08:14Z",
+      "header": "2026/08/04 refine LOCAL AI section",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/18bd17e35de230a82065693457adb9cf81ee5051",
+      "sha": "18bd17e",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1785845485000,
+      "committedDate": "2026-08-04T12:11:25Z",
+      "header": "Add LOCAL_AI Tab and function. Active LOCAL AI SERVER function.",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/08625f876378bace6d2625387b57e90f61e09f26",
+      "sha": "08625f8",
       "login": "OA Hsiao"
     }
   ]
