@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PROMPT@a341d4d`](https://github.com/M2Station/M2_PROMPT/commit/a341d4dbf718cefc4877e308c82cfaf5afee810f) — [feat] 重構LOCAL AI [3.共用設定] 為RPC做準備 · `2026-08-05` · OA Hsiao
-02. [`M2_WIKI@5f3eb58`](https://github.com/M2Station/M2_WIKI/commit/5f3eb58cee3b9f599a7bf9182a13d26377a7c992) — +Look into DevOS USB Key - boot.win · `2026-08-05` · asuka-wu
-03. [`M2_GIT_DIFF@827f548`](https://github.com/M2Station/M2_GIT_DIFF/commit/827f548acc11733ae06747410c95dd09c7e3b14f) — [Feat] [AddSubtree] apply when subtree Tartget is dirty. ... · `2026-08-05` · OA Hsiao
-04. [`M2_APEX@ac5386f`](https://github.com/M2Station/M2_APEX/commit/ac5386fd066a5033b9e781950e7b685f412f5961) — [Bug] Fix Quick Search in File Explorer 搜尋以及目錄列誤動作 · `2026-08-05` · OA Hsiao
-05. [`M2_AI_WORKER@f52dd4e`](https://github.com/M2Station/M2_AI_WORKER/commit/f52dd4e934a748b2701aff535a451d0ee16f1795) — Initial commit · `2026-08-05` · oahsiao
-06. [`M2_PROMPT@db86a52`](https://github.com/M2Station/M2_PROMPT/commit/db86a52dbca01596b581e1fd9bf34e2217e92e28) — refine wording · `2026-08-04` · oahsiao
-07. [`M2_PROMPT@381b9b0`](https://github.com/M2Station/M2_PROMPT/commit/381b9b030ea704cec6f59ff3dba0807af8f03338) — Refine Hoykey · `2026-08-04` · oahsiao
-08. [`M2_PROMPT@9bf787f`](https://github.com/M2Station/M2_PROMPT/commit/9bf787f453d050bd71f35407a42c8e625a980211) — PROMPT_SESSTION Implementation. · `2026-08-04` · oahsiao
-09. [`M2_PROMPT@18bd17e`](https://github.com/M2Station/M2_PROMPT/commit/18bd17e35de230a82065693457adb9cf81ee5051) — 2026/08/04 refine LOCAL AI section · `2026-08-04` · oahsiao
-10. [`M2_PROMPT@08625f8`](https://github.com/M2Station/M2_PROMPT/commit/08625f876378bace6d2625387b57e90f61e09f26) — Add LOCAL_AI Tab and function. Active LOCAL AI SERVER fun... · `2026-08-04` · OA Hsiao
+01. [`M2_PROMPT@4811b7e`](https://github.com/M2Station/M2_PROMPT/commit/4811b7e34fa797db74f5618b1880ee92b8b2b5b9) — bump version to v0.2.0 · `2026-08-06` · OA Hsiao
+02. [`M2_PROMPT@311f5aa`](https://github.com/M2Station/M2_PROMPT/commit/311f5aa93643ed02a9292b21bc35046c6c55a9d7) — [Bug] Fix Sha workflow fail. · `2026-08-06` · OA Hsiao
+03. [`M2_PROMPT@8851d30`](https://github.com/M2Station/M2_PROMPT/commit/8851d30fc4d7b844d445e72c928cdab980a65e22) — bump version to v0.1.9 · `2026-08-06` · OA Hsiao
+04. [`M2_PROMPT@156f2f5`](https://github.com/M2Station/M2_PROMPT/commit/156f2f5eb9cbb655e25e9746e06207f0d9e48b88) — Applying the fold-by-default change to all 7 LOCAL AI car... · `2026-08-06` · OA Hsiao
+05. [`M2_INSIGHT@ff748e2`](https://github.com/M2Station/M2_INSIGHT/commit/ff748e201948de8bb0fef1d87baf7986d9744e11) — Initial commit · `2026-08-06` · oahsiao
+06. [`M2_PROMPT@46175b8`](https://github.com/M2Station/M2_PROMPT/commit/46175b8f7300b64e34779e727275c86d54675597) — [bug] Fix LOCAL AI Continues 剪貼簿 失效 · `2026-08-05` · oahsiao
+07. [`M2_PROMPT@7893703`](https://github.com/M2Station/M2_PROMPT/commit/789370352a5e2aa71aa8efbbd5a13bbe756ba8f7) — [feat] Add more Model. · `2026-08-05` · oahsiao
+08. [`M2_PROMPT@16fa6b7`](https://github.com/M2Station/M2_PROMPT/commit/16fa6b76315dd8429998296046d6415ff0f8253e) — [feat] add Liquid AI LFM2.5 2.6B · `2026-08-05` · oahsiao
+09. [`M2_PROMPT@fadc5ef`](https://github.com/M2Station/M2_PROMPT/commit/fadc5ef77557ff922e75279951b7258fbfaf7ca1) — [feat] Voice Prompt implementation. · `2026-08-05` · oahsiao
+10. [`M2_PUBLIC_RELEASE@71d829d`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/71d829dbd22551c07455a8fe0b866081514b00ab) — chore(m2-git-diff): publish v0.4.1 · `2026-08-05` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
