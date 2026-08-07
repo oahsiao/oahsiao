@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;205.60000000000002;205.60000000000002;0;0"
-        keyTimes="0;0.000;0.058;0.128;0.150;1"
-        dur="22.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;272.8;272.8;0;0"
+        keyTimes="0;0.000;0.075;0.141;0.162;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>bump version to v0.2.0</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-apex): publish v0.3.3</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;256;256;0;0"
-        keyTimes="0;0.150;0.223;0.293;0.315;1"
-        dur="22.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;205.60000000000002;205.60000000000002;0;0"
+        keyTimes="0;0.162;0.216;0.283;0.303;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[Bug] Fix Sha workflow fail.</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>bump version to v0.3.3</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;205.60000000000002;205.60000000000002;0;0"
-        keyTimes="0;0.315;0.373;0.443;0.465;1"
-        dur="22.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.303;0.428;0.494;0.515;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>bump version to v0.1.9</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[feat] Enhance the M2 APEX SEARCH interface by ...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.465;0.596;0.666;0.688;1"
-        dur="22.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;163.6;163.6;0;0"
+        keyTimes="0;0.515;0.557;0.624;0.644;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Applying the fold-by-default change to all 7 LO...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>update link image</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;138.4;138.4;0;0"
-        keyTimes="0;0.688;0.724;0.794;0.816;1"
-        dur="22.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;289.6;289.6;0;0"
+        keyTimes="0;0.644;0.724;0.790;0.811;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Initial commit</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-prompt): publish v0.2.1</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;314.8;314.8;0;0"
-        keyTimes="0;0.816;0.908;0.978;1.000;1"
-        dur="22.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;365.2;365.2;0;0"
+        keyTimes="0;0.811;0.913;0.979;1.000;1"
+        dur="24.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[bug] Fix LOCAL AI Continues 剪貼簿 失效</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[feat] Auto Release Notification Workflow</text>
     </g>
 </svg>

@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PROMPT@4811b7e`](https://github.com/M2Station/M2_PROMPT/commit/4811b7e34fa797db74f5618b1880ee92b8b2b5b9) — bump version to v0.2.0 · `2026-08-06` · OA Hsiao
-02. [`M2_PROMPT@311f5aa`](https://github.com/M2Station/M2_PROMPT/commit/311f5aa93643ed02a9292b21bc35046c6c55a9d7) — [Bug] Fix Sha workflow fail. · `2026-08-06` · OA Hsiao
-03. [`M2_PROMPT@8851d30`](https://github.com/M2Station/M2_PROMPT/commit/8851d30fc4d7b844d445e72c928cdab980a65e22) — bump version to v0.1.9 · `2026-08-06` · OA Hsiao
-04. [`M2_PROMPT@156f2f5`](https://github.com/M2Station/M2_PROMPT/commit/156f2f5eb9cbb655e25e9746e06207f0d9e48b88) — Applying the fold-by-default change to all 7 LOCAL AI car... · `2026-08-06` · OA Hsiao
-05. [`M2_INSIGHT@ff748e2`](https://github.com/M2Station/M2_INSIGHT/commit/ff748e201948de8bb0fef1d87baf7986d9744e11) — Initial commit · `2026-08-06` · oahsiao
-06. [`M2_PROMPT@46175b8`](https://github.com/M2Station/M2_PROMPT/commit/46175b8f7300b64e34779e727275c86d54675597) — [bug] Fix LOCAL AI Continues 剪貼簿 失效 · `2026-08-05` · oahsiao
-07. [`M2_PROMPT@7893703`](https://github.com/M2Station/M2_PROMPT/commit/789370352a5e2aa71aa8efbbd5a13bbe756ba8f7) — [feat] Add more Model. · `2026-08-05` · oahsiao
-08. [`M2_PROMPT@16fa6b7`](https://github.com/M2Station/M2_PROMPT/commit/16fa6b76315dd8429998296046d6415ff0f8253e) — [feat] add Liquid AI LFM2.5 2.6B · `2026-08-05` · oahsiao
-09. [`M2_PROMPT@fadc5ef`](https://github.com/M2Station/M2_PROMPT/commit/fadc5ef77557ff922e75279951b7258fbfaf7ca1) — [feat] Voice Prompt implementation. · `2026-08-05` · oahsiao
-10. [`M2_PUBLIC_RELEASE@71d829d`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/71d829dbd22551c07455a8fe0b866081514b00ab) — chore(m2-git-diff): publish v0.4.1 · `2026-08-05` · oahsiao
+01. [`M2_PUBLIC_RELEASE@767ed9e`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/767ed9e6211c8a3d026635f2208df10954f5b6ae) — chore(m2-apex): publish v0.3.3 · `2026-08-07` · oahsiao
+02. [`M2_APEX@ce67ec5`](https://github.com/M2Station/M2_APEX/commit/ce67ec55a88fb40069de1b6d20538e606401ecfb) — bump version to v0.3.3 · `2026-08-07` · OA Hsiao
+03. [`M2_APEX@394d783`](https://github.com/M2Station/M2_APEX/commit/394d783172f3f845df6855834ca26c94f07669be) — [feat] Enhance the M2 APEX SEARCH interface by adding rea... · `2026-08-07` · OA Hsiao
+04. [`M2_PUBLIC_RELEASE@7b656c7`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/7b656c7685570cd711e632a28959f0dcd2556230) — update link image · `2026-08-07` · OA Hsiao
+05. [`M2_PUBLIC_RELEASE@fcd92a7`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/fcd92a7d19540e728181359463d694190efe2023) — chore(m2-prompt): publish v0.2.1 · `2026-08-07` · oahsiao
+06. [`M2_PUBLIC_RELEASE@b3b71da`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/b3b71daa30d6ffbf11adf6836bef578ad8c54995) — [feat] Auto Release Notification Workflow · `2026-08-07` · OA Hsiao
+07. [`M2_PROMPT@a334e44`](https://github.com/M2Station/M2_PROMPT/commit/a334e444eff06a5bb68dd57057591de3edc93954) — Bump Version to v0.2.1 · `2026-08-07` · OA Hsiao
+08. [`M2_PROMPT@38c81fd`](https://github.com/M2Station/M2_PROMPT/commit/38c81fd8d304aabe19d76ad0c0b09ce37befb5e3) — [feat] Add Local AI context menu with dynamic JSON config... · `2026-08-07` · OA Hsiao
+09. [`M2_WIKI@b0f863c`](https://github.com/M2Station/M2_WIKI/commit/b0f863c8f56b329d0773b910282780b29880eeb2) — Update MICROSOFT_CAPSULE.md · `2026-08-07` · asuka-wu
+10. [`M2_GITHUB_ADMIN@60c5677`](https://github.com/M2Station/M2_GITHUB_ADMIN/commit/60c5677b0e14c960743ba6969e505f63d84f0eb6) — 新增 Get-GhApiPagedList 處理分頁請求，改進錯誤處理與 Telegram 通知。移除 cmd.e... · `2026-08-07` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
