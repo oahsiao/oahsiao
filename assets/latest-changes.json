@@ -1,6 +1,60 @@
 {
-  "updated": "2026-08-07 12:27 TWN",
+  "updated": "2026-08-08 11:36 TWN",
   "latestChanges": [
+    {
+      "date": 1786103500000,
+      "committedDate": "2026-08-07T11:51:40Z",
+      "header": "[feat] refine the Project Mapping Method and refine the M2_INSIGHT_COLLECTOR",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/72b095a026b71d4b3bf44af9e4eeabdbb5ef3690",
+      "sha": "72b095a",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1786100054000,
+      "committedDate": "2026-08-07T10:54:14Z",
+      "header": "[Bug] Fix PHP Deprecated:  fgetcsv(): the $escape parameter must be provided as its default value",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/9a1e153850fcb2e05c7a7f92a52ffd985243f108",
+      "sha": "9a1e153",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1786099455000,
+      "committedDate": "2026-08-07T10:44:15Z",
+      "header": "[feat] Allow Explorer edit Work items",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/fdf24ea49b2e1abc2353b0410e78a291d193e492",
+      "sha": "fdf24ea",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1786094599000,
+      "committedDate": "2026-08-07T09:23:19Z",
+      "header": "[feat] + Avg productive , + range",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/1e870fd9371452f7263c6a5357c4f39f254a17ed",
+      "sha": "1e870fd",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1786086683000,
+      "committedDate": "2026-08-07T07:11:23Z",
+      "header": "+TCON CAPSULE FAIL",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/b95f9229a1e4e1ec99aa3e9d7089ea2e48c30460",
+      "sha": "b95f922",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1786077319000,
+      "committedDate": "2026-08-07T04:35:19Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/51d74c330ac2d713f79835d963559da36c3afb6e",
+      "sha": "51d74c3",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1786075093000,
       "committedDate": "2026-08-07T03:58:13Z",
@@ -35,60 +89,6 @@
       "repo": "M2_PUBLIC_RELEASE",
       "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/7b656c7685570cd711e632a28959f0dcd2556230",
       "sha": "7b656c7",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1786072915000,
-      "committedDate": "2026-08-07T03:21:55Z",
-      "header": "chore(m2-prompt): publish v0.2.1",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/fcd92a7d19540e728181359463d694190efe2023",
-      "sha": "fcd92a7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1786072255000,
-      "committedDate": "2026-08-07T03:10:55Z",
-      "header": "[feat] Auto Release Notification Workflow",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/b3b71daa30d6ffbf11adf6836bef578ad8c54995",
-      "sha": "b3b71da",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1786071335000,
-      "committedDate": "2026-08-07T02:55:35Z",
-      "header": "Bump Version to v0.2.1",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/a334e444eff06a5bb68dd57057591de3edc93954",
-      "sha": "a334e44",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1786071291000,
-      "committedDate": "2026-08-07T02:54:51Z",
-      "header": "[feat] Add Local AI context menu with dynamic JSON configuration and result panel",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/38c81fd8d304aabe19d76ad0c0b09ce37befb5e3",
-      "sha": "38c81fd",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1786068257000,
-      "committedDate": "2026-08-07T02:04:17Z",
-      "header": "Update MICROSOFT_CAPSULE.md",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/b0f863c8f56b329d0773b910282780b29880eeb2",
-      "sha": "b0f863c",
-      "login": "asuka-wu"
-    },
-    {
-      "date": 1786067448000,
-      "committedDate": "2026-08-07T01:50:48Z",
-      "header": "新增 Get-GhApiPagedList 處理分頁請求，改進錯誤處理與 Telegram 通知。移除 cmd.exe /c 包裹以避免命令分割。驗證 101 個 repo 數據一致，無缺失或重複。",
-      "repo": "M2_GITHUB_ADMIN",
-      "url": "https://github.com/M2Station/M2_GITHUB_ADMIN/commit/60c5677b0e14c960743ba6969e505f63d84f0eb6",
-      "sha": "60c5677",
       "login": "OA Hsiao"
     }
   ]

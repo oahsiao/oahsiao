@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PUBLIC_RELEASE@767ed9e`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/767ed9e6211c8a3d026635f2208df10954f5b6ae) — chore(m2-apex): publish v0.3.3 · `2026-08-07` · oahsiao
-02. [`M2_APEX@ce67ec5`](https://github.com/M2Station/M2_APEX/commit/ce67ec55a88fb40069de1b6d20538e606401ecfb) — bump version to v0.3.3 · `2026-08-07` · OA Hsiao
-03. [`M2_APEX@394d783`](https://github.com/M2Station/M2_APEX/commit/394d783172f3f845df6855834ca26c94f07669be) — [feat] Enhance the M2 APEX SEARCH interface by adding rea... · `2026-08-07` · OA Hsiao
-04. [`M2_PUBLIC_RELEASE@7b656c7`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/7b656c7685570cd711e632a28959f0dcd2556230) — update link image · `2026-08-07` · OA Hsiao
-05. [`M2_PUBLIC_RELEASE@fcd92a7`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/fcd92a7d19540e728181359463d694190efe2023) — chore(m2-prompt): publish v0.2.1 · `2026-08-07` · oahsiao
-06. [`M2_PUBLIC_RELEASE@b3b71da`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/b3b71daa30d6ffbf11adf6836bef578ad8c54995) — [feat] Auto Release Notification Workflow · `2026-08-07` · OA Hsiao
-07. [`M2_PROMPT@a334e44`](https://github.com/M2Station/M2_PROMPT/commit/a334e444eff06a5bb68dd57057591de3edc93954) — Bump Version to v0.2.1 · `2026-08-07` · OA Hsiao
-08. [`M2_PROMPT@38c81fd`](https://github.com/M2Station/M2_PROMPT/commit/38c81fd8d304aabe19d76ad0c0b09ce37befb5e3) — [feat] Add Local AI context menu with dynamic JSON config... · `2026-08-07` · OA Hsiao
-09. [`M2_WIKI@b0f863c`](https://github.com/M2Station/M2_WIKI/commit/b0f863c8f56b329d0773b910282780b29880eeb2) — Update MICROSOFT_CAPSULE.md · `2026-08-07` · asuka-wu
-10. [`M2_GITHUB_ADMIN@60c5677`](https://github.com/M2Station/M2_GITHUB_ADMIN/commit/60c5677b0e14c960743ba6969e505f63d84f0eb6) — 新增 Get-GhApiPagedList 處理分頁請求，改進錯誤處理與 Telegram 通知。移除 cmd.e... · `2026-08-07` · OA Hsiao
+01. [`M2_INSIGHT@72b095a`](https://github.com/M2Station/M2_INSIGHT/commit/72b095a026b71d4b3bf44af9e4eeabdbb5ef3690) — [feat] refine the Project Mapping Method and refine the M... · `2026-08-07` · OA Hsiao
+02. [`M2_INSIGHT@9a1e153`](https://github.com/M2Station/M2_INSIGHT/commit/9a1e153850fcb2e05c7a7f92a52ffd985243f108) — [Bug] Fix PHP Deprecated:  fgetcsv(): the $escape paramet... · `2026-08-07` · OA Hsiao
+03. [`M2_INSIGHT@fdf24ea`](https://github.com/M2Station/M2_INSIGHT/commit/fdf24ea49b2e1abc2353b0410e78a291d193e492) — [feat] Allow Explorer edit Work items · `2026-08-07` · OA Hsiao
+04. [`M2_INSIGHT@1e870fd`](https://github.com/M2Station/M2_INSIGHT/commit/1e870fd9371452f7263c6a5357c4f39f254a17ed) — [feat] + Avg productive , + range · `2026-08-07` · OA Hsiao
+05. [`M2_WIKI@b95f922`](https://github.com/M2Station/M2_WIKI/commit/b95f9229a1e4e1ec99aa3e9d7089ea2e48c30460) — +TCON CAPSULE FAIL · `2026-08-07` · asuka-wu
+06. [`.github@51d74c3`](https://github.com/M2Station/.github/commit/51d74c330ac2d713f79835d963559da36c3afb6e) — chore: sync latest changes [skip ci] · `2026-08-07` · github-actions[bot]
+07. [`M2_PUBLIC_RELEASE@767ed9e`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/767ed9e6211c8a3d026635f2208df10954f5b6ae) — chore(m2-apex): publish v0.3.3 · `2026-08-07` · oahsiao
+08. [`M2_APEX@ce67ec5`](https://github.com/M2Station/M2_APEX/commit/ce67ec55a88fb40069de1b6d20538e606401ecfb) — bump version to v0.3.3 · `2026-08-07` · OA Hsiao
+09. [`M2_APEX@394d783`](https://github.com/M2Station/M2_APEX/commit/394d783172f3f845df6855834ca26c94f07669be) — [feat] Enhance the M2 APEX SEARCH interface by adding rea... · `2026-08-07` · OA Hsiao
+10. [`M2_PUBLIC_RELEASE@7b656c7`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/7b656c7685570cd711e632a28959f0dcd2556230) — update link image · `2026-08-07` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
