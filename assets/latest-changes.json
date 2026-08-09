@@ -1,95 +1,95 @@
 {
-  "updated": "2026-08-08 11:36 TWN",
+  "updated": "2026-08-09 11:46 TWN",
   "latestChanges": [
     {
-      "date": 1786103500000,
-      "committedDate": "2026-08-07T11:51:40Z",
-      "header": "[feat] refine the Project Mapping Method and refine the M2_INSIGHT_COLLECTOR",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/72b095a026b71d4b3bf44af9e4eeabdbb5ef3690",
-      "sha": "72b095a",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1786100054000,
-      "committedDate": "2026-08-07T10:54:14Z",
-      "header": "[Bug] Fix PHP Deprecated:  fgetcsv(): the $escape parameter must be provided as its default value",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/9a1e153850fcb2e05c7a7f92a52ffd985243f108",
-      "sha": "9a1e153",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1786099455000,
-      "committedDate": "2026-08-07T10:44:15Z",
-      "header": "[feat] Allow Explorer edit Work items",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/fdf24ea49b2e1abc2353b0410e78a291d193e492",
-      "sha": "fdf24ea",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1786094599000,
-      "committedDate": "2026-08-07T09:23:19Z",
-      "header": "[feat] + Avg productive , + range",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/1e870fd9371452f7263c6a5357c4f39f254a17ed",
-      "sha": "1e870fd",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1786086683000,
-      "committedDate": "2026-08-07T07:11:23Z",
-      "header": "+TCON CAPSULE FAIL",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/b95f9229a1e4e1ec99aa3e9d7089ea2e48c30460",
-      "sha": "b95f922",
-      "login": "asuka-wu"
-    },
-    {
-      "date": 1786077319000,
-      "committedDate": "2026-08-07T04:35:19Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/51d74c330ac2d713f79835d963559da36c3afb6e",
-      "sha": "51d74c3",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1786075093000,
-      "committedDate": "2026-08-07T03:58:13Z",
-      "header": "chore(m2-apex): publish v0.3.3",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/767ed9e6211c8a3d026635f2208df10954f5b6ae",
-      "sha": "767ed9e",
+      "date": 1786245338000,
+      "committedDate": "2026-08-09T03:15:38Z",
+      "header": "[Bug] Fix install in WOA env.",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/2a6ba025eac7e6b3cab177a5522edb4d313de9b3",
+      "sha": "2a6ba02",
       "login": "oahsiao"
     },
     {
-      "date": 1786074829000,
-      "committedDate": "2026-08-07T03:53:49Z",
-      "header": "bump version to v0.3.3",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/ce67ec55a88fb40069de1b6d20538e606401ecfb",
-      "sha": "ce67ec5",
-      "login": "OA Hsiao"
+      "date": 1786212536000,
+      "committedDate": "2026-08-08T18:08:56Z",
+      "header": "3. 翻譯佇列與重試 — 改為序列化執行，密集發言不再堆疊 LOCAL AI 請求；失敗的句子會出現「重試翻譯」按鈕，重試不影響已完成的計時。",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/2885d6b83e81c3b97935c0df7e49598113ddead7",
+      "sha": "2885d6b",
+      "login": "oahsiao"
     },
     {
-      "date": 1786074282000,
-      "committedDate": "2026-08-07T03:44:42Z",
-      "header": "[feat] Enhance the M2 APEX SEARCH interface by adding real-time performance indicators below the \"Loaded xxx indexed items from cache",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/394d783172f3f845df6855834ca26c94f07669be",
-      "sha": "394d783",
-      "login": "OA Hsiao"
+      "date": 1786211681000,
+      "committedDate": "2026-08-08T17:54:41Z",
+      "header": "[FIX] 安裝 Windows x64 Python 3.13，不要選 ARM64 版。",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/290720101118e2641dfee6081da7d5fe93937f3e",
+      "sha": "2907201",
+      "login": "oahsiao"
     },
     {
-      "date": 1786073304000,
-      "committedDate": "2026-08-07T03:28:24Z",
-      "header": "update link image",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/7b656c7685570cd711e632a28959f0dcd2556230",
-      "sha": "7b656c7",
-      "login": "OA Hsiao"
+      "date": 1786211619000,
+      "committedDate": "2026-08-08T17:53:39Z",
+      "header": "[FEAT] 加入 LIVE PIPELINE STATUS",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/8cae7f908d0266cbfe5a4d3a9487408d6d0ced9c",
+      "sha": "8cae7f9",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1786210570000,
+      "committedDate": "2026-08-08T17:36:10Z",
+      "header": "[Bug] 根因：WhisperX 3.8.6 不支援 Python 3.14，只支援 3.10–3.13。",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/be6d33f4fb194cbcf5fd43a5a0a7f9a2099569f1",
+      "sha": "be6d33f",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1786210166000,
+      "committedDate": "2026-08-08T17:29:26Z",
+      "header": "[feat] Add WHISPERX_PROMPT",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/feca29f5f18f464d65b1bd3cebb570df89f24a9b",
+      "sha": "feca29f",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1786205993000,
+      "committedDate": "2026-08-08T16:19:53Z",
+      "header": "fix(hotkey): move hook health watchdog off the thread pool",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/c934ad110d502bbdb5f6ee3c1ae4606842fc5b03",
+      "sha": "c934ad1",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1786204529000,
+      "committedDate": "2026-08-08T15:55:29Z",
+      "header": "[BUG] 修復 啟動遇熱反應過慢問題",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/417dc7fb0c3d76f6d0270cf919bcd5b5f0f01a03",
+      "sha": "417dc7f",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1786179595000,
+      "committedDate": "2026-08-08T08:59:55Z",
+      "header": "[Refine] PROMPT_OUTPUT button icon-only method.",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/b375f2ef609be8605118866ccb516aa02e2e116f",
+      "sha": "b375f2e",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1786178979000,
+      "committedDate": "2026-08-08T08:49:39Z",
+      "header": "[feat] Add Schedule function [ zoon-in ] [ management ]",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/4604c2dbd80a4a82751794b7f8ced83ea09b69af",
+      "sha": "4604c2d",
+      "login": "oahsiao"
     }
   ]
 }
