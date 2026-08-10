@@ -1,6 +1,69 @@
 {
-  "updated": "2026-08-09 11:46 TWN",
+  "updated": "2026-08-10 12:00 TWN",
   "latestChanges": [
+    {
+      "date": 1786327701000,
+      "committedDate": "2026-08-10T02:08:21Z",
+      "header": "Fix base_path 沒設定 造成部屬失敗",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/6c9d678ef207799c531ce06d602e548d4cb5c837",
+      "sha": "6c9d678",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1786326958000,
+      "committedDate": "2026-08-10T01:55:58Z",
+      "header": "1. 下載函式庫到本地 — jsDelivr 確實被擋（SSL handshake 失敗），改用 unpkg.com（同樣的 npm 內容，未被擋）：",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/de0f9d51f093bd36a62d0792d50e7ecffe51647a",
+      "sha": "de0f9d5",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1786324234000,
+      "committedDate": "2026-08-10T01:10:34Z",
+      "header": "chore(dev-deps): bump electron in the electron group",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/c5228c5a2bf755f986fae6b1ca9aa6fce13a704e",
+      "sha": "c5228c5",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1786324214000,
+      "committedDate": "2026-08-10T01:10:14Z",
+      "header": "chore(dev-deps): bump the vite-vitest-toolchain group with 2 updates",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/48386fdab8bbc403152ceca822ce87423c977a1e",
+      "sha": "48386fd",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1786271022000,
+      "committedDate": "2026-08-09T10:23:42Z",
+      "header": "[feat] Add Download Function. [config/downloads.json]",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/6f8f21b734df4a99b24b1a24b3c6fffb74ce4879",
+      "sha": "6f8f21b",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1786247820000,
+      "committedDate": "2026-08-09T03:57:00Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/4b3023c3b7c4bc8e5afcdf6cb4e40e1cd43a083a",
+      "sha": "4b3023c",
+      "login": "github-actions[bot]"
+    },
+    {
+      "date": 1786247562000,
+      "committedDate": "2026-08-09T03:52:42Z",
+      "header": "[refine] refine WHISPERX",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/71649ab79c1e278f335010ed69f516c144bce97b",
+      "sha": "71649ab",
+      "login": "oahsiao"
+    },
     {
       "date": 1786245338000,
       "committedDate": "2026-08-09T03:15:38Z",
@@ -26,69 +89,6 @@
       "repo": "M2_PROMPT",
       "url": "https://github.com/M2Station/M2_PROMPT/commit/290720101118e2641dfee6081da7d5fe93937f3e",
       "sha": "2907201",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1786211619000,
-      "committedDate": "2026-08-08T17:53:39Z",
-      "header": "[FEAT] 加入 LIVE PIPELINE STATUS",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/8cae7f908d0266cbfe5a4d3a9487408d6d0ced9c",
-      "sha": "8cae7f9",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1786210570000,
-      "committedDate": "2026-08-08T17:36:10Z",
-      "header": "[Bug] 根因：WhisperX 3.8.6 不支援 Python 3.14，只支援 3.10–3.13。",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/be6d33f4fb194cbcf5fd43a5a0a7f9a2099569f1",
-      "sha": "be6d33f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1786210166000,
-      "committedDate": "2026-08-08T17:29:26Z",
-      "header": "[feat] Add WHISPERX_PROMPT",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/feca29f5f18f464d65b1bd3cebb570df89f24a9b",
-      "sha": "feca29f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1786205993000,
-      "committedDate": "2026-08-08T16:19:53Z",
-      "header": "fix(hotkey): move hook health watchdog off the thread pool",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/c934ad110d502bbdb5f6ee3c1ae4606842fc5b03",
-      "sha": "c934ad1",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1786204529000,
-      "committedDate": "2026-08-08T15:55:29Z",
-      "header": "[BUG] 修復 啟動遇熱反應過慢問題",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/417dc7fb0c3d76f6d0270cf919bcd5b5f0f01a03",
-      "sha": "417dc7f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1786179595000,
-      "committedDate": "2026-08-08T08:59:55Z",
-      "header": "[Refine] PROMPT_OUTPUT button icon-only method.",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/b375f2ef609be8605118866ccb516aa02e2e116f",
-      "sha": "b375f2e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1786178979000,
-      "committedDate": "2026-08-08T08:49:39Z",
-      "header": "[feat] Add Schedule function [ zoon-in ] [ management ]",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/4604c2dbd80a4a82751794b7f8ced83ea09b69af",
-      "sha": "4604c2d",
       "login": "oahsiao"
     }
   ]

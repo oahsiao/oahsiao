@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PROMPT@2a6ba02`](https://github.com/M2Station/M2_PROMPT/commit/2a6ba025eac7e6b3cab177a5522edb4d313de9b3) — [Bug] Fix install in WOA env. · `2026-08-09` · oahsiao
-02. [`M2_PROMPT@2885d6b`](https://github.com/M2Station/M2_PROMPT/commit/2885d6b83e81c3b97935c0df7e49598113ddead7) — 3. 翻譯佇列與重試 — 改為序列化執行，密集發言不再堆疊 LOCAL AI 請求；失敗的句子會出現「重試翻譯」按... · `2026-08-08` · oahsiao
-03. [`M2_PROMPT@2907201`](https://github.com/M2Station/M2_PROMPT/commit/290720101118e2641dfee6081da7d5fe93937f3e) — [FIX] 安裝 Windows x64 Python 3.13，不要選 ARM64 版。 · `2026-08-08` · oahsiao
-04. [`M2_PROMPT@8cae7f9`](https://github.com/M2Station/M2_PROMPT/commit/8cae7f908d0266cbfe5a4d3a9487408d6d0ced9c) — [FEAT] 加入 LIVE PIPELINE STATUS · `2026-08-08` · oahsiao
-05. [`M2_PROMPT@be6d33f`](https://github.com/M2Station/M2_PROMPT/commit/be6d33f4fb194cbcf5fd43a5a0a7f9a2099569f1) — [Bug] 根因：WhisperX 3.8.6 不支援 Python 3.14，只支援 3.10–3.13。 · `2026-08-08` · oahsiao
-06. [`M2_PROMPT@feca29f`](https://github.com/M2Station/M2_PROMPT/commit/feca29f5f18f464d65b1bd3cebb570df89f24a9b) — [feat] Add WHISPERX_PROMPT · `2026-08-08` · oahsiao
-07. [`M2_APEX@c934ad1`](https://github.com/M2Station/M2_APEX/commit/c934ad110d502bbdb5f6ee3c1ae4606842fc5b03) — fix(hotkey): move hook health watchdog off the thread pool · `2026-08-08` · oahsiao
-08. [`M2_APEX@417dc7f`](https://github.com/M2Station/M2_APEX/commit/417dc7fb0c3d76f6d0270cf919bcd5b5f0f01a03) — [BUG] 修復 啟動遇熱反應過慢問題 · `2026-08-08` · oahsiao
-09. [`M2_PROMPT@b375f2e`](https://github.com/M2Station/M2_PROMPT/commit/b375f2ef609be8605118866ccb516aa02e2e116f) — [Refine] PROMPT_OUTPUT button icon-only method. · `2026-08-08` · oahsiao
-10. [`M2_INSIGHT@4604c2d`](https://github.com/M2Station/M2_INSIGHT/commit/4604c2dbd80a4a82751794b7f8ced83ea09b69af) — [feat] Add Schedule function [ zoon-in ] [ management ] · `2026-08-08` · oahsiao
+01. [`M2_INSIGHT@6c9d678`](https://github.com/M2Station/M2_INSIGHT/commit/6c9d678ef207799c531ce06d602e548d4cb5c837) — Fix base_path 沒設定 造成部屬失敗 · `2026-08-10` · OA Hsiao
+02. [`M2_INSIGHT@de0f9d5`](https://github.com/M2Station/M2_INSIGHT/commit/de0f9d51f093bd36a62d0792d50e7ecffe51647a) — 1. 下載函式庫到本地 — jsDelivr 確實被擋（SSL handshake 失敗），改用 unpkg.co... · `2026-08-10` · OA Hsiao
+03. [`M2_GIT_DIFF@c5228c5`](https://github.com/M2Station/M2_GIT_DIFF/commit/c5228c5a2bf755f986fae6b1ca9aa6fce13a704e) — chore(dev-deps): bump electron in the electron group · `2026-08-10` · dependabot[bot]
+04. [`M2_GIT_DIFF@48386fd`](https://github.com/M2Station/M2_GIT_DIFF/commit/48386fdab8bbc403152ceca822ce87423c977a1e) — chore(dev-deps): bump the vite-vitest-toolchain group wit... · `2026-08-10` · dependabot[bot]
+05. [`M2_INSIGHT@6f8f21b`](https://github.com/M2Station/M2_INSIGHT/commit/6f8f21b734df4a99b24b1a24b3c6fffb74ce4879) — [feat] Add Download Function. [config/downloads.json] · `2026-08-09` · oahsiao
+06. [`.github@4b3023c`](https://github.com/M2Station/.github/commit/4b3023c3b7c4bc8e5afcdf6cb4e40e1cd43a083a) — chore: sync latest changes [skip ci] · `2026-08-09` · github-actions[bot]
+07. [`M2_PROMPT@71649ab`](https://github.com/M2Station/M2_PROMPT/commit/71649ab79c1e278f335010ed69f516c144bce97b) — [refine] refine WHISPERX · `2026-08-09` · oahsiao
+08. [`M2_PROMPT@2a6ba02`](https://github.com/M2Station/M2_PROMPT/commit/2a6ba025eac7e6b3cab177a5522edb4d313de9b3) — [Bug] Fix install in WOA env. · `2026-08-09` · oahsiao
+09. [`M2_PROMPT@2885d6b`](https://github.com/M2Station/M2_PROMPT/commit/2885d6b83e81c3b97935c0df7e49598113ddead7) — 3. 翻譯佇列與重試 — 改為序列化執行，密集發言不再堆疊 LOCAL AI 請求；失敗的句子會出現「重試翻譯」按... · `2026-08-08` · oahsiao
+10. [`M2_PROMPT@2907201`](https://github.com/M2Station/M2_PROMPT/commit/290720101118e2641dfee6081da7d5fe93937f3e) — [FIX] 安裝 Windows x64 Python 3.13，不要選 ARM64 版。 · `2026-08-08` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
