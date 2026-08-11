@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_INSIGHT@6c9d678`](https://github.com/M2Station/M2_INSIGHT/commit/6c9d678ef207799c531ce06d602e548d4cb5c837) — Fix base_path 沒設定 造成部屬失敗 · `2026-08-10` · OA Hsiao
-02. [`M2_INSIGHT@de0f9d5`](https://github.com/M2Station/M2_INSIGHT/commit/de0f9d51f093bd36a62d0792d50e7ecffe51647a) — 1. 下載函式庫到本地 — jsDelivr 確實被擋（SSL handshake 失敗），改用 unpkg.co... · `2026-08-10` · OA Hsiao
-03. [`M2_GIT_DIFF@c5228c5`](https://github.com/M2Station/M2_GIT_DIFF/commit/c5228c5a2bf755f986fae6b1ca9aa6fce13a704e) — chore(dev-deps): bump electron in the electron group · `2026-08-10` · dependabot[bot]
-04. [`M2_GIT_DIFF@48386fd`](https://github.com/M2Station/M2_GIT_DIFF/commit/48386fdab8bbc403152ceca822ce87423c977a1e) — chore(dev-deps): bump the vite-vitest-toolchain group wit... · `2026-08-10` · dependabot[bot]
-05. [`M2_INSIGHT@6f8f21b`](https://github.com/M2Station/M2_INSIGHT/commit/6f8f21b734df4a99b24b1a24b3c6fffb74ce4879) — [feat] Add Download Function. [config/downloads.json] · `2026-08-09` · oahsiao
-06. [`.github@4b3023c`](https://github.com/M2Station/.github/commit/4b3023c3b7c4bc8e5afcdf6cb4e40e1cd43a083a) — chore: sync latest changes [skip ci] · `2026-08-09` · github-actions[bot]
-07. [`M2_PROMPT@71649ab`](https://github.com/M2Station/M2_PROMPT/commit/71649ab79c1e278f335010ed69f516c144bce97b) — [refine] refine WHISPERX · `2026-08-09` · oahsiao
-08. [`M2_PROMPT@2a6ba02`](https://github.com/M2Station/M2_PROMPT/commit/2a6ba025eac7e6b3cab177a5522edb4d313de9b3) — [Bug] Fix install in WOA env. · `2026-08-09` · oahsiao
-09. [`M2_PROMPT@2885d6b`](https://github.com/M2Station/M2_PROMPT/commit/2885d6b83e81c3b97935c0df7e49598113ddead7) — 3. 翻譯佇列與重試 — 改為序列化執行，密集發言不再堆疊 LOCAL AI 請求；失敗的句子會出現「重試翻譯」按... · `2026-08-08` · oahsiao
-10. [`M2_PROMPT@2907201`](https://github.com/M2Station/M2_PROMPT/commit/290720101118e2641dfee6081da7d5fe93937f3e) — [FIX] 安裝 Windows x64 Python 3.13，不要選 ARM64 版。 · `2026-08-08` · oahsiao
+01. [`M2_INSIGHT@251ab58`](https://github.com/M2Station/M2_INSIGHT/commit/251ab58afcfe13e7c60f3fde7481bb9e05809fa3) — [feat] Add --include-comments for M2_INSIGHT_COLLECTOR · `2026-08-10` · OA Hsiao
+02. [`M2_WIKI@3bddaf0`](https://github.com/M2Station/M2_WIKI/commit/3bddaf044f3eb5a2e403e9fc312447b83757255b) — Add Method to Print TZ logs · `2026-08-10` · Sam6Su
+03. [`M2_INSIGHT@d9f75f5`](https://github.com/M2Station/M2_INSIGHT/commit/d9f75f55e2447302a2d37ce1fe70a1b404bdc0eb) — [FEAT] 新增 PLATFORM in schedule · `2026-08-10` · OA Hsiao
+04. [`M2_INSIGHT@93ea638`](https://github.com/M2Station/M2_INSIGHT/commit/93ea6383b358ffa8fc2b5b06156c01c7954736ac) — [fear] 工作項目檢索 雙語 導入 · `2026-08-10` · OA Hsiao
+05. [`M2_INSIGHT@a56f243`](https://github.com/M2Station/M2_INSIGHT/commit/a56f243c2b007eed801943c522ff264d16d7f00a) — [Work item explorer] 允許ADMIN OVERRIDE PLATFORM · `2026-08-10` · OA Hsiao
+06. [`M2_WIKI@5088dda`](https://github.com/M2Station/M2_WIKI/commit/5088dda438b64e3eeb1fdaa2c804b3f5dbb7b8a3) — Add PCIe SSC and PCIe log verbose · `2026-08-10` · Sam6Su
+07. [`M2_WIKI@af8779f`](https://github.com/M2Station/M2_WIKI/commit/af8779fce23ec4f28047f57db3d32ea7e21890cc) — Update project name for Torrance · `2026-08-10` · Andy Sung
+08. [`M2_INSIGHT@6da3c4f`](https://github.com/M2Station/M2_INSIGHT/commit/6da3c4f202ec22c182bd8b20f058c57df1ce4e7d) — add payload · `2026-08-10` · OA Hsiao
+09. [`M2_INSIGHT@9b20b52`](https://github.com/M2Station/M2_INSIGHT/commit/9b20b521478b437f2bf870d7c5432e06339b8623) — [Refine] 多重BUG FIXED · `2026-08-10` · OA Hsiao
+10. [`M2_INSIGHT@f79ffbf`](https://github.com/M2Station/M2_INSIGHT/commit/f79ffbfa7c2aa096b636f0dcafcbb31612a81ec3) — [feat] add Original Estimate 資料收集. 尚未列入統計 · `2026-08-10` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

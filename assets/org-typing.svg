@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;222.4;222.4;0;0"
-        keyTimes="0;0.000;0.051;0.108;0.126;1"
-        dur="28.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.000;0.120;0.185;0.205;1"
+        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Fix base_path 沒設定 造成部屬失敗</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[feat] Add --include-comments for M2_INSIGHT_CO...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.126;0.232;0.289;0.306;1"
-        dur="28.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;247.60000000000002;247.60000000000002;0;0"
+        keyTimes="0;0.205;0.270;0.334;0.354;1"
+        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>1. 下載函式庫到本地 — jsDelivr 確實被擋（SSL handshake 失敗），改...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add Method to Print TZ logs</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.306;0.413;0.470;0.487;1"
-        dur="28.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;272.8;272.8;0;0"
+        keyTimes="0;0.354;0.427;0.491;0.511;1"
+        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(dev-deps): bump electron in the electron ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[FEAT] 新增 PLATFORM in schedule</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.487;0.594;0.650;0.668;1"
-        dur="28.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;180.4;180.4;0;0"
+        keyTimes="0;0.511;0.557;0.621;0.641;1"
+        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(dev-deps): bump the vite-vitest-toolchain...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[fear] 工作項目檢索 雙語 導入</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.668;0.774;0.831;0.849;1"
-        dur="28.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;407.20000000000005;407.20000000000005;0;0"
+        keyTimes="0;0.641;0.752;0.816;0.836;1"
+        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[feat] Add Download Function. [config/downloads...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[Work item explorer] 允許ADMIN OVERRIDE PLATFORM</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;323.2;323.2;0;0"
-        keyTimes="0;0.849;0.926;0.982;1.000;1"
-        dur="28.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;298;298;0;0"
+        keyTimes="0;0.836;0.916;0.980;1.000;1"
+        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: sync latest changes [skip ci]</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add PCIe SSC and PCIe log verbose</text>
     </g>
 </svg>
