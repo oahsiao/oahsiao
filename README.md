@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_INSIGHT@251ab58`](https://github.com/M2Station/M2_INSIGHT/commit/251ab58afcfe13e7c60f3fde7481bb9e05809fa3) — [feat] Add --include-comments for M2_INSIGHT_COLLECTOR · `2026-08-10` · OA Hsiao
-02. [`M2_WIKI@3bddaf0`](https://github.com/M2Station/M2_WIKI/commit/3bddaf044f3eb5a2e403e9fc312447b83757255b) — Add Method to Print TZ logs · `2026-08-10` · Sam6Su
-03. [`M2_INSIGHT@d9f75f5`](https://github.com/M2Station/M2_INSIGHT/commit/d9f75f55e2447302a2d37ce1fe70a1b404bdc0eb) — [FEAT] 新增 PLATFORM in schedule · `2026-08-10` · OA Hsiao
-04. [`M2_INSIGHT@93ea638`](https://github.com/M2Station/M2_INSIGHT/commit/93ea6383b358ffa8fc2b5b06156c01c7954736ac) — [fear] 工作項目檢索 雙語 導入 · `2026-08-10` · OA Hsiao
-05. [`M2_INSIGHT@a56f243`](https://github.com/M2Station/M2_INSIGHT/commit/a56f243c2b007eed801943c522ff264d16d7f00a) — [Work item explorer] 允許ADMIN OVERRIDE PLATFORM · `2026-08-10` · OA Hsiao
-06. [`M2_WIKI@5088dda`](https://github.com/M2Station/M2_WIKI/commit/5088dda438b64e3eeb1fdaa2c804b3f5dbb7b8a3) — Add PCIe SSC and PCIe log verbose · `2026-08-10` · Sam6Su
-07. [`M2_WIKI@af8779f`](https://github.com/M2Station/M2_WIKI/commit/af8779fce23ec4f28047f57db3d32ea7e21890cc) — Update project name for Torrance · `2026-08-10` · Andy Sung
-08. [`M2_INSIGHT@6da3c4f`](https://github.com/M2Station/M2_INSIGHT/commit/6da3c4f202ec22c182bd8b20f058c57df1ce4e7d) — add payload · `2026-08-10` · OA Hsiao
-09. [`M2_INSIGHT@9b20b52`](https://github.com/M2Station/M2_INSIGHT/commit/9b20b521478b437f2bf870d7c5432e06339b8623) — [Refine] 多重BUG FIXED · `2026-08-10` · OA Hsiao
-10. [`M2_INSIGHT@f79ffbf`](https://github.com/M2Station/M2_INSIGHT/commit/f79ffbfa7c2aa096b636f0dcafcbb31612a81ec3) — [feat] add Original Estimate 資料收集. 尚未列入統計 · `2026-08-10` · OA Hsiao
+01. [`M2_PROMPT@c5d5917`](https://github.com/M2Station/M2_PROMPT/commit/c5d5917edaa221aeefb13522216e916fed89d420) — [feat] refine RPC SERVERS · `2026-08-12` · oahsiao
+02. [`M2_PROMPT@70736f3`](https://github.com/M2Station/M2_PROMPT/commit/70736f35f46639e1a338a12c14dcf48bb1f93079) — [feat] 7 VS Code Extension · `2026-08-12` · oahsiao
+03. [`M2_PROMPT@d7bff74`](https://github.com/M2Station/M2_PROMPT/commit/d7bff740850fbefd022378520252c95b55ad09a7) — [feat] refine more UI · `2026-08-12` · oahsiao
+04. [`M2_PROMPT@576e07e`](https://github.com/M2Station/M2_PROMPT/commit/576e07efdd5d98de054872e3b74a0a9294cf82f5) — [feat] refine UI · `2026-08-12` · oahsiao
+05. [`M2_PUBLIC_RELEASE@8f98f36`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/8f98f36c52ef0563e43ad741b9417d0dc4f9a0af) — chore(m2-git-diff): publish v0.4.2 · `2026-08-11` · oahsiao
+06. [`M2_GIT_DIFF@eb2417e`](https://github.com/M2Station/M2_GIT_DIFF/commit/eb2417ed29ae4bdf84c495194bdb51b38e62dc79) — chore(release): bump to 0.4.2 · `2026-08-11` · oahsiao
+07. [`M2_GIT_DIFF@a5cf502`](https://github.com/M2Station/M2_GIT_DIFF/commit/a5cf5021c915fcfa8d46f6cfa64ead31e2384d94) — chore: add AGENTS.md, CLAUDE.md, and .claude/ skill files · `2026-08-11` · oahsiao
+08. [`M2_GIT_DIFF@224883a`](https://github.com/M2Station/M2_GIT_DIFF/commit/224883a426c254b321429b8a1ddd0160980b865d) — chore(deps): bump the npm-minor-and-patch group with 2 up... · `2026-08-11` · dependabot[bot]
+09. [`M2_PUBLIC_RELEASE@74972b4`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/74972b4da165f7d6a9f5cafde84b9a3ef35a77b3) — chore(m2-apex): publish v0.3.4 · `2026-08-11` · oahsiao
+10. [`M2_APEX@efe37a6`](https://github.com/M2Station/M2_APEX/commit/efe37a6319be2f0801d1639aa2f70b055b4099a1) — chore: bump version to 0.3.4 in project file · `2026-08-11` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

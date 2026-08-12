@@ -1,95 +1,95 @@
 {
-  "updated": "2026-08-11 11:47 TWN",
+  "updated": "2026-08-12 12:10 TWN",
   "latestChanges": [
     {
-      "date": 1786364825000,
-      "committedDate": "2026-08-10T12:27:05Z",
-      "header": "[feat] Add --include-comments for M2_INSIGHT_COLLECTOR",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/251ab58afcfe13e7c60f3fde7481bb9e05809fa3",
-      "sha": "251ab58",
-      "login": "OA Hsiao"
+      "date": 1786507151000,
+      "committedDate": "2026-08-12T03:59:11Z",
+      "header": "[feat] refine RPC SERVERS",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/c5d5917edaa221aeefb13522216e916fed89d420",
+      "sha": "c5d5917",
+      "login": "oahsiao"
     },
     {
-      "date": 1786355060000,
-      "committedDate": "2026-08-10T09:44:20Z",
-      "header": "Add Method to Print TZ logs",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/3bddaf044f3eb5a2e403e9fc312447b83757255b",
-      "sha": "3bddaf0",
-      "login": "Sam6Su"
+      "date": 1786506519000,
+      "committedDate": "2026-08-12T03:48:39Z",
+      "header": "[feat] 7 VS Code Extension",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/70736f35f46639e1a338a12c14dcf48bb1f93079",
+      "sha": "70736f3",
+      "login": "oahsiao"
     },
     {
-      "date": 1786354681000,
-      "committedDate": "2026-08-10T09:38:01Z",
-      "header": "[FEAT] 新增 PLATFORM in schedule",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/d9f75f55e2447302a2d37ce1fe70a1b404bdc0eb",
-      "sha": "d9f75f5",
-      "login": "OA Hsiao"
+      "date": 1786505762000,
+      "committedDate": "2026-08-12T03:36:02Z",
+      "header": "[feat] refine more UI",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/d7bff740850fbefd022378520252c95b55ad09a7",
+      "sha": "d7bff74",
+      "login": "oahsiao"
     },
     {
-      "date": 1786353756000,
-      "committedDate": "2026-08-10T09:22:36Z",
-      "header": "[fear] 工作項目檢索 雙語 導入",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/93ea6383b358ffa8fc2b5b06156c01c7954736ac",
-      "sha": "93ea638",
-      "login": "OA Hsiao"
+      "date": 1786499538000,
+      "committedDate": "2026-08-12T01:52:18Z",
+      "header": "[feat] refine UI",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/576e07efdd5d98de054872e3b74a0a9294cf82f5",
+      "sha": "576e07e",
+      "login": "oahsiao"
     },
     {
-      "date": 1786353273000,
-      "committedDate": "2026-08-10T09:14:33Z",
-      "header": "[Work item explorer] 允許ADMIN OVERRIDE PLATFORM",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/a56f243c2b007eed801943c522ff264d16d7f00a",
-      "sha": "a56f243",
-      "login": "OA Hsiao"
+      "date": 1786469352000,
+      "committedDate": "2026-08-11T17:29:12Z",
+      "header": "chore(m2-git-diff): publish v0.4.2",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/8f98f36c52ef0563e43ad741b9417d0dc4f9a0af",
+      "sha": "8f98f36",
+      "login": "oahsiao"
     },
     {
-      "date": 1786353130000,
-      "committedDate": "2026-08-10T09:12:10Z",
-      "header": "Add PCIe SSC and PCIe log verbose",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/5088dda438b64e3eeb1fdaa2c804b3f5dbb7b8a3",
-      "sha": "5088dda",
-      "login": "Sam6Su"
+      "date": 1786468713000,
+      "committedDate": "2026-08-11T17:18:33Z",
+      "header": "chore(release): bump to 0.4.2",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/eb2417ed29ae4bdf84c495194bdb51b38e62dc79",
+      "sha": "eb2417e",
+      "login": "oahsiao"
     },
     {
-      "date": 1786348365000,
-      "committedDate": "2026-08-10T07:52:45Z",
-      "header": "Update project name for Torrance",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/af8779fce23ec4f28047f57db3d32ea7e21890cc",
-      "sha": "af8779f",
-      "login": "Andy Sung"
+      "date": 1786465256000,
+      "committedDate": "2026-08-11T16:20:56Z",
+      "header": "chore: add AGENTS.md, CLAUDE.md, and .claude/ skill files",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/a5cf5021c915fcfa8d46f6cfa64ead31e2384d94",
+      "sha": "a5cf502",
+      "login": "oahsiao"
     },
     {
-      "date": 1786343597000,
-      "committedDate": "2026-08-10T06:33:17Z",
-      "header": "add payload",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/6da3c4f202ec22c182bd8b20f058c57df1ce4e7d",
-      "sha": "6da3c4f",
-      "login": "OA Hsiao"
+      "date": 1786464975000,
+      "committedDate": "2026-08-11T16:16:15Z",
+      "header": "chore(deps): bump the npm-minor-and-patch group with 2 updates (#171)",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/224883a426c254b321429b8a1ddd0160980b865d",
+      "sha": "224883a",
+      "login": "dependabot[bot]"
     },
     {
-      "date": 1786343233000,
-      "committedDate": "2026-08-10T06:27:13Z",
-      "header": "[Refine] 多重BUG FIXED",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/9b20b521478b437f2bf870d7c5432e06339b8623",
-      "sha": "9b20b52",
-      "login": "OA Hsiao"
+      "date": 1786457199000,
+      "committedDate": "2026-08-11T14:06:39Z",
+      "header": "chore(m2-apex): publish v0.3.4",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/74972b4da165f7d6a9f5cafde84b9a3ef35a77b3",
+      "sha": "74972b4",
+      "login": "oahsiao"
     },
     {
-      "date": 1786335991000,
-      "committedDate": "2026-08-10T04:26:31Z",
-      "header": "[feat] add Original Estimate 資料收集. 尚未列入統計",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/f79ffbfa7c2aa096b636f0dcafcbb31612a81ec3",
-      "sha": "f79ffbf",
-      "login": "OA Hsiao"
+      "date": 1786456927000,
+      "committedDate": "2026-08-11T14:02:07Z",
+      "header": "chore: bump version to 0.3.4 in project file",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/efe37a6319be2f0801d1639aa2f70b055b4099a1",
+      "sha": "efe37a6",
+      "login": "oahsiao"
     }
   ]
 }

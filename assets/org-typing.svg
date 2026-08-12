@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.120;0.185;0.205;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;230.8;230.8;0;0"
+        keyTimes="0;0.000;0.069;0.143;0.166;1"
+        dur="21.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[feat] Add --include-comments for M2_INSIGHT_CO...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[feat] refine RPC SERVERS</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;247.60000000000002;247.60000000000002;0;0"
-        keyTimes="0;0.205;0.270;0.334;0.354;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;239.20000000000002;239.20000000000002;0;0"
+        keyTimes="0;0.166;0.238;0.312;0.335;1"
+        dur="21.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add Method to Print TZ logs</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[feat] 7 VS Code Extension</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;272.8;272.8;0;0"
-        keyTimes="0;0.354;0.427;0.491;0.511;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;197.20000000000002;197.20000000000002;0;0"
+        keyTimes="0;0.335;0.393;0.467;0.490;1"
+        dur="21.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[FEAT] 新增 PLATFORM in schedule</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[feat] refine more UI</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;180.4;180.4;0;0"
-        keyTimes="0;0.511;0.557;0.621;0.641;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;155.20000000000002;155.20000000000002;0;0"
+        keyTimes="0;0.490;0.535;0.608;0.632;1"
+        dur="21.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[fear] 工作項目檢索 雙語 導入</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[feat] refine UI</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;407.20000000000005;407.20000000000005;0;0"
-        keyTimes="0;0.641;0.752;0.816;0.836;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;306.40000000000003;306.40000000000003;0;0"
+        keyTimes="0;0.632;0.726;0.800;0.823;1"
+        dur="21.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[Work item explorer] 允許ADMIN OVERRIDE PLATFORM</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-git-diff): publish v0.4.2</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;298;298;0;0"
-        keyTimes="0;0.836;0.916;0.980;1.000;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;264.40000000000003;264.40000000000003;0;0"
+        keyTimes="0;0.823;0.903;0.977;1.000;1"
+        dur="21.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add PCIe SSC and PCIe log verbose</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): bump to 0.4.2</text>
     </g>
 </svg>
