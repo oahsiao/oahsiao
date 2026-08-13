@@ -1,95 +1,95 @@
 {
-  "updated": "2026-08-12 12:10 TWN",
+  "updated": "2026-08-13 12:15 TWN",
   "latestChanges": [
     {
-      "date": 1786507151000,
-      "committedDate": "2026-08-12T03:59:11Z",
-      "header": "[feat] refine RPC SERVERS",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/c5d5917edaa221aeefb13522216e916fed89d420",
-      "sha": "c5d5917",
-      "login": "oahsiao"
+      "date": 1786590546000,
+      "committedDate": "2026-08-13T03:09:06Z",
+      "header": "Add multi-limit Customize Distribution comparison",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/77f40d626bd4d54fadcb5bb0db5842426554bc32",
+      "sha": "77f40d6",
+      "login": "Den Teng (PEGATRON CORPORATION)"
     },
     {
-      "date": 1786506519000,
-      "committedDate": "2026-08-12T03:48:39Z",
-      "header": "[feat] 7 VS Code Extension",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/70736f35f46639e1a338a12c14dcf48bb1f93079",
-      "sha": "70736f3",
-      "login": "oahsiao"
+      "date": 1786590545000,
+      "committedDate": "2026-08-13T03:09:05Z",
+      "header": "Auto-detect parsed mtpRename source schema",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/dde9ce067db4db6280acf1ab66ec93fb07dd6916",
+      "sha": "dde9ce0",
+      "login": "Den Teng (PEGATRON CORPORATION)"
     },
     {
-      "date": 1786505762000,
-      "committedDate": "2026-08-12T03:36:02Z",
-      "header": "[feat] refine more UI",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/d7bff740850fbefd022378520252c95b55ad09a7",
-      "sha": "d7bff74",
-      "login": "oahsiao"
+      "date": 1786590545000,
+      "committedDate": "2026-08-13T03:09:05Z",
+      "header": "Add multi-set limit override workbook template",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/33cb3779af76da371afe13233446c32b5ecf2446",
+      "sha": "33cb377",
+      "login": "Den Teng (PEGATRON CORPORATION)"
     },
     {
-      "date": 1786499538000,
-      "committedDate": "2026-08-12T01:52:18Z",
-      "header": "[feat] refine UI",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/576e07efdd5d98de054872e3b74a0a9294cf82f5",
-      "sha": "576e07e",
-      "login": "oahsiao"
+      "date": 1786590544000,
+      "committedDate": "2026-08-13T03:09:04Z",
+      "header": "Integrate multi-set overrides into SpecLimit Patch",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/5e1b16689db193dce033da642f142a0f64af7c8c",
+      "sha": "5e1b166",
+      "login": "Den Teng (PEGATRON CORPORATION)"
     },
     {
-      "date": 1786469352000,
-      "committedDate": "2026-08-11T17:29:12Z",
-      "header": "chore(m2-git-diff): publish v0.4.2",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/8f98f36c52ef0563e43ad741b9417d0dc4f9a0af",
-      "sha": "8f98f36",
-      "login": "oahsiao"
+      "date": 1786590544000,
+      "committedDate": "2026-08-13T03:09:04Z",
+      "header": "Add multi-set limit override workbook support",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/f861abfedad02e9d45b56f31ce19b93027dfc042",
+      "sha": "f861abf",
+      "login": "Den Teng (PEGATRON CORPORATION)"
     },
     {
-      "date": 1786468713000,
-      "committedDate": "2026-08-11T17:18:33Z",
-      "header": "chore(release): bump to 0.4.2",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/eb2417ed29ae4bdf84c495194bdb51b38e62dc79",
-      "sha": "eb2417e",
-      "login": "oahsiao"
+      "date": 1786590543000,
+      "committedDate": "2026-08-13T03:09:03Z",
+      "header": "Detect user-local 7-Zip for encrypted packages",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/35f63618c45d2d9dde3fdb2ac05a42503e0966d0",
+      "sha": "35f6361",
+      "login": "Den Teng (PEGATRON CORPORATION)"
     },
     {
-      "date": 1786465256000,
-      "committedDate": "2026-08-11T16:20:56Z",
-      "header": "chore: add AGENTS.md, CLAUDE.md, and .claude/ skill files",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/a5cf5021c915fcfa8d46f6cfa64ead31e2384d94",
-      "sha": "a5cf502",
-      "login": "oahsiao"
+      "date": 1786590543000,
+      "committedDate": "2026-08-13T03:09:03Z",
+      "header": "Split Distribution HTML into dedicated actions",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/5fb96604c22e3395441a1310a419eff4555414f0",
+      "sha": "5fb9660",
+      "login": "Den Teng (PEGATRON CORPORATION)"
     },
     {
-      "date": 1786464975000,
-      "committedDate": "2026-08-11T16:16:15Z",
-      "header": "chore(deps): bump the npm-minor-and-patch group with 2 updates (#171)",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/224883a426c254b321429b8a1ddd0160980b865d",
-      "sha": "224883a",
-      "login": "dependabot[bot]"
+      "date": 1786590542000,
+      "committedDate": "2026-08-13T03:09:02Z",
+      "header": "Restore Distribution interactive HTML companion output",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/f655dceab0ade91ed12feb1541f35fb26664af27",
+      "sha": "f655dce",
+      "login": "cin0429"
     },
     {
-      "date": 1786457199000,
-      "committedDate": "2026-08-11T14:06:39Z",
-      "header": "chore(m2-apex): publish v0.3.4",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/74972b4da165f7d6a9f5cafde84b9a3ef35a77b3",
-      "sha": "74972b4",
-      "login": "oahsiao"
+      "date": 1786590542000,
+      "committedDate": "2026-08-13T03:09:02Z",
+      "header": "Fix SpecLimit Patch showing no items for new-schema mtpRename CSV(CSV format not JSON format)",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/9c78eec14a76c293e9b1b6f9ff34236d5416ebb3",
+      "sha": "9c78eec",
+      "login": "cin0429"
     },
     {
-      "date": 1786456927000,
-      "committedDate": "2026-08-11T14:02:07Z",
-      "header": "chore: bump version to 0.3.4 in project file",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/efe37a6319be2f0801d1639aa2f70b055b4099a1",
-      "sha": "efe37a6",
-      "login": "oahsiao"
+      "date": 1786590542000,
+      "committedDate": "2026-08-13T03:09:02Z",
+      "header": "Add Highest Complete Structure Mode",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/aeab01184a0689d0ca5bf509108f5e0d1dcdda12",
+      "sha": "aeab011",
+      "login": "cin0429"
     }
   ]
 }
