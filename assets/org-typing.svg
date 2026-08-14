@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;432.40000000000003;432.40000000000003;0;0"
-        keyTimes="0;0.000;0.100;0.155;0.172;1"
-        dur="29.3s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.000;0.113;0.174;0.193;1"
+        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add multi-limit Customize Distribution comparison</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Cross-link QC docs and add debug print level bi...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;373.6;373.6;0;0"
-        keyTimes="0;0.172;0.258;0.313;0.330;1"
-        dur="29.3s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;398.8;398.8;0;0"
+        keyTimes="0;0.193;0.295;0.355;0.374;1"
+        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Auto-detect parsed mtpRename source schema</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update MSAGUI_v12 exe and delete previous exe</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;407.20000000000005;407.20000000000005;0;0"
-        keyTimes="0;0.330;0.424;0.479;0.496;1"
-        dur="29.3s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.374;0.488;0.548;0.567;1"
+        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add multi-set limit override workbook template</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update MSAGUI_Tool_Technical_Reference_Rev_2026...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.496;0.598;0.653;0.670;1"
-        dur="29.3s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;214;214;0;0"
+        keyTimes="0;0.567;0.619;0.680;0.698;1"
+        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Integrate multi-set overrides into SpecLimit Patch</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[OPENCODE] Qwen3.5-397B</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;398.8;398.8;0;0"
-        keyTimes="0;0.670;0.762;0.817;0.834;1"
-        dur="29.3s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;281.2;281.2;0;0"
+        keyTimes="0;0.698;0.769;0.829;0.848;1"
+        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add multi-set limit override workbook support</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update info for TZ log printing</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;407.20000000000005;407.20000000000005;0;0"
-        keyTimes="0;0.834;0.928;0.983;1.000;1"
-        dur="29.3s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;289.6;289.6;0;0"
+        keyTimes="0;0.848;0.921;0.981;1.000;1"
+        dur="26.5s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Detect user-local 7-Zip for encrypted packages</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-prompt): publish v0.2.2</text>
     </g>
 </svg>
