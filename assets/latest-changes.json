@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-14 12:11 TWN",
+  "updated": "2026-08-15 10:54 TWN",
   "latestChanges": [
+    {
+      "date": 1786734128000,
+      "committedDate": "2026-08-14T19:02:08Z",
+      "header": "update ANDROID_APP/README.md",
+      "repo": "M2_ARTBANK",
+      "url": "https://github.com/M2Station/M2_ARTBANK/commit/aa59ed57116e855c1f46d739bf1fcc76540e0f89",
+      "sha": "aa59ed5",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1786733469000,
+      "committedDate": "2026-08-14T18:51:09Z",
+      "header": "feat(android): add M2 ArtBank Android app (new item + multi-photo cap… (#19)",
+      "repo": "M2_ARTBANK",
+      "url": "https://github.com/M2Station/M2_ARTBANK/commit/96bbeef8af32e6b8e317bd49acf17341bbd85690",
+      "sha": "96bbeef",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1786733061000,
+      "committedDate": "2026-08-14T18:44:21Z",
+      "header": "fix(thumbs): apply EXIF orientation before generating thumbnails",
+      "repo": "M2_ARTBANK",
+      "url": "https://github.com/M2Station/M2_ARTBANK/commit/e2895c83b9cb927a7798029625c930be034b7e0f",
+      "sha": "e2895c8",
+      "login": "claude"
+    },
+    {
+      "date": 1786681263000,
+      "committedDate": "2026-08-14T04:21:03Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/f97c3b335dcd51599c99a6e1109dee4a3617d730",
+      "sha": "f97c3b3",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1786607730000,
       "committedDate": "2026-08-13T07:55:30Z",
@@ -54,42 +90,6 @@
       "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2c6fa3b7691d759940f2c75c8257104da7dfd9fb",
       "sha": "2c6fa3b",
       "login": "oahsiao"
-    },
-    {
-      "date": 1786602338000,
-      "committedDate": "2026-08-13T06:25:38Z",
-      "header": "chore(release): bump version to 0.2.2 (#16)",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/a5069be0f58affdaf00285d98c711ed9986b848a",
-      "sha": "a5069be",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1786602146000,
-      "committedDate": "2026-08-13T06:22:26Z",
-      "header": "Update info about APDP and DPP repo",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/5d327aaae4fe00469c41b4b509bcfc78c231c95f",
-      "sha": "5d327aa",
-      "login": "Sam6Su"
-    },
-    {
-      "date": 1786599414000,
-      "committedDate": "2026-08-13T05:36:54Z",
-      "header": "chore(m2-apex): publish v0.3.5",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/caff1a292200a4f5068bd3ff7d3008a3dfbecba5",
-      "sha": "caff1a2",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1786599133000,
-      "committedDate": "2026-08-13T05:32:13Z",
-      "header": "chore: bump version to 0.3.5 in project file (#113)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/6a0eda27f421bd294e0ee99ec5d1128308a7b6c7",
-      "sha": "6a0eda2",
-      "login": "erickuo1111"
     }
   ]
 }

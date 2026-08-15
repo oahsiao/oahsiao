@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@51371ca`](https://github.com/M2Station/M2_WIKI/commit/51371ca93b7fc7c238eb827302002278a2d06fac) — Cross-link QC docs and add debug print level bit reference · `2026-08-13` · Sam6Su
-02. [`M2_MSAGUI@acaeade`](https://github.com/M2Station/M2_MSAGUI/commit/acaeade069d32591bfc4a883f36224b8f8afeffa) — Update MSAGUI_v12 exe and delete previous exe · `2026-08-13` · cin0429
-03. [`M2_MSAGUI@a702e93`](https://github.com/M2Station/M2_MSAGUI/commit/a702e933e68f52553dd8380d92e4a53f34b9c0e0) — Update MSAGUI_Tool_Technical_Reference_Rev_2026_0813 for ... · `2026-08-13` · cin0429
-04. [`M2_WIKI@47fe923`](https://github.com/M2Station/M2_WIKI/commit/47fe9237f03ebd1bbd758d9acef91d17a55f3675) — [OPENCODE] Qwen3.5-397B · `2026-08-13` · OA Hsiao
-05. [`M2_WIKI@ae900d5`](https://github.com/M2Station/M2_WIKI/commit/ae900d5ad2adb5084f90c9b68c990134a8100507) — Update info for TZ log printing · `2026-08-13` · Sam6Su
-06. [`M2_PUBLIC_RELEASE@2c6fa3b`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2c6fa3b7691d759940f2c75c8257104da7dfd9fb) — chore(m2-prompt): publish v0.2.2 · `2026-08-13` · oahsiao
-07. [`M2_PROMPT@a5069be`](https://github.com/M2Station/M2_PROMPT/commit/a5069be0f58affdaf00285d98c711ed9986b848a) — chore(release): bump version to 0.2.2 (#16) · `2026-08-13` · oahsiao
-08. [`M2_WIKI@5d327aa`](https://github.com/M2Station/M2_WIKI/commit/5d327aaae4fe00469c41b4b509bcfc78c231c95f) — Update info about APDP and DPP repo · `2026-08-13` · Sam6Su
-09. [`M2_PUBLIC_RELEASE@caff1a2`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/caff1a292200a4f5068bd3ff7d3008a3dfbecba5) — chore(m2-apex): publish v0.3.5 · `2026-08-13` · oahsiao
-10. [`M2_APEX@6a0eda2`](https://github.com/M2Station/M2_APEX/commit/6a0eda27f421bd294e0ee99ec5d1128308a7b6c7) — chore: bump version to 0.3.5 in project file (#113) · `2026-08-13` · erickuo1111
+01. [`M2_ARTBANK@aa59ed5`](https://github.com/M2Station/M2_ARTBANK/commit/aa59ed57116e855c1f46d739bf1fcc76540e0f89) — update ANDROID_APP/README.md · `2026-08-14` · oahsiao
+02. [`M2_ARTBANK@96bbeef`](https://github.com/M2Station/M2_ARTBANK/commit/96bbeef8af32e6b8e317bd49acf17341bbd85690) — feat(android): add M2 ArtBank Android app (new item + mul... · `2026-08-14` · oahsiao
+03. [`M2_ARTBANK@e2895c8`](https://github.com/M2Station/M2_ARTBANK/commit/e2895c83b9cb927a7798029625c930be034b7e0f) — fix(thumbs): apply EXIF orientation before generating thu... · `2026-08-14` · claude
+04. [`.github@f97c3b3`](https://github.com/M2Station/.github/commit/f97c3b335dcd51599c99a6e1109dee4a3617d730) — chore: sync latest changes [skip ci] · `2026-08-14` · github-actions[bot]
+05. [`M2_WIKI@51371ca`](https://github.com/M2Station/M2_WIKI/commit/51371ca93b7fc7c238eb827302002278a2d06fac) — Cross-link QC docs and add debug print level bit reference · `2026-08-13` · Sam6Su
+06. [`M2_MSAGUI@acaeade`](https://github.com/M2Station/M2_MSAGUI/commit/acaeade069d32591bfc4a883f36224b8f8afeffa) — Update MSAGUI_v12 exe and delete previous exe · `2026-08-13` · cin0429
+07. [`M2_MSAGUI@a702e93`](https://github.com/M2Station/M2_MSAGUI/commit/a702e933e68f52553dd8380d92e4a53f34b9c0e0) — Update MSAGUI_Tool_Technical_Reference_Rev_2026_0813 for ... · `2026-08-13` · cin0429
+08. [`M2_WIKI@47fe923`](https://github.com/M2Station/M2_WIKI/commit/47fe9237f03ebd1bbd758d9acef91d17a55f3675) — [OPENCODE] Qwen3.5-397B · `2026-08-13` · OA Hsiao
+09. [`M2_WIKI@ae900d5`](https://github.com/M2Station/M2_WIKI/commit/ae900d5ad2adb5084f90c9b68c990134a8100507) — Update info for TZ log printing · `2026-08-13` · Sam6Su
+10. [`M2_PUBLIC_RELEASE@2c6fa3b`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2c6fa3b7691d759940f2c75c8257104da7dfd9fb) — chore(m2-prompt): publish v0.2.2 · `2026-08-13` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
