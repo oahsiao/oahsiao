@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`.github@3b95ebc`](https://github.com/M2Station/.github/commit/3b95ebcb6f16028b894303902f478a93d21f3836) — chore: sync latest changes [skip ci] · `2026-08-15` · github-actions[bot]
-02. [`M2_ARTBANK@aa59ed5`](https://github.com/M2Station/M2_ARTBANK/commit/aa59ed57116e855c1f46d739bf1fcc76540e0f89) — update ANDROID_APP/README.md · `2026-08-14` · oahsiao
-03. [`M2_ARTBANK@96bbeef`](https://github.com/M2Station/M2_ARTBANK/commit/96bbeef8af32e6b8e317bd49acf17341bbd85690) — feat(android): add M2 ArtBank Android app (new item + mul... · `2026-08-14` · oahsiao
-04. [`M2_ARTBANK@e2895c8`](https://github.com/M2Station/M2_ARTBANK/commit/e2895c83b9cb927a7798029625c930be034b7e0f) — fix(thumbs): apply EXIF orientation before generating thu... · `2026-08-14` · claude
-05. [`.github@f97c3b3`](https://github.com/M2Station/.github/commit/f97c3b335dcd51599c99a6e1109dee4a3617d730) — chore: sync latest changes [skip ci] · `2026-08-14` · github-actions[bot]
-06. [`M2_WIKI@51371ca`](https://github.com/M2Station/M2_WIKI/commit/51371ca93b7fc7c238eb827302002278a2d06fac) — Cross-link QC docs and add debug print level bit reference · `2026-08-13` · Sam6Su
-07. [`M2_MSAGUI@acaeade`](https://github.com/M2Station/M2_MSAGUI/commit/acaeade069d32591bfc4a883f36224b8f8afeffa) — Update MSAGUI_v12 exe and delete previous exe · `2026-08-13` · cin0429
-08. [`M2_MSAGUI@a702e93`](https://github.com/M2Station/M2_MSAGUI/commit/a702e933e68f52553dd8380d92e4a53f34b9c0e0) — Update MSAGUI_Tool_Technical_Reference_Rev_2026_0813 for ... · `2026-08-13` · cin0429
-09. [`M2_WIKI@47fe923`](https://github.com/M2Station/M2_WIKI/commit/47fe9237f03ebd1bbd758d9acef91d17a55f3675) — [OPENCODE] Qwen3.5-397B · `2026-08-13` · OA Hsiao
-10. [`M2_WIKI@ae900d5`](https://github.com/M2Station/M2_WIKI/commit/ae900d5ad2adb5084f90c9b68c990134a8100507) — Update info for TZ log printing · `2026-08-13` · Sam6Su
+01. [`M2_APEX@1db9432`](https://github.com/M2Station/M2_APEX/commit/1db9432783bc6c77ce31f1a6b162f5ea3a44f8d0) — feat(settings): add checkbox toggle for GitHub Copilot AI... · `2026-08-17` · oahsiao
+02. [`M2_GIT_DIFF@204e721`](https://github.com/M2Station/M2_GIT_DIFF/commit/204e7211ac1b69961ba8df9455a07605935bf7e8) — chore(dev-deps): bump @napi-rs/canvas in the npm-minor-an... · `2026-08-17` · dependabot[bot]
+03. [`M2_GIT_DIFF@64967d2`](https://github.com/M2Station/M2_GIT_DIFF/commit/64967d23bcb99a21853f19c58b9fd6ebeb4b9676) — chore(dev-deps): bump electron in the electron group · `2026-08-17` · dependabot[bot]
+04. [`M2_GIT_DIFF@3b54164`](https://github.com/M2Station/M2_GIT_DIFF/commit/3b541644b40919ab81361a463615e040a48d60e8) — chore(dev-deps): bump vite in the vite-vitest-toolchain g... · `2026-08-17` · dependabot[bot]
+05. [`.github@c0f6961`](https://github.com/M2Station/.github/commit/c0f69619e859fa5d6b722c7c2c3554f83d15a463) — chore: sync latest changes [skip ci] · `2026-08-16` · github-actions[bot]
+06. [`.github@3b95ebc`](https://github.com/M2Station/.github/commit/3b95ebcb6f16028b894303902f478a93d21f3836) — chore: sync latest changes [skip ci] · `2026-08-15` · github-actions[bot]
+07. [`M2_ARTBANK@aa59ed5`](https://github.com/M2Station/M2_ARTBANK/commit/aa59ed57116e855c1f46d739bf1fcc76540e0f89) — update ANDROID_APP/README.md · `2026-08-14` · oahsiao
+08. [`M2_ARTBANK@96bbeef`](https://github.com/M2Station/M2_ARTBANK/commit/96bbeef8af32e6b8e317bd49acf17341bbd85690) — feat(android): add M2 ArtBank Android app (new item + mul... · `2026-08-14` · oahsiao
+09. [`M2_ARTBANK@e2895c8`](https://github.com/M2Station/M2_ARTBANK/commit/e2895c83b9cb927a7798029625c930be034b7e0f) — fix(thumbs): apply EXIF orientation before generating thu... · `2026-08-14` · claude
+10. [`.github@f97c3b3`](https://github.com/M2Station/.github/commit/f97c3b335dcd51599c99a6e1109dee4a3617d730) — chore: sync latest changes [skip ci] · `2026-08-14` · github-actions[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---
