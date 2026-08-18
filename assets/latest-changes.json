@@ -1,95 +1,95 @@
 {
-  "updated": "2026-08-17 11:02 TWN",
+  "updated": "2026-08-18 10:58 TWN",
   "latestChanges": [
     {
-      "date": 1786931989000,
-      "committedDate": "2026-08-17T01:59:49Z",
-      "header": "feat(settings): add checkbox toggle for GitHub Copilot AI credit check (#114)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/1db9432783bc6c77ce31f1a6b162f5ea3a44f8d0",
-      "sha": "1db9432",
+      "date": 1786965620000,
+      "committedDate": "2026-08-17T11:20:20Z",
+      "header": "Add study note for Boot Time measurements",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/cf43a10385fa87b292f6c2738ccb51b63aac4525",
+      "sha": "cf43a10",
+      "login": "Sam6Su"
+    },
+    {
+      "date": 1786965264000,
+      "committedDate": "2026-08-17T11:14:24Z",
+      "header": "chore(m2-prompt): publish v0.4.1",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6ba41659e43ab1d2b4c4dcaa4ccaa58d2b34ce34",
+      "sha": "6ba4165",
       "login": "oahsiao"
     },
     {
-      "date": 1786929087000,
-      "committedDate": "2026-08-17T01:11:27Z",
-      "header": "chore(dev-deps): bump @napi-rs/canvas in the npm-minor-and-patch group",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/204e7211ac1b69961ba8df9455a07605935bf7e8",
-      "sha": "204e721",
-      "login": "dependabot[bot]"
+      "date": 1786964617000,
+      "committedDate": "2026-08-17T11:03:37Z",
+      "header": "chore(release): bump version to 0.4.1 (hotfix for silent in-app updates)",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/f21e3b325838ac5a4a680f1f84cbd19580be5b04",
+      "sha": "f21e3b3",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1786929071000,
-      "committedDate": "2026-08-17T01:11:11Z",
-      "header": "chore(dev-deps): bump electron in the electron group",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/64967d23bcb99a21853f19c58b9fd6ebeb4b9676",
-      "sha": "64967d2",
-      "login": "dependabot[bot]"
+      "date": 1786964598000,
+      "committedDate": "2026-08-17T11:03:18Z",
+      "header": "fix(updater): add silent install parameters for in-app updates",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/5e7fbb97787840d9039f424d752c283c545816b1",
+      "sha": "5e7fbb9",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1786929053000,
-      "committedDate": "2026-08-17T01:10:53Z",
-      "header": "chore(dev-deps): bump vite in the vite-vitest-toolchain group",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/3b541644b40919ab81361a463615e040a48d60e8",
-      "sha": "3b54164",
-      "login": "dependabot[bot]"
+      "date": 1786964295000,
+      "committedDate": "2026-08-17T10:58:15Z",
+      "header": "docs: add silent installation guide with parameter reference",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/83cc527bbf1e01a352355697ec9ad4d9a690188b",
+      "sha": "83cc527",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1786850769000,
-      "committedDate": "2026-08-16T03:26:09Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/c0f69619e859fa5d6b722c7c2c3554f83d15a463",
-      "sha": "c0f6961",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1786763442000,
-      "committedDate": "2026-08-15T03:10:42Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/3b95ebcb6f16028b894303902f478a93d21f3836",
-      "sha": "3b95ebc",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1786734128000,
-      "committedDate": "2026-08-14T19:02:08Z",
-      "header": "update ANDROID_APP/README.md",
-      "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/aa59ed57116e855c1f46d739bf1fcc76540e0f89",
-      "sha": "aa59ed5",
+      "date": 1786958065000,
+      "committedDate": "2026-08-17T09:14:25Z",
+      "header": "chore(m2-prompt): publish v0.4.0",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/ec5d93abf3ca1e9014fe895b1583236743d35698",
+      "sha": "ec5d93a",
       "login": "oahsiao"
     },
     {
-      "date": 1786733469000,
-      "committedDate": "2026-08-14T18:51:09Z",
-      "header": "feat(android): add M2 ArtBank Android app (new item + multi-photo cap… (#19)",
-      "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/96bbeef8af32e6b8e317bd49acf17341bbd85690",
-      "sha": "96bbeef",
+      "date": 1786957394000,
+      "committedDate": "2026-08-17T09:03:14Z",
+      "header": "chore(release): bump version to 0.4.0",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/bb4482a6cdcb97ba265a6d680b805bfe624f44f3",
+      "sha": "bb4482a",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1786957353000,
+      "committedDate": "2026-08-17T09:02:33Z",
+      "header": "feat(local-ai): add Ctrl+Z undo support for command override with enhanced formatting (#17)",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/d0c2599cf10df423475569b61ec453ffbd7ed3b1",
+      "sha": "d0c2599",
       "login": "oahsiao"
     },
     {
-      "date": 1786733061000,
-      "committedDate": "2026-08-14T18:44:21Z",
-      "header": "fix(thumbs): apply EXIF orientation before generating thumbnails",
-      "repo": "M2_ARTBANK",
-      "url": "https://github.com/M2Station/M2_ARTBANK/commit/e2895c83b9cb927a7798029625c930be034b7e0f",
-      "sha": "e2895c8",
-      "login": "claude"
+      "date": 1786956873000,
+      "committedDate": "2026-08-17T08:54:33Z",
+      "header": "build: compile TypeScript changes for Ctrl+Z undo and format features",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/baea82343fd2ac1b08f4d5829333be2a68a91254",
+      "sha": "baea823",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1786681263000,
-      "committedDate": "2026-08-14T04:21:03Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/f97c3b335dcd51599c99a6e1109dee4a3617d730",
-      "sha": "f97c3b3",
-      "login": "github-actions[bot]"
+      "date": 1786956851000,
+      "committedDate": "2026-08-17T08:54:11Z",
+      "header": "feat(local-ai): add Ctrl+Z undo support for command override with enhanced formatting",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/49d93a15ff2f9b5b482912c1cb078a211514694f",
+      "sha": "49d93a1",
+      "login": "OA Hsiao"
     }
   ]
 }

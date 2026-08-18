@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@1db9432`](https://github.com/M2Station/M2_APEX/commit/1db9432783bc6c77ce31f1a6b162f5ea3a44f8d0) — feat(settings): add checkbox toggle for GitHub Copilot AI... · `2026-08-17` · oahsiao
-02. [`M2_GIT_DIFF@204e721`](https://github.com/M2Station/M2_GIT_DIFF/commit/204e7211ac1b69961ba8df9455a07605935bf7e8) — chore(dev-deps): bump @napi-rs/canvas in the npm-minor-an... · `2026-08-17` · dependabot[bot]
-03. [`M2_GIT_DIFF@64967d2`](https://github.com/M2Station/M2_GIT_DIFF/commit/64967d23bcb99a21853f19c58b9fd6ebeb4b9676) — chore(dev-deps): bump electron in the electron group · `2026-08-17` · dependabot[bot]
-04. [`M2_GIT_DIFF@3b54164`](https://github.com/M2Station/M2_GIT_DIFF/commit/3b541644b40919ab81361a463615e040a48d60e8) — chore(dev-deps): bump vite in the vite-vitest-toolchain g... · `2026-08-17` · dependabot[bot]
-05. [`.github@c0f6961`](https://github.com/M2Station/.github/commit/c0f69619e859fa5d6b722c7c2c3554f83d15a463) — chore: sync latest changes [skip ci] · `2026-08-16` · github-actions[bot]
-06. [`.github@3b95ebc`](https://github.com/M2Station/.github/commit/3b95ebcb6f16028b894303902f478a93d21f3836) — chore: sync latest changes [skip ci] · `2026-08-15` · github-actions[bot]
-07. [`M2_ARTBANK@aa59ed5`](https://github.com/M2Station/M2_ARTBANK/commit/aa59ed57116e855c1f46d739bf1fcc76540e0f89) — update ANDROID_APP/README.md · `2026-08-14` · oahsiao
-08. [`M2_ARTBANK@96bbeef`](https://github.com/M2Station/M2_ARTBANK/commit/96bbeef8af32e6b8e317bd49acf17341bbd85690) — feat(android): add M2 ArtBank Android app (new item + mul... · `2026-08-14` · oahsiao
-09. [`M2_ARTBANK@e2895c8`](https://github.com/M2Station/M2_ARTBANK/commit/e2895c83b9cb927a7798029625c930be034b7e0f) — fix(thumbs): apply EXIF orientation before generating thu... · `2026-08-14` · claude
-10. [`.github@f97c3b3`](https://github.com/M2Station/.github/commit/f97c3b335dcd51599c99a6e1109dee4a3617d730) — chore: sync latest changes [skip ci] · `2026-08-14` · github-actions[bot]
+01. [`M2_WIKI@cf43a10`](https://github.com/M2Station/M2_WIKI/commit/cf43a10385fa87b292f6c2738ccb51b63aac4525) — Add study note for Boot Time measurements · `2026-08-17` · Sam6Su
+02. [`M2_PUBLIC_RELEASE@6ba4165`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6ba41659e43ab1d2b4c4dcaa4ccaa58d2b34ce34) — chore(m2-prompt): publish v0.4.1 · `2026-08-17` · oahsiao
+03. [`M2_PROMPT@f21e3b3`](https://github.com/M2Station/M2_PROMPT/commit/f21e3b325838ac5a4a680f1f84cbd19580be5b04) — chore(release): bump version to 0.4.1 (hotfix for silent ... · `2026-08-17` · OA Hsiao
+04. [`M2_PROMPT@5e7fbb9`](https://github.com/M2Station/M2_PROMPT/commit/5e7fbb97787840d9039f424d752c283c545816b1) — fix(updater): add silent install parameters for in-app up... · `2026-08-17` · OA Hsiao
+05. [`M2_PROMPT@83cc527`](https://github.com/M2Station/M2_PROMPT/commit/83cc527bbf1e01a352355697ec9ad4d9a690188b) — docs: add silent installation guide with parameter reference · `2026-08-17` · OA Hsiao
+06. [`M2_PUBLIC_RELEASE@ec5d93a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/ec5d93abf3ca1e9014fe895b1583236743d35698) — chore(m2-prompt): publish v0.4.0 · `2026-08-17` · oahsiao
+07. [`M2_PROMPT@bb4482a`](https://github.com/M2Station/M2_PROMPT/commit/bb4482a6cdcb97ba265a6d680b805bfe624f44f3) — chore(release): bump version to 0.4.0 · `2026-08-17` · OA Hsiao
+08. [`M2_PROMPT@d0c2599`](https://github.com/M2Station/M2_PROMPT/commit/d0c2599cf10df423475569b61ec453ffbd7ed3b1) — feat(local-ai): add Ctrl+Z undo support for command overr... · `2026-08-17` · oahsiao
+09. [`M2_PROMPT@baea823`](https://github.com/M2Station/M2_PROMPT/commit/baea82343fd2ac1b08f4d5829333be2a68a91254) — build: compile TypeScript changes for Ctrl+Z undo and for... · `2026-08-17` · OA Hsiao
+10. [`M2_PROMPT@49d93a1`](https://github.com/M2Station/M2_PROMPT/commit/49d93a15ff2f9b5b482912c1cb078a211514694f) — feat(local-ai): add Ctrl+Z undo support for command overr... · `2026-08-17` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
