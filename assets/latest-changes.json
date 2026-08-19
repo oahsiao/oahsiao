@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-18 10:58 TWN",
+  "updated": "2026-08-19 11:00 TWN",
   "latestChanges": [
+    {
+      "date": 1787043984000,
+      "committedDate": "2026-08-18T09:06:24Z",
+      "header": "Add Roslin (3621_RON) and Mishawaka (3505_MIA) project entries",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/91f96ee3d481e6e2ae74447d9b9593b7114d5851",
+      "sha": "91f96ee",
+      "login": "Andy Sung"
+    },
+    {
+      "date": 1787023282000,
+      "committedDate": "2026-08-18T03:21:22Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/37d784654cdf5c0f9bd102ed261f3fcb4abbecfe",
+      "sha": "37d7846",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1786965620000,
       "committedDate": "2026-08-17T11:20:20Z",
@@ -72,24 +90,6 @@
       "url": "https://github.com/M2Station/M2_PROMPT/commit/d0c2599cf10df423475569b61ec453ffbd7ed3b1",
       "sha": "d0c2599",
       "login": "oahsiao"
-    },
-    {
-      "date": 1786956873000,
-      "committedDate": "2026-08-17T08:54:33Z",
-      "header": "build: compile TypeScript changes for Ctrl+Z undo and format features",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/baea82343fd2ac1b08f4d5829333be2a68a91254",
-      "sha": "baea823",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1786956851000,
-      "committedDate": "2026-08-17T08:54:11Z",
-      "header": "feat(local-ai): add Ctrl+Z undo support for command override with enhanced formatting",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/49d93a15ff2f9b5b482912c1cb078a211514694f",
-      "sha": "49d93a1",
-      "login": "OA Hsiao"
     }
   ]
 }

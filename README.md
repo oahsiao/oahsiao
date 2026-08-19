@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@cf43a10`](https://github.com/M2Station/M2_WIKI/commit/cf43a10385fa87b292f6c2738ccb51b63aac4525) — Add study note for Boot Time measurements · `2026-08-17` · Sam6Su
-02. [`M2_PUBLIC_RELEASE@6ba4165`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6ba41659e43ab1d2b4c4dcaa4ccaa58d2b34ce34) — chore(m2-prompt): publish v0.4.1 · `2026-08-17` · oahsiao
-03. [`M2_PROMPT@f21e3b3`](https://github.com/M2Station/M2_PROMPT/commit/f21e3b325838ac5a4a680f1f84cbd19580be5b04) — chore(release): bump version to 0.4.1 (hotfix for silent ... · `2026-08-17` · OA Hsiao
-04. [`M2_PROMPT@5e7fbb9`](https://github.com/M2Station/M2_PROMPT/commit/5e7fbb97787840d9039f424d752c283c545816b1) — fix(updater): add silent install parameters for in-app up... · `2026-08-17` · OA Hsiao
-05. [`M2_PROMPT@83cc527`](https://github.com/M2Station/M2_PROMPT/commit/83cc527bbf1e01a352355697ec9ad4d9a690188b) — docs: add silent installation guide with parameter reference · `2026-08-17` · OA Hsiao
-06. [`M2_PUBLIC_RELEASE@ec5d93a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/ec5d93abf3ca1e9014fe895b1583236743d35698) — chore(m2-prompt): publish v0.4.0 · `2026-08-17` · oahsiao
-07. [`M2_PROMPT@bb4482a`](https://github.com/M2Station/M2_PROMPT/commit/bb4482a6cdcb97ba265a6d680b805bfe624f44f3) — chore(release): bump version to 0.4.0 · `2026-08-17` · OA Hsiao
-08. [`M2_PROMPT@d0c2599`](https://github.com/M2Station/M2_PROMPT/commit/d0c2599cf10df423475569b61ec453ffbd7ed3b1) — feat(local-ai): add Ctrl+Z undo support for command overr... · `2026-08-17` · oahsiao
-09. [`M2_PROMPT@baea823`](https://github.com/M2Station/M2_PROMPT/commit/baea82343fd2ac1b08f4d5829333be2a68a91254) — build: compile TypeScript changes for Ctrl+Z undo and for... · `2026-08-17` · OA Hsiao
-10. [`M2_PROMPT@49d93a1`](https://github.com/M2Station/M2_PROMPT/commit/49d93a15ff2f9b5b482912c1cb078a211514694f) — feat(local-ai): add Ctrl+Z undo support for command overr... · `2026-08-17` · OA Hsiao
+01. [`M2_WIKI@91f96ee`](https://github.com/M2Station/M2_WIKI/commit/91f96ee3d481e6e2ae74447d9b9593b7114d5851) — Add Roslin (3621_RON) and Mishawaka (3505_MIA) project en... · `2026-08-18` · Andy Sung
+02. [`.github@37d7846`](https://github.com/M2Station/.github/commit/37d784654cdf5c0f9bd102ed261f3fcb4abbecfe) — chore: sync latest changes [skip ci] · `2026-08-18` · github-actions[bot]
+03. [`M2_WIKI@cf43a10`](https://github.com/M2Station/M2_WIKI/commit/cf43a10385fa87b292f6c2738ccb51b63aac4525) — Add study note for Boot Time measurements · `2026-08-17` · Sam6Su
+04. [`M2_PUBLIC_RELEASE@6ba4165`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6ba41659e43ab1d2b4c4dcaa4ccaa58d2b34ce34) — chore(m2-prompt): publish v0.4.1 · `2026-08-17` · oahsiao
+05. [`M2_PROMPT@f21e3b3`](https://github.com/M2Station/M2_PROMPT/commit/f21e3b325838ac5a4a680f1f84cbd19580be5b04) — chore(release): bump version to 0.4.1 (hotfix for silent ... · `2026-08-17` · OA Hsiao
+06. [`M2_PROMPT@5e7fbb9`](https://github.com/M2Station/M2_PROMPT/commit/5e7fbb97787840d9039f424d752c283c545816b1) — fix(updater): add silent install parameters for in-app up... · `2026-08-17` · OA Hsiao
+07. [`M2_PROMPT@83cc527`](https://github.com/M2Station/M2_PROMPT/commit/83cc527bbf1e01a352355697ec9ad4d9a690188b) — docs: add silent installation guide with parameter reference · `2026-08-17` · OA Hsiao
+08. [`M2_PUBLIC_RELEASE@ec5d93a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/ec5d93abf3ca1e9014fe895b1583236743d35698) — chore(m2-prompt): publish v0.4.0 · `2026-08-17` · oahsiao
+09. [`M2_PROMPT@bb4482a`](https://github.com/M2Station/M2_PROMPT/commit/bb4482a6cdcb97ba265a6d680b805bfe624f44f3) — chore(release): bump version to 0.4.0 · `2026-08-17` · OA Hsiao
+10. [`M2_PROMPT@d0c2599`](https://github.com/M2Station/M2_PROMPT/commit/d0c2599cf10df423475569b61ec453ffbd7ed3b1) — feat(local-ai): add Ctrl+Z undo support for command overr... · `2026-08-17` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
