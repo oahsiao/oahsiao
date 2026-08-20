@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@91f96ee`](https://github.com/M2Station/M2_WIKI/commit/91f96ee3d481e6e2ae74447d9b9593b7114d5851) — Add Roslin (3621_RON) and Mishawaka (3505_MIA) project en... · `2026-08-18` · Andy Sung
-02. [`.github@37d7846`](https://github.com/M2Station/.github/commit/37d784654cdf5c0f9bd102ed261f3fcb4abbecfe) — chore: sync latest changes [skip ci] · `2026-08-18` · github-actions[bot]
-03. [`M2_WIKI@cf43a10`](https://github.com/M2Station/M2_WIKI/commit/cf43a10385fa87b292f6c2738ccb51b63aac4525) — Add study note for Boot Time measurements · `2026-08-17` · Sam6Su
-04. [`M2_PUBLIC_RELEASE@6ba4165`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6ba41659e43ab1d2b4c4dcaa4ccaa58d2b34ce34) — chore(m2-prompt): publish v0.4.1 · `2026-08-17` · oahsiao
-05. [`M2_PROMPT@f21e3b3`](https://github.com/M2Station/M2_PROMPT/commit/f21e3b325838ac5a4a680f1f84cbd19580be5b04) — chore(release): bump version to 0.4.1 (hotfix for silent ... · `2026-08-17` · OA Hsiao
-06. [`M2_PROMPT@5e7fbb9`](https://github.com/M2Station/M2_PROMPT/commit/5e7fbb97787840d9039f424d752c283c545816b1) — fix(updater): add silent install parameters for in-app up... · `2026-08-17` · OA Hsiao
-07. [`M2_PROMPT@83cc527`](https://github.com/M2Station/M2_PROMPT/commit/83cc527bbf1e01a352355697ec9ad4d9a690188b) — docs: add silent installation guide with parameter reference · `2026-08-17` · OA Hsiao
-08. [`M2_PUBLIC_RELEASE@ec5d93a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/ec5d93abf3ca1e9014fe895b1583236743d35698) — chore(m2-prompt): publish v0.4.0 · `2026-08-17` · oahsiao
-09. [`M2_PROMPT@bb4482a`](https://github.com/M2Station/M2_PROMPT/commit/bb4482a6cdcb97ba265a6d680b805bfe624f44f3) — chore(release): bump version to 0.4.0 · `2026-08-17` · OA Hsiao
-10. [`M2_PROMPT@d0c2599`](https://github.com/M2Station/M2_PROMPT/commit/d0c2599cf10df423475569b61ec453ffbd7ed3b1) — feat(local-ai): add Ctrl+Z undo support for command overr... · `2026-08-17` · oahsiao
+01. [`M2_APEX@638aef2`](https://github.com/M2Station/M2_APEX/commit/638aef233cd28061de320d017b9448b99f11578e) — chore(hotkey): log the watchdog state behind a silent dou... · `2026-08-19` · OA Hsiao
+02. [`M2_MSAGUI@610fa28`](https://github.com/M2Station/M2_MSAGUI/commit/610fa28bee6fff3e1f8bcc0f8ec34af1f1f539c3) — Update MSAGUI_v13 exe and delete previous exe · `2026-08-19` · cin0429
+03. [`M2_MSAGUI@9d64154`](https://github.com/M2Station/M2_MSAGUI/commit/9d641548ebe6f7a42b33637f98a557059f5871ce) — Update MSAGUI_Tool_Technical_Reference_Rev_2026_0819 for ... · `2026-08-19` · cin0429
+04. [`M2_PUBLIC_RELEASE@77472af`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/77472af3e199d93bc35b0cb8aea92e367589eac3) — chore(m2-apex): publish v0.4.0 · `2026-08-19` · oahsiao
+05. [`M2_APEX@65dcaec`](https://github.com/M2Station/M2_APEX/commit/65dcaec16a7140b95b5d5234a8215702aa96f9e8) — chore(release): bump version to 0.4.0 (#119) · `2026-08-19` · oahsiao
+06. [`M2_APEX@102708a`](https://github.com/M2Station/M2_APEX/commit/102708aefc463418764b6d2dd2e3faf6f3507acf) — [Fix] Fix Tweaks Category function · `2026-08-19` · OA Hsiao
+07. [`M2_MSAGUI@048f8be`](https://github.com/M2Station/M2_MSAGUI/commit/048f8be4b0fb2ad6151d31dbcbe868a0a5337897) — Update release note for MSAGUI v13 change list · `2026-08-19` · cin0429
+08. [`M2_PUBLIC_RELEASE@bb94fcd`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/bb94fcd36ad4c93ca1a2e5262d6b3fec9631ca09) — chore(m2-apex): publish v0.3.9 · `2026-08-19` · oahsiao
+09. [`M2_APEX@610b7d0`](https://github.com/M2Station/M2_APEX/commit/610b7d07447c667bbc3e75d588f148a4f556c9ca) — chore(release): bump version to 0.3.9 (#118) · `2026-08-19` · oahsiao
+10. [`M2_APEX@6e950ee`](https://github.com/M2Station/M2_APEX/commit/6e950eea27c1d17e47a91a4efddd04115f784d37) — fix(tweak): make every tweak type run and keep scripts up... · `2026-08-19` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

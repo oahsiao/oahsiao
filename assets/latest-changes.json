@@ -1,95 +1,95 @@
 {
-  "updated": "2026-08-19 11:00 TWN",
+  "updated": "2026-08-20 10:59 TWN",
   "latestChanges": [
     {
-      "date": 1787043984000,
-      "committedDate": "2026-08-18T09:06:24Z",
-      "header": "Add Roslin (3621_RON) and Mishawaka (3505_MIA) project entries",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/91f96ee3d481e6e2ae74447d9b9593b7114d5851",
-      "sha": "91f96ee",
-      "login": "Andy Sung"
+      "date": 1787134765000,
+      "committedDate": "2026-08-19T10:19:25Z",
+      "header": "chore(hotkey): log the watchdog state behind a silent double-Ctrl",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/638aef233cd28061de320d017b9448b99f11578e",
+      "sha": "638aef2",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1787023282000,
-      "committedDate": "2026-08-18T03:21:22Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/37d784654cdf5c0f9bd102ed261f3fcb4abbecfe",
-      "sha": "37d7846",
-      "login": "github-actions[bot]"
+      "date": 1787134164000,
+      "committedDate": "2026-08-19T10:09:24Z",
+      "header": "Update MSAGUI_v13 exe and delete previous exe",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/610fa28bee6fff3e1f8bcc0f8ec34af1f1f539c3",
+      "sha": "610fa28",
+      "login": "cin0429"
     },
     {
-      "date": 1786965620000,
-      "committedDate": "2026-08-17T11:20:20Z",
-      "header": "Add study note for Boot Time measurements",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/cf43a10385fa87b292f6c2738ccb51b63aac4525",
-      "sha": "cf43a10",
-      "login": "Sam6Su"
+      "date": 1787133686000,
+      "committedDate": "2026-08-19T10:01:26Z",
+      "header": "Update MSAGUI_Tool_Technical_Reference_Rev_2026_0819 for MSAGUI_v13",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/9d641548ebe6f7a42b33637f98a557059f5871ce",
+      "sha": "9d64154",
+      "login": "cin0429"
     },
     {
-      "date": 1786965264000,
-      "committedDate": "2026-08-17T11:14:24Z",
-      "header": "chore(m2-prompt): publish v0.4.1",
+      "date": 1787133198000,
+      "committedDate": "2026-08-19T09:53:18Z",
+      "header": "chore(m2-apex): publish v0.4.0",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6ba41659e43ab1d2b4c4dcaa4ccaa58d2b34ce34",
-      "sha": "6ba4165",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/77472af3e199d93bc35b0cb8aea92e367589eac3",
+      "sha": "77472af",
       "login": "oahsiao"
     },
     {
-      "date": 1786964617000,
-      "committedDate": "2026-08-17T11:03:37Z",
-      "header": "chore(release): bump version to 0.4.1 (hotfix for silent in-app updates)",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/f21e3b325838ac5a4a680f1f84cbd19580be5b04",
-      "sha": "f21e3b3",
+      "date": 1787132946000,
+      "committedDate": "2026-08-19T09:49:06Z",
+      "header": "chore(release): bump version to 0.4.0 (#119)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/65dcaec16a7140b95b5d5234a8215702aa96f9e8",
+      "sha": "65dcaec",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1787132671000,
+      "committedDate": "2026-08-19T09:44:31Z",
+      "header": "[Fix] Fix Tweaks Category function",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/102708aefc463418764b6d2dd2e3faf6f3507acf",
+      "sha": "102708a",
       "login": "OA Hsiao"
     },
     {
-      "date": 1786964598000,
-      "committedDate": "2026-08-17T11:03:18Z",
-      "header": "fix(updater): add silent install parameters for in-app updates",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/5e7fbb97787840d9039f424d752c283c545816b1",
-      "sha": "5e7fbb9",
-      "login": "OA Hsiao"
+      "date": 1787132219000,
+      "committedDate": "2026-08-19T09:36:59Z",
+      "header": "Update release note for MSAGUI v13 change list",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/048f8be4b0fb2ad6151d31dbcbe868a0a5337897",
+      "sha": "048f8be",
+      "login": "cin0429"
     },
     {
-      "date": 1786964295000,
-      "committedDate": "2026-08-17T10:58:15Z",
-      "header": "docs: add silent installation guide with parameter reference",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/83cc527bbf1e01a352355697ec9ad4d9a690188b",
-      "sha": "83cc527",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1786958065000,
-      "committedDate": "2026-08-17T09:14:25Z",
-      "header": "chore(m2-prompt): publish v0.4.0",
+      "date": 1787131821000,
+      "committedDate": "2026-08-19T09:30:21Z",
+      "header": "chore(m2-apex): publish v0.3.9",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/ec5d93abf3ca1e9014fe895b1583236743d35698",
-      "sha": "ec5d93a",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/bb94fcd36ad4c93ca1a2e5262d6b3fec9631ca09",
+      "sha": "bb94fcd",
       "login": "oahsiao"
     },
     {
-      "date": 1786957394000,
-      "committedDate": "2026-08-17T09:03:14Z",
-      "header": "chore(release): bump version to 0.4.0",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/bb4482a6cdcb97ba265a6d680b805bfe624f44f3",
-      "sha": "bb4482a",
+      "date": 1787131598000,
+      "committedDate": "2026-08-19T09:26:38Z",
+      "header": "chore(release): bump version to 0.3.9 (#118)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/610b7d07447c667bbc3e75d588f148a4f556c9ca",
+      "sha": "610b7d0",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1787131361000,
+      "committedDate": "2026-08-19T09:22:41Z",
+      "header": "fix(tweak): make every tweak type run and keep scripts up to date",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/6e950eea27c1d17e47a91a4efddd04115f784d37",
+      "sha": "6e950ee",
       "login": "OA Hsiao"
-    },
-    {
-      "date": 1786957353000,
-      "committedDate": "2026-08-17T09:02:33Z",
-      "header": "feat(local-ai): add Ctrl+Z undo support for command override with enhanced formatting (#17)",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/d0c2599cf10df423475569b61ec453ffbd7ed3b1",
-      "sha": "d0c2599",
-      "login": "oahsiao"
     }
   ]
 }
