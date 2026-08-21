@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20 10:59 TWN",
+  "updated": "2026-08-21 11:06 TWN",
   "latestChanges": [
+    {
+      "date": 1787196200000,
+      "committedDate": "2026-08-20T03:23:20Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/0fad0f72e6dbb67df3f1e5f5c1e7b9e010a23277",
+      "sha": "0fad0f7",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1787134765000,
       "committedDate": "2026-08-19T10:19:25Z",
@@ -81,15 +90,6 @@
       "url": "https://github.com/M2Station/M2_APEX/commit/610b7d07447c667bbc3e75d588f148a4f556c9ca",
       "sha": "610b7d0",
       "login": "oahsiao"
-    },
-    {
-      "date": 1787131361000,
-      "committedDate": "2026-08-19T09:22:41Z",
-      "header": "fix(tweak): make every tweak type run and keep scripts up to date",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/6e950eea27c1d17e47a91a4efddd04115f784d37",
-      "sha": "6e950ee",
-      "login": "OA Hsiao"
     }
   ]
 }
