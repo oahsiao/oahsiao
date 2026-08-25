@@ -1,95 +1,95 @@
 {
-  "updated": "2026-08-24 11:06 TWN",
+  "updated": "2026-08-25 11:01 TWN",
   "latestChanges": [
     {
-      "date": 1787533777000,
-      "committedDate": "2026-08-24T01:09:37Z",
-      "header": "chore(dev-deps): bump electron in the electron group",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/8e4f8a520c8c9f761015a35661c2a3dcd41bef08",
-      "sha": "8e4f8a5",
+      "date": 1787623145000,
+      "committedDate": "2026-08-25T01:59:05Z",
+      "header": "deps-dev: bump electron in the npm-minor-and-patch group (#63)",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/d222bc9203e860f3e9700a9b1517ce3f17cbaacf",
+      "sha": "d222bc9",
       "login": "dependabot[bot]"
     },
     {
-      "date": 1787533758000,
-      "committedDate": "2026-08-24T01:09:18Z",
-      "header": "chore(dev-deps): bump the vite-vitest-toolchain group with 2 updates",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/1bc6988da96e9f3d4e8b8daa756a4186fb5b8db9",
-      "sha": "1bc6988",
+      "date": 1787623124000,
+      "committedDate": "2026-08-25T01:58:44Z",
+      "header": "chore(deps-dev): bump electron from 43.2.0 to 43.4.1 (#97)",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/07cf99c3fa2fb5c121a742fb1971d110086a5bc3",
+      "sha": "07cf99c",
       "login": "dependabot[bot]"
     },
     {
-      "date": 1787455700000,
-      "committedDate": "2026-08-23T03:28:20Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/98ed271e0ffa0d5614c47e4595f271b0c9c08116",
-      "sha": "98ed271",
-      "login": "github-actions[bot]"
+      "date": 1787622875000,
+      "committedDate": "2026-08-25T01:54:35Z",
+      "header": "chore(m2-prompt): publish v0.4.2",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/931d9493d4f3a187991f1a3145cb014c5f8bf03b",
+      "sha": "931d949",
+      "login": "oahsiao"
     },
     {
-      "date": 1787368413000,
-      "committedDate": "2026-08-22T03:13:33Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/e593e21b802706e566ff46319c1e0b80084cbf27",
-      "sha": "e593e21",
-      "login": "github-actions[bot]"
+      "date": 1787622803000,
+      "committedDate": "2026-08-25T01:53:23Z",
+      "header": "chore(deps-dev): bump @codemirror/view from 6.43.6 to 6.43.8 (#96)",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/9705392b8891aba90aa39183e946b0d7dbf5ff79",
+      "sha": "9705392",
+      "login": "dependabot[bot]"
     },
     {
-      "date": 1787306102000,
-      "committedDate": "2026-08-21T09:55:02Z",
-      "header": "rename INFO_SMOKE_TEST_TOOL_PROMPT.md to MICROSOFT_SMOKE_TEST_TOOL.md",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/d268619c8633d7f00b1908202d18f691bbc40e4d",
-      "sha": "d268619",
-      "login": "weilin0000"
+      "date": 1787622792000,
+      "committedDate": "2026-08-25T01:53:12Z",
+      "header": "chore(deps-dev): bump esbuild from 0.28.1 to 0.28.2 (#95)",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/80db293287bb18323ee997390f59a0027d772390",
+      "sha": "80db293",
+      "login": "dependabot[bot]"
     },
     {
-      "date": 1787296550000,
-      "committedDate": "2026-08-21T07:15:50Z",
-      "header": "Update MSAGUI_v14 exe and delete previous exe",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/18862acd2cda2065261f1bfa2dada8baf9d5d2e7",
-      "sha": "18862ac",
-      "login": "cin0429"
+      "date": 1787622214000,
+      "committedDate": "2026-08-25T01:43:34Z",
+      "header": "chore(release): bump version to 0.4.2",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/5de707b22493a7b295fa88268123867d434aff5d",
+      "sha": "5de707b",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1787296526000,
-      "committedDate": "2026-08-21T07:15:26Z",
-      "header": "Bump version to MSAGUI_v14 and repackage the exe; no functional code changes.",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/6a955443be9cdc241ed98d073a10fef715cbddbc",
-      "sha": "6a95544",
-      "login": "cin0429"
+      "date": 1787621977000,
+      "committedDate": "2026-08-25T01:39:37Z",
+      "header": "chore(m2-apex): publish v0.4.1",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/bc2c043e0c8772aec5d2c528a6d3ed43bb4244a5",
+      "sha": "bc2c043",
+      "login": "oahsiao"
     },
     {
-      "date": 1787283478000,
-      "committedDate": "2026-08-21T03:37:58Z",
-      "header": "Fix CI for WA",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/3d848d63dcab70b656f8a6baa7f30ed76ef29587",
-      "sha": "3d848d6",
-      "login": "asuka-wu"
+      "date": 1787621800000,
+      "committedDate": "2026-08-25T01:36:40Z",
+      "header": "chore(release): bump version to 0.4.1 (#120)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/4ae4be3bcfdb8c3c8b54dc75b7ebaa628e887056",
+      "sha": "4ae4be3",
+      "login": "oahsiao"
     },
     {
-      "date": 1787282929000,
-      "committedDate": "2026-08-21T03:28:49Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/0386f00b9471ad3dc49e63db13fabfade5ccc9f9",
-      "sha": "0386f00",
-      "login": "github-actions[bot]"
+      "date": 1787588397000,
+      "committedDate": "2026-08-24T16:19:57Z",
+      "header": "fix(local-ai): repair llama.cpp runtime updates and Hugging Face GGUF search",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/524cb29ccdd6fc13d0cb60f1c815c037e3906db8",
+      "sha": "524cb29",
+      "login": "oahsiao"
     },
     {
-      "date": 1787196200000,
-      "committedDate": "2026-08-20T03:23:20Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/0fad0f72e6dbb67df3f1e5f5c1e7b9e010a23277",
-      "sha": "0fad0f7",
-      "login": "github-actions[bot]"
+      "date": 1787585875000,
+      "committedDate": "2026-08-24T15:37:55Z",
+      "header": "fix(monitor): isolate GPU PDH sampling from UI thread",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/7ebfda2df3de8526b6d18002b19346daabb902f9",
+      "sha": "7ebfda2",
+      "login": "oahsiao"
     }
   ]
 }

@@ -7,55 +7,55 @@
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.102;0.156;0.173;1"
-        dur="29.5s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.000;0.104;0.160;0.177;1"
+        dur="28.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(dev-deps): bump electron in the electron ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>deps-dev: bump electron in the npm-minor-and-pa...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.173;0.275;0.329;0.346;1"
-        dur="29.5s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.177;0.282;0.338;0.355;1"
+        dur="28.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(dev-deps): bump the vite-vitest-toolchain...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(deps-dev): bump electron from 43.2.0 to 4...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;323.2;323.2;0;0"
-        keyTimes="0;0.346;0.420;0.474;0.491;1"
-        dur="29.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;289.6;289.6;0;0"
+        keyTimes="0;0.355;0.422;0.477;0.495;1"
+        dur="28.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: sync latest changes [skip ci]</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-prompt): publish v0.4.2</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.491;0.593;0.647;0.664;1"
-        dur="29.5s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.495;0.599;0.655;0.672;1"
+        dur="28.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>rename INFO_SMOKE_TEST_TOOL_PROMPT.md to MICROS...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(deps-dev): bump @codemirror/view from 6.4...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;398.8;398.8;0;0"
-        keyTimes="0;0.664;0.756;0.810;0.827;1"
-        dur="29.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.672;0.777;0.832;0.850;1"
+        dur="28.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update MSAGUI_v14 exe and delete previous exe</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(deps-dev): bump esbuild from 0.28.1 to 0....</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.827;0.929;0.983;1.000;1"
-        dur="29.5s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;331.6;331.6;0;0"
+        keyTimes="0;0.850;0.927;0.983;1.000;1"
+        dur="28.7s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Bump version to MSAGUI_v14 and repackage the ex...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): bump version to 0.4.2</text>
     </g>
 </svg>

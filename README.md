@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_GIT_DIFF@8e4f8a5`](https://github.com/M2Station/M2_GIT_DIFF/commit/8e4f8a520c8c9f761015a35661c2a3dcd41bef08) — chore(dev-deps): bump electron in the electron group · `2026-08-24` · dependabot[bot]
-02. [`M2_GIT_DIFF@1bc6988`](https://github.com/M2Station/M2_GIT_DIFF/commit/1bc6988da96e9f3d4e8b8daa756a4186fb5b8db9) — chore(dev-deps): bump the vite-vitest-toolchain group wit... · `2026-08-24` · dependabot[bot]
-03. [`.github@98ed271`](https://github.com/M2Station/.github/commit/98ed271e0ffa0d5614c47e4595f271b0c9c08116) — chore: sync latest changes [skip ci] · `2026-08-23` · github-actions[bot]
-04. [`.github@e593e21`](https://github.com/M2Station/.github/commit/e593e21b802706e566ff46319c1e0b80084cbf27) — chore: sync latest changes [skip ci] · `2026-08-22` · github-actions[bot]
-05. [`M2_WIKI@d268619`](https://github.com/M2Station/M2_WIKI/commit/d268619c8633d7f00b1908202d18f691bbc40e4d) — rename INFO_SMOKE_TEST_TOOL_PROMPT.md to MICROSOFT_SMOKE_... · `2026-08-21` · weilin0000
-06. [`M2_MSAGUI@18862ac`](https://github.com/M2Station/M2_MSAGUI/commit/18862acd2cda2065261f1bfa2dada8baf9d5d2e7) — Update MSAGUI_v14 exe and delete previous exe · `2026-08-21` · cin0429
-07. [`M2_MSAGUI@6a95544`](https://github.com/M2Station/M2_MSAGUI/commit/6a955443be9cdc241ed98d073a10fef715cbddbc) — Bump version to MSAGUI_v14 and repackage the exe; no func... · `2026-08-21` · cin0429
-08. [`M2_WIKI@3d848d6`](https://github.com/M2Station/M2_WIKI/commit/3d848d63dcab70b656f8a6baa7f30ed76ef29587) — Fix CI for WA · `2026-08-21` · asuka-wu
-09. [`.github@0386f00`](https://github.com/M2Station/.github/commit/0386f00b9471ad3dc49e63db13fabfade5ccc9f9) — chore: sync latest changes [skip ci] · `2026-08-21` · github-actions[bot]
-10. [`.github@0fad0f7`](https://github.com/M2Station/.github/commit/0fad0f72e6dbb67df3f1e5f5c1e7b9e010a23277) — chore: sync latest changes [skip ci] · `2026-08-20` · github-actions[bot]
+01. [`M2_SCOUT@d222bc9`](https://github.com/M2Station/M2_SCOUT/commit/d222bc9203e860f3e9700a9b1517ce3f17cbaacf) — deps-dev: bump electron in the npm-minor-and-patch group ... · `2026-08-25` · dependabot[bot]
+02. [`M2_LOG@07cf99c`](https://github.com/M2Station/M2_LOG/commit/07cf99c3fa2fb5c121a742fb1971d110086a5bc3) — chore(deps-dev): bump electron from 43.2.0 to 43.4.1 (#97) · `2026-08-25` · dependabot[bot]
+03. [`M2_PUBLIC_RELEASE@931d949`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/931d9493d4f3a187991f1a3145cb014c5f8bf03b) — chore(m2-prompt): publish v0.4.2 · `2026-08-25` · oahsiao
+04. [`M2_LOG@9705392`](https://github.com/M2Station/M2_LOG/commit/9705392b8891aba90aa39183e946b0d7dbf5ff79) — chore(deps-dev): bump @codemirror/view from 6.43.6 to 6.4... · `2026-08-25` · dependabot[bot]
+05. [`M2_LOG@80db293`](https://github.com/M2Station/M2_LOG/commit/80db293287bb18323ee997390f59a0027d772390) — chore(deps-dev): bump esbuild from 0.28.1 to 0.28.2 (#95) · `2026-08-25` · dependabot[bot]
+06. [`M2_PROMPT@5de707b`](https://github.com/M2Station/M2_PROMPT/commit/5de707b22493a7b295fa88268123867d434aff5d) — chore(release): bump version to 0.4.2 · `2026-08-25` · OA Hsiao
+07. [`M2_PUBLIC_RELEASE@bc2c043`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/bc2c043e0c8772aec5d2c528a6d3ed43bb4244a5) — chore(m2-apex): publish v0.4.1 · `2026-08-25` · oahsiao
+08. [`M2_APEX@4ae4be3`](https://github.com/M2Station/M2_APEX/commit/4ae4be3bcfdb8c3c8b54dc75b7ebaa628e887056) — chore(release): bump version to 0.4.1 (#120) · `2026-08-25` · oahsiao
+09. [`M2_PROMPT@524cb29`](https://github.com/M2Station/M2_PROMPT/commit/524cb29ccdd6fc13d0cb60f1c815c037e3906db8) — fix(local-ai): repair llama.cpp runtime updates and Huggi... · `2026-08-24` · oahsiao
+10. [`M2_APEX@7ebfda2`](https://github.com/M2Station/M2_APEX/commit/7ebfda2df3de8526b6d18002b19346daabb902f9) — fix(monitor): isolate GPU PDH sampling from UI thread · `2026-08-24` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
