@@ -1,6 +1,33 @@
 {
-  "updated": "2026-08-25 11:01 TWN",
+  "updated": "2026-08-26 11:08 TWN",
   "latestChanges": [
+    {
+      "date": 1787661642000,
+      "committedDate": "2026-08-25T12:40:42Z",
+      "header": "update OPENCODE",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/4bff16da402cb818f27ee4ffd818150f6f64a4e1",
+      "sha": "4bff16d",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1787648649000,
+      "committedDate": "2026-08-25T09:04:09Z",
+      "header": "MICROSOFT_QUANTUM",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/2f6790c76359bed70dfead8b81648b234d99df50",
+      "sha": "2f6790c",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1787628319000,
+      "committedDate": "2026-08-25T03:25:19Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/70535222fa5ced7c784a95f2e09025a7bb30b4b4",
+      "sha": "7053522",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1787623145000,
       "committedDate": "2026-08-25T01:59:05Z",
@@ -62,33 +89,6 @@
       "repo": "M2_PUBLIC_RELEASE",
       "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/bc2c043e0c8772aec5d2c528a6d3ed43bb4244a5",
       "sha": "bc2c043",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787621800000,
-      "committedDate": "2026-08-25T01:36:40Z",
-      "header": "chore(release): bump version to 0.4.1 (#120)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/4ae4be3bcfdb8c3c8b54dc75b7ebaa628e887056",
-      "sha": "4ae4be3",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787588397000,
-      "committedDate": "2026-08-24T16:19:57Z",
-      "header": "fix(local-ai): repair llama.cpp runtime updates and Hugging Face GGUF search",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/524cb29ccdd6fc13d0cb60f1c815c037e3906db8",
-      "sha": "524cb29",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787585875000,
-      "committedDate": "2026-08-24T15:37:55Z",
-      "header": "fix(monitor): isolate GPU PDH sampling from UI thread",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/7ebfda2df3de8526b6d18002b19346daabb902f9",
-      "sha": "7ebfda2",
       "login": "oahsiao"
     }
   ]
