@@ -1,6 +1,60 @@
 {
-  "updated": "2026-08-26 11:08 TWN",
+  "updated": "2026-08-27 20:37 TWN",
   "latestChanges": [
+    {
+      "date": 1787822553000,
+      "committedDate": "2026-08-27T09:22:33Z",
+      "header": "Update MICROSOFT_UEFI_DEBUG.md",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/9083b84c97af64788d9bb5df80e9110e60ea22fe",
+      "sha": "9083b84",
+      "login": "Sam6Su"
+    },
+    {
+      "date": 1787822393000,
+      "committedDate": "2026-08-27T09:19:53Z",
+      "header": "Update MICROSOFT_UEFI_DEBUG.md",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/7172cf132c9543627005050913074f8b916b002b",
+      "sha": "7172cf1",
+      "login": "Sam6Su"
+    },
+    {
+      "date": 1787810980000,
+      "committedDate": "2026-08-27T06:09:40Z",
+      "header": "++",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/0ad40c205185ac5eeb75c56cb940328d437ce33f",
+      "sha": "0ad40c2",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1787810599000,
+      "committedDate": "2026-08-27T06:03:19Z",
+      "header": "+ADO:AreaPath",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/3ed95ca74654a6d56dcb0a48d40bb01073eaed86",
+      "sha": "3ed95ca",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1787793272000,
+      "committedDate": "2026-08-27T01:14:32Z",
+      "header": "+MICROSOFT_ONBOARD/MailGroup-Join",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/65d91dc8de7a9c8f86794c980df03042f6d6b1c6",
+      "sha": "65d91dc",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1787715107000,
+      "committedDate": "2026-08-26T03:31:47Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/772e99e998aefcd9bb93cc9d466e9cb226ed4d41",
+      "sha": "772e99e",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1787661642000,
       "committedDate": "2026-08-25T12:40:42Z",
@@ -36,60 +90,6 @@
       "url": "https://github.com/M2Station/M2_SCOUT/commit/d222bc9203e860f3e9700a9b1517ce3f17cbaacf",
       "sha": "d222bc9",
       "login": "dependabot[bot]"
-    },
-    {
-      "date": 1787623124000,
-      "committedDate": "2026-08-25T01:58:44Z",
-      "header": "chore(deps-dev): bump electron from 43.2.0 to 43.4.1 (#97)",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/07cf99c3fa2fb5c121a742fb1971d110086a5bc3",
-      "sha": "07cf99c",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1787622875000,
-      "committedDate": "2026-08-25T01:54:35Z",
-      "header": "chore(m2-prompt): publish v0.4.2",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/931d9493d4f3a187991f1a3145cb014c5f8bf03b",
-      "sha": "931d949",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787622803000,
-      "committedDate": "2026-08-25T01:53:23Z",
-      "header": "chore(deps-dev): bump @codemirror/view from 6.43.6 to 6.43.8 (#96)",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/9705392b8891aba90aa39183e946b0d7dbf5ff79",
-      "sha": "9705392",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1787622792000,
-      "committedDate": "2026-08-25T01:53:12Z",
-      "header": "chore(deps-dev): bump esbuild from 0.28.1 to 0.28.2 (#95)",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/80db293287bb18323ee997390f59a0027d772390",
-      "sha": "80db293",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1787622214000,
-      "committedDate": "2026-08-25T01:43:34Z",
-      "header": "chore(release): bump version to 0.4.2",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/5de707b22493a7b295fa88268123867d434aff5d",
-      "sha": "5de707b",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1787621977000,
-      "committedDate": "2026-08-25T01:39:37Z",
-      "header": "chore(m2-apex): publish v0.4.1",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/bc2c043e0c8772aec5d2c528a6d3ed43bb4244a5",
-      "sha": "bc2c043",
-      "login": "oahsiao"
     }
   ]
 }

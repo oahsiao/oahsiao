@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@4bff16d`](https://github.com/M2Station/M2_WIKI/commit/4bff16da402cb818f27ee4ffd818150f6f64a4e1) — update OPENCODE · `2026-08-25` · OA Hsiao
-02. [`M2_WIKI@2f6790c`](https://github.com/M2Station/M2_WIKI/commit/2f6790c76359bed70dfead8b81648b234d99df50) — MICROSOFT_QUANTUM · `2026-08-25` · OA Hsiao
-03. [`.github@7053522`](https://github.com/M2Station/.github/commit/70535222fa5ced7c784a95f2e09025a7bb30b4b4) — chore: sync latest changes [skip ci] · `2026-08-25` · github-actions[bot]
-04. [`M2_SCOUT@d222bc9`](https://github.com/M2Station/M2_SCOUT/commit/d222bc9203e860f3e9700a9b1517ce3f17cbaacf) — deps-dev: bump electron in the npm-minor-and-patch group ... · `2026-08-25` · dependabot[bot]
-05. [`M2_LOG@07cf99c`](https://github.com/M2Station/M2_LOG/commit/07cf99c3fa2fb5c121a742fb1971d110086a5bc3) — chore(deps-dev): bump electron from 43.2.0 to 43.4.1 (#97) · `2026-08-25` · dependabot[bot]
-06. [`M2_PUBLIC_RELEASE@931d949`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/931d9493d4f3a187991f1a3145cb014c5f8bf03b) — chore(m2-prompt): publish v0.4.2 · `2026-08-25` · oahsiao
-07. [`M2_LOG@9705392`](https://github.com/M2Station/M2_LOG/commit/9705392b8891aba90aa39183e946b0d7dbf5ff79) — chore(deps-dev): bump @codemirror/view from 6.43.6 to 6.4... · `2026-08-25` · dependabot[bot]
-08. [`M2_LOG@80db293`](https://github.com/M2Station/M2_LOG/commit/80db293287bb18323ee997390f59a0027d772390) — chore(deps-dev): bump esbuild from 0.28.1 to 0.28.2 (#95) · `2026-08-25` · dependabot[bot]
-09. [`M2_PROMPT@5de707b`](https://github.com/M2Station/M2_PROMPT/commit/5de707b22493a7b295fa88268123867d434aff5d) — chore(release): bump version to 0.4.2 · `2026-08-25` · OA Hsiao
-10. [`M2_PUBLIC_RELEASE@bc2c043`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/bc2c043e0c8772aec5d2c528a6d3ed43bb4244a5) — chore(m2-apex): publish v0.4.1 · `2026-08-25` · oahsiao
+01. [`M2_WIKI@9083b84`](https://github.com/M2Station/M2_WIKI/commit/9083b84c97af64788d9bb5df80e9110e60ea22fe) — Update MICROSOFT_UEFI_DEBUG.md · `2026-08-27` · Sam6Su
+02. [`M2_WIKI@7172cf1`](https://github.com/M2Station/M2_WIKI/commit/7172cf132c9543627005050913074f8b916b002b) — Update MICROSOFT_UEFI_DEBUG.md · `2026-08-27` · Sam6Su
+03. [`M2_WIKI@0ad40c2`](https://github.com/M2Station/M2_WIKI/commit/0ad40c205185ac5eeb75c56cb940328d437ce33f) — ++ · `2026-08-27` · asuka-wu
+04. [`M2_WIKI@3ed95ca`](https://github.com/M2Station/M2_WIKI/commit/3ed95ca74654a6d56dcb0a48d40bb01073eaed86) — +ADO:AreaPath · `2026-08-27` · asuka-wu
+05. [`M2_WIKI@65d91dc`](https://github.com/M2Station/M2_WIKI/commit/65d91dc8de7a9c8f86794c980df03042f6d6b1c6) — +MICROSOFT_ONBOARD/MailGroup-Join · `2026-08-27` · asuka-wu
+06. [`.github@772e99e`](https://github.com/M2Station/.github/commit/772e99e998aefcd9bb93cc9d466e9cb226ed4d41) — chore: sync latest changes [skip ci] · `2026-08-26` · github-actions[bot]
+07. [`M2_WIKI@4bff16d`](https://github.com/M2Station/M2_WIKI/commit/4bff16da402cb818f27ee4ffd818150f6f64a4e1) — update OPENCODE · `2026-08-25` · OA Hsiao
+08. [`M2_WIKI@2f6790c`](https://github.com/M2Station/M2_WIKI/commit/2f6790c76359bed70dfead8b81648b234d99df50) — MICROSOFT_QUANTUM · `2026-08-25` · OA Hsiao
+09. [`.github@7053522`](https://github.com/M2Station/.github/commit/70535222fa5ced7c784a95f2e09025a7bb30b4b4) — chore: sync latest changes [skip ci] · `2026-08-25` · github-actions[bot]
+10. [`M2_SCOUT@d222bc9`](https://github.com/M2Station/M2_SCOUT/commit/d222bc9203e860f3e9700a9b1517ce3f17cbaacf) — deps-dev: bump electron in the npm-minor-and-patch group ... · `2026-08-25` · dependabot[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---
