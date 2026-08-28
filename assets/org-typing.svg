@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;272.8;272.8;0;0"
-        keyTimes="0;0.000;0.088;0.167;0.192;1"
-        dur="20.3s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;256;256;0;0"
+        keyTimes="0;0.000;0.072;0.141;0.162;1"
+        dur="23.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update MICROSOFT_UEFI_DEBUG.md</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>refine Team Download Picture</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;37.6;37.6;0;0"
-        keyTimes="0;0.192;0.198;0.276;0.301;1"
-        dur="20.3s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;281.2;281.2;0;0"
+        keyTimes="0;0.162;0.242;0.311;0.332;1"
+        dur="23.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>++</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>re-design Team Picture download</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;130;130;0;0"
-        keyTimes="0;0.301;0.339;0.418;0.442;1"
-        dur="20.3s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;289.6;289.6;0;0"
+        keyTimes="0;0.332;0.415;0.484;0.505;1"
+        dur="23.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>+ADO:AreaPath</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>re-design teams Download Picture</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;298;298;0;0"
-        keyTimes="0;0.442;0.540;0.618;0.643;1"
-        dur="20.3s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.505;0.590;0.659;0.680;1"
+        dur="23.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>+MICROSOFT_ONBOARD/MailGroup-Join</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>add color pick for Team dashboard</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;323.2;323.2;0;0"
-        keyTimes="0;0.643;0.749;0.828;0.853;1"
-        dur="20.3s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;247.60000000000002;247.60000000000002;0;0"
+        keyTimes="0;0.680;0.750;0.819;0.840;1"
+        dur="23.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: sync latest changes [skip ci]</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update M2_INSIGHT_COLLECTOR</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;146.8;146.8;0;0"
-        keyTimes="0;0.853;0.897;0.975;1.000;1"
-        dur="20.3s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;247.60000000000002;247.60000000000002;0;0"
+        keyTimes="0;0.840;0.910;0.979;1.000;1"
+        dur="23.3s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>update OPENCODE</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>refine M2_INSIGHT_COLLECTOR</text>
     </g>
 </svg>

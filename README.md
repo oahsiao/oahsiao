@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@9083b84`](https://github.com/M2Station/M2_WIKI/commit/9083b84c97af64788d9bb5df80e9110e60ea22fe) — Update MICROSOFT_UEFI_DEBUG.md · `2026-08-27` · Sam6Su
-02. [`M2_WIKI@7172cf1`](https://github.com/M2Station/M2_WIKI/commit/7172cf132c9543627005050913074f8b916b002b) — Update MICROSOFT_UEFI_DEBUG.md · `2026-08-27` · Sam6Su
-03. [`M2_WIKI@0ad40c2`](https://github.com/M2Station/M2_WIKI/commit/0ad40c205185ac5eeb75c56cb940328d437ce33f) — ++ · `2026-08-27` · asuka-wu
-04. [`M2_WIKI@3ed95ca`](https://github.com/M2Station/M2_WIKI/commit/3ed95ca74654a6d56dcb0a48d40bb01073eaed86) — +ADO:AreaPath · `2026-08-27` · asuka-wu
-05. [`M2_WIKI@65d91dc`](https://github.com/M2Station/M2_WIKI/commit/65d91dc8de7a9c8f86794c980df03042f6d6b1c6) — +MICROSOFT_ONBOARD/MailGroup-Join · `2026-08-27` · asuka-wu
-06. [`.github@772e99e`](https://github.com/M2Station/.github/commit/772e99e998aefcd9bb93cc9d466e9cb226ed4d41) — chore: sync latest changes [skip ci] · `2026-08-26` · github-actions[bot]
-07. [`M2_WIKI@4bff16d`](https://github.com/M2Station/M2_WIKI/commit/4bff16da402cb818f27ee4ffd818150f6f64a4e1) — update OPENCODE · `2026-08-25` · OA Hsiao
-08. [`M2_WIKI@2f6790c`](https://github.com/M2Station/M2_WIKI/commit/2f6790c76359bed70dfead8b81648b234d99df50) — MICROSOFT_QUANTUM · `2026-08-25` · OA Hsiao
-09. [`.github@7053522`](https://github.com/M2Station/.github/commit/70535222fa5ced7c784a95f2e09025a7bb30b4b4) — chore: sync latest changes [skip ci] · `2026-08-25` · github-actions[bot]
-10. [`M2_SCOUT@d222bc9`](https://github.com/M2Station/M2_SCOUT/commit/d222bc9203e860f3e9700a9b1517ce3f17cbaacf) — deps-dev: bump electron in the npm-minor-and-patch group ... · `2026-08-25` · dependabot[bot]
+01. [`M2_INSIGHT@dbf2cd4`](https://github.com/M2Station/M2_INSIGHT/commit/dbf2cd4baec33881cf6037642f7a65cd49789813) — refine Team Download Picture · `2026-08-28` · oahsiao
+02. [`M2_INSIGHT@95ed32e`](https://github.com/M2Station/M2_INSIGHT/commit/95ed32e8f06e08ab25b6011bca2e1736fd7ff6cf) — re-design Team Picture download · `2026-08-28` · oahsiao
+03. [`M2_INSIGHT@886f776`](https://github.com/M2Station/M2_INSIGHT/commit/886f7767a62ac8965a2f5d1d74e766cc49890ee3) — re-design teams Download Picture · `2026-08-28` · oahsiao
+04. [`M2_INSIGHT@dc0f327`](https://github.com/M2Station/M2_INSIGHT/commit/dc0f327b0476013933b64dc41374301d221eaea9) — add color pick for Team dashboard · `2026-08-28` · oahsiao
+05. [`M2_INSIGHT@5c206d7`](https://github.com/M2Station/M2_INSIGHT/commit/5c206d783f7c39019dc7e33afc241c1ed2e0a785) — Update M2_INSIGHT_COLLECTOR · `2026-08-28` · OA Hsiao
+06. [`M2_INSIGHT@e7a40f5`](https://github.com/M2Station/M2_INSIGHT/commit/e7a40f54ba504ab1164c48fcb61599ce399cb273) — refine M2_INSIGHT_COLLECTOR · `2026-08-28` · oahsiao
+07. [`M2_INSIGHT@188a3c3`](https://github.com/M2Station/M2_INSIGHT/commit/188a3c324afd4c918111b6269697481f0119d1ae) — refine M2_INSIGHT_COLLECTOR · `2026-08-28` · oahsiao
+08. [`M2_INSIGHT@a27a711`](https://github.com/M2Station/M2_INSIGHT/commit/a27a711d20a29a55eb08024b570bee52dde327e2) — teams - 0 的列不再顯示 · `2026-08-28` · oahsiao
+09. [`M2_INSIGHT@33f30e8`](https://github.com/M2Station/M2_INSIGHT/commit/33f30e8950e84e8676649b8d41270fa67cf0df2b) — 1. Breakdown 標題加上總數 · `2026-08-28` · oahsiao
+10. [`M2_INSIGHT@f3df8e8`](https://github.com/M2Station/M2_INSIGHT/commit/f3df8e8dfaf10d98f7d1eb9877e9ff05e5403df6) — Fix [Team - Download Picture] · `2026-08-28` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
