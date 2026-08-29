@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28 22:09 TWN",
+  "updated": "2026-08-29 16:46 TWN",
   "latestChanges": [
+    {
+      "date": 1787927331000,
+      "committedDate": "2026-08-28T14:28:51Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/acdaec756dea47e906f981e9973eb85e05be136b",
+      "sha": "acdaec7",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1787905962000,
       "committedDate": "2026-08-28T08:32:42Z",
@@ -80,15 +89,6 @@
       "repo": "M2_INSIGHT",
       "url": "https://github.com/M2Station/M2_INSIGHT/commit/33f30e8950e84e8676649b8d41270fa67cf0df2b",
       "sha": "33f30e8",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787901564000,
-      "committedDate": "2026-08-28T07:19:24Z",
-      "header": "Fix [Team - Download Picture]",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/f3df8e8dfaf10d98f7d1eb9877e9ff05e5403df6",
-      "sha": "f3df8e8",
       "login": "oahsiao"
     }
   ]
