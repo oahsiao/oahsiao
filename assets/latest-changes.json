@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-29 16:46 TWN",
+  "updated": "2026-08-30 16:04 TWN",
   "latestChanges": [
+    {
+      "date": 1787994892000,
+      "committedDate": "2026-08-29T09:14:52Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/a991c38edbfe97ab3d61d08a739f05555acda957",
+      "sha": "a991c38",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1787927331000,
       "committedDate": "2026-08-28T14:28:51Z",
@@ -80,15 +89,6 @@
       "repo": "M2_INSIGHT",
       "url": "https://github.com/M2Station/M2_INSIGHT/commit/a27a711d20a29a55eb08024b570bee52dde327e2",
       "sha": "a27a711",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787901913000,
-      "committedDate": "2026-08-28T07:25:13Z",
-      "header": "1. Breakdown 標題加上總數",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/33f30e8950e84e8676649b8d41270fa67cf0df2b",
-      "sha": "33f30e8",
       "login": "oahsiao"
     }
   ]
