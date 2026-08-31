@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`.github@a991c38`](https://github.com/M2Station/.github/commit/a991c38edbfe97ab3d61d08a739f05555acda957) — chore: sync latest changes [skip ci] · `2026-08-29` · github-actions[bot]
-02. [`.github@acdaec7`](https://github.com/M2Station/.github/commit/acdaec756dea47e906f981e9973eb85e05be136b) — chore: sync latest changes [skip ci] · `2026-08-28` · github-actions[bot]
-03. [`M2_INSIGHT@dbf2cd4`](https://github.com/M2Station/M2_INSIGHT/commit/dbf2cd4baec33881cf6037642f7a65cd49789813) — refine Team Download Picture · `2026-08-28` · oahsiao
-04. [`M2_INSIGHT@95ed32e`](https://github.com/M2Station/M2_INSIGHT/commit/95ed32e8f06e08ab25b6011bca2e1736fd7ff6cf) — re-design Team Picture download · `2026-08-28` · oahsiao
-05. [`M2_INSIGHT@886f776`](https://github.com/M2Station/M2_INSIGHT/commit/886f7767a62ac8965a2f5d1d74e766cc49890ee3) — re-design teams Download Picture · `2026-08-28` · oahsiao
-06. [`M2_INSIGHT@dc0f327`](https://github.com/M2Station/M2_INSIGHT/commit/dc0f327b0476013933b64dc41374301d221eaea9) — add color pick for Team dashboard · `2026-08-28` · oahsiao
-07. [`M2_INSIGHT@5c206d7`](https://github.com/M2Station/M2_INSIGHT/commit/5c206d783f7c39019dc7e33afc241c1ed2e0a785) — Update M2_INSIGHT_COLLECTOR · `2026-08-28` · OA Hsiao
-08. [`M2_INSIGHT@e7a40f5`](https://github.com/M2Station/M2_INSIGHT/commit/e7a40f54ba504ab1164c48fcb61599ce399cb273) — refine M2_INSIGHT_COLLECTOR · `2026-08-28` · oahsiao
-09. [`M2_INSIGHT@188a3c3`](https://github.com/M2Station/M2_INSIGHT/commit/188a3c324afd4c918111b6269697481f0119d1ae) — refine M2_INSIGHT_COLLECTOR · `2026-08-28` · oahsiao
-10. [`M2_INSIGHT@a27a711`](https://github.com/M2Station/M2_INSIGHT/commit/a27a711d20a29a55eb08024b570bee52dde327e2) — teams - 0 的列不再顯示 · `2026-08-28` · oahsiao
+01. [`M2_PILOT@1747398`](https://github.com/M2Station/M2_PILOT/commit/174739896ce4e6d5253199369e1fbb7667f8184a) — Initial commit · `2026-08-31` · oahsiao
+02. [`M2_PUBLIC_RELEASE@dc25f55`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/dc25f55425645f0a34829bf7dcc5ef59c8e11da7) — chore(m2-apex): publish v0.4.2 · `2026-08-31` · oahsiao
+03. [`M2_APEX@661f903`](https://github.com/M2Station/M2_APEX/commit/661f9035466d03785b321cf5aeec88b411df694e) — chore(release): bump version to 0.4.2 (#121) · `2026-08-31` · oahsiao
+04. [`M2_INSIGHT@0a3b848`](https://github.com/M2Station/M2_INSIGHT/commit/0a3b84884e10df7cfdddf070c5b48f205b10b0d7) — UPDATE Download Asset · `2026-08-31` · OA Hsiao
+05. [`M2_INSIGHT@2b46aac`](https://github.com/M2Station/M2_INSIGHT/commit/2b46aac100b2e4636a7d1c822eb00588505a9e7e) — feat: let an administrator choose the clock timestamps ar... · `2026-08-31` · oahsiao
+06. [`M2_APEX@c0eb908`](https://github.com/M2Station/M2_APEX/commit/c0eb90830c5a683b8c4ddf9ef9684ce02c830a51) — fix: recover the double-Ctrl hotkey after a cold boot · `2026-08-31` · oahsiao
+07. [`M2_GIT_DIFF@05768eb`](https://github.com/M2Station/M2_GIT_DIFF/commit/05768eb53f20883e42d192e5548eb42dd3cc5169) — chore(dev-deps): bump @napi-rs/canvas in the npm-minor-an... · `2026-08-31` · dependabot[bot]
+08. [`M2_GIT_DIFF@f6d9f4f`](https://github.com/M2Station/M2_GIT_DIFF/commit/f6d9f4f17c4d4041b4a5e5fac5f3a1daa05dd0ad) — chore(dev-deps): bump the vite-vitest-toolchain group wit... · `2026-08-31` · dependabot[bot]
+09. [`.github@67405b8`](https://github.com/M2Station/.github/commit/67405b86e4659d3e7ec45dd5137d3679fb770dea) — chore: sync latest changes [skip ci] · `2026-08-30` · github-actions[bot]
+10. [`.github@a991c38`](https://github.com/M2Station/.github/commit/a991c38edbfe97ab3d61d08a739f05555acda957) — chore: sync latest changes [skip ci] · `2026-08-29` · github-actions[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---

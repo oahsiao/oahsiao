@@ -1,6 +1,87 @@
 {
-  "updated": "2026-08-30 16:04 TWN",
+  "updated": "2026-08-31 16:22 TWN",
   "latestChanges": [
+    {
+      "date": 1788159302000,
+      "committedDate": "2026-08-31T06:55:02Z",
+      "header": "Initial commit",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/174739896ce4e6d5253199369e1fbb7667f8184a",
+      "sha": "1747398",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788146435000,
+      "committedDate": "2026-08-31T03:20:35Z",
+      "header": "chore(m2-apex): publish v0.4.2",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/dc25f55425645f0a34829bf7dcc5ef59c8e11da7",
+      "sha": "dc25f55",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788146190000,
+      "committedDate": "2026-08-31T03:16:30Z",
+      "header": "chore(release): bump version to 0.4.2 (#121)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/661f9035466d03785b321cf5aeec88b411df694e",
+      "sha": "661f903",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788142963000,
+      "committedDate": "2026-08-31T02:22:43Z",
+      "header": "UPDATE Download Asset",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/0a3b84884e10df7cfdddf070c5b48f205b10b0d7",
+      "sha": "0a3b848",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788142800000,
+      "committedDate": "2026-08-31T02:20:00Z",
+      "header": "feat: let an administrator choose the clock timestamps are read against",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/2b46aac100b2e4636a7d1c822eb00588505a9e7e",
+      "sha": "2b46aac",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788140312000,
+      "committedDate": "2026-08-31T01:38:32Z",
+      "header": "fix: recover the double-Ctrl hotkey after a cold boot",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/c0eb90830c5a683b8c4ddf9ef9684ce02c830a51",
+      "sha": "c0eb908",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788138610000,
+      "committedDate": "2026-08-31T01:10:10Z",
+      "header": "chore(dev-deps): bump @napi-rs/canvas in the npm-minor-and-patch group",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/05768eb53f20883e42d192e5548eb42dd3cc5169",
+      "sha": "05768eb",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1788138574000,
+      "committedDate": "2026-08-31T01:09:34Z",
+      "header": "chore(dev-deps): bump the vite-vitest-toolchain group with 2 updates",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/f6d9f4f17c4d4041b4a5e5fac5f3a1daa05dd0ad",
+      "sha": "f6d9f4f",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1788078425000,
+      "committedDate": "2026-08-30T08:27:05Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/67405b86e4659d3e7ec45dd5137d3679fb770dea",
+      "sha": "67405b8",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1787994892000,
       "committedDate": "2026-08-29T09:14:52Z",
@@ -9,87 +90,6 @@
       "url": "https://github.com/M2Station/.github/commit/a991c38edbfe97ab3d61d08a739f05555acda957",
       "sha": "a991c38",
       "login": "github-actions[bot]"
-    },
-    {
-      "date": 1787927331000,
-      "committedDate": "2026-08-28T14:28:51Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/acdaec756dea47e906f981e9973eb85e05be136b",
-      "sha": "acdaec7",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1787905962000,
-      "committedDate": "2026-08-28T08:32:42Z",
-      "header": "refine Team Download Picture",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/dbf2cd4baec33881cf6037642f7a65cd49789813",
-      "sha": "dbf2cd4",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787905574000,
-      "committedDate": "2026-08-28T08:26:14Z",
-      "header": "re-design Team Picture download",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/95ed32e8f06e08ab25b6011bca2e1736fd7ff6cf",
-      "sha": "95ed32e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787905331000,
-      "committedDate": "2026-08-28T08:22:11Z",
-      "header": "re-design teams Download Picture",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/886f7767a62ac8965a2f5d1d74e766cc49890ee3",
-      "sha": "886f776",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787904596000,
-      "committedDate": "2026-08-28T08:09:56Z",
-      "header": "add color pick for Team dashboard",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/dc0f327b0476013933b64dc41374301d221eaea9",
-      "sha": "dc0f327",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787904047000,
-      "committedDate": "2026-08-28T08:00:47Z",
-      "header": "Update M2_INSIGHT_COLLECTOR",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/5c206d783f7c39019dc7e33afc241c1ed2e0a785",
-      "sha": "5c206d7",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1787903439000,
-      "committedDate": "2026-08-28T07:50:39Z",
-      "header": "refine M2_INSIGHT_COLLECTOR",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/e7a40f54ba504ab1164c48fcb61599ce399cb273",
-      "sha": "e7a40f5",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787902803000,
-      "committedDate": "2026-08-28T07:40:03Z",
-      "header": "refine M2_INSIGHT_COLLECTOR",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/188a3c324afd4c918111b6269697481f0119d1ae",
-      "sha": "188a3c3",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1787902124000,
-      "committedDate": "2026-08-28T07:28:44Z",
-      "header": "teams - 0 的列不再顯示",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/a27a711d20a29a55eb08024b570bee52dde327e2",
-      "sha": "a27a711",
-      "login": "oahsiao"
     }
   ]
 }
