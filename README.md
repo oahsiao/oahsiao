@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PILOT@1747398`](https://github.com/M2Station/M2_PILOT/commit/174739896ce4e6d5253199369e1fbb7667f8184a) — Initial commit · `2026-08-31` · oahsiao
-02. [`M2_PUBLIC_RELEASE@dc25f55`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/dc25f55425645f0a34829bf7dcc5ef59c8e11da7) — chore(m2-apex): publish v0.4.2 · `2026-08-31` · oahsiao
-03. [`M2_APEX@661f903`](https://github.com/M2Station/M2_APEX/commit/661f9035466d03785b321cf5aeec88b411df694e) — chore(release): bump version to 0.4.2 (#121) · `2026-08-31` · oahsiao
-04. [`M2_INSIGHT@0a3b848`](https://github.com/M2Station/M2_INSIGHT/commit/0a3b84884e10df7cfdddf070c5b48f205b10b0d7) — UPDATE Download Asset · `2026-08-31` · OA Hsiao
-05. [`M2_INSIGHT@2b46aac`](https://github.com/M2Station/M2_INSIGHT/commit/2b46aac100b2e4636a7d1c822eb00588505a9e7e) — feat: let an administrator choose the clock timestamps ar... · `2026-08-31` · oahsiao
-06. [`M2_APEX@c0eb908`](https://github.com/M2Station/M2_APEX/commit/c0eb90830c5a683b8c4ddf9ef9684ce02c830a51) — fix: recover the double-Ctrl hotkey after a cold boot · `2026-08-31` · oahsiao
-07. [`M2_GIT_DIFF@05768eb`](https://github.com/M2Station/M2_GIT_DIFF/commit/05768eb53f20883e42d192e5548eb42dd3cc5169) — chore(dev-deps): bump @napi-rs/canvas in the npm-minor-an... · `2026-08-31` · dependabot[bot]
-08. [`M2_GIT_DIFF@f6d9f4f`](https://github.com/M2Station/M2_GIT_DIFF/commit/f6d9f4f17c4d4041b4a5e5fac5f3a1daa05dd0ad) — chore(dev-deps): bump the vite-vitest-toolchain group wit... · `2026-08-31` · dependabot[bot]
-09. [`.github@67405b8`](https://github.com/M2Station/.github/commit/67405b86e4659d3e7ec45dd5137d3679fb770dea) — chore: sync latest changes [skip ci] · `2026-08-30` · github-actions[bot]
-10. [`.github@a991c38`](https://github.com/M2Station/.github/commit/a991c38edbfe97ab3d61d08a739f05555acda957) — chore: sync latest changes [skip ci] · `2026-08-29` · github-actions[bot]
+01. [`M2_PILOT@19b459f`](https://github.com/M2Station/M2_PILOT/commit/19b459f668a11b7f24139ef970d79886ca059e81) — [M2_PILOT] Add DUT discovery scan and hardware reporting · `2026-09-01` · OA Hsiao
+02. [`M2_PUBLIC_RELEASE@479b57a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/479b57a57f6f9108c394515aa692f7f2fd76934b) — chore(m2-apex): publish v0.4.3 · `2026-09-01` · oahsiao
+03. [`M2_APEX@1e3f7b9`](https://github.com/M2Station/M2_APEX/commit/1e3f7b9fa896317b1ff11a46da5c3547d9991251) — chore(release): bump version to 0.4.3 (#122) · `2026-09-01` · oahsiao
+04. [`M2_APEX@f71b221`](https://github.com/M2Station/M2_APEX/commit/f71b221af737637cb452910ef445be26a0a3a045) — fix(explorer): isolate Explorer bridge calls from the UI ... · `2026-08-31` · oahsiao
+05. [`M2_WIKI@e6b9d92`](https://github.com/M2Station/M2_WIKI/commit/e6b9d92b0318436d07c99a860a81ce3de6b2c43d) — +INFO_INTEL_BOOTGUARD.md:LMS · `2026-08-31` · asuka-wu
+06. [`M2_PILOT@7612167`](https://github.com/M2Station/M2_PILOT/commit/7612167f9a84fd5289e1855c680017f8d7a5122e) — Init version. · `2026-08-31` · oahsiao
+07. [`M2_PILOT@3117307`](https://github.com/M2Station/M2_PILOT/commit/31173078a55900be4e036b0027e50f34918423e6) — update the draft · `2026-08-31` · OA Hsiao
+08. [`.github@b1bacac`](https://github.com/M2Station/.github/commit/b1bacacd9d6b993aece2456876db73c8febe3f7e) — chore: sync latest changes [skip ci] · `2026-08-31` · github-actions[bot]
+09. [`M2_PILOT@1747398`](https://github.com/M2Station/M2_PILOT/commit/174739896ce4e6d5253199369e1fbb7667f8184a) — Initial commit · `2026-08-31` · oahsiao
+10. [`M2_PUBLIC_RELEASE@dc25f55`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/dc25f55425645f0a34829bf7dcc5ef59c8e11da7) — chore(m2-apex): publish v0.4.2 · `2026-08-31` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

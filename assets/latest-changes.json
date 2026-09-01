@@ -1,6 +1,78 @@
 {
-  "updated": "2026-08-31 16:22 TWN",
+  "updated": "2026-09-01 15:30 TWN",
   "latestChanges": [
+    {
+      "date": 1788245280000,
+      "committedDate": "2026-09-01T06:48:00Z",
+      "header": "[M2_PILOT] Add DUT discovery scan and hardware reporting",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/19b459f668a11b7f24139ef970d79886ca059e81",
+      "sha": "19b459f",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788239017000,
+      "committedDate": "2026-09-01T05:03:37Z",
+      "header": "chore(m2-apex): publish v0.4.3",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/479b57a57f6f9108c394515aa692f7f2fd76934b",
+      "sha": "479b57a",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788238788000,
+      "committedDate": "2026-09-01T04:59:48Z",
+      "header": "chore(release): bump version to 0.4.3 (#122)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/1e3f7b9fa896317b1ff11a46da5c3547d9991251",
+      "sha": "1e3f7b9",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788173029000,
+      "committedDate": "2026-08-31T10:43:49Z",
+      "header": "fix(explorer): isolate Explorer bridge calls from the UI thread",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/f71b221af737637cb452910ef445be26a0a3a045",
+      "sha": "f71b221",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788169982000,
+      "committedDate": "2026-08-31T09:53:02Z",
+      "header": "+INFO_INTEL_BOOTGUARD.md:LMS",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/e6b9d92b0318436d07c99a860a81ce3de6b2c43d",
+      "sha": "e6b9d92",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1788169003000,
+      "committedDate": "2026-08-31T09:36:43Z",
+      "header": "Init version.",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/7612167f9a84fd5289e1855c680017f8d7a5122e",
+      "sha": "7612167",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788167695000,
+      "committedDate": "2026-08-31T09:14:55Z",
+      "header": "update the draft",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/31173078a55900be4e036b0027e50f34918423e6",
+      "sha": "3117307",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788166031000,
+      "committedDate": "2026-08-31T08:47:11Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/b1bacacd9d6b993aece2456876db73c8febe3f7e",
+      "sha": "b1bacac",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1788159302000,
       "committedDate": "2026-08-31T06:55:02Z",
@@ -18,78 +90,6 @@
       "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/dc25f55425645f0a34829bf7dcc5ef59c8e11da7",
       "sha": "dc25f55",
       "login": "oahsiao"
-    },
-    {
-      "date": 1788146190000,
-      "committedDate": "2026-08-31T03:16:30Z",
-      "header": "chore(release): bump version to 0.4.2 (#121)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/661f9035466d03785b321cf5aeec88b411df694e",
-      "sha": "661f903",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1788142963000,
-      "committedDate": "2026-08-31T02:22:43Z",
-      "header": "UPDATE Download Asset",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/0a3b84884e10df7cfdddf070c5b48f205b10b0d7",
-      "sha": "0a3b848",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1788142800000,
-      "committedDate": "2026-08-31T02:20:00Z",
-      "header": "feat: let an administrator choose the clock timestamps are read against",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/2b46aac100b2e4636a7d1c822eb00588505a9e7e",
-      "sha": "2b46aac",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1788140312000,
-      "committedDate": "2026-08-31T01:38:32Z",
-      "header": "fix: recover the double-Ctrl hotkey after a cold boot",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/c0eb90830c5a683b8c4ddf9ef9684ce02c830a51",
-      "sha": "c0eb908",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1788138610000,
-      "committedDate": "2026-08-31T01:10:10Z",
-      "header": "chore(dev-deps): bump @napi-rs/canvas in the npm-minor-and-patch group",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/05768eb53f20883e42d192e5548eb42dd3cc5169",
-      "sha": "05768eb",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1788138574000,
-      "committedDate": "2026-08-31T01:09:34Z",
-      "header": "chore(dev-deps): bump the vite-vitest-toolchain group with 2 updates",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/f6d9f4f17c4d4041b4a5e5fac5f3a1daa05dd0ad",
-      "sha": "f6d9f4f",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1788078425000,
-      "committedDate": "2026-08-30T08:27:05Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/67405b86e4659d3e7ec45dd5137d3679fb770dea",
-      "sha": "67405b8",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1787994892000,
-      "committedDate": "2026-08-29T09:14:52Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/a991c38edbfe97ab3d61d08a739f05555acda957",
-      "sha": "a991c38",
-      "login": "github-actions[bot]"
     }
   ]
 }
