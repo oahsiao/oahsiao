@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PILOT@19b459f`](https://github.com/M2Station/M2_PILOT/commit/19b459f668a11b7f24139ef970d79886ca059e81) — [M2_PILOT] Add DUT discovery scan and hardware reporting · `2026-09-01` · OA Hsiao
-02. [`M2_PUBLIC_RELEASE@479b57a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/479b57a57f6f9108c394515aa692f7f2fd76934b) — chore(m2-apex): publish v0.4.3 · `2026-09-01` · oahsiao
-03. [`M2_APEX@1e3f7b9`](https://github.com/M2Station/M2_APEX/commit/1e3f7b9fa896317b1ff11a46da5c3547d9991251) — chore(release): bump version to 0.4.3 (#122) · `2026-09-01` · oahsiao
-04. [`M2_APEX@f71b221`](https://github.com/M2Station/M2_APEX/commit/f71b221af737637cb452910ef445be26a0a3a045) — fix(explorer): isolate Explorer bridge calls from the UI ... · `2026-08-31` · oahsiao
-05. [`M2_WIKI@e6b9d92`](https://github.com/M2Station/M2_WIKI/commit/e6b9d92b0318436d07c99a860a81ce3de6b2c43d) — +INFO_INTEL_BOOTGUARD.md:LMS · `2026-08-31` · asuka-wu
-06. [`M2_PILOT@7612167`](https://github.com/M2Station/M2_PILOT/commit/7612167f9a84fd5289e1855c680017f8d7a5122e) — Init version. · `2026-08-31` · oahsiao
-07. [`M2_PILOT@3117307`](https://github.com/M2Station/M2_PILOT/commit/31173078a55900be4e036b0027e50f34918423e6) — update the draft · `2026-08-31` · OA Hsiao
-08. [`.github@b1bacac`](https://github.com/M2Station/.github/commit/b1bacacd9d6b993aece2456876db73c8febe3f7e) — chore: sync latest changes [skip ci] · `2026-08-31` · github-actions[bot]
-09. [`M2_PILOT@1747398`](https://github.com/M2Station/M2_PILOT/commit/174739896ce4e6d5253199369e1fbb7667f8184a) — Initial commit · `2026-08-31` · oahsiao
-10. [`M2_PUBLIC_RELEASE@dc25f55`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/dc25f55425645f0a34829bf7dcc5ef59c8e11da7) — chore(m2-apex): publish v0.4.2 · `2026-08-31` · oahsiao
+01. [`M2_PUBLIC_RELEASE@9c47d50`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/9c47d50d951ff957675b8d94949eb524a54f5683) — chore(m2-prompt): publish v0.4.3 · `2026-09-02` · oahsiao
+02. [`M2_PROMPT@3de827a`](https://github.com/M2Station/M2_PROMPT/commit/3de827a524fc67e582553a7cd410dac53e75c3c0) — chore(release): bump version to 0.4.3 (#18) · `2026-09-02` · oahsiao
+03. [`M2_PROMPT@c785a3f`](https://github.com/M2Station/M2_PROMPT/commit/c785a3f3bbf990d32d15cded9be4b86846c425d3) — Add Llama.cpp rollback mechanism. · `2026-09-02` · oahsiao
+04. [`M2_PILOT@061ac58`](https://github.com/M2Station/M2_PILOT/commit/061ac583dc2369ee946633e51d792393028af62f) — MCP Server Http endpoint API · `2026-09-02` · OA Hsiao
+05. [`M2_WIKI@7d523c0`](https://github.com/M2Station/M2_WIKI/commit/7d523c07b055e41dca65fd4bf44669473eb77682) — AI Policy · `2026-09-02` · UncleRyanR
+06. [`M2_WIKI@6e2e094`](https://github.com/M2Station/M2_WIKI/commit/6e2e094701ad821cac48c8801adfef37c30aa89d) — Retimer Capsule Update process · `2026-09-02` · Capo Huang
+07. [`M2_PILOT@68aff1b`](https://github.com/M2Station/M2_PILOT/commit/68aff1b9484b227981880d45f2e690d05dc45b9f) — refine tool · `2026-09-01` · OA Hsiao
+08. [`M2_PILOT@b46f10e`](https://github.com/M2Station/M2_PILOT/commit/b46f10e503389166bd28128a89c985ae7d6dc108) — FIX DUT AGENT FAIL · `2026-09-01` · OA Hsiao
+09. [`M2_PILOT@4af491b`](https://github.com/M2Station/M2_PILOT/commit/4af491b3a43ea954ca08174c4b93b408d54d0a54) — add function for DUE AGENT -setup · `2026-09-01` · OA Hsiao
+10. [`M2_PILOT@cbe2751`](https://github.com/M2Station/M2_PILOT/commit/cbe2751a8d72f91363ce3939a187b161aa29a2a9) — Update Test Plan and DUT agent · `2026-09-01` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
