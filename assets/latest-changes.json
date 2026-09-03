@@ -1,95 +1,95 @@
 {
-  "updated": "2026-09-02 14:56 TWN",
+  "updated": "2026-09-03 15:00 TWN",
   "latestChanges": [
     {
-      "date": 1788325537000,
-      "committedDate": "2026-09-02T05:05:37Z",
-      "header": "chore(m2-prompt): publish v0.4.3",
+      "date": 1788418828000,
+      "committedDate": "2026-09-03T07:00:28Z",
+      "header": "chore(m2-apex): publish v0.4.4",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/9c47d50d951ff957675b8d94949eb524a54f5683",
-      "sha": "9c47d50",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2db05efbd8c2b3f08fa308c0af3cbe2c41d1b382",
+      "sha": "2db05ef",
       "login": "oahsiao"
     },
     {
-      "date": 1788324890000,
-      "committedDate": "2026-09-02T04:54:50Z",
-      "header": "chore(release): bump version to 0.4.3 (#18)",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/3de827a524fc67e582553a7cd410dac53e75c3c0",
-      "sha": "3de827a",
-      "login": "oahsiao"
+      "date": 1788418570000,
+      "committedDate": "2026-09-03T06:56:10Z",
+      "header": "chore(release): bump version to 0.4.4 (#124)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/f254c995d721c6d1a81c8f207a0e8d90fa53b5aa",
+      "sha": "f254c99",
+      "login": "erickuo1111"
     },
     {
-      "date": 1788324382000,
-      "committedDate": "2026-09-02T04:46:22Z",
-      "header": "Add Llama.cpp rollback mechanism.",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/c785a3f3bbf990d32d15cded9be4b86846c425d3",
-      "sha": "c785a3f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1788318387000,
-      "committedDate": "2026-09-02T03:06:27Z",
-      "header": "MCP Server Http endpoint API",
+      "date": 1788417949000,
+      "committedDate": "2026-09-03T06:45:49Z",
+      "header": "DUE AGENT 已改成「先移除、再註冊」。",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/061ac583dc2369ee946633e51d792393028af62f",
-      "sha": "061ac58",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/c5fb8250ca6f35f52d0647110c0570428174be5b",
+      "sha": "c5fb825",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788318275000,
-      "committedDate": "2026-09-02T03:04:35Z",
-      "header": "AI Policy",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/7d523c07b055e41dca65fd4bf44669473eb77682",
-      "sha": "7d523c0",
-      "login": "UncleRyanR"
+      "date": 1788416798000,
+      "committedDate": "2026-09-03T06:26:38Z",
+      "header": "fix(hotkey): keep the double-Ctrl gesture alive through a cold boot (#123)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/9c3ca3e16e15bad344223568a8591c4d7a745094",
+      "sha": "9c3ca3e",
+      "login": "erickuo1111"
     },
     {
-      "date": 1788313718000,
-      "committedDate": "2026-09-02T01:48:38Z",
-      "header": "Retimer Capsule Update process",
+      "date": 1788416063000,
+      "committedDate": "2026-09-03T06:14:23Z",
+      "header": "update DUE Setup",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/b0b8415896ead3ab840572df473136e8c3c6a32d",
+      "sha": "b0b8415",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788415859000,
+      "committedDate": "2026-09-03T06:10:59Z",
+      "header": "QC_UEFI, QC_UEFI_TECH_NOTE, RF_BDF: link to the new DPP page",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/6e2e094701ad821cac48c8801adfef37c30aa89d",
-      "sha": "6e2e094",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/1eff919a63c973724ed5b8b37830026728c200f6",
+      "sha": "1eff919",
+      "login": "aaaaaayo"
+    },
+    {
+      "date": 1788415859000,
+      "committedDate": "2026-09-03T06:10:59Z",
+      "header": "MICROSOFT_QC_DPP: add DPP and NIST critical-data resilience page",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/94f546239625c474b83dc20816459688c5157450",
+      "sha": "94f5462",
+      "login": "aaaaaayo"
+    },
+    {
+      "date": 1788412023000,
+      "committedDate": "2026-09-03T05:07:03Z",
+      "header": "fix DUT AGENT",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/2ddfe592ed678f24f4f980d9f6cf06b9378d9afd",
+      "sha": "2ddfe59",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788406924000,
+      "committedDate": "2026-09-03T03:42:04Z",
+      "header": "Add copy bug to Intel.",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/0e1ea06cee6b00207f183f0fa38ae49a5f9cba65",
+      "sha": "0e1ea06",
+      "login": "VickyLinTW"
+    },
+    {
+      "date": 1788400557000,
+      "committedDate": "2026-09-03T01:55:57Z",
+      "header": "Refine \"Retimer Capsule Update Flow and Failure Behavior\"",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/0e72d7fa3d87c4daff5627c8769ec52816024cb1",
+      "sha": "0e72d7f",
       "login": "Capo Huang"
-    },
-    {
-      "date": 1788266044000,
-      "committedDate": "2026-09-01T12:34:04Z",
-      "header": "refine tool",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/68aff1b9484b227981880d45f2e690d05dc45b9f",
-      "sha": "68aff1b",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1788262829000,
-      "committedDate": "2026-09-01T11:40:29Z",
-      "header": "FIX DUT AGENT FAIL",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/b46f10e503389166bd28128a89c985ae7d6dc108",
-      "sha": "b46f10e",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1788261496000,
-      "committedDate": "2026-09-01T11:18:16Z",
-      "header": "add function for DUE AGENT -setup",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/4af491b3a43ea954ca08174c4b93b408d54d0a54",
-      "sha": "4af491b",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1788260570000,
-      "committedDate": "2026-09-01T11:02:50Z",
-      "header": "Update Test Plan and DUT agent",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/cbe2751a8d72f91363ce3939a187b161aa29a2a9",
-      "sha": "cbe2751",
-      "login": "OA Hsiao"
     }
   ]
 }

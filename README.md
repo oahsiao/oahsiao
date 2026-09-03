@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PUBLIC_RELEASE@9c47d50`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/9c47d50d951ff957675b8d94949eb524a54f5683) — chore(m2-prompt): publish v0.4.3 · `2026-09-02` · oahsiao
-02. [`M2_PROMPT@3de827a`](https://github.com/M2Station/M2_PROMPT/commit/3de827a524fc67e582553a7cd410dac53e75c3c0) — chore(release): bump version to 0.4.3 (#18) · `2026-09-02` · oahsiao
-03. [`M2_PROMPT@c785a3f`](https://github.com/M2Station/M2_PROMPT/commit/c785a3f3bbf990d32d15cded9be4b86846c425d3) — Add Llama.cpp rollback mechanism. · `2026-09-02` · oahsiao
-04. [`M2_PILOT@061ac58`](https://github.com/M2Station/M2_PILOT/commit/061ac583dc2369ee946633e51d792393028af62f) — MCP Server Http endpoint API · `2026-09-02` · OA Hsiao
-05. [`M2_WIKI@7d523c0`](https://github.com/M2Station/M2_WIKI/commit/7d523c07b055e41dca65fd4bf44669473eb77682) — AI Policy · `2026-09-02` · UncleRyanR
-06. [`M2_WIKI@6e2e094`](https://github.com/M2Station/M2_WIKI/commit/6e2e094701ad821cac48c8801adfef37c30aa89d) — Retimer Capsule Update process · `2026-09-02` · Capo Huang
-07. [`M2_PILOT@68aff1b`](https://github.com/M2Station/M2_PILOT/commit/68aff1b9484b227981880d45f2e690d05dc45b9f) — refine tool · `2026-09-01` · OA Hsiao
-08. [`M2_PILOT@b46f10e`](https://github.com/M2Station/M2_PILOT/commit/b46f10e503389166bd28128a89c985ae7d6dc108) — FIX DUT AGENT FAIL · `2026-09-01` · OA Hsiao
-09. [`M2_PILOT@4af491b`](https://github.com/M2Station/M2_PILOT/commit/4af491b3a43ea954ca08174c4b93b408d54d0a54) — add function for DUE AGENT -setup · `2026-09-01` · OA Hsiao
-10. [`M2_PILOT@cbe2751`](https://github.com/M2Station/M2_PILOT/commit/cbe2751a8d72f91363ce3939a187b161aa29a2a9) — Update Test Plan and DUT agent · `2026-09-01` · OA Hsiao
+01. [`M2_PUBLIC_RELEASE@2db05ef`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2db05efbd8c2b3f08fa308c0af3cbe2c41d1b382) — chore(m2-apex): publish v0.4.4 · `2026-09-03` · oahsiao
+02. [`M2_APEX@f254c99`](https://github.com/M2Station/M2_APEX/commit/f254c995d721c6d1a81c8f207a0e8d90fa53b5aa) — chore(release): bump version to 0.4.4 (#124) · `2026-09-03` · erickuo1111
+03. [`M2_PILOT@c5fb825`](https://github.com/M2Station/M2_PILOT/commit/c5fb8250ca6f35f52d0647110c0570428174be5b) — DUE AGENT 已改成「先移除、再註冊」。 · `2026-09-03` · OA Hsiao
+04. [`M2_APEX@9c3ca3e`](https://github.com/M2Station/M2_APEX/commit/9c3ca3e16e15bad344223568a8591c4d7a745094) — fix(hotkey): keep the double-Ctrl gesture alive through a... · `2026-09-03` · erickuo1111
+05. [`M2_PILOT@b0b8415`](https://github.com/M2Station/M2_PILOT/commit/b0b8415896ead3ab840572df473136e8c3c6a32d) — update DUE Setup · `2026-09-03` · OA Hsiao
+06. [`M2_WIKI@1eff919`](https://github.com/M2Station/M2_WIKI/commit/1eff919a63c973724ed5b8b37830026728c200f6) — QC_UEFI, QC_UEFI_TECH_NOTE, RF_BDF: link to the new DPP page · `2026-09-03` · aaaaaayo
+07. [`M2_WIKI@94f5462`](https://github.com/M2Station/M2_WIKI/commit/94f546239625c474b83dc20816459688c5157450) — MICROSOFT_QC_DPP: add DPP and NIST critical-data resilien... · `2026-09-03` · aaaaaayo
+08. [`M2_PILOT@2ddfe59`](https://github.com/M2Station/M2_PILOT/commit/2ddfe592ed678f24f4f980d9f6cf06b9378d9afd) — fix DUT AGENT · `2026-09-03` · OA Hsiao
+09. [`M2_WIKI@0e1ea06`](https://github.com/M2Station/M2_WIKI/commit/0e1ea06cee6b00207f183f0fa38ae49a5f9cba65) — Add copy bug to Intel. · `2026-09-03` · VickyLinTW
+10. [`M2_WIKI@0e72d7f`](https://github.com/M2Station/M2_WIKI/commit/0e72d7fa3d87c4daff5627c8769ec52816024cb1) — Refine "Retimer Capsule Update Flow and Failure Behavior" · `2026-09-03` · Capo Huang
 <!-- LATEST-CHANGES:END -->
 
 ---
