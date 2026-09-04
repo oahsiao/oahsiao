@@ -22,7 +22,7 @@
       <animate attributeName="height" from="0" to="1" dur="1s" begin="0.12s" fill="freeze"/>
       <animate attributeName="y" from="94" to="93" dur="1s" begin="0.12s" fill="freeze"/>
     </rect>
-    <rect x="110" y="93" width="16" height="1" fill="#00f5d4" opacity="0.17" rx="1">
+    <rect x="110" y="93" width="16" height="1" fill="#00f5d4" opacity="0.16" rx="1">
       <animate attributeName="height" from="0" to="1" dur="1s" begin="0.15s" fill="freeze"/>
       <animate attributeName="y" from="94" to="93" dur="1s" begin="0.15s" fill="freeze"/>
     </rect>
@@ -42,9 +42,9 @@
       <animate attributeName="height" from="0" to="22" dur="1s" begin="0.27s" fill="freeze"/>
       <animate attributeName="y" from="94" to="72" dur="1s" begin="0.27s" fill="freeze"/>
     </rect>
-    <rect x="200" y="57" width="16" height="37" fill="#00f5d4" opacity="0.62" rx="1">
-      <animate attributeName="height" from="0" to="37" dur="1s" begin="0.30s" fill="freeze"/>
-      <animate attributeName="y" from="94" to="57" dur="1s" begin="0.30s" fill="freeze"/>
+    <rect x="200" y="56" width="16" height="38" fill="#00f5d4" opacity="0.62" rx="1">
+      <animate attributeName="height" from="0" to="38" dur="1s" begin="0.30s" fill="freeze"/>
+      <animate attributeName="y" from="94" to="56" dur="1s" begin="0.30s" fill="freeze"/>
     </rect>
     <rect x="218" y="48" width="16" height="46" fill="#00f5d4" opacity="0.72" rx="1">
       <animate attributeName="height" from="0" to="46" dur="1s" begin="0.33s" fill="freeze"/>
@@ -54,13 +54,13 @@
       <animate attributeName="height" from="0" to="38" dur="1s" begin="0.36s" fill="freeze"/>
       <animate attributeName="y" from="94" to="56" dur="1s" begin="0.36s" fill="freeze"/>
     </rect>
-    <text x="244" y="106" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">12</text><rect x="254" y="56" width="16" height="38" fill="#00f5d4" opacity="0.63" rx="1">
-      <animate attributeName="height" from="0" to="38" dur="1s" begin="0.39s" fill="freeze"/>
-      <animate attributeName="y" from="94" to="56" dur="1s" begin="0.39s" fill="freeze"/>
+    <text x="244" y="106" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">12</text><rect x="254" y="55" width="16" height="39" fill="#00f5d4" opacity="0.63" rx="1">
+      <animate attributeName="height" from="0" to="39" dur="1s" begin="0.39s" fill="freeze"/>
+      <animate attributeName="y" from="94" to="55" dur="1s" begin="0.39s" fill="freeze"/>
     </rect>
-    <rect x="272" y="46" width="16" height="48" fill="#00f5d4" opacity="0.75" rx="1">
-      <animate attributeName="height" from="0" to="48" dur="1s" begin="0.42s" fill="freeze"/>
-      <animate attributeName="y" from="94" to="46" dur="1s" begin="0.42s" fill="freeze"/>
+    <rect x="272" y="47" width="16" height="47" fill="#00f5d4" opacity="0.74" rx="1">
+      <animate attributeName="height" from="0" to="47" dur="1s" begin="0.42s" fill="freeze"/>
+      <animate attributeName="y" from="94" to="47" dur="1s" begin="0.42s" fill="freeze"/>
     </rect>
     <rect x="290" y="34" width="16" height="60" fill="#00f5d4" opacity="0.90" rx="1">
       <animate attributeName="height" from="0" to="60" dur="1s" begin="0.45s" fill="freeze"/>
@@ -82,7 +82,7 @@
       <animate attributeName="height" from="0" to="30" dur="1s" begin="0.57s" fill="freeze"/>
       <animate attributeName="y" from="94" to="64" dur="1s" begin="0.57s" fill="freeze"/>
     </rect>
-    <rect x="380" y="77" width="16" height="17" fill="#00f5d4" opacity="0.36" rx="1">
+    <rect x="380" y="77" width="16" height="17" fill="#00f5d4" opacity="0.37" rx="1">
       <animate attributeName="height" from="0" to="17" dur="1s" begin="0.60s" fill="freeze"/>
       <animate attributeName="y" from="94" to="77" dur="1s" begin="0.60s" fill="freeze"/>
     </rect>
@@ -99,5 +99,5 @@
       <animate attributeName="y" from="94" to="84" dur="1s" begin="0.69s" fill="freeze"/>
     </rect>
     <text x="442" y="106" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">23</text>
-  <text x="240" y="124" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-09-03 15:00 TWN</text>
+  <text x="240" y="124" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-09-04 15:05 TWN</text>
 </svg>

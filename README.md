@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PUBLIC_RELEASE@2db05ef`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2db05efbd8c2b3f08fa308c0af3cbe2c41d1b382) — chore(m2-apex): publish v0.4.4 · `2026-09-03` · oahsiao
-02. [`M2_APEX@f254c99`](https://github.com/M2Station/M2_APEX/commit/f254c995d721c6d1a81c8f207a0e8d90fa53b5aa) — chore(release): bump version to 0.4.4 (#124) · `2026-09-03` · erickuo1111
-03. [`M2_PILOT@c5fb825`](https://github.com/M2Station/M2_PILOT/commit/c5fb8250ca6f35f52d0647110c0570428174be5b) — DUE AGENT 已改成「先移除、再註冊」。 · `2026-09-03` · OA Hsiao
-04. [`M2_APEX@9c3ca3e`](https://github.com/M2Station/M2_APEX/commit/9c3ca3e16e15bad344223568a8591c4d7a745094) — fix(hotkey): keep the double-Ctrl gesture alive through a... · `2026-09-03` · erickuo1111
-05. [`M2_PILOT@b0b8415`](https://github.com/M2Station/M2_PILOT/commit/b0b8415896ead3ab840572df473136e8c3c6a32d) — update DUE Setup · `2026-09-03` · OA Hsiao
-06. [`M2_WIKI@1eff919`](https://github.com/M2Station/M2_WIKI/commit/1eff919a63c973724ed5b8b37830026728c200f6) — QC_UEFI, QC_UEFI_TECH_NOTE, RF_BDF: link to the new DPP page · `2026-09-03` · aaaaaayo
-07. [`M2_WIKI@94f5462`](https://github.com/M2Station/M2_WIKI/commit/94f546239625c474b83dc20816459688c5157450) — MICROSOFT_QC_DPP: add DPP and NIST critical-data resilien... · `2026-09-03` · aaaaaayo
-08. [`M2_PILOT@2ddfe59`](https://github.com/M2Station/M2_PILOT/commit/2ddfe592ed678f24f4f980d9f6cf06b9378d9afd) — fix DUT AGENT · `2026-09-03` · OA Hsiao
-09. [`M2_WIKI@0e1ea06`](https://github.com/M2Station/M2_WIKI/commit/0e1ea06cee6b00207f183f0fa38ae49a5f9cba65) — Add copy bug to Intel. · `2026-09-03` · VickyLinTW
-10. [`M2_WIKI@0e72d7f`](https://github.com/M2Station/M2_WIKI/commit/0e72d7fa3d87c4daff5627c8769ec52816024cb1) — Refine "Retimer Capsule Update Flow and Failure Behavior" · `2026-09-03` · Capo Huang
+01. [`M2_PUBLIC_RELEASE@5133a48`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5133a4818366011dc399b7acc43ff2cac5aed0e3) — chore(m2-prompt): publish v0.4.4 · `2026-09-04` · oahsiao
+02. [`M2_PROMPT@003f774`](https://github.com/M2Station/M2_PROMPT/commit/003f7747d982d613d7339044480ceabae1214c4b) — chore(release): bump version to 0.4.4 (#19) · `2026-09-04` · erickuo1111
+03. [`M2_PROMPT@f3a0a86`](https://github.com/M2Station/M2_PROMPT/commit/f3a0a86ff4bd99111a8df1c78c717a6f42989807) — FIX　LOCAL AI 的 測試 LOCAL AI 會出現錯誤 · `2026-09-04` · OA Hsiao
+04. [`M2_PILOT@d9c5777`](https://github.com/M2Station/M2_PILOT/commit/d9c5777461a70fbb7a6a041b92ad003e6806bca2) — feat(m2-pilot): add capsule verification and fix test pla... · `2026-09-04` · OA Hsiao
+05. [`M2_PUBLIC_RELEASE@f71fcc2`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f71fcc24b5f4cdb317e37c45ebb75ccea3d276d5) — chore(m2-apex): publish v0.4.8 · `2026-09-04` · oahsiao
+06. [`M2_APEX@f9a1b94`](https://github.com/M2Station/M2_APEX/commit/f9a1b94f1d688a391f8d30525e3a9605894a0edd) — chore(release): bump version to 0.4.8 (#130) · `2026-09-04` · erickuo1111
+07. [`M2_APEX@65dd5c0`](https://github.com/M2Station/M2_APEX/commit/65dd5c0b939d90ce2eb6df0b27cd22997e3351ac) — change default to enable to avoid 主電腦 不停地被觸發 · `2026-09-04` · oahsiao
+08. [`M2_PILOT@e9ce09d`](https://github.com/M2Station/M2_PILOT/commit/e9ce09d507415781b528c13c18b1114ee6b26cd8) — fix(test-plan): restore test item actions after adding a ... · `2026-09-04` · OA Hsiao
+09. [`M2_PUBLIC_RELEASE@24d43db`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/24d43dbca0b8f119567ce1b2074cf47c5300dd96) — chore(m2-apex): publish v0.4.7 · `2026-09-04` · oahsiao
+10. [`M2_APEX@d3f009c`](https://github.com/M2Station/M2_APEX/commit/d3f009cbeff70a2bab29f388787af111e624801d) — chore(release): bump version to 0.4.7 (#129) · `2026-09-04` · erickuo1111
 <!-- LATEST-CHANGES:END -->
 
 ---

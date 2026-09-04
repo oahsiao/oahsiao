@@ -1,95 +1,95 @@
 {
-  "updated": "2026-09-03 15:00 TWN",
+  "updated": "2026-09-04 15:05 TWN",
   "latestChanges": [
     {
-      "date": 1788418828000,
-      "committedDate": "2026-09-03T07:00:28Z",
-      "header": "chore(m2-apex): publish v0.4.4",
+      "date": 1788501022000,
+      "committedDate": "2026-09-04T05:50:22Z",
+      "header": "chore(m2-prompt): publish v0.4.4",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2db05efbd8c2b3f08fa308c0af3cbe2c41d1b382",
-      "sha": "2db05ef",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5133a4818366011dc399b7acc43ff2cac5aed0e3",
+      "sha": "5133a48",
       "login": "oahsiao"
     },
     {
-      "date": 1788418570000,
-      "committedDate": "2026-09-03T06:56:10Z",
-      "header": "chore(release): bump version to 0.4.4 (#124)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/f254c995d721c6d1a81c8f207a0e8d90fa53b5aa",
-      "sha": "f254c99",
+      "date": 1788500337000,
+      "committedDate": "2026-09-04T05:38:57Z",
+      "header": "chore(release): bump version to 0.4.4 (#19)",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/003f7747d982d613d7339044480ceabae1214c4b",
+      "sha": "003f774",
       "login": "erickuo1111"
     },
     {
-      "date": 1788417949000,
-      "committedDate": "2026-09-03T06:45:49Z",
-      "header": "DUE AGENT 已改成「先移除、再註冊」。",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/c5fb8250ca6f35f52d0647110c0570428174be5b",
-      "sha": "c5fb825",
+      "date": 1788499877000,
+      "committedDate": "2026-09-04T05:31:17Z",
+      "header": "FIX　LOCAL AI 的 測試 LOCAL AI 會出現錯誤",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/f3a0a86ff4bd99111a8df1c78c717a6f42989807",
+      "sha": "f3a0a86",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788416798000,
-      "committedDate": "2026-09-03T06:26:38Z",
-      "header": "fix(hotkey): keep the double-Ctrl gesture alive through a cold boot (#123)",
+      "date": 1788499168000,
+      "committedDate": "2026-09-04T05:19:28Z",
+      "header": "feat(m2-pilot): add capsule verification and fix test plan editing gaps",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/d9c5777461a70fbb7a6a041b92ad003e6806bca2",
+      "sha": "d9c5777",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788496827000,
+      "committedDate": "2026-09-04T04:40:27Z",
+      "header": "chore(m2-apex): publish v0.4.8",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f71fcc24b5f4cdb317e37c45ebb75ccea3d276d5",
+      "sha": "f71fcc2",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788496631000,
+      "committedDate": "2026-09-04T04:37:11Z",
+      "header": "chore(release): bump version to 0.4.8 (#130)",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/9c3ca3e16e15bad344223568a8591c4d7a745094",
-      "sha": "9c3ca3e",
+      "url": "https://github.com/M2Station/M2_APEX/commit/f9a1b94f1d688a391f8d30525e3a9605894a0edd",
+      "sha": "f9a1b94",
       "login": "erickuo1111"
     },
     {
-      "date": 1788416063000,
-      "committedDate": "2026-09-03T06:14:23Z",
-      "header": "update DUE Setup",
+      "date": 1788496364000,
+      "committedDate": "2026-09-04T04:32:44Z",
+      "header": "change default to enable to avoid 主電腦 不停地被觸發",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/65dd5c0b939d90ce2eb6df0b27cd22997e3351ac",
+      "sha": "65dd5c0",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788493708000,
+      "committedDate": "2026-09-04T03:48:28Z",
+      "header": "fix(test-plan): restore test item actions after adding a check block",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/b0b8415896ead3ab840572df473136e8c3c6a32d",
-      "sha": "b0b8415",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/e9ce09d507415781b528c13c18b1114ee6b26cd8",
+      "sha": "e9ce09d",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788415859000,
-      "committedDate": "2026-09-03T06:10:59Z",
-      "header": "QC_UEFI, QC_UEFI_TECH_NOTE, RF_BDF: link to the new DPP page",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/1eff919a63c973724ed5b8b37830026728c200f6",
-      "sha": "1eff919",
-      "login": "aaaaaayo"
+      "date": 1788493464000,
+      "committedDate": "2026-09-04T03:44:24Z",
+      "header": "chore(m2-apex): publish v0.4.7",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/24d43dbca0b8f119567ce1b2074cf47c5300dd96",
+      "sha": "24d43db",
+      "login": "oahsiao"
     },
     {
-      "date": 1788415859000,
-      "committedDate": "2026-09-03T06:10:59Z",
-      "header": "MICROSOFT_QC_DPP: add DPP and NIST critical-data resilience page",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/94f546239625c474b83dc20816459688c5157450",
-      "sha": "94f5462",
-      "login": "aaaaaayo"
-    },
-    {
-      "date": 1788412023000,
-      "committedDate": "2026-09-03T05:07:03Z",
-      "header": "fix DUT AGENT",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/2ddfe592ed678f24f4f980d9f6cf06b9378d9afd",
-      "sha": "2ddfe59",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1788406924000,
-      "committedDate": "2026-09-03T03:42:04Z",
-      "header": "Add copy bug to Intel.",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/0e1ea06cee6b00207f183f0fa38ae49a5f9cba65",
-      "sha": "0e1ea06",
-      "login": "VickyLinTW"
-    },
-    {
-      "date": 1788400557000,
-      "committedDate": "2026-09-03T01:55:57Z",
-      "header": "Refine \"Retimer Capsule Update Flow and Failure Behavior\"",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/0e72d7fa3d87c4daff5627c8769ec52816024cb1",
-      "sha": "0e72d7f",
-      "login": "Capo Huang"
+      "date": 1788493272000,
+      "committedDate": "2026-09-04T03:41:12Z",
+      "header": "chore(release): bump version to 0.4.7 (#129)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/d3f009cbeff70a2bab29f388787af111e624801d",
+      "sha": "d3f009c",
+      "login": "erickuo1111"
     }
   ]
 }
