@@ -1,6 +1,51 @@
 {
-  "updated": "2026-09-04 15:05 TWN",
+  "updated": "2026-09-05 14:48 TWN",
   "latestChanges": [
+    {
+      "date": 1788525535000,
+      "committedDate": "2026-09-04T12:38:55Z",
+      "header": "A tool bundle's folder now decides where it runs. Bundles under host/host-tools",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/22027993e9f917404c44405bab624ed0788f0be7",
+      "sha": "2202799",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788512469000,
+      "committedDate": "2026-09-04T09:01:09Z",
+      "header": "[M2_PILOT] Let an LLM author and judge Test Plans, and harden the DUT tools",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/0467ed95d6f4a9e02841267d2c214bb9717119ef",
+      "sha": "0467ed9",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788511184000,
+      "committedDate": "2026-09-04T08:39:44Z",
+      "header": "Refine System Information function.",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/78a9d74801f1ff3804e85ceba5d84edb46e657f1",
+      "sha": "78a9d74",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788508720000,
+      "committedDate": "2026-09-04T07:58:40Z",
+      "header": "CAPSULE FUNCTION WORK AS EXPECTED",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/5263b110669a08cd72917910554c824675fb191e",
+      "sha": "5263b11",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788506430000,
+      "committedDate": "2026-09-04T07:20:30Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/f87e3a71c0316e6c192b35bd9d0dc5d779c6df85",
+      "sha": "f87e3a7",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1788501022000,
       "committedDate": "2026-09-04T05:50:22Z",
@@ -45,51 +90,6 @@
       "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f71fcc24b5f4cdb317e37c45ebb75ccea3d276d5",
       "sha": "f71fcc2",
       "login": "oahsiao"
-    },
-    {
-      "date": 1788496631000,
-      "committedDate": "2026-09-04T04:37:11Z",
-      "header": "chore(release): bump version to 0.4.8 (#130)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/f9a1b94f1d688a391f8d30525e3a9605894a0edd",
-      "sha": "f9a1b94",
-      "login": "erickuo1111"
-    },
-    {
-      "date": 1788496364000,
-      "committedDate": "2026-09-04T04:32:44Z",
-      "header": "change default to enable to avoid 主電腦 不停地被觸發",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/65dd5c0b939d90ce2eb6df0b27cd22997e3351ac",
-      "sha": "65dd5c0",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1788493708000,
-      "committedDate": "2026-09-04T03:48:28Z",
-      "header": "fix(test-plan): restore test item actions after adding a check block",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/e9ce09d507415781b528c13c18b1114ee6b26cd8",
-      "sha": "e9ce09d",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1788493464000,
-      "committedDate": "2026-09-04T03:44:24Z",
-      "header": "chore(m2-apex): publish v0.4.7",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/24d43dbca0b8f119567ce1b2074cf47c5300dd96",
-      "sha": "24d43db",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1788493272000,
-      "committedDate": "2026-09-04T03:41:12Z",
-      "header": "chore(release): bump version to 0.4.7 (#129)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/d3f009cbeff70a2bab29f388787af111e624801d",
-      "sha": "d3f009c",
-      "login": "erickuo1111"
     }
   ]
 }

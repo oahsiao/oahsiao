@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PUBLIC_RELEASE@5133a48`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5133a4818366011dc399b7acc43ff2cac5aed0e3) — chore(m2-prompt): publish v0.4.4 · `2026-09-04` · oahsiao
-02. [`M2_PROMPT@003f774`](https://github.com/M2Station/M2_PROMPT/commit/003f7747d982d613d7339044480ceabae1214c4b) — chore(release): bump version to 0.4.4 (#19) · `2026-09-04` · erickuo1111
-03. [`M2_PROMPT@f3a0a86`](https://github.com/M2Station/M2_PROMPT/commit/f3a0a86ff4bd99111a8df1c78c717a6f42989807) — FIX　LOCAL AI 的 測試 LOCAL AI 會出現錯誤 · `2026-09-04` · OA Hsiao
-04. [`M2_PILOT@d9c5777`](https://github.com/M2Station/M2_PILOT/commit/d9c5777461a70fbb7a6a041b92ad003e6806bca2) — feat(m2-pilot): add capsule verification and fix test pla... · `2026-09-04` · OA Hsiao
-05. [`M2_PUBLIC_RELEASE@f71fcc2`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f71fcc24b5f4cdb317e37c45ebb75ccea3d276d5) — chore(m2-apex): publish v0.4.8 · `2026-09-04` · oahsiao
-06. [`M2_APEX@f9a1b94`](https://github.com/M2Station/M2_APEX/commit/f9a1b94f1d688a391f8d30525e3a9605894a0edd) — chore(release): bump version to 0.4.8 (#130) · `2026-09-04` · erickuo1111
-07. [`M2_APEX@65dd5c0`](https://github.com/M2Station/M2_APEX/commit/65dd5c0b939d90ce2eb6df0b27cd22997e3351ac) — change default to enable to avoid 主電腦 不停地被觸發 · `2026-09-04` · oahsiao
-08. [`M2_PILOT@e9ce09d`](https://github.com/M2Station/M2_PILOT/commit/e9ce09d507415781b528c13c18b1114ee6b26cd8) — fix(test-plan): restore test item actions after adding a ... · `2026-09-04` · OA Hsiao
-09. [`M2_PUBLIC_RELEASE@24d43db`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/24d43dbca0b8f119567ce1b2074cf47c5300dd96) — chore(m2-apex): publish v0.4.7 · `2026-09-04` · oahsiao
-10. [`M2_APEX@d3f009c`](https://github.com/M2Station/M2_APEX/commit/d3f009cbeff70a2bab29f388787af111e624801d) — chore(release): bump version to 0.4.7 (#129) · `2026-09-04` · erickuo1111
+01. [`M2_PILOT@2202799`](https://github.com/M2Station/M2_PILOT/commit/22027993e9f917404c44405bab624ed0788f0be7) — A tool bundle's folder now decides where it runs. Bundles... · `2026-09-04` · OA Hsiao
+02. [`M2_PILOT@0467ed9`](https://github.com/M2Station/M2_PILOT/commit/0467ed95d6f4a9e02841267d2c214bb9717119ef) — [M2_PILOT] Let an LLM author and judge Test Plans, and ha... · `2026-09-04` · OA Hsiao
+03. [`M2_PILOT@78a9d74`](https://github.com/M2Station/M2_PILOT/commit/78a9d74801f1ff3804e85ceba5d84edb46e657f1) — Refine System Information function. · `2026-09-04` · OA Hsiao
+04. [`M2_PILOT@5263b11`](https://github.com/M2Station/M2_PILOT/commit/5263b110669a08cd72917910554c824675fb191e) — CAPSULE FUNCTION WORK AS EXPECTED · `2026-09-04` · OA Hsiao
+05. [`.github@f87e3a7`](https://github.com/M2Station/.github/commit/f87e3a71c0316e6c192b35bd9d0dc5d779c6df85) — chore: sync latest changes [skip ci] · `2026-09-04` · github-actions[bot]
+06. [`M2_PUBLIC_RELEASE@5133a48`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5133a4818366011dc399b7acc43ff2cac5aed0e3) — chore(m2-prompt): publish v0.4.4 · `2026-09-04` · oahsiao
+07. [`M2_PROMPT@003f774`](https://github.com/M2Station/M2_PROMPT/commit/003f7747d982d613d7339044480ceabae1214c4b) — chore(release): bump version to 0.4.4 (#19) · `2026-09-04` · erickuo1111
+08. [`M2_PROMPT@f3a0a86`](https://github.com/M2Station/M2_PROMPT/commit/f3a0a86ff4bd99111a8df1c78c717a6f42989807) — FIX　LOCAL AI 的 測試 LOCAL AI 會出現錯誤 · `2026-09-04` · OA Hsiao
+09. [`M2_PILOT@d9c5777`](https://github.com/M2Station/M2_PILOT/commit/d9c5777461a70fbb7a6a041b92ad003e6806bca2) — feat(m2-pilot): add capsule verification and fix test pla... · `2026-09-04` · OA Hsiao
+10. [`M2_PUBLIC_RELEASE@f71fcc2`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f71fcc24b5f4cdb317e37c45ebb75ccea3d276d5) — chore(m2-apex): publish v0.4.8 · `2026-09-04` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
