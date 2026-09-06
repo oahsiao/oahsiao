@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-05 14:48 TWN",
+  "updated": "2026-09-06 14:58 TWN",
   "latestChanges": [
+    {
+      "date": 1788591737000,
+      "committedDate": "2026-09-05T07:02:17Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/76aeebddf8aa745f4795810d614631389ea6f837",
+      "sha": "76aeebd",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1788525535000,
       "committedDate": "2026-09-04T12:38:55Z",
@@ -81,15 +90,6 @@
       "url": "https://github.com/M2Station/M2_PILOT/commit/d9c5777461a70fbb7a6a041b92ad003e6806bca2",
       "sha": "d9c5777",
       "login": "OA Hsiao"
-    },
-    {
-      "date": 1788496827000,
-      "committedDate": "2026-09-04T04:40:27Z",
-      "header": "chore(m2-apex): publish v0.4.8",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f71fcc24b5f4cdb317e37c45ebb75ccea3d276d5",
-      "sha": "f71fcc2",
-      "login": "oahsiao"
     }
   ]
 }
