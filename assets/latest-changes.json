@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-06 14:58 TWN",
+  "updated": "2026-09-07 15:09 TWN",
   "latestChanges": [
+    {
+      "date": 1788761194000,
+      "committedDate": "2026-09-07T06:06:34Z",
+      "header": "Consolidate Qualcomm ACPI documentation",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/3f13a38ad0e8725f4494cde24d4b7d91ed73afdf",
+      "sha": "3f13a38",
+      "login": "aaaaaayo"
+    },
+    {
+      "date": 1788761055000,
+      "committedDate": "2026-09-07T06:04:15Z",
+      "header": "Pluton",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/3e763c521d55234fe7e2de8487a1eaa3c37a1cd4",
+      "sha": "3e763c5",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1788753765000,
+      "committedDate": "2026-09-07T04:02:45Z",
+      "header": "+++",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/7285f37a4e0bb72626f5c42da02a13044e7863d6",
+      "sha": "7285f37",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788678824000,
+      "committedDate": "2026-09-06T07:13:44Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/50c81422d0138fc5e8d46723a2704d3c0a8aa7bb",
+      "sha": "50c8142",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1788591737000,
       "committedDate": "2026-09-05T07:02:17Z",
@@ -47,49 +83,13 @@
       "login": "OA Hsiao"
     },
     {
-      "date": 1788506430000,
-      "committedDate": "2026-09-04T07:20:30Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/f87e3a71c0316e6c192b35bd9d0dc5d779c6df85",
-      "sha": "f87e3a7",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1788501022000,
-      "committedDate": "2026-09-04T05:50:22Z",
-      "header": "chore(m2-prompt): publish v0.4.4",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5133a4818366011dc399b7acc43ff2cac5aed0e3",
-      "sha": "5133a48",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1788500337000,
-      "committedDate": "2026-09-04T05:38:57Z",
-      "header": "chore(release): bump version to 0.4.4 (#19)",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/003f7747d982d613d7339044480ceabae1214c4b",
-      "sha": "003f774",
-      "login": "erickuo1111"
-    },
-    {
-      "date": 1788499877000,
-      "committedDate": "2026-09-04T05:31:17Z",
-      "header": "FIX　LOCAL AI 的 測試 LOCAL AI 會出現錯誤",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/f3a0a86ff4bd99111a8df1c78c717a6f42989807",
-      "sha": "f3a0a86",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1788499168000,
-      "committedDate": "2026-09-04T05:19:28Z",
-      "header": "feat(m2-pilot): add capsule verification and fix test plan editing gaps",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/d9c5777461a70fbb7a6a041b92ad003e6806bca2",
-      "sha": "d9c5777",
-      "login": "OA Hsiao"
+      "date": 1788507947000,
+      "committedDate": "2026-09-04T07:45:47Z",
+      "header": "Fix unterminated code fences in MICROSOFT_QC_UEFI.md",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/86c01362996d7e471a0619d11af3c3ace7147e99",
+      "sha": "86c0136",
+      "login": "aaaaaayo"
     }
   ]
 }

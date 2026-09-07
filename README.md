@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`.github@76aeebd`](https://github.com/M2Station/.github/commit/76aeebddf8aa745f4795810d614631389ea6f837) — chore: sync latest changes [skip ci] · `2026-09-05` · github-actions[bot]
-02. [`M2_PILOT@2202799`](https://github.com/M2Station/M2_PILOT/commit/22027993e9f917404c44405bab624ed0788f0be7) — A tool bundle's folder now decides where it runs. Bundles... · `2026-09-04` · OA Hsiao
-03. [`M2_PILOT@0467ed9`](https://github.com/M2Station/M2_PILOT/commit/0467ed95d6f4a9e02841267d2c214bb9717119ef) — [M2_PILOT] Let an LLM author and judge Test Plans, and ha... · `2026-09-04` · OA Hsiao
-04. [`M2_PILOT@78a9d74`](https://github.com/M2Station/M2_PILOT/commit/78a9d74801f1ff3804e85ceba5d84edb46e657f1) — Refine System Information function. · `2026-09-04` · OA Hsiao
-05. [`M2_PILOT@5263b11`](https://github.com/M2Station/M2_PILOT/commit/5263b110669a08cd72917910554c824675fb191e) — CAPSULE FUNCTION WORK AS EXPECTED · `2026-09-04` · OA Hsiao
-06. [`.github@f87e3a7`](https://github.com/M2Station/.github/commit/f87e3a71c0316e6c192b35bd9d0dc5d779c6df85) — chore: sync latest changes [skip ci] · `2026-09-04` · github-actions[bot]
-07. [`M2_PUBLIC_RELEASE@5133a48`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5133a4818366011dc399b7acc43ff2cac5aed0e3) — chore(m2-prompt): publish v0.4.4 · `2026-09-04` · oahsiao
-08. [`M2_PROMPT@003f774`](https://github.com/M2Station/M2_PROMPT/commit/003f7747d982d613d7339044480ceabae1214c4b) — chore(release): bump version to 0.4.4 (#19) · `2026-09-04` · erickuo1111
-09. [`M2_PROMPT@f3a0a86`](https://github.com/M2Station/M2_PROMPT/commit/f3a0a86ff4bd99111a8df1c78c717a6f42989807) — FIX　LOCAL AI 的 測試 LOCAL AI 會出現錯誤 · `2026-09-04` · OA Hsiao
-10. [`M2_PILOT@d9c5777`](https://github.com/M2Station/M2_PILOT/commit/d9c5777461a70fbb7a6a041b92ad003e6806bca2) — feat(m2-pilot): add capsule verification and fix test pla... · `2026-09-04` · OA Hsiao
+01. [`M2_WIKI@3f13a38`](https://github.com/M2Station/M2_WIKI/commit/3f13a38ad0e8725f4494cde24d4b7d91ed73afdf) — Consolidate Qualcomm ACPI documentation · `2026-09-07` · aaaaaayo
+02. [`M2_WIKI@3e763c5`](https://github.com/M2Station/M2_WIKI/commit/3e763c521d55234fe7e2de8487a1eaa3c37a1cd4) — Pluton · `2026-09-07` · asuka-wu
+03. [`M2_WIKI@7285f37`](https://github.com/M2Station/M2_WIKI/commit/7285f37a4e0bb72626f5c42da02a13044e7863d6) — +++ · `2026-09-07` · OA Hsiao
+04. [`.github@50c8142`](https://github.com/M2Station/.github/commit/50c81422d0138fc5e8d46723a2704d3c0a8aa7bb) — chore: sync latest changes [skip ci] · `2026-09-06` · github-actions[bot]
+05. [`.github@76aeebd`](https://github.com/M2Station/.github/commit/76aeebddf8aa745f4795810d614631389ea6f837) — chore: sync latest changes [skip ci] · `2026-09-05` · github-actions[bot]
+06. [`M2_PILOT@2202799`](https://github.com/M2Station/M2_PILOT/commit/22027993e9f917404c44405bab624ed0788f0be7) — A tool bundle's folder now decides where it runs. Bundles... · `2026-09-04` · OA Hsiao
+07. [`M2_PILOT@0467ed9`](https://github.com/M2Station/M2_PILOT/commit/0467ed95d6f4a9e02841267d2c214bb9717119ef) — [M2_PILOT] Let an LLM author and judge Test Plans, and ha... · `2026-09-04` · OA Hsiao
+08. [`M2_PILOT@78a9d74`](https://github.com/M2Station/M2_PILOT/commit/78a9d74801f1ff3804e85ceba5d84edb46e657f1) — Refine System Information function. · `2026-09-04` · OA Hsiao
+09. [`M2_PILOT@5263b11`](https://github.com/M2Station/M2_PILOT/commit/5263b110669a08cd72917910554c824675fb191e) — CAPSULE FUNCTION WORK AS EXPECTED · `2026-09-04` · OA Hsiao
+10. [`M2_WIKI@86c0136`](https://github.com/M2Station/M2_WIKI/commit/86c01362996d7e471a0619d11af3c3ace7147e99) — Fix unterminated code fences in MICROSOFT_QC_UEFI.md · `2026-09-04` · aaaaaayo
 <!-- LATEST-CHANGES:END -->
 
 ---
