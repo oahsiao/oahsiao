@@ -1,95 +1,95 @@
 {
-  "updated": "2026-09-07 15:09 TWN",
+  "updated": "2026-09-08 15:03 TWN",
   "latestChanges": [
     {
-      "date": 1788761194000,
-      "committedDate": "2026-09-07T06:06:34Z",
-      "header": "Consolidate Qualcomm ACPI documentation",
+      "date": 1788850301000,
+      "committedDate": "2026-09-08T06:51:41Z",
+      "header": "Add information for MCXA chip.",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/3f13a38ad0e8725f4494cde24d4b7d91ed73afdf",
-      "sha": "3f13a38",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/a7e0e798bae48e4fc4afe87e2c89c5910c4e5112",
+      "sha": "a7e0e79",
+      "login": "Jason Lin"
+    },
+    {
+      "date": 1788847161000,
+      "committedDate": "2026-09-08T05:59:21Z",
+      "header": "DPP tools.",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/ea02bdcfdbc938fe436cfff3b6deb1ab6f311973",
+      "sha": "ea02bdc",
+      "login": "Jasper Hsu"
+    },
+    {
+      "date": 1788845946000,
+      "committedDate": "2026-09-08T05:39:06Z",
+      "header": "Document the QC Unlock Toolkit",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/8e0afc89c69d2a580a2c1d4858fe0da13dee7709",
+      "sha": "8e0afc8",
       "login": "aaaaaayo"
     },
     {
-      "date": 1788761055000,
-      "committedDate": "2026-09-07T06:04:15Z",
-      "header": "Pluton",
+      "date": 1788845539000,
+      "committedDate": "2026-09-08T05:32:19Z",
+      "header": "add more info",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/3e763c521d55234fe7e2de8487a1eaa3c37a1cd4",
-      "sha": "3e763c5",
-      "login": "asuka-wu"
-    },
-    {
-      "date": 1788753765000,
-      "committedDate": "2026-09-07T04:02:45Z",
-      "header": "+++",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/7285f37a4e0bb72626f5c42da02a13044e7863d6",
-      "sha": "7285f37",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/a488d556ad9b6165b8be2751b60bfa0bff7408c2",
+      "sha": "a488d55",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788678824000,
-      "committedDate": "2026-09-06T07:13:44Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/50c81422d0138fc5e8d46723a2704d3c0a8aa7bb",
-      "sha": "50c8142",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1788591737000,
-      "committedDate": "2026-09-05T07:02:17Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/76aeebddf8aa745f4795810d614631389ea6f837",
-      "sha": "76aeebd",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1788525535000,
-      "committedDate": "2026-09-04T12:38:55Z",
-      "header": "A tool bundle's folder now decides where it runs. Bundles under host/host-tools",
+      "date": 1788783289000,
+      "committedDate": "2026-09-07T12:14:49Z",
+      "header": "Move run initialization to plan-prepared event and add renderer contract test",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/22027993e9f917404c44405bab624ed0788f0be7",
-      "sha": "2202799",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/1230b31fc2cf150b02465e89c57049938dc3fcc1",
+      "sha": "1230b31",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788512469000,
-      "committedDate": "2026-09-04T09:01:09Z",
-      "header": "[M2_PILOT] Let an LLM author and judge Test Plans, and harden the DUT tools",
+      "date": 1788783285000,
+      "committedDate": "2026-09-07T12:14:45Z",
+      "header": "Add capture-screenshot and os-login-emulator DUT tool bundles",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/0467ed95d6f4a9e02841267d2c214bb9717119ef",
-      "sha": "0467ed9",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/87d09bc7d8df524746929569212d2f58758496b0",
+      "sha": "87d09bc",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788511184000,
-      "committedDate": "2026-09-04T08:39:44Z",
-      "header": "Refine System Information function.",
+      "date": 1788780535000,
+      "committedDate": "2026-09-07T11:28:55Z",
+      "header": "Add play-music DUT tool bundle",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/78a9d74801f1ff3804e85ceba5d84edb46e657f1",
-      "sha": "78a9d74",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/f73ae3d99c9e179cf425670924027566cdf488d0",
+      "sha": "f73ae3d",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788508720000,
-      "committedDate": "2026-09-04T07:58:40Z",
-      "header": "CAPSULE FUNCTION WORK AS EXPECTED",
+      "date": 1788780256000,
+      "committedDate": "2026-09-07T11:24:16Z",
+      "header": "Add collect-sleepstudy-reports DUT tool bundle",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/5263b110669a08cd72917910554c824675fb191e",
-      "sha": "5263b11",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/1ce4bdbb317bf736da7dcf57f26ed6dd2d8020dd",
+      "sha": "1ce4bdb",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788507947000,
-      "committedDate": "2026-09-04T07:45:47Z",
-      "header": "Fix unterminated code fences in MICROSOFT_QC_UEFI.md",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/86c01362996d7e471a0619d11af3c3ace7147e99",
-      "sha": "86c0136",
-      "login": "aaaaaayo"
+      "date": 1788779372000,
+      "committedDate": "2026-09-07T11:09:32Z",
+      "header": "Update sleep DUT tool script",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/baef6e2edeadb30dd979b0b948b13be73b763c33",
+      "sha": "baef6e2",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788779365000,
+      "committedDate": "2026-09-07T11:09:25Z",
+      "header": "Update renderer for run message display",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/cab1bbb6afb4abd6baf0464a14529b463d56d4cf",
+      "sha": "cab1bbb",
+      "login": "OA Hsiao"
     }
   ]
 }

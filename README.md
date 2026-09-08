@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@3f13a38`](https://github.com/M2Station/M2_WIKI/commit/3f13a38ad0e8725f4494cde24d4b7d91ed73afdf) — Consolidate Qualcomm ACPI documentation · `2026-09-07` · aaaaaayo
-02. [`M2_WIKI@3e763c5`](https://github.com/M2Station/M2_WIKI/commit/3e763c521d55234fe7e2de8487a1eaa3c37a1cd4) — Pluton · `2026-09-07` · asuka-wu
-03. [`M2_WIKI@7285f37`](https://github.com/M2Station/M2_WIKI/commit/7285f37a4e0bb72626f5c42da02a13044e7863d6) — +++ · `2026-09-07` · OA Hsiao
-04. [`.github@50c8142`](https://github.com/M2Station/.github/commit/50c81422d0138fc5e8d46723a2704d3c0a8aa7bb) — chore: sync latest changes [skip ci] · `2026-09-06` · github-actions[bot]
-05. [`.github@76aeebd`](https://github.com/M2Station/.github/commit/76aeebddf8aa745f4795810d614631389ea6f837) — chore: sync latest changes [skip ci] · `2026-09-05` · github-actions[bot]
-06. [`M2_PILOT@2202799`](https://github.com/M2Station/M2_PILOT/commit/22027993e9f917404c44405bab624ed0788f0be7) — A tool bundle's folder now decides where it runs. Bundles... · `2026-09-04` · OA Hsiao
-07. [`M2_PILOT@0467ed9`](https://github.com/M2Station/M2_PILOT/commit/0467ed95d6f4a9e02841267d2c214bb9717119ef) — [M2_PILOT] Let an LLM author and judge Test Plans, and ha... · `2026-09-04` · OA Hsiao
-08. [`M2_PILOT@78a9d74`](https://github.com/M2Station/M2_PILOT/commit/78a9d74801f1ff3804e85ceba5d84edb46e657f1) — Refine System Information function. · `2026-09-04` · OA Hsiao
-09. [`M2_PILOT@5263b11`](https://github.com/M2Station/M2_PILOT/commit/5263b110669a08cd72917910554c824675fb191e) — CAPSULE FUNCTION WORK AS EXPECTED · `2026-09-04` · OA Hsiao
-10. [`M2_WIKI@86c0136`](https://github.com/M2Station/M2_WIKI/commit/86c01362996d7e471a0619d11af3c3ace7147e99) — Fix unterminated code fences in MICROSOFT_QC_UEFI.md · `2026-09-04` · aaaaaayo
+01. [`M2_WIKI@a7e0e79`](https://github.com/M2Station/M2_WIKI/commit/a7e0e798bae48e4fc4afe87e2c89c5910c4e5112) — Add information for MCXA chip. · `2026-09-08` · Jason Lin
+02. [`M2_WIKI@ea02bdc`](https://github.com/M2Station/M2_WIKI/commit/ea02bdcfdbc938fe436cfff3b6deb1ab6f311973) — DPP tools. · `2026-09-08` · Jasper Hsu
+03. [`M2_WIKI@8e0afc8`](https://github.com/M2Station/M2_WIKI/commit/8e0afc89c69d2a580a2c1d4858fe0da13dee7709) — Document the QC Unlock Toolkit · `2026-09-08` · aaaaaayo
+04. [`M2_WIKI@a488d55`](https://github.com/M2Station/M2_WIKI/commit/a488d556ad9b6165b8be2751b60bfa0bff7408c2) — add more info · `2026-09-08` · OA Hsiao
+05. [`M2_PILOT@1230b31`](https://github.com/M2Station/M2_PILOT/commit/1230b31fc2cf150b02465e89c57049938dc3fcc1) — Move run initialization to plan-prepared event and add re... · `2026-09-07` · OA Hsiao
+06. [`M2_PILOT@87d09bc`](https://github.com/M2Station/M2_PILOT/commit/87d09bc7d8df524746929569212d2f58758496b0) — Add capture-screenshot and os-login-emulator DUT tool bun... · `2026-09-07` · OA Hsiao
+07. [`M2_PILOT@f73ae3d`](https://github.com/M2Station/M2_PILOT/commit/f73ae3d99c9e179cf425670924027566cdf488d0) — Add play-music DUT tool bundle · `2026-09-07` · OA Hsiao
+08. [`M2_PILOT@1ce4bdb`](https://github.com/M2Station/M2_PILOT/commit/1ce4bdbb317bf736da7dcf57f26ed6dd2d8020dd) — Add collect-sleepstudy-reports DUT tool bundle · `2026-09-07` · OA Hsiao
+09. [`M2_PILOT@baef6e2`](https://github.com/M2Station/M2_PILOT/commit/baef6e2edeadb30dd979b0b948b13be73b763c33) — Update sleep DUT tool script · `2026-09-07` · OA Hsiao
+10. [`M2_PILOT@cab1bbb`](https://github.com/M2Station/M2_PILOT/commit/cab1bbb6afb4abd6baf0464a14529b463d56d4cf) — Update renderer for run message display · `2026-09-07` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
