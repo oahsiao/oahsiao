@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@a7e0e79`](https://github.com/M2Station/M2_WIKI/commit/a7e0e798bae48e4fc4afe87e2c89c5910c4e5112) — Add information for MCXA chip. · `2026-09-08` · Jason Lin
-02. [`M2_WIKI@ea02bdc`](https://github.com/M2Station/M2_WIKI/commit/ea02bdcfdbc938fe436cfff3b6deb1ab6f311973) — DPP tools. · `2026-09-08` · Jasper Hsu
-03. [`M2_WIKI@8e0afc8`](https://github.com/M2Station/M2_WIKI/commit/8e0afc89c69d2a580a2c1d4858fe0da13dee7709) — Document the QC Unlock Toolkit · `2026-09-08` · aaaaaayo
-04. [`M2_WIKI@a488d55`](https://github.com/M2Station/M2_WIKI/commit/a488d556ad9b6165b8be2751b60bfa0bff7408c2) — add more info · `2026-09-08` · OA Hsiao
-05. [`M2_PILOT@1230b31`](https://github.com/M2Station/M2_PILOT/commit/1230b31fc2cf150b02465e89c57049938dc3fcc1) — Move run initialization to plan-prepared event and add re... · `2026-09-07` · OA Hsiao
-06. [`M2_PILOT@87d09bc`](https://github.com/M2Station/M2_PILOT/commit/87d09bc7d8df524746929569212d2f58758496b0) — Add capture-screenshot and os-login-emulator DUT tool bun... · `2026-09-07` · OA Hsiao
-07. [`M2_PILOT@f73ae3d`](https://github.com/M2Station/M2_PILOT/commit/f73ae3d99c9e179cf425670924027566cdf488d0) — Add play-music DUT tool bundle · `2026-09-07` · OA Hsiao
-08. [`M2_PILOT@1ce4bdb`](https://github.com/M2Station/M2_PILOT/commit/1ce4bdbb317bf736da7dcf57f26ed6dd2d8020dd) — Add collect-sleepstudy-reports DUT tool bundle · `2026-09-07` · OA Hsiao
-09. [`M2_PILOT@baef6e2`](https://github.com/M2Station/M2_PILOT/commit/baef6e2edeadb30dd979b0b948b13be73b763c33) — Update sleep DUT tool script · `2026-09-07` · OA Hsiao
-10. [`M2_PILOT@cab1bbb`](https://github.com/M2Station/M2_PILOT/commit/cab1bbb6afb4abd6baf0464a14529b463d56d4cf) — Update renderer for run message display · `2026-09-07` · OA Hsiao
+01. [`M2_PUBLIC_RELEASE@55fa28b`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/55fa28b7cb57945b20a3a6fc5312de8bb78d3a26) — chore(m2-pilot): publish v0.1.2 · `2026-09-09` · oahsiao
+02. [`M2_PILOT@0b7db7e`](https://github.com/M2Station/M2_PILOT/commit/0b7db7ea3bf10109d6a8de6d2a80370c08c1482d) — chore(release): bump version to 0.1.2 · `2026-09-09` · OA Hsiao
+03. [`M2_PILOT@9be14f2`](https://github.com/M2Station/M2_PILOT/commit/9be14f21d2934f6513bfe6922e9e22a6d76113c5) — refine functions · `2026-09-09` · OA Hsiao
+04. [`M2_WIKI@c316885`](https://github.com/M2Station/M2_WIKI/commit/c316885d51744b0dde9223428535d33cf9d958cc) — Document Milos UEFI skills · `2026-09-09` · aaaaaayo
+05. [`M2_PUBLIC_RELEASE@ffb26bb`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/ffb26bb0820731594c23bd453d5d8b34116827a4) — chore(m2-pilot): publish v0.1.1 · `2026-09-09` · oahsiao
+06. [`M2_PILOT@5d5e035`](https://github.com/M2Station/M2_PILOT/commit/5d5e0351111ac8d92da2abc5c87b1262d99059ad) — chore(release): bump version to 0.1.1 · `2026-09-09` · OA Hsiao
+07. [`M2_PILOT@9b69cba`](https://github.com/M2Station/M2_PILOT/commit/9b69cba83fe8c25b6c37bbda28ba279802405eff) — update AGENTS.md · `2026-09-09` · OA Hsiao
+08. [`M2_PILOT@89b724f`](https://github.com/M2Station/M2_PILOT/commit/89b724f7c93c4570d17e9d235fbdba5d823c967a) — update skills/m2-release/SKILL.md · `2026-09-09` · OA Hsiao
+09. [`M2_PILOT@4ed0e27`](https://github.com/M2Station/M2_PILOT/commit/4ed0e274c687c0edab0d8e5e4350eb565cf20573) — add agent skill for release · `2026-09-09` · OA Hsiao
+10. [`M2_PILOT@b575b5e`](https://github.com/M2Station/M2_PILOT/commit/b575b5e0c55b2db030586f427ae938bfbe35d2c5) — M2_PILOT DUT AGENT change to .net mode. · `2026-09-09` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

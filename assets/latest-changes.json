@@ -1,94 +1,94 @@
 {
-  "updated": "2026-09-08 15:03 TWN",
+  "updated": "2026-09-09 15:12 TWN",
   "latestChanges": [
     {
-      "date": 1788850301000,
-      "committedDate": "2026-09-08T06:51:41Z",
-      "header": "Add information for MCXA chip.",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/a7e0e798bae48e4fc4afe87e2c89c5910c4e5112",
-      "sha": "a7e0e79",
-      "login": "Jason Lin"
+      "date": 1788937532000,
+      "committedDate": "2026-09-09T07:05:32Z",
+      "header": "chore(m2-pilot): publish v0.1.2",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/55fa28b7cb57945b20a3a6fc5312de8bb78d3a26",
+      "sha": "55fa28b",
+      "login": "oahsiao"
     },
     {
-      "date": 1788847161000,
-      "committedDate": "2026-09-08T05:59:21Z",
-      "header": "DPP tools.",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/ea02bdcfdbc938fe436cfff3b6deb1ab6f311973",
-      "sha": "ea02bdc",
-      "login": "Jasper Hsu"
+      "date": 1788936987000,
+      "committedDate": "2026-09-09T06:56:27Z",
+      "header": "chore(release): bump version to 0.1.2",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/0b7db7ea3bf10109d6a8de6d2a80370c08c1482d",
+      "sha": "0b7db7e",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1788845946000,
-      "committedDate": "2026-09-08T05:39:06Z",
-      "header": "Document the QC Unlock Toolkit",
+      "date": 1788936921000,
+      "committedDate": "2026-09-09T06:55:21Z",
+      "header": "refine functions",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/9be14f21d2934f6513bfe6922e9e22a6d76113c5",
+      "sha": "9be14f2",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1788935535000,
+      "committedDate": "2026-09-09T06:32:15Z",
+      "header": "Document Milos UEFI skills",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/8e0afc89c69d2a580a2c1d4858fe0da13dee7709",
-      "sha": "8e0afc8",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/c316885d51744b0dde9223428535d33cf9d958cc",
+      "sha": "c316885",
       "login": "aaaaaayo"
     },
     {
-      "date": 1788845539000,
-      "committedDate": "2026-09-08T05:32:19Z",
-      "header": "add more info",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/a488d556ad9b6165b8be2751b60bfa0bff7408c2",
-      "sha": "a488d55",
+      "date": 1788935363000,
+      "committedDate": "2026-09-09T06:29:23Z",
+      "header": "chore(m2-pilot): publish v0.1.1",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/ffb26bb0820731594c23bd453d5d8b34116827a4",
+      "sha": "ffb26bb",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1788932429000,
+      "committedDate": "2026-09-09T05:40:29Z",
+      "header": "chore(release): bump version to 0.1.1",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/5d5e0351111ac8d92da2abc5c87b1262d99059ad",
+      "sha": "5d5e035",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788783289000,
-      "committedDate": "2026-09-07T12:14:49Z",
-      "header": "Move run initialization to plan-prepared event and add renderer contract test",
+      "date": 1788932222000,
+      "committedDate": "2026-09-09T05:37:02Z",
+      "header": "update AGENTS.md",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/1230b31fc2cf150b02465e89c57049938dc3fcc1",
-      "sha": "1230b31",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/9b69cba83fe8c25b6c37bbda28ba279802405eff",
+      "sha": "9b69cba",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788783285000,
-      "committedDate": "2026-09-07T12:14:45Z",
-      "header": "Add capture-screenshot and os-login-emulator DUT tool bundles",
+      "date": 1788932063000,
+      "committedDate": "2026-09-09T05:34:23Z",
+      "header": "update skills/m2-release/SKILL.md",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/87d09bc7d8df524746929569212d2f58758496b0",
-      "sha": "87d09bc",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/89b724f7c93c4570d17e9d235fbdba5d823c967a",
+      "sha": "89b724f",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788780535000,
-      "committedDate": "2026-09-07T11:28:55Z",
-      "header": "Add play-music DUT tool bundle",
+      "date": 1788931435000,
+      "committedDate": "2026-09-09T05:23:55Z",
+      "header": "add agent skill for release",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/f73ae3d99c9e179cf425670924027566cdf488d0",
-      "sha": "f73ae3d",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/4ed0e274c687c0edab0d8e5e4350eb565cf20573",
+      "sha": "4ed0e27",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788780256000,
-      "committedDate": "2026-09-07T11:24:16Z",
-      "header": "Add collect-sleepstudy-reports DUT tool bundle",
+      "date": 1788931249000,
+      "committedDate": "2026-09-09T05:20:49Z",
+      "header": "M2_PILOT DUT AGENT change to .net mode.",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/1ce4bdbb317bf736da7dcf57f26ed6dd2d8020dd",
-      "sha": "1ce4bdb",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1788779372000,
-      "committedDate": "2026-09-07T11:09:32Z",
-      "header": "Update sleep DUT tool script",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/baef6e2edeadb30dd979b0b948b13be73b763c33",
-      "sha": "baef6e2",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1788779365000,
-      "committedDate": "2026-09-07T11:09:25Z",
-      "header": "Update renderer for run message display",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/cab1bbb6afb4abd6baf0464a14529b463d56d4cf",
-      "sha": "cab1bbb",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/b575b5e0c55b2db030586f427ae938bfbe35d2c5",
+      "sha": "b575b5e",
       "login": "OA Hsiao"
     }
   ]
