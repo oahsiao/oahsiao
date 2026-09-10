@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PUBLIC_RELEASE@55fa28b`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/55fa28b7cb57945b20a3a6fc5312de8bb78d3a26) — chore(m2-pilot): publish v0.1.2 · `2026-09-09` · oahsiao
-02. [`M2_PILOT@0b7db7e`](https://github.com/M2Station/M2_PILOT/commit/0b7db7ea3bf10109d6a8de6d2a80370c08c1482d) — chore(release): bump version to 0.1.2 · `2026-09-09` · OA Hsiao
-03. [`M2_PILOT@9be14f2`](https://github.com/M2Station/M2_PILOT/commit/9be14f21d2934f6513bfe6922e9e22a6d76113c5) — refine functions · `2026-09-09` · OA Hsiao
-04. [`M2_WIKI@c316885`](https://github.com/M2Station/M2_WIKI/commit/c316885d51744b0dde9223428535d33cf9d958cc) — Document Milos UEFI skills · `2026-09-09` · aaaaaayo
-05. [`M2_PUBLIC_RELEASE@ffb26bb`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/ffb26bb0820731594c23bd453d5d8b34116827a4) — chore(m2-pilot): publish v0.1.1 · `2026-09-09` · oahsiao
-06. [`M2_PILOT@5d5e035`](https://github.com/M2Station/M2_PILOT/commit/5d5e0351111ac8d92da2abc5c87b1262d99059ad) — chore(release): bump version to 0.1.1 · `2026-09-09` · OA Hsiao
-07. [`M2_PILOT@9b69cba`](https://github.com/M2Station/M2_PILOT/commit/9b69cba83fe8c25b6c37bbda28ba279802405eff) — update AGENTS.md · `2026-09-09` · OA Hsiao
-08. [`M2_PILOT@89b724f`](https://github.com/M2Station/M2_PILOT/commit/89b724f7c93c4570d17e9d235fbdba5d823c967a) — update skills/m2-release/SKILL.md · `2026-09-09` · OA Hsiao
-09. [`M2_PILOT@4ed0e27`](https://github.com/M2Station/M2_PILOT/commit/4ed0e274c687c0edab0d8e5e4350eb565cf20573) — add agent skill for release · `2026-09-09` · OA Hsiao
-10. [`M2_PILOT@b575b5e`](https://github.com/M2Station/M2_PILOT/commit/b575b5e0c55b2db030586f427ae938bfbe35d2c5) — M2_PILOT DUT AGENT change to .net mode. · `2026-09-09` · OA Hsiao
+01. [`M2_SKILLS@3cb462c`](https://github.com/M2Station/M2_SKILLS/commit/3cb462c7c4c3033b0082e3c5b109e944128d9849) — docs: add Traditional Chinese README · `2026-09-10` · Sebastian Liu
+02. [`M2_WIKI@e8bb920`](https://github.com/M2Station/M2_WIKI/commit/e8bb92057a290d6edc333b4c3204e186bf93138c) — +VTd+PreBootDMA-Protection · `2026-09-10` · asuka-wu
+03. [`M2_SKILLS@8d32a24`](https://github.com/M2Station/M2_SKILLS/commit/8d32a24d474cb746e3f54aab81be299c8e461b7c) — feat: support Mermaid block diagrams · `2026-09-10` · Sebastian Liu
+04. [`M2_APPROVE_BOT@7a8a6a1`](https://github.com/M2Station/M2_APPROVE_BOT/commit/7a8a6a153534aff7aa067d00d2a85d443b8ccbcb) — UPDATE APV APPROVE BUTTON XPATH · `2026-09-10` · OA Hsiao
+05. [`M2_SKILLS@a651ef0`](https://github.com/M2Station/M2_SKILLS/commit/a651ef03a3a627153bb137e0662aba8790bb060c) — feat: make visualization intake context-aware · `2026-09-10` · Sebastian Liu
+06. [`M2_SKILLS@dc63fa0`](https://github.com/M2Station/M2_SKILLS/commit/dc63fa06fcdca0e51ab0759c99d99b87ec583f5b) — feat: auto-create report explainer sessions · `2026-09-10` · Sebastian Liu
+07. [`M2_SKILLS@39894f7`](https://github.com/M2Station/M2_SKILLS/commit/39894f7f7d6d3f5695c63ec4a6e7894586afd2af) — feat: select compact best-fit diagrams · `2026-09-10` · Sebastian Liu
+08. [`M2_SKILLS@c22ab70`](https://github.com/M2Station/M2_SKILLS/commit/c22ab709f0a0f470c95a6c16157c1a24c70a9fad) — feat: add localized visualization intake · `2026-09-10` · Sebastian Liu
+09. [`M2_WIKI@a78e068`](https://github.com/M2Station/M2_WIKI/commit/a78e068f9fb3796f2c2503592228d0a1c7a6b008) — Document RSA+LMS ME capsule validation · `2026-09-10` · Sam6Su
+10. [`M2_SKILLS@d25d3e6`](https://github.com/M2Station/M2_SKILLS/commit/d25d3e693f34f36c5be1fce25421c7e021b50254) — feat: add detailed visualization tier · `2026-09-09` · Sebastian Liu
 <!-- LATEST-CHANGES:END -->
 
 ---

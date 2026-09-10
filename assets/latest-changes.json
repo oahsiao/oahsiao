@@ -1,95 +1,95 @@
 {
-  "updated": "2026-09-09 15:12 TWN",
+  "updated": "2026-09-10 15:08 TWN",
   "latestChanges": [
     {
-      "date": 1788937532000,
-      "committedDate": "2026-09-09T07:05:32Z",
-      "header": "chore(m2-pilot): publish v0.1.2",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/55fa28b7cb57945b20a3a6fc5312de8bb78d3a26",
-      "sha": "55fa28b",
-      "login": "oahsiao"
+      "date": 1789022130000,
+      "committedDate": "2026-09-10T06:35:30Z",
+      "header": "docs: add Traditional Chinese README",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/3cb462c7c4c3033b0082e3c5b109e944128d9849",
+      "sha": "3cb462c",
+      "login": "Sebastian Liu"
     },
     {
-      "date": 1788936987000,
-      "committedDate": "2026-09-09T06:56:27Z",
-      "header": "chore(release): bump version to 0.1.2",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/0b7db7ea3bf10109d6a8de6d2a80370c08c1482d",
-      "sha": "0b7db7e",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1788936921000,
-      "committedDate": "2026-09-09T06:55:21Z",
-      "header": "refine functions",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/9be14f21d2934f6513bfe6922e9e22a6d76113c5",
-      "sha": "9be14f2",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1788935535000,
-      "committedDate": "2026-09-09T06:32:15Z",
-      "header": "Document Milos UEFI skills",
+      "date": 1789020792000,
+      "committedDate": "2026-09-10T06:13:12Z",
+      "header": "+VTd+PreBootDMA-Protection",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/c316885d51744b0dde9223428535d33cf9d958cc",
-      "sha": "c316885",
-      "login": "aaaaaayo"
+      "url": "https://github.com/M2Station/M2_WIKI/commit/e8bb92057a290d6edc333b4c3204e186bf93138c",
+      "sha": "e8bb920",
+      "login": "asuka-wu"
     },
     {
-      "date": 1788935363000,
-      "committedDate": "2026-09-09T06:29:23Z",
-      "header": "chore(m2-pilot): publish v0.1.1",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/ffb26bb0820731594c23bd453d5d8b34116827a4",
-      "sha": "ffb26bb",
-      "login": "oahsiao"
+      "date": 1789015189000,
+      "committedDate": "2026-09-10T04:39:49Z",
+      "header": "feat: support Mermaid block diagrams",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/8d32a24d474cb746e3f54aab81be299c8e461b7c",
+      "sha": "8d32a24",
+      "login": "Sebastian Liu"
     },
     {
-      "date": 1788932429000,
-      "committedDate": "2026-09-09T05:40:29Z",
-      "header": "chore(release): bump version to 0.1.1",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/5d5e0351111ac8d92da2abc5c87b1262d99059ad",
-      "sha": "5d5e035",
+      "date": 1789013293000,
+      "committedDate": "2026-09-10T04:08:13Z",
+      "header": "UPDATE APV APPROVE BUTTON XPATH",
+      "repo": "M2_APPROVE_BOT",
+      "url": "https://github.com/M2Station/M2_APPROVE_BOT/commit/7a8a6a153534aff7aa067d00d2a85d443b8ccbcb",
+      "sha": "7a8a6a1",
       "login": "OA Hsiao"
     },
     {
-      "date": 1788932222000,
-      "committedDate": "2026-09-09T05:37:02Z",
-      "header": "update AGENTS.md",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/9b69cba83fe8c25b6c37bbda28ba279802405eff",
-      "sha": "9b69cba",
-      "login": "OA Hsiao"
+      "date": 1789012073000,
+      "committedDate": "2026-09-10T03:47:53Z",
+      "header": "feat: make visualization intake context-aware",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/a651ef03a3a627153bb137e0662aba8790bb060c",
+      "sha": "a651ef0",
+      "login": "Sebastian Liu"
     },
     {
-      "date": 1788932063000,
-      "committedDate": "2026-09-09T05:34:23Z",
-      "header": "update skills/m2-release/SKILL.md",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/89b724f7c93c4570d17e9d235fbdba5d823c967a",
-      "sha": "89b724f",
-      "login": "OA Hsiao"
+      "date": 1789009916000,
+      "committedDate": "2026-09-10T03:11:56Z",
+      "header": "feat: auto-create report explainer sessions",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/dc63fa06fcdca0e51ab0759c99d99b87ec583f5b",
+      "sha": "dc63fa0",
+      "login": "Sebastian Liu"
     },
     {
-      "date": 1788931435000,
-      "committedDate": "2026-09-09T05:23:55Z",
-      "header": "add agent skill for release",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/4ed0e274c687c0edab0d8e5e4350eb565cf20573",
-      "sha": "4ed0e27",
-      "login": "OA Hsiao"
+      "date": 1789008676000,
+      "committedDate": "2026-09-10T02:51:16Z",
+      "header": "feat: select compact best-fit diagrams",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/39894f7f7d6d3f5695c63ec4a6e7894586afd2af",
+      "sha": "39894f7",
+      "login": "Sebastian Liu"
     },
     {
-      "date": 1788931249000,
-      "committedDate": "2026-09-09T05:20:49Z",
-      "header": "M2_PILOT DUT AGENT change to .net mode.",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/b575b5e0c55b2db030586f427ae938bfbe35d2c5",
-      "sha": "b575b5e",
-      "login": "OA Hsiao"
+      "date": 1789005851000,
+      "committedDate": "2026-09-10T02:04:11Z",
+      "header": "feat: add localized visualization intake",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/c22ab709f0a0f470c95a6c16157c1a24c70a9fad",
+      "sha": "c22ab70",
+      "login": "Sebastian Liu"
+    },
+    {
+      "date": 1789004837000,
+      "committedDate": "2026-09-10T01:47:17Z",
+      "header": "Document RSA+LMS ME capsule validation",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/a78e068f9fb3796f2c2503592228d0a1c7a6b008",
+      "sha": "a78e068",
+      "login": "Sam6Su"
+    },
+    {
+      "date": 1788956463000,
+      "committedDate": "2026-09-09T12:21:03Z",
+      "header": "feat: add detailed visualization tier",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/d25d3e693f34f36c5be1fce25421c7e021b50254",
+      "sha": "d25d3e6",
+      "login": "Sebastian Liu"
     }
   ]
 }
