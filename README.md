@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_SKILLS@3cb462c`](https://github.com/M2Station/M2_SKILLS/commit/3cb462c7c4c3033b0082e3c5b109e944128d9849) — docs: add Traditional Chinese README · `2026-09-10` · Sebastian Liu
-02. [`M2_WIKI@e8bb920`](https://github.com/M2Station/M2_WIKI/commit/e8bb92057a290d6edc333b4c3204e186bf93138c) — +VTd+PreBootDMA-Protection · `2026-09-10` · asuka-wu
-03. [`M2_SKILLS@8d32a24`](https://github.com/M2Station/M2_SKILLS/commit/8d32a24d474cb746e3f54aab81be299c8e461b7c) — feat: support Mermaid block diagrams · `2026-09-10` · Sebastian Liu
-04. [`M2_APPROVE_BOT@7a8a6a1`](https://github.com/M2Station/M2_APPROVE_BOT/commit/7a8a6a153534aff7aa067d00d2a85d443b8ccbcb) — UPDATE APV APPROVE BUTTON XPATH · `2026-09-10` · OA Hsiao
-05. [`M2_SKILLS@a651ef0`](https://github.com/M2Station/M2_SKILLS/commit/a651ef03a3a627153bb137e0662aba8790bb060c) — feat: make visualization intake context-aware · `2026-09-10` · Sebastian Liu
-06. [`M2_SKILLS@dc63fa0`](https://github.com/M2Station/M2_SKILLS/commit/dc63fa06fcdca0e51ab0759c99d99b87ec583f5b) — feat: auto-create report explainer sessions · `2026-09-10` · Sebastian Liu
-07. [`M2_SKILLS@39894f7`](https://github.com/M2Station/M2_SKILLS/commit/39894f7f7d6d3f5695c63ec4a6e7894586afd2af) — feat: select compact best-fit diagrams · `2026-09-10` · Sebastian Liu
-08. [`M2_SKILLS@c22ab70`](https://github.com/M2Station/M2_SKILLS/commit/c22ab709f0a0f470c95a6c16157c1a24c70a9fad) — feat: add localized visualization intake · `2026-09-10` · Sebastian Liu
-09. [`M2_WIKI@a78e068`](https://github.com/M2Station/M2_WIKI/commit/a78e068f9fb3796f2c2503592228d0a1c7a6b008) — Document RSA+LMS ME capsule validation · `2026-09-10` · Sam6Su
-10. [`M2_SKILLS@d25d3e6`](https://github.com/M2Station/M2_SKILLS/commit/d25d3e693f34f36c5be1fce25421c7e021b50254) — feat: add detailed visualization tier · `2026-09-09` · Sebastian Liu
+01. [`M2_PROMPT@2538c60`](https://github.com/M2Station/M2_PROMPT/commit/2538c60c8668be1c0aecb02b156377069694b0fa) — add rescan button for LLAMA.CPP download · `2026-09-11` · oahsiao
+02. [`M2_PUBLIC_RELEASE@3d7c54c`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/3d7c54c8b130c4a2ea7870350ac099c324b205b9) — chore(m2-pilot): publish v0.1.16 · `2026-09-11` · oahsiao
+03. [`M2_PUBLIC_RELEASE@750c213`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/750c2131aafc6db78316a6ac87a909ea775daef0) — chore(m2-prompt): publish v0.4.5 · `2026-09-11` · oahsiao
+04. [`M2_PILOT@6330d9c`](https://github.com/M2Station/M2_PILOT/commit/6330d9c72df0b889069c6d3e96cae4667f4ac860) — chore(release): bump version to 0.1.16 · `2026-09-11` · oahsiao
+05. [`M2_PILOT@0940782`](https://github.com/M2Station/M2_PILOT/commit/0940782bbbf8806dc5fffcace08fd06141d9c990) — chore(release): bump version to 0.1.16 · `2026-09-11` · OA Hsiao
+06. [`M2_PILOT@ae41095`](https://github.com/M2Station/M2_PILOT/commit/ae410950c0bd226ec6fa8957ea2e367c5eb79f96) — test(os-login): update default retry count expectation · `2026-09-11` · oahsiao
+07. [`M2_PILOT@f2a3d99`](https://github.com/M2Station/M2_PILOT/commit/f2a3d998f3fbae6e76eef76beb8013cf99fc057b) — test(os-login): update default retry count expectation · `2026-09-11` · OA Hsiao
+08. [`M2_PILOT@b115455`](https://github.com/M2Station/M2_PILOT/commit/b1154550bf000ea997180c1491ea4c41b079083a) — Implement DUT Remote Control · `2026-09-11` · OA Hsiao
+09. [`M2_PROMPT@3dfb743`](https://github.com/M2Station/M2_PROMPT/commit/3dfb74303714f9cedad00d826fc7cb2e337fb642) — chore(release): bump version to 0.4.5 (#20) · `2026-09-11` · erickuo1111
+10. [`M2_PROMPT@13db4d3`](https://github.com/M2Station/M2_PROMPT/commit/13db4d3c56f6f02b1f3c4ad1745275f0b00530e4) — Runtime 頁開啟時動態讀取 llama.cpp GitHub Releases。 · `2026-09-11` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

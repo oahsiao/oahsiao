@@ -1,95 +1,95 @@
 {
-  "updated": "2026-09-10 15:08 TWN",
+  "updated": "2026-09-11 15:08 TWN",
   "latestChanges": [
     {
-      "date": 1789022130000,
-      "committedDate": "2026-09-10T06:35:30Z",
-      "header": "docs: add Traditional Chinese README",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/3cb462c7c4c3033b0082e3c5b109e944128d9849",
-      "sha": "3cb462c",
-      "login": "Sebastian Liu"
+      "date": 1789110300000,
+      "committedDate": "2026-09-11T07:05:00Z",
+      "header": "add rescan button for LLAMA.CPP download",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/2538c60c8668be1c0aecb02b156377069694b0fa",
+      "sha": "2538c60",
+      "login": "oahsiao"
     },
     {
-      "date": 1789020792000,
-      "committedDate": "2026-09-10T06:13:12Z",
-      "header": "+VTd+PreBootDMA-Protection",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/e8bb92057a290d6edc333b4c3204e186bf93138c",
-      "sha": "e8bb920",
-      "login": "asuka-wu"
+      "date": 1789108549000,
+      "committedDate": "2026-09-11T06:35:49Z",
+      "header": "chore(m2-pilot): publish v0.1.16",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/3d7c54c8b130c4a2ea7870350ac099c324b205b9",
+      "sha": "3d7c54c",
+      "login": "oahsiao"
     },
     {
-      "date": 1789015189000,
-      "committedDate": "2026-09-10T04:39:49Z",
-      "header": "feat: support Mermaid block diagrams",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/8d32a24d474cb746e3f54aab81be299c8e461b7c",
-      "sha": "8d32a24",
-      "login": "Sebastian Liu"
+      "date": 1789108377000,
+      "committedDate": "2026-09-11T06:32:57Z",
+      "header": "chore(m2-prompt): publish v0.4.5",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/750c2131aafc6db78316a6ac87a909ea775daef0",
+      "sha": "750c213",
+      "login": "oahsiao"
     },
     {
-      "date": 1789013293000,
-      "committedDate": "2026-09-10T04:08:13Z",
-      "header": "UPDATE APV APPROVE BUTTON XPATH",
-      "repo": "M2_APPROVE_BOT",
-      "url": "https://github.com/M2Station/M2_APPROVE_BOT/commit/7a8a6a153534aff7aa067d00d2a85d443b8ccbcb",
-      "sha": "7a8a6a1",
+      "date": 1789108139000,
+      "committedDate": "2026-09-11T06:28:59Z",
+      "header": "chore(release): bump version to 0.1.16",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/6330d9c72df0b889069c6d3e96cae4667f4ac860",
+      "sha": "6330d9c",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1789108073000,
+      "committedDate": "2026-09-11T06:27:53Z",
+      "header": "chore(release): bump version to 0.1.16",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/0940782bbbf8806dc5fffcace08fd06141d9c990",
+      "sha": "0940782",
       "login": "OA Hsiao"
     },
     {
-      "date": 1789012073000,
-      "committedDate": "2026-09-10T03:47:53Z",
-      "header": "feat: make visualization intake context-aware",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/a651ef03a3a627153bb137e0662aba8790bb060c",
-      "sha": "a651ef0",
-      "login": "Sebastian Liu"
+      "date": 1789108058000,
+      "committedDate": "2026-09-11T06:27:38Z",
+      "header": "test(os-login): update default retry count expectation",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/ae410950c0bd226ec6fa8957ea2e367c5eb79f96",
+      "sha": "ae41095",
+      "login": "oahsiao"
     },
     {
-      "date": 1789009916000,
-      "committedDate": "2026-09-10T03:11:56Z",
-      "header": "feat: auto-create report explainer sessions",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/dc63fa06fcdca0e51ab0759c99d99b87ec583f5b",
-      "sha": "dc63fa0",
-      "login": "Sebastian Liu"
+      "date": 1789108018000,
+      "committedDate": "2026-09-11T06:26:58Z",
+      "header": "test(os-login): update default retry count expectation",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/f2a3d998f3fbae6e76eef76beb8013cf99fc057b",
+      "sha": "f2a3d99",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1789008676000,
-      "committedDate": "2026-09-10T02:51:16Z",
-      "header": "feat: select compact best-fit diagrams",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/39894f7f7d6d3f5695c63ec4a6e7894586afd2af",
-      "sha": "39894f7",
-      "login": "Sebastian Liu"
+      "date": 1789107469000,
+      "committedDate": "2026-09-11T06:17:49Z",
+      "header": "Implement DUT Remote Control",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/b1154550bf000ea997180c1491ea4c41b079083a",
+      "sha": "b115455",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1789005851000,
-      "committedDate": "2026-09-10T02:04:11Z",
-      "header": "feat: add localized visualization intake",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/c22ab709f0a0f470c95a6c16157c1a24c70a9fad",
-      "sha": "c22ab70",
-      "login": "Sebastian Liu"
+      "date": 1789103933000,
+      "committedDate": "2026-09-11T05:18:53Z",
+      "header": "chore(release): bump version to 0.4.5 (#20)",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/3dfb74303714f9cedad00d826fc7cb2e337fb642",
+      "sha": "3dfb743",
+      "login": "erickuo1111"
     },
     {
-      "date": 1789004837000,
-      "committedDate": "2026-09-10T01:47:17Z",
-      "header": "Document RSA+LMS ME capsule validation",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/a78e068f9fb3796f2c2503592228d0a1c7a6b008",
-      "sha": "a78e068",
-      "login": "Sam6Su"
-    },
-    {
-      "date": 1788956463000,
-      "committedDate": "2026-09-09T12:21:03Z",
-      "header": "feat: add detailed visualization tier",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/d25d3e693f34f36c5be1fce25421c7e021b50254",
-      "sha": "d25d3e6",
-      "login": "Sebastian Liu"
+      "date": 1789103674000,
+      "committedDate": "2026-09-11T05:14:34Z",
+      "header": "Runtime 頁開啟時動態讀取 llama.cpp GitHub Releases。",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/13db4d3c56f6f02b1f3c4ad1745275f0b00530e4",
+      "sha": "13db4d3",
+      "login": "oahsiao"
     }
   ]
 }
