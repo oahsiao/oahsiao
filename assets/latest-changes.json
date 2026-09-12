@@ -1,94 +1,94 @@
 {
-  "updated": "2026-09-11 15:08 TWN",
+  "updated": "2026-09-12 14:59 TWN",
   "latestChanges": [
     {
-      "date": 1789110300000,
-      "committedDate": "2026-09-11T07:05:00Z",
-      "header": "add rescan button for LLAMA.CPP download",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/2538c60c8668be1c0aecb02b156377069694b0fa",
-      "sha": "2538c60",
-      "login": "oahsiao"
+      "date": 1789126568000,
+      "committedDate": "2026-09-11T11:36:08Z",
+      "header": "add note",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/0fb852a83af9f8c738f8aba08fda1a98f423b762",
+      "sha": "0fb852a",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1789108549000,
-      "committedDate": "2026-09-11T06:35:49Z",
-      "header": "chore(m2-pilot): publish v0.1.16",
+      "date": 1789124768000,
+      "committedDate": "2026-09-11T11:06:08Z",
+      "header": "docs(readme): add agent skills resources and diagram skills links",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/3b568f196a4debcbf74c20ec009e28e4c26d51c4",
+      "sha": "3b568f1",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789124619000,
+      "committedDate": "2026-09-11T11:03:39Z",
+      "header": "update",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/3ff21b8d7a10a075d5252dbe1f0f06ccb752b712",
+      "sha": "3ff21b8",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789124109000,
+      "committedDate": "2026-09-11T10:55:09Z",
+      "header": "CODEX Hack method",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/e24b226b1f20fe0de03cdcd3b4614882aafcf097",
+      "sha": "e24b226",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789119443000,
+      "committedDate": "2026-09-11T09:37:23Z",
+      "header": "Add m2-tool-create SKILL",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/95dd01d99ed55b1be8e8530f23ab8d111718e654",
+      "sha": "95dd01d",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789116993000,
+      "committedDate": "2026-09-11T08:56:33Z",
+      "header": "chore(m2-pilot): publish v0.1.19",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/3d7c54c8b130c4a2ea7870350ac099c324b205b9",
-      "sha": "3d7c54c",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/943d801d2aef99fc8dce2a82a8fd37cc723ae797",
+      "sha": "943d801",
       "login": "oahsiao"
     },
     {
-      "date": 1789108377000,
-      "committedDate": "2026-09-11T06:32:57Z",
-      "header": "chore(m2-prompt): publish v0.4.5",
+      "date": 1789116545000,
+      "committedDate": "2026-09-11T08:49:05Z",
+      "header": "chore(release): bump version to 0.1.19",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/2d6e1a3cb08509fb1a5c2564bd8da7cdf9f9bcc4",
+      "sha": "2d6e1a3",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1789116309000,
+      "committedDate": "2026-09-11T08:45:09Z",
+      "header": "chore(release): bump version to 0.1.19",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/5f3db0d9b24b61aa6754c96e9b2f36cb22965b97",
+      "sha": "5f3db0d",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789115972000,
+      "committedDate": "2026-09-11T08:39:32Z",
+      "header": "Refine TWIN",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/cce72e2bf78b030ce10aa06c9fd8ec08ee6b2bcc",
+      "sha": "cce72e2",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789114308000,
+      "committedDate": "2026-09-11T08:11:48Z",
+      "header": "chore(m2-pilot): publish v0.1.18",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/750c2131aafc6db78316a6ac87a909ea775daef0",
-      "sha": "750c213",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1789108139000,
-      "committedDate": "2026-09-11T06:28:59Z",
-      "header": "chore(release): bump version to 0.1.16",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/6330d9c72df0b889069c6d3e96cae4667f4ac860",
-      "sha": "6330d9c",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1789108073000,
-      "committedDate": "2026-09-11T06:27:53Z",
-      "header": "chore(release): bump version to 0.1.16",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/0940782bbbf8806dc5fffcace08fd06141d9c990",
-      "sha": "0940782",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789108058000,
-      "committedDate": "2026-09-11T06:27:38Z",
-      "header": "test(os-login): update default retry count expectation",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/ae410950c0bd226ec6fa8957ea2e367c5eb79f96",
-      "sha": "ae41095",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1789108018000,
-      "committedDate": "2026-09-11T06:26:58Z",
-      "header": "test(os-login): update default retry count expectation",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/f2a3d998f3fbae6e76eef76beb8013cf99fc057b",
-      "sha": "f2a3d99",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789107469000,
-      "committedDate": "2026-09-11T06:17:49Z",
-      "header": "Implement DUT Remote Control",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/b1154550bf000ea997180c1491ea4c41b079083a",
-      "sha": "b115455",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789103933000,
-      "committedDate": "2026-09-11T05:18:53Z",
-      "header": "chore(release): bump version to 0.4.5 (#20)",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/3dfb74303714f9cedad00d826fc7cb2e337fb642",
-      "sha": "3dfb743",
-      "login": "erickuo1111"
-    },
-    {
-      "date": 1789103674000,
-      "committedDate": "2026-09-11T05:14:34Z",
-      "header": "Runtime 頁開啟時動態讀取 llama.cpp GitHub Releases。",
-      "repo": "M2_PROMPT",
-      "url": "https://github.com/M2Station/M2_PROMPT/commit/13db4d3c56f6f02b1f3c4ad1745275f0b00530e4",
-      "sha": "13db4d3",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/8110e2003a608e2a8b60ea4ab72e503457a02ff2",
+      "sha": "8110e20",
       "login": "oahsiao"
     }
   ]

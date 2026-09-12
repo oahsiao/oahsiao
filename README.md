@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PROMPT@2538c60`](https://github.com/M2Station/M2_PROMPT/commit/2538c60c8668be1c0aecb02b156377069694b0fa) — add rescan button for LLAMA.CPP download · `2026-09-11` · oahsiao
-02. [`M2_PUBLIC_RELEASE@3d7c54c`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/3d7c54c8b130c4a2ea7870350ac099c324b205b9) — chore(m2-pilot): publish v0.1.16 · `2026-09-11` · oahsiao
-03. [`M2_PUBLIC_RELEASE@750c213`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/750c2131aafc6db78316a6ac87a909ea775daef0) — chore(m2-prompt): publish v0.4.5 · `2026-09-11` · oahsiao
-04. [`M2_PILOT@6330d9c`](https://github.com/M2Station/M2_PILOT/commit/6330d9c72df0b889069c6d3e96cae4667f4ac860) — chore(release): bump version to 0.1.16 · `2026-09-11` · oahsiao
-05. [`M2_PILOT@0940782`](https://github.com/M2Station/M2_PILOT/commit/0940782bbbf8806dc5fffcace08fd06141d9c990) — chore(release): bump version to 0.1.16 · `2026-09-11` · OA Hsiao
-06. [`M2_PILOT@ae41095`](https://github.com/M2Station/M2_PILOT/commit/ae410950c0bd226ec6fa8957ea2e367c5eb79f96) — test(os-login): update default retry count expectation · `2026-09-11` · oahsiao
-07. [`M2_PILOT@f2a3d99`](https://github.com/M2Station/M2_PILOT/commit/f2a3d998f3fbae6e76eef76beb8013cf99fc057b) — test(os-login): update default retry count expectation · `2026-09-11` · OA Hsiao
-08. [`M2_PILOT@b115455`](https://github.com/M2Station/M2_PILOT/commit/b1154550bf000ea997180c1491ea4c41b079083a) — Implement DUT Remote Control · `2026-09-11` · OA Hsiao
-09. [`M2_PROMPT@3dfb743`](https://github.com/M2Station/M2_PROMPT/commit/3dfb74303714f9cedad00d826fc7cb2e337fb642) — chore(release): bump version to 0.4.5 (#20) · `2026-09-11` · erickuo1111
-10. [`M2_PROMPT@13db4d3`](https://github.com/M2Station/M2_PROMPT/commit/13db4d3c56f6f02b1f3c4ad1745275f0b00530e4) — Runtime 頁開啟時動態讀取 llama.cpp GitHub Releases。 · `2026-09-11` · oahsiao
+01. [`M2_SKILLS@0fb852a`](https://github.com/M2Station/M2_SKILLS/commit/0fb852a83af9f8c738f8aba08fda1a98f423b762) — add note · `2026-09-11` · OA Hsiao
+02. [`M2_SKILLS@3b568f1`](https://github.com/M2Station/M2_SKILLS/commit/3b568f196a4debcbf74c20ec009e28e4c26d51c4) — docs(readme): add agent skills resources and diagram skil... · `2026-09-11` · OA Hsiao
+03. [`M2_WIKI@3ff21b8`](https://github.com/M2Station/M2_WIKI/commit/3ff21b8d7a10a075d5252dbe1f0f06ccb752b712) — update · `2026-09-11` · OA Hsiao
+04. [`M2_WIKI@e24b226`](https://github.com/M2Station/M2_WIKI/commit/e24b226b1f20fe0de03cdcd3b4614882aafcf097) — CODEX Hack method · `2026-09-11` · OA Hsiao
+05. [`M2_PILOT@95dd01d`](https://github.com/M2Station/M2_PILOT/commit/95dd01d99ed55b1be8e8530f23ab8d111718e654) — Add m2-tool-create SKILL · `2026-09-11` · OA Hsiao
+06. [`M2_PUBLIC_RELEASE@943d801`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/943d801d2aef99fc8dce2a82a8fd37cc723ae797) — chore(m2-pilot): publish v0.1.19 · `2026-09-11` · oahsiao
+07. [`M2_PILOT@2d6e1a3`](https://github.com/M2Station/M2_PILOT/commit/2d6e1a3cb08509fb1a5c2564bd8da7cdf9f9bcc4) — chore(release): bump version to 0.1.19 · `2026-09-11` · oahsiao
+08. [`M2_PILOT@5f3db0d`](https://github.com/M2Station/M2_PILOT/commit/5f3db0d9b24b61aa6754c96e9b2f36cb22965b97) — chore(release): bump version to 0.1.19 · `2026-09-11` · OA Hsiao
+09. [`M2_PILOT@cce72e2`](https://github.com/M2Station/M2_PILOT/commit/cce72e2bf78b030ce10aa06c9fd8ec08ee6b2bcc) — Refine TWIN · `2026-09-11` · OA Hsiao
+10. [`M2_PUBLIC_RELEASE@8110e20`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/8110e2003a608e2a8b60ea4ab72e503457a02ff2) — chore(m2-pilot): publish v0.1.18 · `2026-09-11` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
