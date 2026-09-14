@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`.github@d5bea0d`](https://github.com/M2Station/.github/commit/d5bea0d8ecd1822efb285af56913caa94371145e) — chore: sync latest changes [skip ci] · `2026-09-12` · github-actions[bot]
-02. [`M2_SKILLS@0fb852a`](https://github.com/M2Station/M2_SKILLS/commit/0fb852a83af9f8c738f8aba08fda1a98f423b762) — add note · `2026-09-11` · OA Hsiao
-03. [`M2_SKILLS@3b568f1`](https://github.com/M2Station/M2_SKILLS/commit/3b568f196a4debcbf74c20ec009e28e4c26d51c4) — docs(readme): add agent skills resources and diagram skil... · `2026-09-11` · OA Hsiao
-04. [`M2_WIKI@3ff21b8`](https://github.com/M2Station/M2_WIKI/commit/3ff21b8d7a10a075d5252dbe1f0f06ccb752b712) — update · `2026-09-11` · OA Hsiao
-05. [`M2_WIKI@e24b226`](https://github.com/M2Station/M2_WIKI/commit/e24b226b1f20fe0de03cdcd3b4614882aafcf097) — CODEX Hack method · `2026-09-11` · OA Hsiao
-06. [`M2_PILOT@95dd01d`](https://github.com/M2Station/M2_PILOT/commit/95dd01d99ed55b1be8e8530f23ab8d111718e654) — Add m2-tool-create SKILL · `2026-09-11` · OA Hsiao
-07. [`M2_PUBLIC_RELEASE@943d801`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/943d801d2aef99fc8dce2a82a8fd37cc723ae797) — chore(m2-pilot): publish v0.1.19 · `2026-09-11` · oahsiao
-08. [`M2_PILOT@2d6e1a3`](https://github.com/M2Station/M2_PILOT/commit/2d6e1a3cb08509fb1a5c2564bd8da7cdf9f9bcc4) — chore(release): bump version to 0.1.19 · `2026-09-11` · oahsiao
-09. [`M2_PILOT@5f3db0d`](https://github.com/M2Station/M2_PILOT/commit/5f3db0d9b24b61aa6754c96e9b2f36cb22965b97) — chore(release): bump version to 0.1.19 · `2026-09-11` · OA Hsiao
-10. [`M2_PILOT@cce72e2`](https://github.com/M2Station/M2_PILOT/commit/cce72e2bf78b030ce10aa06c9fd8ec08ee6b2bcc) — Refine TWIN · `2026-09-11` · OA Hsiao
+01. [`M2_WIKI@899bdf0`](https://github.com/M2Station/M2_WIKI/commit/899bdf0f169735676e4fe9cab23547de8986dd78) — [Feature] Document supported reasoning_effort levels · `2026-09-14` · OA Hsiao
+02. [`M2_PILOT@e32f48c`](https://github.com/M2Station/M2_PILOT/commit/e32f48ca4fa69b2e94f488aa609e39efc60a5517) — [Bug Fix] Polish UI loader, button feedback, and TWIN sca... · `2026-09-14` · OA Hsiao
+03. [`M2_WIKI@a486d12`](https://github.com/M2Station/M2_WIKI/commit/a486d129887719e761bcaa43e665857df6d66518) — [Docs] Update opencode config example with M2_PILOT MCP s... · `2026-09-14` · OA Hsiao
+04. [`M2_WIKI@ecb21bb`](https://github.com/M2Station/M2_WIKI/commit/ecb21bbcbef61247eeded0cda205aa25d02f1ced) — [Feature] Add CODEX FOR RJB config section · `2026-09-14` · OA Hsiao
+05. [`M2_WIKI@3e8bdd7`](https://github.com/M2Station/M2_WIKI/commit/3e8bdd745b51abe6e3e307f9e08b89cd43b10ccc) — [Feature] Add m2-commit skill for tagged bilingual auto c... · `2026-09-14` · OA Hsiao
+06. [`M2_WIKI@aa617f6`](https://github.com/M2Station/M2_WIKI/commit/aa617f643539263b34c9dcdc0df597f6a2245b3c) — Document PEGAAI routing flow and fix model name in OPENCO... · `2026-09-14` · OA Hsiao
+07. [`M2_WIKI@b775f89`](https://github.com/M2Station/M2_WIKI/commit/b775f890d6f6dc24277cc4885b8b32fce05e666f) — update more · `2026-09-14` · OA Hsiao
+08. [`M2_WIKI@5454fa3`](https://github.com/M2Station/M2_WIKI/commit/5454fa37e55613647839cf2e9ba0c3248fbc6d48) — Document PEGAAi auto-review 404 and full-access workaround · `2026-09-14` · OA Hsiao
+09. [`M2_WIKI@4d3fe48`](https://github.com/M2Station/M2_WIKI/commit/4d3fe4809ca0d185e8267d32bd23056b51558ab4) — ++ · `2026-09-14` · OA Hsiao
+10. [`M2_GIT_DIFF@49daf31`](https://github.com/M2Station/M2_GIT_DIFF/commit/49daf314575294b96dc5c1f84f0564ed24800e53) — chore(dev-deps): bump @napi-rs/canvas in the npm-minor-an... · `2026-09-14` · dependabot[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---

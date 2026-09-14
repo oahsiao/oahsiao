@@ -1,95 +1,95 @@
 {
-  "updated": "2026-09-13 15:18 TWN",
+  "updated": "2026-09-14 15:43 TWN",
   "latestChanges": [
     {
-      "date": 1789197376000,
-      "committedDate": "2026-09-12T07:16:16Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/d5bea0d8ecd1822efb285af56913caa94371145e",
-      "sha": "d5bea0d",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1789126568000,
-      "committedDate": "2026-09-11T11:36:08Z",
-      "header": "add note",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/0fb852a83af9f8c738f8aba08fda1a98f423b762",
-      "sha": "0fb852a",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789124768000,
-      "committedDate": "2026-09-11T11:06:08Z",
-      "header": "docs(readme): add agent skills resources and diagram skills links",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/3b568f196a4debcbf74c20ec009e28e4c26d51c4",
-      "sha": "3b568f1",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789124619000,
-      "committedDate": "2026-09-11T11:03:39Z",
-      "header": "update",
+      "date": 1789371593000,
+      "committedDate": "2026-09-14T07:39:53Z",
+      "header": "[Feature] Document supported reasoning_effort levels",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/3ff21b8d7a10a075d5252dbe1f0f06ccb752b712",
-      "sha": "3ff21b8",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/899bdf0f169735676e4fe9cab23547de8986dd78",
+      "sha": "899bdf0",
       "login": "OA Hsiao"
     },
     {
-      "date": 1789124109000,
-      "committedDate": "2026-09-11T10:55:09Z",
-      "header": "CODEX Hack method",
+      "date": 1789370901000,
+      "committedDate": "2026-09-14T07:28:21Z",
+      "header": "[Bug Fix] Polish UI loader, button feedback, and TWIN scan button",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/e32f48ca4fa69b2e94f488aa609e39efc60a5517",
+      "sha": "e32f48c",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789370168000,
+      "committedDate": "2026-09-14T07:16:08Z",
+      "header": "[Docs] Update opencode config example with M2_PILOT MCP server",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/e24b226b1f20fe0de03cdcd3b4614882aafcf097",
-      "sha": "e24b226",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/a486d129887719e761bcaa43e665857df6d66518",
+      "sha": "a486d12",
       "login": "OA Hsiao"
     },
     {
-      "date": 1789119443000,
-      "committedDate": "2026-09-11T09:37:23Z",
-      "header": "Add m2-tool-create SKILL",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/95dd01d99ed55b1be8e8530f23ab8d111718e654",
-      "sha": "95dd01d",
+      "date": 1789367843000,
+      "committedDate": "2026-09-14T06:37:23Z",
+      "header": "[Feature] Add CODEX FOR RJB config section",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/ecb21bbcbef61247eeded0cda205aa25d02f1ced",
+      "sha": "ecb21bb",
       "login": "OA Hsiao"
     },
     {
-      "date": 1789116993000,
-      "committedDate": "2026-09-11T08:56:33Z",
-      "header": "chore(m2-pilot): publish v0.1.19",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/943d801d2aef99fc8dce2a82a8fd37cc723ae797",
-      "sha": "943d801",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1789116545000,
-      "committedDate": "2026-09-11T08:49:05Z",
-      "header": "chore(release): bump version to 0.1.19",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/2d6e1a3cb08509fb1a5c2564bd8da7cdf9f9bcc4",
-      "sha": "2d6e1a3",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1789116309000,
-      "committedDate": "2026-09-11T08:45:09Z",
-      "header": "chore(release): bump version to 0.1.19",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/5f3db0d9b24b61aa6754c96e9b2f36cb22965b97",
-      "sha": "5f3db0d",
+      "date": 1789364944000,
+      "committedDate": "2026-09-14T05:49:04Z",
+      "header": "[Feature] Add m2-commit skill for tagged bilingual auto commit messages",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/3e8bdd745b51abe6e3e307f9e08b89cd43b10ccc",
+      "sha": "3e8bdd7",
       "login": "OA Hsiao"
     },
     {
-      "date": 1789115972000,
-      "committedDate": "2026-09-11T08:39:32Z",
-      "header": "Refine TWIN",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/cce72e2bf78b030ce10aa06c9fd8ec08ee6b2bcc",
-      "sha": "cce72e2",
+      "date": 1789364701000,
+      "committedDate": "2026-09-14T05:45:01Z",
+      "header": "Document PEGAAI routing flow and fix model name in OPENCODE config",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/aa617f643539263b34c9dcdc0df597f6a2245b3c",
+      "sha": "aa617f6",
       "login": "OA Hsiao"
+    },
+    {
+      "date": 1789363122000,
+      "committedDate": "2026-09-14T05:18:42Z",
+      "header": "update more",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/b775f890d6f6dc24277cc4885b8b32fce05e666f",
+      "sha": "b775f89",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789362874000,
+      "committedDate": "2026-09-14T05:14:34Z",
+      "header": "Document PEGAAi auto-review 404 and full-access workaround",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/5454fa37e55613647839cf2e9ba0c3248fbc6d48",
+      "sha": "5454fa3",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789355566000,
+      "committedDate": "2026-09-14T03:12:46Z",
+      "header": "++",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/4d3fe4809ca0d185e8267d32bd23056b51558ab4",
+      "sha": "4d3fe48",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789348127000,
+      "committedDate": "2026-09-14T01:08:47Z",
+      "header": "chore(dev-deps): bump @napi-rs/canvas in the npm-minor-and-patch group",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/49daf314575294b96dc5c1f84f0564ed24800e53",
+      "sha": "49daf31",
+      "login": "dependabot[bot]"
     }
   ]
 }
