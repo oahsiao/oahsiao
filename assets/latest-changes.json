@@ -1,95 +1,95 @@
 {
-  "updated": "2026-09-14 15:43 TWN",
+  "updated": "2026-09-15 15:27 TWN",
   "latestChanges": [
     {
-      "date": 1789371593000,
-      "committedDate": "2026-09-14T07:39:53Z",
-      "header": "[Feature] Document supported reasoning_effort levels",
+      "date": 1789452239000,
+      "committedDate": "2026-09-15T06:03:59Z",
+      "header": "fix(v2.1.1): make installer marker replacement portable",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/04a6dda476265284a0ac746925759c90b25e3787",
+      "sha": "04a6dda",
+      "login": "Sebastian Liu"
+    },
+    {
+      "date": 1789451722000,
+      "committedDate": "2026-09-15T05:55:22Z",
+      "header": "fix: make installer marker replacement portable",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/28bc412c9c9e108961161816285a325266335f9c",
+      "sha": "28bc412",
+      "login": "Sebastian Liu"
+    },
+    {
+      "date": 1789436301000,
+      "committedDate": "2026-09-15T01:38:21Z",
+      "header": "feat(v2.1.0): add M2 Feature Flow CLI",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/0855587dd92d4da216d47efc3b54760e78b53565",
+      "sha": "0855587",
+      "login": "Sebastian Liu"
+    },
+    {
+      "date": 1789383348000,
+      "committedDate": "2026-09-14T10:55:48Z",
+      "header": "[Docs] Move PEGAAI model list into dedicated model section",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/899bdf0f169735676e4fe9cab23547de8986dd78",
-      "sha": "899bdf0",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/66cf8b011ec1d2afd04e86fecd446e1b39020d9f",
+      "sha": "66cf8b0",
       "login": "OA Hsiao"
     },
     {
-      "date": 1789370901000,
-      "committedDate": "2026-09-14T07:28:21Z",
-      "header": "[Bug Fix] Polish UI loader, button feedback, and TWIN scan button",
+      "date": 1789383270000,
+      "committedDate": "2026-09-14T10:54:30Z",
+      "header": "+++",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/65604610cadd952864661d45ae73aa9ba8a34f52",
+      "sha": "6560461",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789380808000,
+      "committedDate": "2026-09-14T10:13:28Z",
+      "header": "chore(release): bump version to 0.1.20",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/e32f48ca4fa69b2e94f488aa609e39efc60a5517",
-      "sha": "e32f48c",
-      "login": "OA Hsiao"
+      "url": "https://github.com/M2Station/M2_PILOT/commit/47a33c0ecd706a3b0902a00818fe87a6bfe2fa37",
+      "sha": "47a33c0",
+      "login": "oahsiao"
     },
     {
-      "date": 1789370168000,
-      "committedDate": "2026-09-14T07:16:08Z",
-      "header": "[Docs] Update opencode config example with M2_PILOT MCP server",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/a486d129887719e761bcaa43e665857df6d66518",
-      "sha": "a486d12",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789367843000,
-      "committedDate": "2026-09-14T06:37:23Z",
-      "header": "[Feature] Add CODEX FOR RJB config section",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/ecb21bbcbef61247eeded0cda205aa25d02f1ced",
-      "sha": "ecb21bb",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789364944000,
-      "committedDate": "2026-09-14T05:49:04Z",
-      "header": "[Feature] Add m2-commit skill for tagged bilingual auto commit messages",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/3e8bdd745b51abe6e3e307f9e08b89cd43b10ccc",
-      "sha": "3e8bdd7",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789364701000,
-      "committedDate": "2026-09-14T05:45:01Z",
-      "header": "Document PEGAAI routing flow and fix model name in OPENCODE config",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/aa617f643539263b34c9dcdc0df597f6a2245b3c",
-      "sha": "aa617f6",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789363122000,
-      "committedDate": "2026-09-14T05:18:42Z",
-      "header": "update more",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/b775f890d6f6dc24277cc4885b8b32fce05e666f",
-      "sha": "b775f89",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789362874000,
-      "committedDate": "2026-09-14T05:14:34Z",
-      "header": "Document PEGAAi auto-review 404 and full-access workaround",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/5454fa37e55613647839cf2e9ba0c3248fbc6d48",
-      "sha": "5454fa3",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789355566000,
-      "committedDate": "2026-09-14T03:12:46Z",
+      "date": 1789379913000,
+      "committedDate": "2026-09-14T09:58:33Z",
       "header": "++",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/4d3fe4809ca0d185e8267d32bd23056b51558ab4",
-      "sha": "4d3fe48",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/575c86ec386b6dfd42eee9bb88e0f8542da6267b",
+      "sha": "575c86e",
       "login": "OA Hsiao"
     },
     {
-      "date": 1789348127000,
-      "committedDate": "2026-09-14T01:08:47Z",
-      "header": "chore(dev-deps): bump @napi-rs/canvas in the npm-minor-and-patch group",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/49daf314575294b96dc5c1f84f0564ed24800e53",
-      "sha": "49daf31",
-      "login": "dependabot[bot]"
+      "date": 1789377793000,
+      "committedDate": "2026-09-14T09:23:13Z",
+      "header": "[Feature] Show DUT registration and simplify autosign project override",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/caf619e942f982c9fd3d768eb4fccff16a6d789f",
+      "sha": "caf619e",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789376995000,
+      "committedDate": "2026-09-14T09:09:55Z",
+      "header": "docs(v2.0.6): require iterative subagent review",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/d75d343538b4964231cf671e3a1d865269e20e4b",
+      "sha": "d75d343",
+      "login": "Sebastian Liu"
+    },
+    {
+      "date": 1789376262000,
+      "committedDate": "2026-09-14T08:57:42Z",
+      "header": "feat(v2.0.5): replace Sebualizer with M2 Feature Flow",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/335758297a9171a47af220b05dfb1eac1b137dd1",
+      "sha": "3357582",
+      "login": "Sebastian Liu"
     }
   ]
 }

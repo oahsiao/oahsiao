@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@899bdf0`](https://github.com/M2Station/M2_WIKI/commit/899bdf0f169735676e4fe9cab23547de8986dd78) — [Feature] Document supported reasoning_effort levels · `2026-09-14` · OA Hsiao
-02. [`M2_PILOT@e32f48c`](https://github.com/M2Station/M2_PILOT/commit/e32f48ca4fa69b2e94f488aa609e39efc60a5517) — [Bug Fix] Polish UI loader, button feedback, and TWIN sca... · `2026-09-14` · OA Hsiao
-03. [`M2_WIKI@a486d12`](https://github.com/M2Station/M2_WIKI/commit/a486d129887719e761bcaa43e665857df6d66518) — [Docs] Update opencode config example with M2_PILOT MCP s... · `2026-09-14` · OA Hsiao
-04. [`M2_WIKI@ecb21bb`](https://github.com/M2Station/M2_WIKI/commit/ecb21bbcbef61247eeded0cda205aa25d02f1ced) — [Feature] Add CODEX FOR RJB config section · `2026-09-14` · OA Hsiao
-05. [`M2_WIKI@3e8bdd7`](https://github.com/M2Station/M2_WIKI/commit/3e8bdd745b51abe6e3e307f9e08b89cd43b10ccc) — [Feature] Add m2-commit skill for tagged bilingual auto c... · `2026-09-14` · OA Hsiao
-06. [`M2_WIKI@aa617f6`](https://github.com/M2Station/M2_WIKI/commit/aa617f643539263b34c9dcdc0df597f6a2245b3c) — Document PEGAAI routing flow and fix model name in OPENCO... · `2026-09-14` · OA Hsiao
-07. [`M2_WIKI@b775f89`](https://github.com/M2Station/M2_WIKI/commit/b775f890d6f6dc24277cc4885b8b32fce05e666f) — update more · `2026-09-14` · OA Hsiao
-08. [`M2_WIKI@5454fa3`](https://github.com/M2Station/M2_WIKI/commit/5454fa37e55613647839cf2e9ba0c3248fbc6d48) — Document PEGAAi auto-review 404 and full-access workaround · `2026-09-14` · OA Hsiao
-09. [`M2_WIKI@4d3fe48`](https://github.com/M2Station/M2_WIKI/commit/4d3fe4809ca0d185e8267d32bd23056b51558ab4) — ++ · `2026-09-14` · OA Hsiao
-10. [`M2_GIT_DIFF@49daf31`](https://github.com/M2Station/M2_GIT_DIFF/commit/49daf314575294b96dc5c1f84f0564ed24800e53) — chore(dev-deps): bump @napi-rs/canvas in the npm-minor-an... · `2026-09-14` · dependabot[bot]
+01. [`M2_SKILLS@04a6dda`](https://github.com/M2Station/M2_SKILLS/commit/04a6dda476265284a0ac746925759c90b25e3787) — fix(v2.1.1): make installer marker replacement portable · `2026-09-15` · Sebastian Liu
+02. [`M2_SKILLS@28bc412`](https://github.com/M2Station/M2_SKILLS/commit/28bc412c9c9e108961161816285a325266335f9c) — fix: make installer marker replacement portable · `2026-09-15` · Sebastian Liu
+03. [`M2_SKILLS@0855587`](https://github.com/M2Station/M2_SKILLS/commit/0855587dd92d4da216d47efc3b54760e78b53565) — feat(v2.1.0): add M2 Feature Flow CLI · `2026-09-15` · Sebastian Liu
+04. [`M2_WIKI@66cf8b0`](https://github.com/M2Station/M2_WIKI/commit/66cf8b011ec1d2afd04e86fecd446e1b39020d9f) — [Docs] Move PEGAAI model list into dedicated model section · `2026-09-14` · OA Hsiao
+05. [`M2_WIKI@6560461`](https://github.com/M2Station/M2_WIKI/commit/65604610cadd952864661d45ae73aa9ba8a34f52) — +++ · `2026-09-14` · OA Hsiao
+06. [`M2_PILOT@47a33c0`](https://github.com/M2Station/M2_PILOT/commit/47a33c0ecd706a3b0902a00818fe87a6bfe2fa37) — chore(release): bump version to 0.1.20 · `2026-09-14` · oahsiao
+07. [`M2_SKILLS@575c86e`](https://github.com/M2Station/M2_SKILLS/commit/575c86ec386b6dfd42eee9bb88e0f8542da6267b) — ++ · `2026-09-14` · OA Hsiao
+08. [`M2_PILOT@caf619e`](https://github.com/M2Station/M2_PILOT/commit/caf619e942f982c9fd3d768eb4fccff16a6d789f) — [Feature] Show DUT registration and simplify autosign pro... · `2026-09-14` · OA Hsiao
+09. [`M2_SKILLS@d75d343`](https://github.com/M2Station/M2_SKILLS/commit/d75d343538b4964231cf671e3a1d865269e20e4b) — docs(v2.0.6): require iterative subagent review · `2026-09-14` · Sebastian Liu
+10. [`M2_SKILLS@3357582`](https://github.com/M2Station/M2_SKILLS/commit/335758297a9171a47af220b05dfb1eac1b137dd1) — feat(v2.0.5): replace Sebualizer with M2 Feature Flow · `2026-09-14` · Sebastian Liu
 <!-- LATEST-CHANGES:END -->
 
 ---
