@@ -1,6 +1,69 @@
 {
-  "updated": "2026-09-15 15:27 TWN",
+  "updated": "2026-09-16 15:25 TWN",
   "latestChanges": [
+    {
+      "date": 1789542631000,
+      "committedDate": "2026-09-16T07:10:31Z",
+      "header": "[Feature] Replace cmd-admin tweak with registry and add long-path support",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/f88b3d017bebdcc41c06e19ff01c3a3e6094ec42",
+      "sha": "f88b3d0",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789536423000,
+      "committedDate": "2026-09-16T05:27:03Z",
+      "header": "feat(v3.1.0): improve graph onboarding",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/442b692e9d7f6b955f579611d168820449787682",
+      "sha": "442b692",
+      "login": "Sebastian Liu"
+    },
+    {
+      "date": 1789535770000,
+      "committedDate": "2026-09-16T05:16:10Z",
+      "header": "[Feature] Add HOST popup confirmation and offline tool compatibility check",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/2cb643352b6b12536bd9fbc52077e8b8e25d2759",
+      "sha": "2cb6433",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789496134000,
+      "committedDate": "2026-09-15T18:15:34Z",
+      "header": "feat(v3.0.0): unify report generation and graph standard",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/bf9d300ffe5a1ea4f7cc4c31a7998bed97b1af68",
+      "sha": "bf9d300",
+      "login": "Sebastian Liu"
+    },
+    {
+      "date": 1789473869000,
+      "committedDate": "2026-09-15T12:04:29Z",
+      "header": "[Feature] Add BUILD_RELEASE.CMD local release build entry point",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/80a31500005d13eb0db724e1e69d3755ddf71046",
+      "sha": "80a3150",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789471124000,
+      "committedDate": "2026-09-15T11:18:44Z",
+      "header": "Fix typos and enhance wake instructions in documentation",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/e767b0cd2fa9e19132663130c6edc2a2ab3ce0be",
+      "sha": "e767b0c",
+      "login": "Sam6Su"
+    },
+    {
+      "date": 1789458976000,
+      "committedDate": "2026-09-15T07:56:16Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/d9dd5cc46ffe648d3537ed5e172ce3729ba9e998",
+      "sha": "d9dd5cc",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1789452239000,
       "committedDate": "2026-09-15T06:03:59Z",
@@ -26,69 +89,6 @@
       "repo": "M2_SKILLS",
       "url": "https://github.com/M2Station/M2_SKILLS/commit/0855587dd92d4da216d47efc3b54760e78b53565",
       "sha": "0855587",
-      "login": "Sebastian Liu"
-    },
-    {
-      "date": 1789383348000,
-      "committedDate": "2026-09-14T10:55:48Z",
-      "header": "[Docs] Move PEGAAI model list into dedicated model section",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/66cf8b011ec1d2afd04e86fecd446e1b39020d9f",
-      "sha": "66cf8b0",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789383270000,
-      "committedDate": "2026-09-14T10:54:30Z",
-      "header": "+++",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/65604610cadd952864661d45ae73aa9ba8a34f52",
-      "sha": "6560461",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789380808000,
-      "committedDate": "2026-09-14T10:13:28Z",
-      "header": "chore(release): bump version to 0.1.20",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/47a33c0ecd706a3b0902a00818fe87a6bfe2fa37",
-      "sha": "47a33c0",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1789379913000,
-      "committedDate": "2026-09-14T09:58:33Z",
-      "header": "++",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/575c86ec386b6dfd42eee9bb88e0f8542da6267b",
-      "sha": "575c86e",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789377793000,
-      "committedDate": "2026-09-14T09:23:13Z",
-      "header": "[Feature] Show DUT registration and simplify autosign project override",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/caf619e942f982c9fd3d768eb4fccff16a6d789f",
-      "sha": "caf619e",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789376995000,
-      "committedDate": "2026-09-14T09:09:55Z",
-      "header": "docs(v2.0.6): require iterative subagent review",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/d75d343538b4964231cf671e3a1d865269e20e4b",
-      "sha": "d75d343",
-      "login": "Sebastian Liu"
-    },
-    {
-      "date": 1789376262000,
-      "committedDate": "2026-09-14T08:57:42Z",
-      "header": "feat(v2.0.5): replace Sebualizer with M2 Feature Flow",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/335758297a9171a47af220b05dfb1eac1b137dd1",
-      "sha": "3357582",
       "login": "Sebastian Liu"
     }
   ]

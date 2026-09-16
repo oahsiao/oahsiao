@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_SKILLS@04a6dda`](https://github.com/M2Station/M2_SKILLS/commit/04a6dda476265284a0ac746925759c90b25e3787) — fix(v2.1.1): make installer marker replacement portable · `2026-09-15` · Sebastian Liu
-02. [`M2_SKILLS@28bc412`](https://github.com/M2Station/M2_SKILLS/commit/28bc412c9c9e108961161816285a325266335f9c) — fix: make installer marker replacement portable · `2026-09-15` · Sebastian Liu
-03. [`M2_SKILLS@0855587`](https://github.com/M2Station/M2_SKILLS/commit/0855587dd92d4da216d47efc3b54760e78b53565) — feat(v2.1.0): add M2 Feature Flow CLI · `2026-09-15` · Sebastian Liu
-04. [`M2_WIKI@66cf8b0`](https://github.com/M2Station/M2_WIKI/commit/66cf8b011ec1d2afd04e86fecd446e1b39020d9f) — [Docs] Move PEGAAI model list into dedicated model section · `2026-09-14` · OA Hsiao
-05. [`M2_WIKI@6560461`](https://github.com/M2Station/M2_WIKI/commit/65604610cadd952864661d45ae73aa9ba8a34f52) — +++ · `2026-09-14` · OA Hsiao
-06. [`M2_PILOT@47a33c0`](https://github.com/M2Station/M2_PILOT/commit/47a33c0ecd706a3b0902a00818fe87a6bfe2fa37) — chore(release): bump version to 0.1.20 · `2026-09-14` · oahsiao
-07. [`M2_SKILLS@575c86e`](https://github.com/M2Station/M2_SKILLS/commit/575c86ec386b6dfd42eee9bb88e0f8542da6267b) — ++ · `2026-09-14` · OA Hsiao
-08. [`M2_PILOT@caf619e`](https://github.com/M2Station/M2_PILOT/commit/caf619e942f982c9fd3d768eb4fccff16a6d789f) — [Feature] Show DUT registration and simplify autosign pro... · `2026-09-14` · OA Hsiao
-09. [`M2_SKILLS@d75d343`](https://github.com/M2Station/M2_SKILLS/commit/d75d343538b4964231cf671e3a1d865269e20e4b) — docs(v2.0.6): require iterative subagent review · `2026-09-14` · Sebastian Liu
-10. [`M2_SKILLS@3357582`](https://github.com/M2Station/M2_SKILLS/commit/335758297a9171a47af220b05dfb1eac1b137dd1) — feat(v2.0.5): replace Sebualizer with M2 Feature Flow · `2026-09-14` · Sebastian Liu
+01. [`M2_APEX@f88b3d0`](https://github.com/M2Station/M2_APEX/commit/f88b3d017bebdcc41c06e19ff01c3a3e6094ec42) — [Feature] Replace cmd-admin tweak with registry and add l... · `2026-09-16` · OA Hsiao
+02. [`M2_SKILLS@442b692`](https://github.com/M2Station/M2_SKILLS/commit/442b692e9d7f6b955f579611d168820449787682) — feat(v3.1.0): improve graph onboarding · `2026-09-16` · Sebastian Liu
+03. [`M2_PILOT@2cb6433`](https://github.com/M2Station/M2_PILOT/commit/2cb643352b6b12536bd9fbc52077e8b8e25d2759) — [Feature] Add HOST popup confirmation and offline tool co... · `2026-09-16` · OA Hsiao
+04. [`M2_SKILLS@bf9d300`](https://github.com/M2Station/M2_SKILLS/commit/bf9d300ffe5a1ea4f7cc4c31a7998bed97b1af68) — feat(v3.0.0): unify report generation and graph standard · `2026-09-15` · Sebastian Liu
+05. [`M2_PILOT@80a3150`](https://github.com/M2Station/M2_PILOT/commit/80a31500005d13eb0db724e1e69d3755ddf71046) — [Feature] Add BUILD_RELEASE.CMD local release build entry... · `2026-09-15` · OA Hsiao
+06. [`M2_WIKI@e767b0c`](https://github.com/M2Station/M2_WIKI/commit/e767b0cd2fa9e19132663130c6edc2a2ab3ce0be) — Fix typos and enhance wake instructions in documentation · `2026-09-15` · Sam6Su
+07. [`.github@d9dd5cc`](https://github.com/M2Station/.github/commit/d9dd5cc46ffe648d3537ed5e172ce3729ba9e998) — chore: sync latest changes [skip ci] · `2026-09-15` · github-actions[bot]
+08. [`M2_SKILLS@04a6dda`](https://github.com/M2Station/M2_SKILLS/commit/04a6dda476265284a0ac746925759c90b25e3787) — fix(v2.1.1): make installer marker replacement portable · `2026-09-15` · Sebastian Liu
+09. [`M2_SKILLS@28bc412`](https://github.com/M2Station/M2_SKILLS/commit/28bc412c9c9e108961161816285a325266335f9c) — fix: make installer marker replacement portable · `2026-09-15` · Sebastian Liu
+10. [`M2_SKILLS@0855587`](https://github.com/M2Station/M2_SKILLS/commit/0855587dd92d4da216d47efc3b54760e78b53565) — feat(v2.1.0): add M2 Feature Flow CLI · `2026-09-15` · Sebastian Liu
 <!-- LATEST-CHANGES:END -->
 
 ---
