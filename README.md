@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@f88b3d0`](https://github.com/M2Station/M2_APEX/commit/f88b3d017bebdcc41c06e19ff01c3a3e6094ec42) — [Feature] Replace cmd-admin tweak with registry and add l... · `2026-09-16` · OA Hsiao
-02. [`M2_SKILLS@442b692`](https://github.com/M2Station/M2_SKILLS/commit/442b692e9d7f6b955f579611d168820449787682) — feat(v3.1.0): improve graph onboarding · `2026-09-16` · Sebastian Liu
-03. [`M2_PILOT@2cb6433`](https://github.com/M2Station/M2_PILOT/commit/2cb643352b6b12536bd9fbc52077e8b8e25d2759) — [Feature] Add HOST popup confirmation and offline tool co... · `2026-09-16` · OA Hsiao
-04. [`M2_SKILLS@bf9d300`](https://github.com/M2Station/M2_SKILLS/commit/bf9d300ffe5a1ea4f7cc4c31a7998bed97b1af68) — feat(v3.0.0): unify report generation and graph standard · `2026-09-15` · Sebastian Liu
-05. [`M2_PILOT@80a3150`](https://github.com/M2Station/M2_PILOT/commit/80a31500005d13eb0db724e1e69d3755ddf71046) — [Feature] Add BUILD_RELEASE.CMD local release build entry... · `2026-09-15` · OA Hsiao
-06. [`M2_WIKI@e767b0c`](https://github.com/M2Station/M2_WIKI/commit/e767b0cd2fa9e19132663130c6edc2a2ab3ce0be) — Fix typos and enhance wake instructions in documentation · `2026-09-15` · Sam6Su
-07. [`.github@d9dd5cc`](https://github.com/M2Station/.github/commit/d9dd5cc46ffe648d3537ed5e172ce3729ba9e998) — chore: sync latest changes [skip ci] · `2026-09-15` · github-actions[bot]
-08. [`M2_SKILLS@04a6dda`](https://github.com/M2Station/M2_SKILLS/commit/04a6dda476265284a0ac746925759c90b25e3787) — fix(v2.1.1): make installer marker replacement portable · `2026-09-15` · Sebastian Liu
-09. [`M2_SKILLS@28bc412`](https://github.com/M2Station/M2_SKILLS/commit/28bc412c9c9e108961161816285a325266335f9c) — fix: make installer marker replacement portable · `2026-09-15` · Sebastian Liu
-10. [`M2_SKILLS@0855587`](https://github.com/M2Station/M2_SKILLS/commit/0855587dd92d4da216d47efc3b54760e78b53565) — feat(v2.1.0): add M2 Feature Flow CLI · `2026-09-15` · Sebastian Liu
+01. [`M2_SKILLS@ec2a926`](https://github.com/M2Station/M2_SKILLS/commit/ec2a926863943c4f6276575e4acd85e3621d38a5) — feat(v3.2.1) · `2026-09-17` · Sebastian Liu
+02. [`M2_SKILLS@aad5335`](https://github.com/M2Station/M2_SKILLS/commit/aad53353486bab6c506a2f606e8f08fda97c10fd) — feat(v3.2.0): add deterministic report rendering · `2026-09-17` · Sebastian Liu
+03. [`M2_PILOT@b3f1554`](https://github.com/M2Station/M2_PILOT/commit/b3f1554b4d0cd7ce7fad34804cbc51fa38ed6fe7) — Add pull request template. (#21) · `2026-09-17` · GBJin
+04. [`M2_PILOT@2583b71`](https://github.com/M2Station/M2_PILOT/commit/2583b71c4285efcb217a680c8b5a2ce7bdb7af1e) — [Feature] Add DUT popup message tool and configurable pop... · `2026-09-17` · OA Hsiao
+05. [`M2_WIKI@0862498`](https://github.com/M2Station/M2_WIKI/commit/086249823703c21a11bb7e9d1b98dbbf02e4c807) — ADD RF_TOOL for writing RF UEFI Variable · `2026-09-16` · Jasper Hsu
+06. [`M2_PILOT@43e2dbc`](https://github.com/M2Station/M2_PILOT/commit/43e2dbc47d078eae05f96d9a8eb65b6e913b375d) — v0.1.21 · `2026-09-16` · OA Hsiao
+07. [`M2_WIKI@7c6a2a7`](https://github.com/M2Station/M2_WIKI/commit/7c6a2a7f1ab3bd4d1877e0f50d29d855c57e96cc) — Pluton · `2026-09-16` · asuka-wu
+08. [`.github@a00e2af`](https://github.com/M2Station/.github/commit/a00e2aff35c914b5c7311cf2a459af049ca78a01) — chore: sync latest changes [skip ci] · `2026-09-16` · github-actions[bot]
+09. [`M2_PILOT@cb4f48a`](https://github.com/M2Station/M2_PILOT/commit/cb4f48a06153c4418316cebe77d1ed773bbf73d5) — Add tab/subtab catalog placement and group Test Plan pale... · `2026-09-16` · OA Hsiao
+10. [`M2_APEX@f88b3d0`](https://github.com/M2Station/M2_APEX/commit/f88b3d017bebdcc41c06e19ff01c3a3e6094ec42) — [Feature] Replace cmd-admin tweak with registry and add l... · `2026-09-16` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

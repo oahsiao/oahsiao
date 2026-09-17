@@ -1,6 +1,87 @@
 {
-  "updated": "2026-09-16 15:25 TWN",
+  "updated": "2026-09-17 15:23 TWN",
   "latestChanges": [
+    {
+      "date": 1789623763000,
+      "committedDate": "2026-09-17T05:42:43Z",
+      "header": "feat(v3.2.1)",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/ec2a926863943c4f6276575e4acd85e3621d38a5",
+      "sha": "ec2a926",
+      "login": "Sebastian Liu"
+    },
+    {
+      "date": 1789622412000,
+      "committedDate": "2026-09-17T05:20:12Z",
+      "header": "feat(v3.2.0): add deterministic report rendering",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/aad53353486bab6c506a2f606e8f08fda97c10fd",
+      "sha": "aad5335",
+      "login": "Sebastian Liu"
+    },
+    {
+      "date": 1789613927000,
+      "committedDate": "2026-09-17T02:58:47Z",
+      "header": "Add pull request template. (#21)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/b3f1554b4d0cd7ce7fad34804cbc51fa38ed6fe7",
+      "sha": "b3f1554",
+      "login": "GBJin"
+    },
+    {
+      "date": 1789613776000,
+      "committedDate": "2026-09-17T02:56:16Z",
+      "header": "[Feature] Add DUT popup message tool and configurable popup buttons",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/2583b71c4285efcb217a680c8b5a2ce7bdb7af1e",
+      "sha": "2583b71",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789547660000,
+      "committedDate": "2026-09-16T08:34:20Z",
+      "header": "ADD RF_TOOL for writing RF UEFI Variable",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/086249823703c21a11bb7e9d1b98dbbf02e4c807",
+      "sha": "0862498",
+      "login": "Jasper Hsu"
+    },
+    {
+      "date": 1789545593000,
+      "committedDate": "2026-09-16T07:59:53Z",
+      "header": "v0.1.21",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/43e2dbc47d078eae05f96d9a8eb65b6e913b375d",
+      "sha": "43e2dbc",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789545513000,
+      "committedDate": "2026-09-16T07:58:33Z",
+      "header": "Pluton",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/7c6a2a7f1ab3bd4d1877e0f50d29d855c57e96cc",
+      "sha": "7c6a2a7",
+      "login": "asuka-wu"
+    },
+    {
+      "date": 1789544929000,
+      "committedDate": "2026-09-16T07:48:49Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/a00e2aff35c914b5c7311cf2a459af049ca78a01",
+      "sha": "a00e2af",
+      "login": "github-actions[bot]"
+    },
+    {
+      "date": 1789544712000,
+      "committedDate": "2026-09-16T07:45:12Z",
+      "header": "Add tab/subtab catalog placement and group Test Plan palette by them",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/cb4f48a06153c4418316cebe77d1ed773bbf73d5",
+      "sha": "cb4f48a",
+      "login": "OA Hsiao"
+    },
     {
       "date": 1789542631000,
       "committedDate": "2026-09-16T07:10:31Z",
@@ -9,87 +90,6 @@
       "url": "https://github.com/M2Station/M2_APEX/commit/f88b3d017bebdcc41c06e19ff01c3a3e6094ec42",
       "sha": "f88b3d0",
       "login": "OA Hsiao"
-    },
-    {
-      "date": 1789536423000,
-      "committedDate": "2026-09-16T05:27:03Z",
-      "header": "feat(v3.1.0): improve graph onboarding",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/442b692e9d7f6b955f579611d168820449787682",
-      "sha": "442b692",
-      "login": "Sebastian Liu"
-    },
-    {
-      "date": 1789535770000,
-      "committedDate": "2026-09-16T05:16:10Z",
-      "header": "[Feature] Add HOST popup confirmation and offline tool compatibility check",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/2cb643352b6b12536bd9fbc52077e8b8e25d2759",
-      "sha": "2cb6433",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789496134000,
-      "committedDate": "2026-09-15T18:15:34Z",
-      "header": "feat(v3.0.0): unify report generation and graph standard",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/bf9d300ffe5a1ea4f7cc4c31a7998bed97b1af68",
-      "sha": "bf9d300",
-      "login": "Sebastian Liu"
-    },
-    {
-      "date": 1789473869000,
-      "committedDate": "2026-09-15T12:04:29Z",
-      "header": "[Feature] Add BUILD_RELEASE.CMD local release build entry point",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/80a31500005d13eb0db724e1e69d3755ddf71046",
-      "sha": "80a3150",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789471124000,
-      "committedDate": "2026-09-15T11:18:44Z",
-      "header": "Fix typos and enhance wake instructions in documentation",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/e767b0cd2fa9e19132663130c6edc2a2ab3ce0be",
-      "sha": "e767b0c",
-      "login": "Sam6Su"
-    },
-    {
-      "date": 1789458976000,
-      "committedDate": "2026-09-15T07:56:16Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/d9dd5cc46ffe648d3537ed5e172ce3729ba9e998",
-      "sha": "d9dd5cc",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1789452239000,
-      "committedDate": "2026-09-15T06:03:59Z",
-      "header": "fix(v2.1.1): make installer marker replacement portable",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/04a6dda476265284a0ac746925759c90b25e3787",
-      "sha": "04a6dda",
-      "login": "Sebastian Liu"
-    },
-    {
-      "date": 1789451722000,
-      "committedDate": "2026-09-15T05:55:22Z",
-      "header": "fix: make installer marker replacement portable",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/28bc412c9c9e108961161816285a325266335f9c",
-      "sha": "28bc412",
-      "login": "Sebastian Liu"
-    },
-    {
-      "date": 1789436301000,
-      "committedDate": "2026-09-15T01:38:21Z",
-      "header": "feat(v2.1.0): add M2 Feature Flow CLI",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/0855587dd92d4da216d47efc3b54760e78b53565",
-      "sha": "0855587",
-      "login": "Sebastian Liu"
     }
   ]
 }
