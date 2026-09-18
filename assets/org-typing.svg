@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;121.60000000000001;121.60000000000001;0;0"
-        keyTimes="0;0.000;0.030;0.097;0.118;1"
-        dur="23.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;272.8;272.8;0;0"
+        keyTimes="0;0.000;0.072;0.136;0.156;1"
+        dur="25.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(v3.2.1)</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-apex): publish v0.5.3</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;424;424;0;0"
-        keyTimes="0;0.118;0.238;0.305;0.326;1"
-        dur="23.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;289.6;289.6;0;0"
+        keyTimes="0;0.156;0.233;0.297;0.317;1"
+        dur="25.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(v3.2.0): add deterministic report rendering</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-pilot): publish v0.1.27</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;289.6;289.6;0;0"
-        keyTimes="0;0.326;0.406;0.473;0.494;1"
-        dur="23.9s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.317;0.394;0.458;0.478;1"
+        dur="25.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add pull request template. (#21)</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-pilot): publish v0.1.26</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.494;0.619;0.686;0.707;1"
-        dur="23.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;230.8;230.8;0;0"
+        keyTimes="0;0.478;0.538;0.603;0.623;1"
+        dur="25.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[Feature] Add DUT popup message tool and config...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add Intel MEInfo DUT Tool</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;356.8;356.8;0;0"
-        keyTimes="0;0.707;0.807;0.874;0.895;1"
-        dur="23.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;415.6;415.6;0;0"
+        keyTimes="0;0.623;0.736;0.800;0.820;1"
+        dur="25.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>ADD RF_TOOL for writing RF UEFI Variable</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>修復 3 個失敗測試：工具數量、SCPC 標題、移除不存在的 human-notify 測試。</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;79.60000000000001;79.60000000000001;0;0"
-        keyTimes="0;0.895;0.912;0.979;1.000;1"
-        dur="23.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;356.8;356.8;0;0"
+        keyTimes="0;0.820;0.916;0.980;1.000;1"
+        dur="25.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>v0.1.21</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Personal/if/add scpc verifier tool (#19)</text>
     </g>
 </svg>

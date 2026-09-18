@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_SKILLS@ec2a926`](https://github.com/M2Station/M2_SKILLS/commit/ec2a926863943c4f6276575e4acd85e3621d38a5) — feat(v3.2.1) · `2026-09-17` · Sebastian Liu
-02. [`M2_SKILLS@aad5335`](https://github.com/M2Station/M2_SKILLS/commit/aad53353486bab6c506a2f606e8f08fda97c10fd) — feat(v3.2.0): add deterministic report rendering · `2026-09-17` · Sebastian Liu
-03. [`M2_PILOT@b3f1554`](https://github.com/M2Station/M2_PILOT/commit/b3f1554b4d0cd7ce7fad34804cbc51fa38ed6fe7) — Add pull request template. (#21) · `2026-09-17` · GBJin
-04. [`M2_PILOT@2583b71`](https://github.com/M2Station/M2_PILOT/commit/2583b71c4285efcb217a680c8b5a2ce7bdb7af1e) — [Feature] Add DUT popup message tool and configurable pop... · `2026-09-17` · OA Hsiao
-05. [`M2_WIKI@0862498`](https://github.com/M2Station/M2_WIKI/commit/086249823703c21a11bb7e9d1b98dbbf02e4c807) — ADD RF_TOOL for writing RF UEFI Variable · `2026-09-16` · Jasper Hsu
-06. [`M2_PILOT@43e2dbc`](https://github.com/M2Station/M2_PILOT/commit/43e2dbc47d078eae05f96d9a8eb65b6e913b375d) — v0.1.21 · `2026-09-16` · OA Hsiao
-07. [`M2_WIKI@7c6a2a7`](https://github.com/M2Station/M2_WIKI/commit/7c6a2a7f1ab3bd4d1877e0f50d29d855c57e96cc) — Pluton · `2026-09-16` · asuka-wu
-08. [`.github@a00e2af`](https://github.com/M2Station/.github/commit/a00e2aff35c914b5c7311cf2a459af049ca78a01) — chore: sync latest changes [skip ci] · `2026-09-16` · github-actions[bot]
-09. [`M2_PILOT@cb4f48a`](https://github.com/M2Station/M2_PILOT/commit/cb4f48a06153c4418316cebe77d1ed773bbf73d5) — Add tab/subtab catalog placement and group Test Plan pale... · `2026-09-16` · OA Hsiao
-10. [`M2_APEX@f88b3d0`](https://github.com/M2Station/M2_APEX/commit/f88b3d017bebdcc41c06e19ff01c3a3e6094ec42) — [Feature] Replace cmd-admin tweak with registry and add l... · `2026-09-16` · OA Hsiao
+01. [`M2_PUBLIC_RELEASE@5252829`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/525282900730297a75e663e20afcf622391fc184) — chore(m2-apex): publish v0.5.3 · `2026-09-18` · oahsiao
+02. [`M2_PUBLIC_RELEASE@f493bad`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f493bad74d527843e0196680328f9de12763dd2e) — chore(m2-pilot): publish v0.1.27 · `2026-09-18` · oahsiao
+03. [`M2_PUBLIC_RELEASE@db41f3a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/db41f3ab4527c04fc430547ae73fdf4951b90c8c) — chore(m2-pilot): publish v0.1.26 · `2026-09-18` · oahsiao
+04. [`M2_PILOT@970fd01`](https://github.com/M2Station/M2_PILOT/commit/970fd017c781f9100aaf2d1b153eb064ab0f6da5) — Add Intel MEInfo DUT Tool · `2026-09-18` · asuka-wu
+05. [`M2_PILOT@316344a`](https://github.com/M2Station/M2_PILOT/commit/316344af837818d1001caa173f9e33dffdae849b) — 修復 3 個失敗測試：工具數量、SCPC 標題、移除不存在的 human-notify 測試。 · `2026-09-18` · OA Hsiao
+06. [`M2_PILOT@8a55d03`](https://github.com/M2Station/M2_PILOT/commit/8a55d033e36bc3b65ac6249ce224d0491f2738bc) — Personal/if/add scpc verifier tool (#19) · `2026-09-18` · bofrankbo
+07. [`M2_PUBLIC_RELEASE@58be0ab`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/58be0ab58cb2cdc67022edd57a2fec6cdb8d4414) — chore(m2-pilot): publish v0.1.25 · `2026-09-18` · oahsiao
+08. [`M2_PILOT@5ec6c1e`](https://github.com/M2Station/M2_PILOT/commit/5ec6c1e63d6d4457a3d378da6f6f956a97924d7a) — Add Camera Stream Health test example (#26) · `2026-09-18` · Linpei727
+09. [`M2_PUBLIC_RELEASE@3b4c327`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/3b4c327de991bacc7cc3507fde87807e95d08c25) — chore(m2-pilot): publish v0.1.24 · `2026-09-18` · oahsiao
+10. [`M2_PILOT@961c797`](https://github.com/M2Station/M2_PILOT/commit/961c7970301a4be064d65962565d6cd5eeead6de) — 修復 3 個失敗測試：工具數量、SCPC 標題、移除不存在的 human-notify 測試。 · `2026-09-18` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
