@@ -1,94 +1,94 @@
 {
-  "updated": "2026-09-18 15:12 TWN",
+  "updated": "2026-09-19 15:09 TWN",
   "latestChanges": [
     {
-      "date": 1789709574000,
-      "committedDate": "2026-09-18T05:32:54Z",
-      "header": "chore(m2-apex): publish v0.5.3",
+      "date": 1789730717000,
+      "committedDate": "2026-09-18T11:25:17Z",
+      "header": "chore(m2-scout): publish v0.1.4",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/525282900730297a75e663e20afcf622391fc184",
-      "sha": "5252829",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/20a289071b4ddf2a76e90a4dca4e500e10cb7c2f",
+      "sha": "20a2890",
       "login": "oahsiao"
     },
     {
-      "date": 1789705066000,
-      "committedDate": "2026-09-18T04:17:46Z",
-      "header": "chore(m2-pilot): publish v0.1.27",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f493bad74d527843e0196680328f9de12763dd2e",
-      "sha": "f493bad",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1789704767000,
-      "committedDate": "2026-09-18T04:12:47Z",
-      "header": "chore(m2-pilot): publish v0.1.26",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/db41f3ab4527c04fc430547ae73fdf4951b90c8c",
-      "sha": "db41f3a",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1789701421000,
-      "committedDate": "2026-09-18T03:17:01Z",
-      "header": "Add Intel MEInfo DUT Tool",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/970fd017c781f9100aaf2d1b153eb064ab0f6da5",
-      "sha": "970fd01",
-      "login": "asuka-wu"
-    },
-    {
-      "date": 1789701419000,
-      "committedDate": "2026-09-18T03:16:59Z",
-      "header": "修復 3 個失敗測試：工具數量、SCPC 標題、移除不存在的 human-notify 測試。",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/316344af837818d1001caa173f9e33dffdae849b",
-      "sha": "316344a",
+      "date": 1789730701000,
+      "committedDate": "2026-09-18T11:25:01Z",
+      "header": "v0.1.4 release",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/215a7a223d9401a629e88061b2c7625a41e0fc5e",
+      "sha": "215a7a2",
       "login": "OA Hsiao"
     },
     {
-      "date": 1789701391000,
-      "committedDate": "2026-09-18T03:16:31Z",
-      "header": "Personal/if/add scpc verifier tool (#19)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/8a55d033e36bc3b65ac6249ce224d0491f2738bc",
-      "sha": "8a55d03",
-      "login": "bofrankbo"
+      "date": 1789730164000,
+      "committedDate": "2026-09-18T11:16:04Z",
+      "header": "[feat] Add MCP Support",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/33d7d1f0ef141ba8c6400ea4dbfde043b5381129",
+      "sha": "33d7d1f",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1789700604000,
-      "committedDate": "2026-09-18T03:03:24Z",
-      "header": "chore(m2-pilot): publish v0.1.25",
+      "date": 1789729448000,
+      "committedDate": "2026-09-18T11:04:08Z",
+      "header": "Update MCP Server",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/68ac3f1bc54bd19060004772accdca556d147a8b",
+      "sha": "68ac3f1",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789724789000,
+      "committedDate": "2026-09-18T09:46:29Z",
+      "header": "chore(m2-scout): publish v0.1.3",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/58be0ab58cb2cdc67022edd57a2fec6cdb8d4414",
-      "sha": "58be0ab",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5dee2c959ee5eaab9437e25b4ba72f9ef2315e2a",
+      "sha": "5dee2c9",
       "login": "oahsiao"
     },
     {
-      "date": 1789699766000,
-      "committedDate": "2026-09-18T02:49:26Z",
-      "header": "Add Camera Stream Health test example (#26)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/5ec6c1e63d6d4457a3d378da6f6f956a97924d7a",
-      "sha": "5ec6c1e",
-      "login": "Linpei727"
+      "date": 1789724746000,
+      "committedDate": "2026-09-18T09:45:46Z",
+      "header": "v0.1.3 release",
+      "repo": "M2_SCOUT",
+      "url": "https://github.com/M2Station/M2_SCOUT/commit/acc9699463665968c357f7f100dd723e1c79a28c",
+      "sha": "acc9699",
+      "login": "OA Hsiao"
     },
     {
-      "date": 1789698647000,
-      "committedDate": "2026-09-18T02:30:47Z",
-      "header": "chore(m2-pilot): publish v0.1.24",
+      "date": 1789721089000,
+      "committedDate": "2026-09-18T08:44:49Z",
+      "header": "v0.2.10 release",
+      "repo": "M2_LOG",
+      "url": "https://github.com/M2Station/M2_LOG/commit/06ff78f2455568e5fd41099c90e86d972ceec3a2",
+      "sha": "06ff78f",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789721056000,
+      "committedDate": "2026-09-18T08:44:16Z",
+      "header": "chore(m2-log): publish v0.2.10",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/3b4c327de991bacc7cc3507fde87807e95d08c25",
-      "sha": "3b4c327",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/328af169f3d9828d93b4c1b812a0451ce39bf5fc",
+      "sha": "328af16",
       "login": "oahsiao"
     },
     {
-      "date": 1789698250000,
-      "committedDate": "2026-09-18T02:24:10Z",
-      "header": "修復 3 個失敗測試：工具數量、SCPC 標題、移除不存在的 human-notify 測試。",
+      "date": 1789720922000,
+      "committedDate": "2026-09-18T08:42:02Z",
+      "header": "Add SurfDbg UEFI flash HOST tool (#28)",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/961c7970301a4be064d65962565d6cd5eeead6de",
-      "sha": "961c797",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/879e23129d3834451a09acf94c43c23f601e7438",
+      "sha": "879e231",
+      "login": "Jiannhaur"
+    },
+    {
+      "date": 1789719709000,
+      "committedDate": "2026-09-18T08:21:49Z",
+      "header": "v0.4.7 release",
+      "repo": "M2_PROMPT",
+      "url": "https://github.com/M2Station/M2_PROMPT/commit/b0ebcd949257c58c63d34f2e8baa0bab1524b1a1",
+      "sha": "b0ebcd9",
       "login": "OA Hsiao"
     }
   ]

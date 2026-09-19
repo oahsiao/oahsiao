@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PUBLIC_RELEASE@5252829`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/525282900730297a75e663e20afcf622391fc184) — chore(m2-apex): publish v0.5.3 · `2026-09-18` · oahsiao
-02. [`M2_PUBLIC_RELEASE@f493bad`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f493bad74d527843e0196680328f9de12763dd2e) — chore(m2-pilot): publish v0.1.27 · `2026-09-18` · oahsiao
-03. [`M2_PUBLIC_RELEASE@db41f3a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/db41f3ab4527c04fc430547ae73fdf4951b90c8c) — chore(m2-pilot): publish v0.1.26 · `2026-09-18` · oahsiao
-04. [`M2_PILOT@970fd01`](https://github.com/M2Station/M2_PILOT/commit/970fd017c781f9100aaf2d1b153eb064ab0f6da5) — Add Intel MEInfo DUT Tool · `2026-09-18` · asuka-wu
-05. [`M2_PILOT@316344a`](https://github.com/M2Station/M2_PILOT/commit/316344af837818d1001caa173f9e33dffdae849b) — 修復 3 個失敗測試：工具數量、SCPC 標題、移除不存在的 human-notify 測試。 · `2026-09-18` · OA Hsiao
-06. [`M2_PILOT@8a55d03`](https://github.com/M2Station/M2_PILOT/commit/8a55d033e36bc3b65ac6249ce224d0491f2738bc) — Personal/if/add scpc verifier tool (#19) · `2026-09-18` · bofrankbo
-07. [`M2_PUBLIC_RELEASE@58be0ab`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/58be0ab58cb2cdc67022edd57a2fec6cdb8d4414) — chore(m2-pilot): publish v0.1.25 · `2026-09-18` · oahsiao
-08. [`M2_PILOT@5ec6c1e`](https://github.com/M2Station/M2_PILOT/commit/5ec6c1e63d6d4457a3d378da6f6f956a97924d7a) — Add Camera Stream Health test example (#26) · `2026-09-18` · Linpei727
-09. [`M2_PUBLIC_RELEASE@3b4c327`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/3b4c327de991bacc7cc3507fde87807e95d08c25) — chore(m2-pilot): publish v0.1.24 · `2026-09-18` · oahsiao
-10. [`M2_PILOT@961c797`](https://github.com/M2Station/M2_PILOT/commit/961c7970301a4be064d65962565d6cd5eeead6de) — 修復 3 個失敗測試：工具數量、SCPC 標題、移除不存在的 human-notify 測試。 · `2026-09-18` · OA Hsiao
+01. [`M2_PUBLIC_RELEASE@20a2890`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/20a289071b4ddf2a76e90a4dca4e500e10cb7c2f) — chore(m2-scout): publish v0.1.4 · `2026-09-18` · oahsiao
+02. [`M2_SCOUT@215a7a2`](https://github.com/M2Station/M2_SCOUT/commit/215a7a223d9401a629e88061b2c7625a41e0fc5e) — v0.1.4 release · `2026-09-18` · OA Hsiao
+03. [`M2_SCOUT@33d7d1f`](https://github.com/M2Station/M2_SCOUT/commit/33d7d1f0ef141ba8c6400ea4dbfde043b5381129) — [feat] Add MCP Support · `2026-09-18` · OA Hsiao
+04. [`M2_WIKI@68ac3f1`](https://github.com/M2Station/M2_WIKI/commit/68ac3f1bc54bd19060004772accdca556d147a8b) — Update MCP Server · `2026-09-18` · OA Hsiao
+05. [`M2_PUBLIC_RELEASE@5dee2c9`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5dee2c959ee5eaab9437e25b4ba72f9ef2315e2a) — chore(m2-scout): publish v0.1.3 · `2026-09-18` · oahsiao
+06. [`M2_SCOUT@acc9699`](https://github.com/M2Station/M2_SCOUT/commit/acc9699463665968c357f7f100dd723e1c79a28c) — v0.1.3 release · `2026-09-18` · OA Hsiao
+07. [`M2_LOG@06ff78f`](https://github.com/M2Station/M2_LOG/commit/06ff78f2455568e5fd41099c90e86d972ceec3a2) — v0.2.10 release · `2026-09-18` · OA Hsiao
+08. [`M2_PUBLIC_RELEASE@328af16`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/328af169f3d9828d93b4c1b812a0451ce39bf5fc) — chore(m2-log): publish v0.2.10 · `2026-09-18` · oahsiao
+09. [`M2_PILOT@879e231`](https://github.com/M2Station/M2_PILOT/commit/879e23129d3834451a09acf94c43c23f601e7438) — Add SurfDbg UEFI flash HOST tool (#28) · `2026-09-18` · Jiannhaur
+10. [`M2_PROMPT@b0ebcd9`](https://github.com/M2Station/M2_PROMPT/commit/b0ebcd949257c58c63d34f2e8baa0bab1524b1a1) — v0.4.7 release · `2026-09-18` · OA Hsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
