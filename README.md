@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`.github@b24978f`](https://github.com/M2Station/.github/commit/b24978f4b59a550b5796023ea0d37be898bb617c) — chore: sync latest changes [skip ci] · `2026-09-19` · github-actions[bot]
-02. [`M2_PUBLIC_RELEASE@20a2890`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/20a289071b4ddf2a76e90a4dca4e500e10cb7c2f) — chore(m2-scout): publish v0.1.4 · `2026-09-18` · oahsiao
-03. [`M2_SCOUT@215a7a2`](https://github.com/M2Station/M2_SCOUT/commit/215a7a223d9401a629e88061b2c7625a41e0fc5e) — v0.1.4 release · `2026-09-18` · OA Hsiao
-04. [`M2_SCOUT@33d7d1f`](https://github.com/M2Station/M2_SCOUT/commit/33d7d1f0ef141ba8c6400ea4dbfde043b5381129) — [feat] Add MCP Support · `2026-09-18` · OA Hsiao
-05. [`M2_WIKI@68ac3f1`](https://github.com/M2Station/M2_WIKI/commit/68ac3f1bc54bd19060004772accdca556d147a8b) — Update MCP Server · `2026-09-18` · OA Hsiao
-06. [`M2_PUBLIC_RELEASE@5dee2c9`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5dee2c959ee5eaab9437e25b4ba72f9ef2315e2a) — chore(m2-scout): publish v0.1.3 · `2026-09-18` · oahsiao
-07. [`M2_SCOUT@acc9699`](https://github.com/M2Station/M2_SCOUT/commit/acc9699463665968c357f7f100dd723e1c79a28c) — v0.1.3 release · `2026-09-18` · OA Hsiao
-08. [`M2_LOG@06ff78f`](https://github.com/M2Station/M2_LOG/commit/06ff78f2455568e5fd41099c90e86d972ceec3a2) — v0.2.10 release · `2026-09-18` · OA Hsiao
-09. [`M2_PUBLIC_RELEASE@328af16`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/328af169f3d9828d93b4c1b812a0451ce39bf5fc) — chore(m2-log): publish v0.2.10 · `2026-09-18` · oahsiao
-10. [`M2_PILOT@879e231`](https://github.com/M2Station/M2_PILOT/commit/879e23129d3834451a09acf94c43c23f601e7438) — Add SurfDbg UEFI flash HOST tool (#28) · `2026-09-18` · Jiannhaur
+01. [`M2_PILOT@c3f89ee`](https://github.com/M2Station/M2_PILOT/commit/c3f89eebcebbe6a0bca27e371fc5cb2d5997c6fc) — Add BSOD detection feature (#30) · `2026-09-21` · Sam6Su
+02. [`M2_STATION_ADMIN@3007996`](https://github.com/M2Station/M2_STATION_ADMIN/commit/30079967078aba8b841d5f47cc79cdeb3a5563d3) — ++ · `2026-09-21` · OA Hsiao
+03. [`M2_PILOT@d81eeaa`](https://github.com/M2Station/M2_PILOT/commit/d81eeaa0b8532103cc97a535a83a0ad1eee74691) — Add NV OCD tool support (#29) · `2026-09-21` · capohuang
+04. [`.github@6d56197`](https://github.com/M2Station/.github/commit/6d561975d30320634b930b155d3d94d9203bec40) — chore: sync latest changes [skip ci] · `2026-09-20` · github-actions[bot]
+05. [`.github@b24978f`](https://github.com/M2Station/.github/commit/b24978f4b59a550b5796023ea0d37be898bb617c) — chore: sync latest changes [skip ci] · `2026-09-19` · github-actions[bot]
+06. [`M2_PUBLIC_RELEASE@20a2890`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/20a289071b4ddf2a76e90a4dca4e500e10cb7c2f) — chore(m2-scout): publish v0.1.4 · `2026-09-18` · oahsiao
+07. [`M2_SCOUT@215a7a2`](https://github.com/M2Station/M2_SCOUT/commit/215a7a223d9401a629e88061b2c7625a41e0fc5e) — v0.1.4 release · `2026-09-18` · OA Hsiao
+08. [`M2_SCOUT@33d7d1f`](https://github.com/M2Station/M2_SCOUT/commit/33d7d1f0ef141ba8c6400ea4dbfde043b5381129) — [feat] Add MCP Support · `2026-09-18` · OA Hsiao
+09. [`M2_WIKI@68ac3f1`](https://github.com/M2Station/M2_WIKI/commit/68ac3f1bc54bd19060004772accdca556d147a8b) — Update MCP Server · `2026-09-18` · OA Hsiao
+10. [`M2_PUBLIC_RELEASE@5dee2c9`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5dee2c959ee5eaab9437e25b4ba72f9ef2315e2a) — chore(m2-scout): publish v0.1.3 · `2026-09-18` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

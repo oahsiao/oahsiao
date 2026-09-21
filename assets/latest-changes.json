@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-20 15:35 TWN",
+  "updated": "2026-09-21 15:46 TWN",
   "latestChanges": [
+    {
+      "date": 1789972849000,
+      "committedDate": "2026-09-21T06:40:49Z",
+      "header": "Add BSOD detection feature (#30)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/c3f89eebcebbe6a0bca27e371fc5cb2d5997c6fc",
+      "sha": "c3f89ee",
+      "login": "Sam6Su"
+    },
+    {
+      "date": 1789967382000,
+      "committedDate": "2026-09-21T05:09:42Z",
+      "header": "++",
+      "repo": "M2_STATION_ADMIN",
+      "url": "https://github.com/M2Station/M2_STATION_ADMIN/commit/30079967078aba8b841d5f47cc79cdeb3a5563d3",
+      "sha": "3007996",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1789963676000,
+      "committedDate": "2026-09-21T04:07:56Z",
+      "header": "Add NV OCD tool support (#29)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/d81eeaa0b8532103cc97a535a83a0ad1eee74691",
+      "sha": "d81eeaa",
+      "login": "capohuang"
+    },
+    {
+      "date": 1789890682000,
+      "committedDate": "2026-09-20T07:51:22Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/6d561975d30320634b930b155d3d94d9203bec40",
+      "sha": "6d56197",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1789802839000,
       "committedDate": "2026-09-19T07:27:19Z",
@@ -54,42 +90,6 @@
       "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5dee2c959ee5eaab9437e25b4ba72f9ef2315e2a",
       "sha": "5dee2c9",
       "login": "oahsiao"
-    },
-    {
-      "date": 1789724746000,
-      "committedDate": "2026-09-18T09:45:46Z",
-      "header": "v0.1.3 release",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/acc9699463665968c357f7f100dd723e1c79a28c",
-      "sha": "acc9699",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789721089000,
-      "committedDate": "2026-09-18T08:44:49Z",
-      "header": "v0.2.10 release",
-      "repo": "M2_LOG",
-      "url": "https://github.com/M2Station/M2_LOG/commit/06ff78f2455568e5fd41099c90e86d972ceec3a2",
-      "sha": "06ff78f",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789721056000,
-      "committedDate": "2026-09-18T08:44:16Z",
-      "header": "chore(m2-log): publish v0.2.10",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/328af169f3d9828d93b4c1b812a0451ce39bf5fc",
-      "sha": "328af16",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1789720922000,
-      "committedDate": "2026-09-18T08:42:02Z",
-      "header": "Add SurfDbg UEFI flash HOST tool (#28)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/879e23129d3834451a09acf94c43c23f601e7438",
-      "sha": "879e231",
-      "login": "Jiannhaur"
     }
   ]
 }
