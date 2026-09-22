@@ -1,95 +1,95 @@
 {
-  "updated": "2026-09-21 15:46 TWN",
+  "updated": "2026-09-22 15:29 TWN",
   "latestChanges": [
     {
-      "date": 1789972849000,
-      "committedDate": "2026-09-21T06:40:49Z",
-      "header": "Add BSOD detection feature (#30)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/c3f89eebcebbe6a0bca27e371fc5cb2d5997c6fc",
-      "sha": "c3f89ee",
-      "login": "Sam6Su"
+      "date": 1790060370000,
+      "committedDate": "2026-09-22T06:59:30Z",
+      "header": "(3.4.5) Changes",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/dc2ab116b1a9fad970429b61bb2dd789d2f2973a",
+      "sha": "dc2ab11",
+      "login": "Sebastian Liu"
     },
     {
-      "date": 1789967382000,
-      "committedDate": "2026-09-21T05:09:42Z",
-      "header": "++",
-      "repo": "M2_STATION_ADMIN",
-      "url": "https://github.com/M2Station/M2_STATION_ADMIN/commit/30079967078aba8b841d5f47cc79cdeb3a5563d3",
-      "sha": "3007996",
-      "login": "OA Hsiao"
+      "date": 1790056133000,
+      "committedDate": "2026-09-22T05:48:53Z",
+      "header": "(3.4.4) minor routing changes",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/d358d257a4ef83bc28d8119a9bb7242f70a52106",
+      "sha": "d358d25",
+      "login": "Sebastian Liu"
     },
     {
-      "date": 1789963676000,
-      "committedDate": "2026-09-21T04:07:56Z",
-      "header": "Add NV OCD tool support (#29)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/d81eeaa0b8532103cc97a535a83a0ad1eee74691",
-      "sha": "d81eeaa",
-      "login": "capohuang"
-    },
-    {
-      "date": 1789890682000,
-      "committedDate": "2026-09-20T07:51:22Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/6d561975d30320634b930b155d3d94d9203bec40",
-      "sha": "6d56197",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1789802839000,
-      "committedDate": "2026-09-19T07:27:19Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/b24978f4b59a550b5796023ea0d37be898bb617c",
-      "sha": "b24978f",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1789730717000,
-      "committedDate": "2026-09-18T11:25:17Z",
-      "header": "chore(m2-scout): publish v0.1.4",
+      "date": 1790051552000,
+      "committedDate": "2026-09-22T04:32:32Z",
+      "header": "chore(m2-pilot): publish v0.1.29",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/20a289071b4ddf2a76e90a4dca4e500e10cb7c2f",
-      "sha": "20a2890",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/9eecd7bc9cfc3117d1fe21785a29c819d9051e69",
+      "sha": "9eecd7b",
       "login": "oahsiao"
     },
     {
-      "date": 1789730701000,
-      "committedDate": "2026-09-18T11:25:01Z",
-      "header": "v0.1.4 release",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/215a7a223d9401a629e88061b2c7625a41e0fc5e",
-      "sha": "215a7a2",
+      "date": 1790051448000,
+      "committedDate": "2026-09-22T04:30:48Z",
+      "header": "v0.1.29",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/ea0d7bcc99c5b49cdf6136b4306eaa2452ccf64e",
+      "sha": "ea0d7bc",
       "login": "OA Hsiao"
     },
     {
-      "date": 1789730164000,
-      "committedDate": "2026-09-18T11:16:04Z",
-      "header": "[feat] Add MCP Support",
-      "repo": "M2_SCOUT",
-      "url": "https://github.com/M2Station/M2_SCOUT/commit/33d7d1f0ef141ba8c6400ea4dbfde043b5381129",
-      "sha": "33d7d1f",
+      "date": 1790051054000,
+      "committedDate": "2026-09-22T04:24:14Z",
+      "header": "[Feature] Allow selecting the release version in local build-and-publish",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/44a3002af238ea57acdc40842839b95c0baa43f4",
+      "sha": "44a3002",
       "login": "OA Hsiao"
     },
     {
-      "date": 1789729448000,
-      "committedDate": "2026-09-18T11:04:08Z",
-      "header": "Update MCP Server",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/68ac3f1bc54bd19060004772accdca556d147a8b",
-      "sha": "68ac3f1",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1789724789000,
-      "committedDate": "2026-09-18T09:46:29Z",
-      "header": "chore(m2-scout): publish v0.1.3",
+      "date": 1790050617000,
+      "committedDate": "2026-09-22T04:16:57Z",
+      "header": "chore(m2-pilot): publish v0.1.25",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5dee2c959ee5eaab9437e25b4ba72f9ef2315e2a",
-      "sha": "5dee2c9",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/b01aef5dc5230f4ff710453bad4b33d17b5d2312",
+      "sha": "b01aef5",
       "login": "oahsiao"
+    },
+    {
+      "date": 1790049958000,
+      "committedDate": "2026-09-22T04:05:58Z",
+      "header": "[Chore] Bump version to 0.1.24",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/36572f4ef47b4740189eba805a7e88ac0841bb90",
+      "sha": "36572f4",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1790049499000,
+      "committedDate": "2026-09-22T03:58:19Z",
+      "header": "[Feature] Reset common settings to packaged defaults once after install",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/893332d3b94ea4166f6a4f6c578950f53df96c89",
+      "sha": "893332d",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1790045919000,
+      "committedDate": "2026-09-22T02:58:39Z",
+      "header": "[Feature] Add M2_8GET NuGet tab with package fetch, common settings sync, and push",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/00d77a7bd37326064bb640ca9b75cd325c3cd494",
+      "sha": "00d77a7",
+      "login": "OA Hsiao"
+    },
+    {
+      "date": 1790043939000,
+      "committedDate": "2026-09-22T02:25:39Z",
+      "header": "Give the Report User Guide a visual layout with group shapes and colors",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/7a4a479bfa0071522c274867d49ec7814c2138db",
+      "sha": "7a4a479",
+      "login": "cin0429"
     }
   ]
 }

@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PILOT@c3f89ee`](https://github.com/M2Station/M2_PILOT/commit/c3f89eebcebbe6a0bca27e371fc5cb2d5997c6fc) — Add BSOD detection feature (#30) · `2026-09-21` · Sam6Su
-02. [`M2_STATION_ADMIN@3007996`](https://github.com/M2Station/M2_STATION_ADMIN/commit/30079967078aba8b841d5f47cc79cdeb3a5563d3) — ++ · `2026-09-21` · OA Hsiao
-03. [`M2_PILOT@d81eeaa`](https://github.com/M2Station/M2_PILOT/commit/d81eeaa0b8532103cc97a535a83a0ad1eee74691) — Add NV OCD tool support (#29) · `2026-09-21` · capohuang
-04. [`.github@6d56197`](https://github.com/M2Station/.github/commit/6d561975d30320634b930b155d3d94d9203bec40) — chore: sync latest changes [skip ci] · `2026-09-20` · github-actions[bot]
-05. [`.github@b24978f`](https://github.com/M2Station/.github/commit/b24978f4b59a550b5796023ea0d37be898bb617c) — chore: sync latest changes [skip ci] · `2026-09-19` · github-actions[bot]
-06. [`M2_PUBLIC_RELEASE@20a2890`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/20a289071b4ddf2a76e90a4dca4e500e10cb7c2f) — chore(m2-scout): publish v0.1.4 · `2026-09-18` · oahsiao
-07. [`M2_SCOUT@215a7a2`](https://github.com/M2Station/M2_SCOUT/commit/215a7a223d9401a629e88061b2c7625a41e0fc5e) — v0.1.4 release · `2026-09-18` · OA Hsiao
-08. [`M2_SCOUT@33d7d1f`](https://github.com/M2Station/M2_SCOUT/commit/33d7d1f0ef141ba8c6400ea4dbfde043b5381129) — [feat] Add MCP Support · `2026-09-18` · OA Hsiao
-09. [`M2_WIKI@68ac3f1`](https://github.com/M2Station/M2_WIKI/commit/68ac3f1bc54bd19060004772accdca556d147a8b) — Update MCP Server · `2026-09-18` · OA Hsiao
-10. [`M2_PUBLIC_RELEASE@5dee2c9`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5dee2c959ee5eaab9437e25b4ba72f9ef2315e2a) — chore(m2-scout): publish v0.1.3 · `2026-09-18` · oahsiao
+01. [`M2_SKILLS@dc2ab11`](https://github.com/M2Station/M2_SKILLS/commit/dc2ab116b1a9fad970429b61bb2dd789d2f2973a) — (3.4.5) Changes · `2026-09-22` · Sebastian Liu
+02. [`M2_SKILLS@d358d25`](https://github.com/M2Station/M2_SKILLS/commit/d358d257a4ef83bc28d8119a9bb7242f70a52106) — (3.4.4) minor routing changes · `2026-09-22` · Sebastian Liu
+03. [`M2_PUBLIC_RELEASE@9eecd7b`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/9eecd7bc9cfc3117d1fe21785a29c819d9051e69) — chore(m2-pilot): publish v0.1.29 · `2026-09-22` · oahsiao
+04. [`M2_PILOT@ea0d7bc`](https://github.com/M2Station/M2_PILOT/commit/ea0d7bcc99c5b49cdf6136b4306eaa2452ccf64e) — v0.1.29 · `2026-09-22` · OA Hsiao
+05. [`M2_PILOT@44a3002`](https://github.com/M2Station/M2_PILOT/commit/44a3002af238ea57acdc40842839b95c0baa43f4) — [Feature] Allow selecting the release version in local bu... · `2026-09-22` · OA Hsiao
+06. [`M2_PUBLIC_RELEASE@b01aef5`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/b01aef5dc5230f4ff710453bad4b33d17b5d2312) — chore(m2-pilot): publish v0.1.25 · `2026-09-22` · oahsiao
+07. [`M2_PILOT@36572f4`](https://github.com/M2Station/M2_PILOT/commit/36572f4ef47b4740189eba805a7e88ac0841bb90) — [Chore] Bump version to 0.1.24 · `2026-09-22` · OA Hsiao
+08. [`M2_PILOT@893332d`](https://github.com/M2Station/M2_PILOT/commit/893332d3b94ea4166f6a4f6c578950f53df96c89) — [Feature] Reset common settings to packaged defaults once... · `2026-09-22` · OA Hsiao
+09. [`M2_PILOT@00d77a7`](https://github.com/M2Station/M2_PILOT/commit/00d77a7bd37326064bb640ca9b75cd325c3cd494) — [Feature] Add M2_8GET NuGet tab with package fetch, commo... · `2026-09-22` · OA Hsiao
+10. [`M2_MSAGUI@7a4a479`](https://github.com/M2Station/M2_MSAGUI/commit/7a4a479bfa0071522c274867d49ec7814c2138db) — Give the Report User Guide a visual layout with group sha... · `2026-09-22` · cin0429
 <!-- LATEST-CHANGES:END -->
 
 ---
