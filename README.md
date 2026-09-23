@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_SKILLS@dc2ab11`](https://github.com/M2Station/M2_SKILLS/commit/dc2ab116b1a9fad970429b61bb2dd789d2f2973a) — (3.4.5) Changes · `2026-09-22` · Sebastian Liu
-02. [`M2_SKILLS@d358d25`](https://github.com/M2Station/M2_SKILLS/commit/d358d257a4ef83bc28d8119a9bb7242f70a52106) — (3.4.4) minor routing changes · `2026-09-22` · Sebastian Liu
-03. [`M2_PUBLIC_RELEASE@9eecd7b`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/9eecd7bc9cfc3117d1fe21785a29c819d9051e69) — chore(m2-pilot): publish v0.1.29 · `2026-09-22` · oahsiao
-04. [`M2_PILOT@ea0d7bc`](https://github.com/M2Station/M2_PILOT/commit/ea0d7bcc99c5b49cdf6136b4306eaa2452ccf64e) — v0.1.29 · `2026-09-22` · OA Hsiao
-05. [`M2_PILOT@44a3002`](https://github.com/M2Station/M2_PILOT/commit/44a3002af238ea57acdc40842839b95c0baa43f4) — [Feature] Allow selecting the release version in local bu... · `2026-09-22` · OA Hsiao
-06. [`M2_PUBLIC_RELEASE@b01aef5`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/b01aef5dc5230f4ff710453bad4b33d17b5d2312) — chore(m2-pilot): publish v0.1.25 · `2026-09-22` · oahsiao
-07. [`M2_PILOT@36572f4`](https://github.com/M2Station/M2_PILOT/commit/36572f4ef47b4740189eba805a7e88ac0841bb90) — [Chore] Bump version to 0.1.24 · `2026-09-22` · OA Hsiao
-08. [`M2_PILOT@893332d`](https://github.com/M2Station/M2_PILOT/commit/893332d3b94ea4166f6a4f6c578950f53df96c89) — [Feature] Reset common settings to packaged defaults once... · `2026-09-22` · OA Hsiao
-09. [`M2_PILOT@00d77a7`](https://github.com/M2Station/M2_PILOT/commit/00d77a7bd37326064bb640ca9b75cd325c3cd494) — [Feature] Add M2_8GET NuGet tab with package fetch, commo... · `2026-09-22` · OA Hsiao
-10. [`M2_MSAGUI@7a4a479`](https://github.com/M2Station/M2_MSAGUI/commit/7a4a479bfa0071522c274867d49ec7814c2138db) — Give the Report User Guide a visual layout with group sha... · `2026-09-22` · cin0429
+01. [`M2_PILOT@a09f80c`](https://github.com/M2Station/M2_PILOT/commit/a09f80c9a7d2ede18c212fd62c406f75e45cdee3) — Rename UEFI Flash Tool and Add SdfConsole Support (#37) · `2026-09-23` · Jiannhaur
+02. [`M2_WIKI@09848b4`](https://github.com/M2Station/M2_WIKI/commit/09848b4519e7d5b6e712589828f7470886b1b65c) — update Codex > Personalization · `2026-09-23` · oahsiao
+03. [`M2_WIKI@0db5157`](https://github.com/M2Station/M2_WIKI/commit/0db5157ee4d51a180df2415a77394f6ee3282fc9) — add smoke test / uefi pei · `2026-09-23` · bofrankbo
+04. [`M2_SKILLS@b031911`](https://github.com/M2Station/M2_SKILLS/commit/b0319118a6a260495e34bf06f586f0426025a918) — (3.4.7) added versioning in generated reports · `2026-09-23` · Sebastian Liu
+05. [`M2_PILOT@87e3436`](https://github.com/M2Station/M2_PILOT/commit/87e34368613b8687904fc697a7591c1ddb0d046f) — Add boot-to-frontpage DUT tool (#35) · `2026-09-23` · weilin0000
+06. [`M2_PILOT@77d2251`](https://github.com/M2Station/M2_PILOT/commit/77d2251e3268bcfd421c49393b753f1d2e565f1b) — Add sensor-viewer tool (#33) · `2026-09-22` · bofrankbo
+07. [`M2_SKILLS@609b37d`](https://github.com/M2Station/M2_SKILLS/commit/609b37de5a46ca00825e66691edf0fa21d18bbde) — (3.4.5) Formatting Changes · `2026-09-22` · Sebastian Liu
+08. [`M2_WIKI@95d5ea7`](https://github.com/M2Station/M2_WIKI/commit/95d5ea7fa9c225c99449ab54a50a48f2639efd3c) — Update MICROSOFT_RELEASE_CADENCE.md · `2026-09-22` · asuka-wu
+09. [`M2_PILOT@321f9b1`](https://github.com/M2Station/M2_PILOT/commit/321f9b16a0737cc9c2ba969755b53744b90e409e) — [Refactor] Group Test Plan toolbar into semantic sections · `2026-09-22` · OA Hsiao
+10. [`M2_MSAGUI@f3f9d23`](https://github.com/M2Station/M2_MSAGUI/commit/f3f9d23ebb1834450ff644fd1e9392fae43bd67a) — Update MSAGUI_v15 exe and delete previous exe · `2026-09-22` · cin0429
 <!-- LATEST-CHANGES:END -->
 
 ---
