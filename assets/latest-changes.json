@@ -1,6 +1,51 @@
 {
-  "updated": "2026-09-23 15:33 TWN",
+  "updated": "2026-09-24 15:25 TWN",
   "latestChanges": [
+    {
+      "date": 1790225230000,
+      "committedDate": "2026-09-24T04:47:10Z",
+      "header": "Save NVIDIA RAW dumps under each Test Plan ID (#38)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/8dc1f649f2ecc070bdaa6f098b565b49b2e5cc21",
+      "sha": "8dc1f64",
+      "login": "capohuang"
+    },
+    {
+      "date": 1790160425000,
+      "committedDate": "2026-09-23T10:47:05Z",
+      "header": "(3.4.8) Have Sections be Optional",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/8fe93c1b373736a285cc57b1e1a16e15908368ea",
+      "sha": "8fe93c1",
+      "login": "Sebastian Liu"
+    },
+    {
+      "date": 1790154351000,
+      "committedDate": "2026-09-23T09:05:51Z",
+      "header": "Refine the code format.",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/8a478c68e8ab86c1cef1eaacdd73a72945e85acd",
+      "sha": "8a478c6",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790149975000,
+      "committedDate": "2026-09-23T07:52:55Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/f2ec738b390b223206fc730e1c5658ac1ca5756f",
+      "sha": "f2ec738",
+      "login": "github-actions[bot]"
+    },
+    {
+      "date": 1790149469000,
+      "committedDate": "2026-09-23T07:44:29Z",
+      "header": "Add fan rpm response to temperature and fish bowl tool (#36)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/c5ce8d1acb0a8ba41fa9034d4873fd980031e2fb",
+      "sha": "c5ce8d1",
+      "login": "KretonWang"
+    },
     {
       "date": 1790147032000,
       "committedDate": "2026-09-23T07:03:52Z",
@@ -45,51 +90,6 @@
       "url": "https://github.com/M2Station/M2_PILOT/commit/87e34368613b8687904fc697a7591c1ddb0d046f",
       "sha": "87e3436",
       "login": "weilin0000"
-    },
-    {
-      "date": 1790077315000,
-      "committedDate": "2026-09-22T11:41:55Z",
-      "header": "Add sensor-viewer tool (#33)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/77d2251e3268bcfd421c49393b753f1d2e565f1b",
-      "sha": "77d2251",
-      "login": "bofrankbo"
-    },
-    {
-      "date": 1790069472000,
-      "committedDate": "2026-09-22T09:31:12Z",
-      "header": "(3.4.5) Formatting Changes",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/609b37de5a46ca00825e66691edf0fa21d18bbde",
-      "sha": "609b37d",
-      "login": "Sebastian Liu"
-    },
-    {
-      "date": 1790069415000,
-      "committedDate": "2026-09-22T09:30:15Z",
-      "header": "Update MICROSOFT_RELEASE_CADENCE.md",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/95d5ea7fa9c225c99449ab54a50a48f2639efd3c",
-      "sha": "95d5ea7",
-      "login": "asuka-wu"
-    },
-    {
-      "date": 1790067337000,
-      "committedDate": "2026-09-22T08:55:37Z",
-      "header": "[Refactor] Group Test Plan toolbar into semantic sections",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/321f9b16a0737cc9c2ba969755b53744b90e409e",
-      "sha": "321f9b1",
-      "login": "OA Hsiao"
-    },
-    {
-      "date": 1790067060000,
-      "committedDate": "2026-09-22T08:51:00Z",
-      "header": "Update MSAGUI_v15 exe and delete previous exe",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/f3f9d23ebb1834450ff644fd1e9392fae43bd67a",
-      "sha": "f3f9d23",
-      "login": "cin0429"
     }
   ]
 }
