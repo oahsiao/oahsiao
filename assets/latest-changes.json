@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-24 15:25 TWN",
+  "updated": "2026-09-25 15:22 TWN",
   "latestChanges": [
+    {
+      "date": 1790244852000,
+      "committedDate": "2026-09-24T10:14:12Z",
+      "header": "add dxe",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/7dd12bf0a9c105d5faf5d6dd321edcbdb169952d",
+      "sha": "7dd12bf",
+      "login": "bofrankbo"
+    },
+    {
+      "date": 1790235781000,
+      "committedDate": "2026-09-24T07:43:01Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/5391f928a28c49cccdcf9440e934142e7db3cc4d",
+      "sha": "5391f92",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1790225230000,
       "committedDate": "2026-09-24T04:47:10Z",
@@ -72,24 +90,6 @@
       "url": "https://github.com/M2Station/M2_WIKI/commit/0db5157ee4d51a180df2415a77394f6ee3282fc9",
       "sha": "0db5157",
       "login": "bofrankbo"
-    },
-    {
-      "date": 1790131931000,
-      "committedDate": "2026-09-23T02:52:11Z",
-      "header": "(3.4.7) added versioning in generated reports",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/b0319118a6a260495e34bf06f586f0426025a918",
-      "sha": "b031911",
-      "login": "Sebastian Liu"
-    },
-    {
-      "date": 1790129879000,
-      "committedDate": "2026-09-23T02:17:59Z",
-      "header": "Add boot-to-frontpage DUT tool (#35)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/87e34368613b8687904fc697a7591c1ddb0d046f",
-      "sha": "87e3436",
-      "login": "weilin0000"
     }
   ]
 }

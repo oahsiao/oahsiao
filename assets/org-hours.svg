@@ -42,9 +42,9 @@
       <animate attributeName="height" from="0" to="20" dur="1s" begin="0.27s" fill="freeze"/>
       <animate attributeName="y" from="94" to="74" dur="1s" begin="0.27s" fill="freeze"/>
     </rect>
-    <rect x="200" y="57" width="16" height="37" fill="#00f5d4" opacity="0.61" rx="1">
-      <animate attributeName="height" from="0" to="37" dur="1s" begin="0.30s" fill="freeze"/>
-      <animate attributeName="y" from="94" to="57" dur="1s" begin="0.30s" fill="freeze"/>
+    <rect x="200" y="58" width="16" height="36" fill="#00f5d4" opacity="0.61" rx="1">
+      <animate attributeName="height" from="0" to="36" dur="1s" begin="0.30s" fill="freeze"/>
+      <animate attributeName="y" from="94" to="58" dur="1s" begin="0.30s" fill="freeze"/>
     </rect>
     <rect x="218" y="53" width="16" height="41" fill="#00f5d4" opacity="0.67" rx="1">
       <animate attributeName="height" from="0" to="41" dur="1s" begin="0.33s" fill="freeze"/>
@@ -99,5 +99,5 @@
       <animate attributeName="y" from="94" to="85" dur="1s" begin="0.69s" fill="freeze"/>
     </rect>
     <text x="442" y="106" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">23</text>
-  <text x="240" y="124" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-09-24 15:25 TWN</text>
+  <text x="240" y="124" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-09-25 15:22 TWN</text>
 </svg>
