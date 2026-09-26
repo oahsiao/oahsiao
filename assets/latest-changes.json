@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25 15:22 TWN",
+  "updated": "2026-09-26 15:17 TWN",
   "latestChanges": [
+    {
+      "date": 1790323383000,
+      "committedDate": "2026-09-25T08:03:03Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/829ee68d79620b44d8d5f05e399a70772b08f7ba",
+      "sha": "829ee68",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1790244852000,
       "committedDate": "2026-09-24T10:14:12Z",
@@ -81,15 +90,6 @@
       "url": "https://github.com/M2Station/M2_WIKI/commit/09848b4519e7d5b6e712589828f7470886b1b65c",
       "sha": "09848b4",
       "login": "oahsiao"
-    },
-    {
-      "date": 1790132440000,
-      "committedDate": "2026-09-23T03:00:40Z",
-      "header": "add smoke test / uefi pei",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/0db5157ee4d51a180df2415a77394f6ee3282fc9",
-      "sha": "0db5157",
-      "login": "bofrankbo"
     }
   ]
 }
