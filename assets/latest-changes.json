@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27 15:49 TWN",
+  "updated": "2026-09-28 16:26 TWN",
   "latestChanges": [
+    {
+      "date": 1790497564000,
+      "committedDate": "2026-09-27T08:26:04Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/ba6712347e03b0456bb8167737d9fe7d2a79e123",
+      "sha": "ba67123",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1790409267000,
       "committedDate": "2026-09-26T07:54:27Z",
@@ -81,15 +90,6 @@
       "url": "https://github.com/M2Station/M2_PILOT/commit/c5ce8d1acb0a8ba41fa9034d4873fd980031e2fb",
       "sha": "c5ce8d1",
       "login": "KretonWang"
-    },
-    {
-      "date": 1790147032000,
-      "committedDate": "2026-09-23T07:03:52Z",
-      "header": "Rename UEFI Flash Tool and Add SdfConsole Support (#37)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/a09f80c9a7d2ede18c212fd62c406f75e45cdee3",
-      "sha": "a09f80c",
-      "login": "Jiannhaur"
     }
   ]
 }
