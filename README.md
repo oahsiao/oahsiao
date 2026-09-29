@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`.github@ba67123`](https://github.com/M2Station/.github/commit/ba6712347e03b0456bb8167737d9fe7d2a79e123) — chore: sync latest changes [skip ci] · `2026-09-27` · github-actions[bot]
-02. [`.github@c2b6442`](https://github.com/M2Station/.github/commit/c2b644218bb48ac89cd2215f7048e78d07a02692) — chore: sync latest changes [skip ci] · `2026-09-26` · github-actions[bot]
-03. [`.github@829ee68`](https://github.com/M2Station/.github/commit/829ee68d79620b44d8d5f05e399a70772b08f7ba) — chore: sync latest changes [skip ci] · `2026-09-25` · github-actions[bot]
-04. [`M2_WIKI@7dd12bf`](https://github.com/M2Station/M2_WIKI/commit/7dd12bf0a9c105d5faf5d6dd321edcbdb169952d) — add dxe · `2026-09-24` · bofrankbo
-05. [`.github@5391f92`](https://github.com/M2Station/.github/commit/5391f928a28c49cccdcf9440e934142e7db3cc4d) — chore: sync latest changes [skip ci] · `2026-09-24` · github-actions[bot]
-06. [`M2_PILOT@8dc1f64`](https://github.com/M2Station/M2_PILOT/commit/8dc1f649f2ecc070bdaa6f098b565b49b2e5cc21) — Save NVIDIA RAW dumps under each Test Plan ID (#38) · `2026-09-24` · capohuang
-07. [`M2_SKILLS@8fe93c1`](https://github.com/M2Station/M2_SKILLS/commit/8fe93c1b373736a285cc57b1e1a16e15908368ea) — (3.4.8) Have Sections be Optional · `2026-09-23` · Sebastian Liu
-08. [`M2_WIKI@8a478c6`](https://github.com/M2Station/M2_WIKI/commit/8a478c68e8ab86c1cef1eaacdd73a72945e85acd) — Refine the code format. · `2026-09-23` · oahsiao
-09. [`.github@f2ec738`](https://github.com/M2Station/.github/commit/f2ec738b390b223206fc730e1c5658ac1ca5756f) — chore: sync latest changes [skip ci] · `2026-09-23` · github-actions[bot]
-10. [`M2_PILOT@c5ce8d1`](https://github.com/M2Station/M2_PILOT/commit/c5ce8d1acb0a8ba41fa9034d4873fd980031e2fb) — Add fan rpm response to temperature and fish bowl tool (#36) · `2026-09-23` · KretonWang
+01. [`M2_SKILLS@9b03018`](https://github.com/M2Station/M2_SKILLS/commit/9b03018dc51ae6cb6b7333f8c9fb37841fa28997) — [feat] Add Safety Conflict Confirmation · `2026-09-29` · oahsiao
+02. [`M2_SKILLS@09510bb`](https://github.com/M2Station/M2_SKILLS/commit/09510bbe82ec4402d52908e4ad8e917efd1f6f02) — docs(repo): add contributor guidance · `2026-09-29` · oahsiao
+03. [`M2_SKILLS@445662f`](https://github.com/M2Station/M2_SKILLS/commit/445662fe8635428ce0a5251db3c97bba3253c698) — fix(skills): preserve literal Windows paths · `2026-09-29` · oahsiao
+04. [`M2_SKILLS@9bd1016`](https://github.com/M2Station/M2_SKILLS/commit/9bd10164ae0f9251aacc35ff37c8eb66e1f559c3) — feat(m2-commit): add preflight and push selection workflow · `2026-09-29` · oahsiao
+05. [`M2_SKILLS@8c22373`](https://github.com/M2Station/M2_SKILLS/commit/8c22373314bf223934ff1e4eaaa2b46423457651) — feat(m2-review-pr): add generic PR review skill · `2026-09-29` · oahsiao
+06. [`M2_SKILLS@5f3ed01`](https://github.com/M2Station/M2_SKILLS/commit/5f3ed0195e73424c38acd4295b398542b9201806) — feat(m2-draft-pr): add generic PR drafting skill · `2026-09-29` · oahsiao
+07. [`.github@d7ddfa4`](https://github.com/M2Station/.github/commit/d7ddfa488c532e435cce6875478f01adcbf0cb35) — chore: sync latest changes [skip ci] · `2026-09-28` · github-actions[bot]
+08. [`.github@ba67123`](https://github.com/M2Station/.github/commit/ba6712347e03b0456bb8167737d9fe7d2a79e123) — chore: sync latest changes [skip ci] · `2026-09-27` · github-actions[bot]
+09. [`.github@c2b6442`](https://github.com/M2Station/.github/commit/c2b644218bb48ac89cd2215f7048e78d07a02692) — chore: sync latest changes [skip ci] · `2026-09-26` · github-actions[bot]
+10. [`.github@829ee68`](https://github.com/M2Station/.github/commit/829ee68d79620b44d8d5f05e399a70772b08f7ba) — chore: sync latest changes [skip ci] · `2026-09-25` · github-actions[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---

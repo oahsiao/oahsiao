@@ -1,6 +1,69 @@
 {
-  "updated": "2026-09-28 16:26 TWN",
+  "updated": "2026-09-29 16:06 TWN",
   "latestChanges": [
+    {
+      "date": 1790658969000,
+      "committedDate": "2026-09-29T05:16:09Z",
+      "header": "[feat] Add Safety Conflict Confirmation",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/9b03018dc51ae6cb6b7333f8c9fb37841fa28997",
+      "sha": "9b03018",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790656589000,
+      "committedDate": "2026-09-29T04:36:29Z",
+      "header": "docs(repo): add contributor guidance",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/09510bbe82ec4402d52908e4ad8e917efd1f6f02",
+      "sha": "09510bb",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790655129000,
+      "committedDate": "2026-09-29T04:12:09Z",
+      "header": "fix(skills): preserve literal Windows paths",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/445662fe8635428ce0a5251db3c97bba3253c698",
+      "sha": "445662f",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790651978000,
+      "committedDate": "2026-09-29T03:19:38Z",
+      "header": "feat(m2-commit): add preflight and push selection workflow",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/9bd10164ae0f9251aacc35ff37c8eb66e1f559c3",
+      "sha": "9bd1016",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790650117000,
+      "committedDate": "2026-09-29T02:48:37Z",
+      "header": "feat(m2-review-pr): add generic PR review skill",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/8c22373314bf223934ff1e4eaaa2b46423457651",
+      "sha": "8c22373",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790645655000,
+      "committedDate": "2026-09-29T01:34:15Z",
+      "header": "feat(m2-draft-pr): add generic PR drafting skill",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/5f3ed0195e73424c38acd4295b398542b9201806",
+      "sha": "5f3ed01",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790585471000,
+      "committedDate": "2026-09-28T08:51:11Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/d7ddfa488c532e435cce6875478f01adcbf0cb35",
+      "sha": "d7ddfa4",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1790497564000,
       "committedDate": "2026-09-27T08:26:04Z",
@@ -27,69 +90,6 @@
       "url": "https://github.com/M2Station/.github/commit/829ee68d79620b44d8d5f05e399a70772b08f7ba",
       "sha": "829ee68",
       "login": "github-actions[bot]"
-    },
-    {
-      "date": 1790244852000,
-      "committedDate": "2026-09-24T10:14:12Z",
-      "header": "add dxe",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/7dd12bf0a9c105d5faf5d6dd321edcbdb169952d",
-      "sha": "7dd12bf",
-      "login": "bofrankbo"
-    },
-    {
-      "date": 1790235781000,
-      "committedDate": "2026-09-24T07:43:01Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/5391f928a28c49cccdcf9440e934142e7db3cc4d",
-      "sha": "5391f92",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1790225230000,
-      "committedDate": "2026-09-24T04:47:10Z",
-      "header": "Save NVIDIA RAW dumps under each Test Plan ID (#38)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/8dc1f649f2ecc070bdaa6f098b565b49b2e5cc21",
-      "sha": "8dc1f64",
-      "login": "capohuang"
-    },
-    {
-      "date": 1790160425000,
-      "committedDate": "2026-09-23T10:47:05Z",
-      "header": "(3.4.8) Have Sections be Optional",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/8fe93c1b373736a285cc57b1e1a16e15908368ea",
-      "sha": "8fe93c1",
-      "login": "Sebastian Liu"
-    },
-    {
-      "date": 1790154351000,
-      "committedDate": "2026-09-23T09:05:51Z",
-      "header": "Refine the code format.",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/8a478c68e8ab86c1cef1eaacdd73a72945e85acd",
-      "sha": "8a478c6",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790149975000,
-      "committedDate": "2026-09-23T07:52:55Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/f2ec738b390b223206fc730e1c5658ac1ca5756f",
-      "sha": "f2ec738",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1790149469000,
-      "committedDate": "2026-09-23T07:44:29Z",
-      "header": "Add fan rpm response to temperature and fish bowl tool (#36)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/c5ce8d1acb0a8ba41fa9034d4873fd980031e2fb",
-      "sha": "c5ce8d1",
-      "login": "KretonWang"
     }
   ]
 }
