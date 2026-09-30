@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_SKILLS@9b03018`](https://github.com/M2Station/M2_SKILLS/commit/9b03018dc51ae6cb6b7333f8c9fb37841fa28997) — [feat] Add Safety Conflict Confirmation · `2026-09-29` · oahsiao
-02. [`M2_SKILLS@09510bb`](https://github.com/M2Station/M2_SKILLS/commit/09510bbe82ec4402d52908e4ad8e917efd1f6f02) — docs(repo): add contributor guidance · `2026-09-29` · oahsiao
-03. [`M2_SKILLS@445662f`](https://github.com/M2Station/M2_SKILLS/commit/445662fe8635428ce0a5251db3c97bba3253c698) — fix(skills): preserve literal Windows paths · `2026-09-29` · oahsiao
-04. [`M2_SKILLS@9bd1016`](https://github.com/M2Station/M2_SKILLS/commit/9bd10164ae0f9251aacc35ff37c8eb66e1f559c3) — feat(m2-commit): add preflight and push selection workflow · `2026-09-29` · oahsiao
-05. [`M2_SKILLS@8c22373`](https://github.com/M2Station/M2_SKILLS/commit/8c22373314bf223934ff1e4eaaa2b46423457651) — feat(m2-review-pr): add generic PR review skill · `2026-09-29` · oahsiao
-06. [`M2_SKILLS@5f3ed01`](https://github.com/M2Station/M2_SKILLS/commit/5f3ed0195e73424c38acd4295b398542b9201806) — feat(m2-draft-pr): add generic PR drafting skill · `2026-09-29` · oahsiao
-07. [`.github@d7ddfa4`](https://github.com/M2Station/.github/commit/d7ddfa488c532e435cce6875478f01adcbf0cb35) — chore: sync latest changes [skip ci] · `2026-09-28` · github-actions[bot]
-08. [`.github@ba67123`](https://github.com/M2Station/.github/commit/ba6712347e03b0456bb8167737d9fe7d2a79e123) — chore: sync latest changes [skip ci] · `2026-09-27` · github-actions[bot]
-09. [`.github@c2b6442`](https://github.com/M2Station/.github/commit/c2b644218bb48ac89cd2215f7048e78d07a02692) — chore: sync latest changes [skip ci] · `2026-09-26` · github-actions[bot]
-10. [`.github@829ee68`](https://github.com/M2Station/.github/commit/829ee68d79620b44d8d5f05e399a70772b08f7ba) — chore: sync latest changes [skip ci] · `2026-09-25` · github-actions[bot]
+01. [`M2_INSIGHT@5ec0c04`](https://github.com/M2Station/M2_INSIGHT/commit/5ec0c04ab0b549fb0ff9aec0b143321925c3a21c) — feat(teams): add workload breakdown panels with picture d... · `2026-09-30` · oahsiao
+02. [`M2_PILOT@c7ee84d`](https://github.com/M2Station/M2_PILOT/commit/c7ee84d52ed6086edafc512b0e94b02b16e2fa63) — Verify Display HWID (#41) · `2026-09-30` · capohuang
+03. [`M2_PILOT@8707ed3`](https://github.com/M2Station/M2_PILOT/commit/8707ed3436cc7dc87fa7522a6197a154ba5a6a4b) — Add boot-to-usb DUT tool (#39) · `2026-09-30` · weilin0000
+04. [`M2_PILOT@28105bf`](https://github.com/M2Station/M2_PILOT/commit/28105bfef1a3d6d5189eaeb4d7895687efb0efad) — Add system-info Secure Boot gate, fix SCPC package path, ... · `2026-09-30` · bofrankbo
+05. [`M2_INSIGHT@5978f60`](https://github.com/M2Station/M2_INSIGHT/commit/5978f6078ae496700ac447dfdc7a861a7c96b85c) — feat(schedule): choose platforms/projects for picture dow... · `2026-09-30` · oahsiao
+06. [`M2_INSIGHT@efab98d`](https://github.com/M2Station/M2_INSIGHT/commit/efab98dd788f15f96878b1daa0d75ef467d61033) — feat(teams): add horizontal download picture option · `2026-09-30` · oahsiao
+07. [`M2_SKILLS@9a19e42`](https://github.com/M2Station/M2_SKILLS/commit/9a19e42e00009ce8a38a224f0f2a4ae8b938444a) — docs(readme): reorganize link list into skill search and ... · `2026-09-30` · oahsiao
+08. [`M2_WIKI@1cd1dcb`](https://github.com/M2Station/M2_WIKI/commit/1cd1dcb0799eca19d22132316e084d793acdf5d3) — Add new file for eUSB study · `2026-09-30` · Sam6Su
+09. [`M2_PUBLIC_RELEASE@d971748`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/d971748a4b3e161e74395c013efd924d7489c90c) — chore(m2-apex): publish v0.5.5 · `2026-09-29` · oahsiao
+10. [`M2_APEX@bf5aac4`](https://github.com/M2Station/M2_APEX/commit/bf5aac471fdd9cdba8618cfc5420f0d8ff6d1e38) — feat(search): add ripgrep installer to Search settings · `2026-09-29` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;348.40000000000003;348.40000000000003;0;0"
-        keyTimes="0;0.000;0.082;0.139;0.156;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.000;0.108;0.165;0.183;1"
+        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[feat] Add Safety Conflict Confirmation</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(teams): add workload breakdown panels with...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;323.2;323.2;0;0"
-        keyTimes="0;0.156;0.233;0.289;0.307;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;230.8;230.8;0;0"
+        keyTimes="0;0.183;0.237;0.294;0.312;1"
+        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>docs(repo): add contributor guidance</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Verify Display HWID (#41)</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;382;382;0;0"
-        keyTimes="0;0.307;0.397;0.454;0.471;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;272.8;272.8;0;0"
+        keyTimes="0;0.312;0.376;0.434;0.452;1"
+        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(skills): preserve literal Windows paths</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add boot-to-usb DUT tool (#39)</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.471;0.577;0.634;0.651;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.452;0.559;0.616;0.634;1"
+        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(m2-commit): add preflight and push selecti...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add system-info Secure Boot gate, fix SCPC pack...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;415.6;415.6;0;0"
-        keyTimes="0;0.651;0.751;0.807;0.825;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.634;0.742;0.799;0.817;1"
+        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(m2-review-pr): add generic PR review skill</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(schedule): choose platforms/projects for p...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;424;424;0;0"
-        keyTimes="0;0.825;0.926;0.982;1.000;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.817;0.925;0.982;1.000;1"
+        dur="27.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(m2-draft-pr): add generic PR drafting skill</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(teams): add horizontal download picture op...</text>
     </g>
 </svg>

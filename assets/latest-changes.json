@@ -1,95 +1,95 @@
 {
-  "updated": "2026-09-29 16:06 TWN",
+  "updated": "2026-09-30 16:12 TWN",
   "latestChanges": [
     {
-      "date": 1790658969000,
-      "committedDate": "2026-09-29T05:16:09Z",
-      "header": "[feat] Add Safety Conflict Confirmation",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/9b03018dc51ae6cb6b7333f8c9fb37841fa28997",
-      "sha": "9b03018",
+      "date": 1790754215000,
+      "committedDate": "2026-09-30T07:43:35Z",
+      "header": "feat(teams): add workload breakdown panels with picture download",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/5ec0c04ab0b549fb0ff9aec0b143321925c3a21c",
+      "sha": "5ec0c04",
       "login": "oahsiao"
     },
     {
-      "date": 1790656589000,
-      "committedDate": "2026-09-29T04:36:29Z",
-      "header": "docs(repo): add contributor guidance",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/09510bbe82ec4402d52908e4ad8e917efd1f6f02",
-      "sha": "09510bb",
+      "date": 1790754043000,
+      "committedDate": "2026-09-30T07:40:43Z",
+      "header": "Verify Display HWID (#41)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/c7ee84d52ed6086edafc512b0e94b02b16e2fa63",
+      "sha": "c7ee84d",
+      "login": "capohuang"
+    },
+    {
+      "date": 1790751747000,
+      "committedDate": "2026-09-30T07:02:27Z",
+      "header": "Add boot-to-usb DUT tool (#39)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/8707ed3436cc7dc87fa7522a6197a154ba5a6a4b",
+      "sha": "8707ed3",
+      "login": "weilin0000"
+    },
+    {
+      "date": 1790750737000,
+      "committedDate": "2026-09-30T06:45:37Z",
+      "header": "Add system-info Secure Boot gate, fix SCPC package path, and MCP return Host-only plan results (#40)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/28105bfef1a3d6d5189eaeb4d7895687efb0efad",
+      "sha": "28105bf",
+      "login": "bofrankbo"
+    },
+    {
+      "date": 1790745318000,
+      "committedDate": "2026-09-30T05:15:18Z",
+      "header": "feat(schedule): choose platforms/projects for picture download",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/5978f6078ae496700ac447dfdc7a861a7c96b85c",
+      "sha": "5978f60",
       "login": "oahsiao"
     },
     {
-      "date": 1790655129000,
-      "committedDate": "2026-09-29T04:12:09Z",
-      "header": "fix(skills): preserve literal Windows paths",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/445662fe8635428ce0a5251db3c97bba3253c698",
-      "sha": "445662f",
+      "date": 1790741089000,
+      "committedDate": "2026-09-30T04:04:49Z",
+      "header": "feat(teams): add horizontal download picture option",
+      "repo": "M2_INSIGHT",
+      "url": "https://github.com/M2Station/M2_INSIGHT/commit/efab98dd788f15f96878b1daa0d75ef467d61033",
+      "sha": "efab98d",
       "login": "oahsiao"
     },
     {
-      "date": 1790651978000,
-      "committedDate": "2026-09-29T03:19:38Z",
-      "header": "feat(m2-commit): add preflight and push selection workflow",
+      "date": 1790735564000,
+      "committedDate": "2026-09-30T02:32:44Z",
+      "header": "docs(readme): reorganize link list into skill search and manager sections",
       "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/9bd10164ae0f9251aacc35ff37c8eb66e1f559c3",
-      "sha": "9bd1016",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/9a19e42e00009ce8a38a224f0f2a4ae8b938444a",
+      "sha": "9a19e42",
       "login": "oahsiao"
     },
     {
-      "date": 1790650117000,
-      "committedDate": "2026-09-29T02:48:37Z",
-      "header": "feat(m2-review-pr): add generic PR review skill",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/8c22373314bf223934ff1e4eaaa2b46423457651",
-      "sha": "8c22373",
+      "date": 1790733180000,
+      "committedDate": "2026-09-30T01:53:00Z",
+      "header": "Add new file for eUSB study",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/1cd1dcb0799eca19d22132316e084d793acdf5d3",
+      "sha": "1cd1dcb",
+      "login": "Sam6Su"
+    },
+    {
+      "date": 1790699626000,
+      "committedDate": "2026-09-29T16:33:46Z",
+      "header": "chore(m2-apex): publish v0.5.5",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/d971748a4b3e161e74395c013efd924d7489c90c",
+      "sha": "d971748",
       "login": "oahsiao"
     },
     {
-      "date": 1790645655000,
-      "committedDate": "2026-09-29T01:34:15Z",
-      "header": "feat(m2-draft-pr): add generic PR drafting skill",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/5f3ed0195e73424c38acd4295b398542b9201806",
-      "sha": "5f3ed01",
+      "date": 1790699376000,
+      "committedDate": "2026-09-29T16:29:36Z",
+      "header": "feat(search): add ripgrep installer to Search settings",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/bf5aac471fdd9cdba8618cfc5420f0d8ff6d1e38",
+      "sha": "bf5aac4",
       "login": "oahsiao"
-    },
-    {
-      "date": 1790585471000,
-      "committedDate": "2026-09-28T08:51:11Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/d7ddfa488c532e435cce6875478f01adcbf0cb35",
-      "sha": "d7ddfa4",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1790497564000,
-      "committedDate": "2026-09-27T08:26:04Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/ba6712347e03b0456bb8167737d9fe7d2a79e123",
-      "sha": "ba67123",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1790409267000,
-      "committedDate": "2026-09-26T07:54:27Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/c2b644218bb48ac89cd2215f7048e78d07a02692",
-      "sha": "c2b6442",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1790323383000,
-      "committedDate": "2026-09-25T08:03:03Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/829ee68d79620b44d8d5f05e399a70772b08f7ba",
-      "sha": "829ee68",
-      "login": "github-actions[bot]"
     }
   ]
 }
