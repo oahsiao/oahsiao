@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_INSIGHT@5ec0c04`](https://github.com/M2Station/M2_INSIGHT/commit/5ec0c04ab0b549fb0ff9aec0b143321925c3a21c) — feat(teams): add workload breakdown panels with picture d... · `2026-09-30` · oahsiao
-02. [`M2_PILOT@c7ee84d`](https://github.com/M2Station/M2_PILOT/commit/c7ee84d52ed6086edafc512b0e94b02b16e2fa63) — Verify Display HWID (#41) · `2026-09-30` · capohuang
-03. [`M2_PILOT@8707ed3`](https://github.com/M2Station/M2_PILOT/commit/8707ed3436cc7dc87fa7522a6197a154ba5a6a4b) — Add boot-to-usb DUT tool (#39) · `2026-09-30` · weilin0000
-04. [`M2_PILOT@28105bf`](https://github.com/M2Station/M2_PILOT/commit/28105bfef1a3d6d5189eaeb4d7895687efb0efad) — Add system-info Secure Boot gate, fix SCPC package path, ... · `2026-09-30` · bofrankbo
-05. [`M2_INSIGHT@5978f60`](https://github.com/M2Station/M2_INSIGHT/commit/5978f6078ae496700ac447dfdc7a861a7c96b85c) — feat(schedule): choose platforms/projects for picture dow... · `2026-09-30` · oahsiao
-06. [`M2_INSIGHT@efab98d`](https://github.com/M2Station/M2_INSIGHT/commit/efab98dd788f15f96878b1daa0d75ef467d61033) — feat(teams): add horizontal download picture option · `2026-09-30` · oahsiao
-07. [`M2_SKILLS@9a19e42`](https://github.com/M2Station/M2_SKILLS/commit/9a19e42e00009ce8a38a224f0f2a4ae8b938444a) — docs(readme): reorganize link list into skill search and ... · `2026-09-30` · oahsiao
-08. [`M2_WIKI@1cd1dcb`](https://github.com/M2Station/M2_WIKI/commit/1cd1dcb0799eca19d22132316e084d793acdf5d3) — Add new file for eUSB study · `2026-09-30` · Sam6Su
-09. [`M2_PUBLIC_RELEASE@d971748`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/d971748a4b3e161e74395c013efd924d7489c90c) — chore(m2-apex): publish v0.5.5 · `2026-09-29` · oahsiao
-10. [`M2_APEX@bf5aac4`](https://github.com/M2Station/M2_APEX/commit/bf5aac471fdd9cdba8618cfc5420f0d8ff6d1e38) — feat(search): add ripgrep installer to Search settings · `2026-09-29` · oahsiao
+01. [`M2_PILOT@16e9dbc`](https://github.com/M2Station/M2_PILOT/commit/16e9dbc6a2b114ae30808c55adbfffca68a625f0) — Resolve SdfConsole to the net8 build for the host archite... · `2026-10-01` · Linpei727
+02. [`M2_PILOT@c73ddd4`](https://github.com/M2Station/M2_PILOT/commit/c73ddd4d97ddef85c0d70f0fc9fd0135ef4ffeea) — Add verify-brightness-slider DUT tool (#43) · `2026-10-01` · capohuang
+03. [`M2_PILOT@beb56cf`](https://github.com/M2Station/M2_PILOT/commit/beb56cf8c3ee0913911e7cb1a75a5092da848a17) — Prefer DUT VersionReport and collect DISM driver inventor... · `2026-10-01` · BarryLee1012
+04. [`M2_APEX@ccf1550`](https://github.com/M2Station/M2_APEX/commit/ccf15504d538e8057657d24c0eb2444ec9c4cafa) — fix(settings): stop logging expected folder-mount failure... · `2026-10-01` · oahsiao
+05. [`M2_APEX@6d4383f`](https://github.com/M2Station/M2_APEX/commit/6d4383f11d122ab7e5d4083e7d25e85d7b2eaf2d) — perf(index): enlarge watcher buffer to survive boot-storm... · `2026-10-01` · oahsiao
+06. [`M2_APEX@5c6eddb`](https://github.com/M2Station/M2_APEX/commit/5c6eddb5f91182e1f8b9b87cc9d8729e9a18bf69) — perf(search): create the search bar drop shadow off the s... · `2026-10-01` · oahsiao
+07. [`M2_APEX@50d4e09`](https://github.com/M2Station/M2_APEX/commit/50d4e098df28b6c6927ee7f8472323a4fbf6e19d) — fix(settings): resolve launch-at-startup state off the UI... · `2026-10-01` · oahsiao
+08. [`M2_WIKI@370ce42`](https://github.com/M2Station/M2_WIKI/commit/370ce420d9d81272e1a7e3d9eab3ca73725998ed) — update MICOSOFT)UEFI_PEI · `2026-10-01` · bofrankbo
+09. [`M2_APEX@ff99072`](https://github.com/M2Station/M2_APEX/commit/ff99072bf3c7aa66752e8302c03aded9d1ebcf45) — v0.5.11 · `2026-09-30` · oahsiao
+10. [`M2_SKILLS@5bd87c9`](https://github.com/M2Station/M2_SKILLS/commit/5bd87c9ca9aa05ef2f3c7bf430a62296359d9433) — docs(m2-commit): beep before push menu and recommend push · `2026-09-30` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

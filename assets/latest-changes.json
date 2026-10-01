@@ -1,94 +1,94 @@
 {
-  "updated": "2026-09-30 16:12 TWN",
+  "updated": "2026-10-01 16:34 TWN",
   "latestChanges": [
     {
-      "date": 1790754215000,
-      "committedDate": "2026-09-30T07:43:35Z",
-      "header": "feat(teams): add workload breakdown panels with picture download",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/5ec0c04ab0b549fb0ff9aec0b143321925c3a21c",
-      "sha": "5ec0c04",
-      "login": "oahsiao"
+      "date": 1790843615000,
+      "committedDate": "2026-10-01T08:33:35Z",
+      "header": "Resolve SdfConsole to the net8 build for the host architecture",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/16e9dbc6a2b114ae30808c55adbfffca68a625f0",
+      "sha": "16e9dbc",
+      "login": "Linpei727"
     },
     {
-      "date": 1790754043000,
-      "committedDate": "2026-09-30T07:40:43Z",
-      "header": "Verify Display HWID (#41)",
+      "date": 1790841228000,
+      "committedDate": "2026-10-01T07:53:48Z",
+      "header": "Add verify-brightness-slider DUT tool (#43)",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/c7ee84d52ed6086edafc512b0e94b02b16e2fa63",
-      "sha": "c7ee84d",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/c73ddd4d97ddef85c0d70f0fc9fd0135ef4ffeea",
+      "sha": "c73ddd4",
       "login": "capohuang"
     },
     {
-      "date": 1790751747000,
-      "committedDate": "2026-09-30T07:02:27Z",
-      "header": "Add boot-to-usb DUT tool (#39)",
+      "date": 1790836843000,
+      "committedDate": "2026-10-01T06:40:43Z",
+      "header": "Prefer DUT VersionReport and collect DISM driver inventory (#42)",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/8707ed3436cc7dc87fa7522a6197a154ba5a6a4b",
-      "sha": "8707ed3",
-      "login": "weilin0000"
+      "url": "https://github.com/M2Station/M2_PILOT/commit/beb56cf8c3ee0913911e7cb1a75a5092da848a17",
+      "sha": "beb56cf",
+      "login": "BarryLee1012"
     },
     {
-      "date": 1790750737000,
-      "committedDate": "2026-09-30T06:45:37Z",
-      "header": "Add system-info Secure Boot gate, fix SCPC package path, and MCP return Host-only plan results (#40)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/28105bfef1a3d6d5189eaeb4d7895687efb0efad",
-      "sha": "28105bf",
+      "date": 1790829337000,
+      "committedDate": "2026-10-01T04:35:37Z",
+      "header": "fix(settings): stop logging expected folder-mount failures as crashes",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/ccf15504d538e8057657d24c0eb2444ec9c4cafa",
+      "sha": "ccf1550",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790829309000,
+      "committedDate": "2026-10-01T04:35:09Z",
+      "header": "perf(index): enlarge watcher buffer to survive boot-storm change floods",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/6d4383f11d122ab7e5d4083e7d25e85d7b2eaf2d",
+      "sha": "6d4383f",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790829309000,
+      "committedDate": "2026-10-01T04:35:09Z",
+      "header": "perf(search): create the search bar drop shadow off the startup storm",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/5c6eddb5f91182e1f8b9b87cc9d8729e9a18bf69",
+      "sha": "5c6eddb",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790829255000,
+      "committedDate": "2026-10-01T04:34:15Z",
+      "header": "fix(settings): resolve launch-at-startup state off the UI thread",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/50d4e098df28b6c6927ee7f8472323a4fbf6e19d",
+      "sha": "50d4e09",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790824740000,
+      "committedDate": "2026-10-01T03:19:00Z",
+      "header": "update MICOSOFT)UEFI_PEI",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/370ce420d9d81272e1a7e3d9eab3ca73725998ed",
+      "sha": "370ce42",
       "login": "bofrankbo"
     },
     {
-      "date": 1790745318000,
-      "committedDate": "2026-09-30T05:15:18Z",
-      "header": "feat(schedule): choose platforms/projects for picture download",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/5978f6078ae496700ac447dfdc7a861a7c96b85c",
-      "sha": "5978f60",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790741089000,
-      "committedDate": "2026-09-30T04:04:49Z",
-      "header": "feat(teams): add horizontal download picture option",
-      "repo": "M2_INSIGHT",
-      "url": "https://github.com/M2Station/M2_INSIGHT/commit/efab98dd788f15f96878b1daa0d75ef467d61033",
-      "sha": "efab98d",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790735564000,
-      "committedDate": "2026-09-30T02:32:44Z",
-      "header": "docs(readme): reorganize link list into skill search and manager sections",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/9a19e42e00009ce8a38a224f0f2a4ae8b938444a",
-      "sha": "9a19e42",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790733180000,
-      "committedDate": "2026-09-30T01:53:00Z",
-      "header": "Add new file for eUSB study",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/1cd1dcb0799eca19d22132316e084d793acdf5d3",
-      "sha": "1cd1dcb",
-      "login": "Sam6Su"
-    },
-    {
-      "date": 1790699626000,
-      "committedDate": "2026-09-29T16:33:46Z",
-      "header": "chore(m2-apex): publish v0.5.5",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/d971748a4b3e161e74395c013efd924d7489c90c",
-      "sha": "d971748",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790699376000,
-      "committedDate": "2026-09-29T16:29:36Z",
-      "header": "feat(search): add ripgrep installer to Search settings",
+      "date": 1790768739000,
+      "committedDate": "2026-09-30T11:45:39Z",
+      "header": "v0.5.11",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/bf5aac471fdd9cdba8618cfc5420f0d8ff6d1e38",
-      "sha": "bf5aac4",
+      "url": "https://github.com/M2Station/M2_APEX/commit/ff99072bf3c7aa66752e8302c03aded9d1ebcf45",
+      "sha": "ff99072",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790768603000,
+      "committedDate": "2026-09-30T11:43:23Z",
+      "header": "docs(m2-commit): beep before push menu and recommend push",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/5bd87c9ca9aa05ef2f3c7bf430a62296359d9433",
+      "sha": "5bd87c9",
       "login": "oahsiao"
     }
   ]
