@@ -1,94 +1,94 @@
 {
-  "updated": "2026-10-01 16:34 TWN",
+  "updated": "2026-10-02 16:10 TWN",
   "latestChanges": [
     {
-      "date": 1790843615000,
-      "committedDate": "2026-10-01T08:33:35Z",
-      "header": "Resolve SdfConsole to the net8 build for the host architecture",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/16e9dbc6a2b114ae30808c55adbfffca68a625f0",
-      "sha": "16e9dbc",
-      "login": "Linpei727"
-    },
-    {
-      "date": 1790841228000,
-      "committedDate": "2026-10-01T07:53:48Z",
-      "header": "Add verify-brightness-slider DUT tool (#43)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/c73ddd4d97ddef85c0d70f0fc9fd0135ef4ffeea",
-      "sha": "c73ddd4",
-      "login": "capohuang"
-    },
-    {
-      "date": 1790836843000,
-      "committedDate": "2026-10-01T06:40:43Z",
-      "header": "Prefer DUT VersionReport and collect DISM driver inventory (#42)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/beb56cf8c3ee0913911e7cb1a75a5092da848a17",
-      "sha": "beb56cf",
-      "login": "BarryLee1012"
-    },
-    {
-      "date": 1790829337000,
-      "committedDate": "2026-10-01T04:35:37Z",
-      "header": "fix(settings): stop logging expected folder-mount failures as crashes",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/ccf15504d538e8057657d24c0eb2444ec9c4cafa",
-      "sha": "ccf1550",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790829309000,
-      "committedDate": "2026-10-01T04:35:09Z",
-      "header": "perf(index): enlarge watcher buffer to survive boot-storm change floods",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/6d4383f11d122ab7e5d4083e7d25e85d7b2eaf2d",
-      "sha": "6d4383f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790829309000,
-      "committedDate": "2026-10-01T04:35:09Z",
-      "header": "perf(search): create the search bar drop shadow off the startup storm",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/5c6eddb5f91182e1f8b9b87cc9d8729e9a18bf69",
-      "sha": "5c6eddb",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790829255000,
-      "committedDate": "2026-10-01T04:34:15Z",
-      "header": "fix(settings): resolve launch-at-startup state off the UI thread",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/50d4e098df28b6c6927ee7f8472323a4fbf6e19d",
-      "sha": "50d4e09",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790824740000,
-      "committedDate": "2026-10-01T03:19:00Z",
-      "header": "update MICOSOFT)UEFI_PEI",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/370ce420d9d81272e1a7e3d9eab3ca73725998ed",
-      "sha": "370ce42",
-      "login": "bofrankbo"
-    },
-    {
-      "date": 1790768739000,
-      "committedDate": "2026-09-30T11:45:39Z",
-      "header": "v0.5.11",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/ff99072bf3c7aa66752e8302c03aded9d1ebcf45",
-      "sha": "ff99072",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790768603000,
-      "committedDate": "2026-09-30T11:43:23Z",
-      "header": "docs(m2-commit): beep before push menu and recommend push",
+      "date": 1790928447000,
+      "committedDate": "2026-10-02T08:07:27Z",
+      "header": "fix(config): prevent duplicate and partial TOML writes",
       "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/5bd87c9ca9aa05ef2f3c7bf430a62296359d9433",
-      "sha": "5bd87c9",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/5bfd6660200e30c88364139fac1b650b11c834fe",
+      "sha": "5bfd666",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790926132000,
+      "committedDate": "2026-10-02T07:28:52Z",
+      "header": "Update GO.BAT to auto-install pip deps in dev mode",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/992360f5e4055a8735e14761c4dd9076cebe68c3",
+      "sha": "992360f",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790925972000,
+      "committedDate": "2026-10-02T07:26:12Z",
+      "header": "Add GO.BAT launcher for M2 CODEX PROXY GUI",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/121aca995181ea689ae2fbb38327540ebdf2ffe9",
+      "sha": "121aca9",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790925841000,
+      "committedDate": "2026-10-02T07:24:01Z",
+      "header": "Enhance codex_recovery_proxy_v2 with GUI log callback and model routing",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/15e3cd7d9b7b34b5079877d44abf1e0380a5fcf3",
+      "sha": "15e3cd7",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790925773000,
+      "committedDate": "2026-10-02T07:22:53Z",
+      "header": "Add M2 CODEX PROXY GUI (onedir packaging, logo, dialog fix)",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/a572076a321c2bf761aa68d675e2a39671b70de7",
+      "sha": "a572076",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790922158000,
+      "committedDate": "2026-10-02T06:22:38Z",
+      "header": "Add ANDROID_STARTUP.md",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/62d53232bbde78db1c20afa1be7dbca8232729ac",
+      "sha": "62d5323",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790915529000,
+      "committedDate": "2026-10-02T04:32:09Z",
+      "header": "v0.5.16",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/664a526b0d336529e93d9ce95f13a1346adb6533",
+      "sha": "664a526",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790915429000,
+      "committedDate": "2026-10-02T04:30:29Z",
+      "header": "chore(m2-apex): publish v0.5.16",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6f5c4cd8858f571c41c275cda2d7e0e7e53788c4",
+      "sha": "6f5c4cd",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790914904000,
+      "committedDate": "2026-10-02T04:21:44Z",
+      "header": "chore(m2-apex): publish v0.5.15",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/09c124af90dd8481783c248115932b6bdf4a1ba6",
+      "sha": "09c124a",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790913804000,
+      "committedDate": "2026-10-02T04:03:24Z",
+      "header": "v0.5.14",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/d291424f4486c0bd48a9fabcc6ce2be25330f28a",
+      "sha": "d291424",
       "login": "oahsiao"
     }
   ]

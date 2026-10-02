@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PILOT@16e9dbc`](https://github.com/M2Station/M2_PILOT/commit/16e9dbc6a2b114ae30808c55adbfffca68a625f0) — Resolve SdfConsole to the net8 build for the host archite... · `2026-10-01` · Linpei727
-02. [`M2_PILOT@c73ddd4`](https://github.com/M2Station/M2_PILOT/commit/c73ddd4d97ddef85c0d70f0fc9fd0135ef4ffeea) — Add verify-brightness-slider DUT tool (#43) · `2026-10-01` · capohuang
-03. [`M2_PILOT@beb56cf`](https://github.com/M2Station/M2_PILOT/commit/beb56cf8c3ee0913911e7cb1a75a5092da848a17) — Prefer DUT VersionReport and collect DISM driver inventor... · `2026-10-01` · BarryLee1012
-04. [`M2_APEX@ccf1550`](https://github.com/M2Station/M2_APEX/commit/ccf15504d538e8057657d24c0eb2444ec9c4cafa) — fix(settings): stop logging expected folder-mount failure... · `2026-10-01` · oahsiao
-05. [`M2_APEX@6d4383f`](https://github.com/M2Station/M2_APEX/commit/6d4383f11d122ab7e5d4083e7d25e85d7b2eaf2d) — perf(index): enlarge watcher buffer to survive boot-storm... · `2026-10-01` · oahsiao
-06. [`M2_APEX@5c6eddb`](https://github.com/M2Station/M2_APEX/commit/5c6eddb5f91182e1f8b9b87cc9d8729e9a18bf69) — perf(search): create the search bar drop shadow off the s... · `2026-10-01` · oahsiao
-07. [`M2_APEX@50d4e09`](https://github.com/M2Station/M2_APEX/commit/50d4e098df28b6c6927ee7f8472323a4fbf6e19d) — fix(settings): resolve launch-at-startup state off the UI... · `2026-10-01` · oahsiao
-08. [`M2_WIKI@370ce42`](https://github.com/M2Station/M2_WIKI/commit/370ce420d9d81272e1a7e3d9eab3ca73725998ed) — update MICOSOFT)UEFI_PEI · `2026-10-01` · bofrankbo
-09. [`M2_APEX@ff99072`](https://github.com/M2Station/M2_APEX/commit/ff99072bf3c7aa66752e8302c03aded9d1ebcf45) — v0.5.11 · `2026-09-30` · oahsiao
-10. [`M2_SKILLS@5bd87c9`](https://github.com/M2Station/M2_SKILLS/commit/5bd87c9ca9aa05ef2f3c7bf430a62296359d9433) — docs(m2-commit): beep before push menu and recommend push · `2026-09-30` · oahsiao
+01. [`M2_SKILLS@5bfd666`](https://github.com/M2Station/M2_SKILLS/commit/5bfd6660200e30c88364139fac1b650b11c834fe) — fix(config): prevent duplicate and partial TOML writes · `2026-10-02` · oahsiao
+02. [`M2_SKILLS@992360f`](https://github.com/M2Station/M2_SKILLS/commit/992360f5e4055a8735e14761c4dd9076cebe68c3) — Update GO.BAT to auto-install pip deps in dev mode · `2026-10-02` · oahsiao
+03. [`M2_SKILLS@121aca9`](https://github.com/M2Station/M2_SKILLS/commit/121aca995181ea689ae2fbb38327540ebdf2ffe9) — Add GO.BAT launcher for M2 CODEX PROXY GUI · `2026-10-02` · oahsiao
+04. [`M2_SKILLS@15e3cd7`](https://github.com/M2Station/M2_SKILLS/commit/15e3cd7d9b7b34b5079877d44abf1e0380a5fcf3) — Enhance codex_recovery_proxy_v2 with GUI log callback and... · `2026-10-02` · oahsiao
+05. [`M2_SKILLS@a572076`](https://github.com/M2Station/M2_SKILLS/commit/a572076a321c2bf761aa68d675e2a39671b70de7) — Add M2 CODEX PROXY GUI (onedir packaging, logo, dialog fix) · `2026-10-02` · oahsiao
+06. [`M2_WIKI@62d5323`](https://github.com/M2Station/M2_WIKI/commit/62d53232bbde78db1c20afa1be7dbca8232729ac) — Add ANDROID_STARTUP.md · `2026-10-02` · oahsiao
+07. [`M2_APEX@664a526`](https://github.com/M2Station/M2_APEX/commit/664a526b0d336529e93d9ce95f13a1346adb6533) — v0.5.16 · `2026-10-02` · oahsiao
+08. [`M2_PUBLIC_RELEASE@6f5c4cd`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6f5c4cd8858f571c41c275cda2d7e0e7e53788c4) — chore(m2-apex): publish v0.5.16 · `2026-10-02` · oahsiao
+09. [`M2_PUBLIC_RELEASE@09c124a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/09c124af90dd8481783c248115932b6bdf4a1ba6) — chore(m2-apex): publish v0.5.15 · `2026-10-02` · oahsiao
+10. [`M2_APEX@d291424`](https://github.com/M2Station/M2_APEX/commit/d291424f4486c0bd48a9fabcc6ce2be25330f28a) — v0.5.14 · `2026-10-02` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
