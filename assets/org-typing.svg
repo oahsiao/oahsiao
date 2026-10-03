@@ -7,55 +7,55 @@
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.105;0.162;0.179;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.000;0.107;0.164;0.182;1"
+        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(config): prevent duplicate and partial TOML...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(ui): align header logo vertically with titl...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.179;0.285;0.341;0.359;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;390.40000000000003;390.40000000000003;0;0"
+        keyTimes="0;0.182;0.276;0.333;0.350;1"
+        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update GO.BAT to auto-install pip deps in dev mode</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>docs: add AGENTS.md coding agent conventions</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;373.6;373.6;0;0"
-        keyTimes="0;0.359;0.447;0.504;0.521;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.350;0.457;0.514;0.532;1"
+        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add GO.BAT launcher for M2 CODEX PROXY GUI</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(ui): add dashboard tab, app versioning, gr...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.521;0.627;0.683;0.700;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.532;0.639;0.696;0.714;1"
+        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Enhance codex_recovery_proxy_v2 with GUI log ca...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(brand): rename M2 Codex Proxy to M2 AI Proxy</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.700;0.806;0.862;0.880;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.714;0.821;0.877;0.895;1"
+        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add M2 CODEX PROXY GUI (onedir packaging, logo,...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(proxy): add M2 Codex Proxy GUI with embedd...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;205.60000000000002;205.60000000000002;0;0"
-        keyTimes="0;0.880;0.926;0.982;1.000;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;138.4;138.4;0;0"
+        keyTimes="0;0.895;0.925;0.982;1.000;1"
+        dur="28.1s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add ANDROID_STARTUP.md</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Initial commit</text>
     </g>
 </svg>

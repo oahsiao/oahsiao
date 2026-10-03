@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_SKILLS@5bfd666`](https://github.com/M2Station/M2_SKILLS/commit/5bfd6660200e30c88364139fac1b650b11c834fe) — fix(config): prevent duplicate and partial TOML writes · `2026-10-02` · oahsiao
-02. [`M2_SKILLS@992360f`](https://github.com/M2Station/M2_SKILLS/commit/992360f5e4055a8735e14761c4dd9076cebe68c3) — Update GO.BAT to auto-install pip deps in dev mode · `2026-10-02` · oahsiao
-03. [`M2_SKILLS@121aca9`](https://github.com/M2Station/M2_SKILLS/commit/121aca995181ea689ae2fbb38327540ebdf2ffe9) — Add GO.BAT launcher for M2 CODEX PROXY GUI · `2026-10-02` · oahsiao
-04. [`M2_SKILLS@15e3cd7`](https://github.com/M2Station/M2_SKILLS/commit/15e3cd7d9b7b34b5079877d44abf1e0380a5fcf3) — Enhance codex_recovery_proxy_v2 with GUI log callback and... · `2026-10-02` · oahsiao
-05. [`M2_SKILLS@a572076`](https://github.com/M2Station/M2_SKILLS/commit/a572076a321c2bf761aa68d675e2a39671b70de7) — Add M2 CODEX PROXY GUI (onedir packaging, logo, dialog fix) · `2026-10-02` · oahsiao
-06. [`M2_WIKI@62d5323`](https://github.com/M2Station/M2_WIKI/commit/62d53232bbde78db1c20afa1be7dbca8232729ac) — Add ANDROID_STARTUP.md · `2026-10-02` · oahsiao
-07. [`M2_APEX@664a526`](https://github.com/M2Station/M2_APEX/commit/664a526b0d336529e93d9ce95f13a1346adb6533) — v0.5.16 · `2026-10-02` · oahsiao
-08. [`M2_PUBLIC_RELEASE@6f5c4cd`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6f5c4cd8858f571c41c275cda2d7e0e7e53788c4) — chore(m2-apex): publish v0.5.16 · `2026-10-02` · oahsiao
-09. [`M2_PUBLIC_RELEASE@09c124a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/09c124af90dd8481783c248115932b6bdf4a1ba6) — chore(m2-apex): publish v0.5.15 · `2026-10-02` · oahsiao
-10. [`M2_APEX@d291424`](https://github.com/M2Station/M2_APEX/commit/d291424f4486c0bd48a9fabcc6ce2be25330f28a) — v0.5.14 · `2026-10-02` · oahsiao
+01. [`M2_AI_PROXY@47e5127`](https://github.com/M2Station/M2_AI_PROXY/commit/47e51271dbbf95aa57537f24470b47c08f3f45a1) — fix(ui): align header logo vertically with title text · `2026-10-03` · oahsiao
+02. [`M2_AI_PROXY@7affd6b`](https://github.com/M2Station/M2_AI_PROXY/commit/7affd6b3521e556702b4723a7885aa8342308a55) — docs: add AGENTS.md coding agent conventions · `2026-10-03` · oahsiao
+03. [`M2_AI_PROXY@599c588`](https://github.com/M2Station/M2_AI_PROXY/commit/599c588870dba64fb2601cd66fae41f99b222462) — feat(ui): add dashboard tab, app versioning, green logo/I... · `2026-10-03` · oahsiao
+04. [`M2_AI_PROXY@2f7a4cb`](https://github.com/M2Station/M2_AI_PROXY/commit/2f7a4cbd110b1d5f477c84de30d92bbed6a0ee5d) — chore(brand): rename M2 Codex Proxy to M2 AI Proxy · `2026-10-03` · oahsiao
+05. [`M2_AI_PROXY@f80b641`](https://github.com/M2Station/M2_AI_PROXY/commit/f80b641d4548bdb1073483307dcc69f35c7ba8d3) — feat(proxy): add M2 Codex Proxy GUI with embedded recover... · `2026-10-03` · oahsiao
+06. [`M2_AI_PROXY@ac3ca13`](https://github.com/M2Station/M2_AI_PROXY/commit/ac3ca13ed62a508c15a6ee689a0466930ea1586b) — Initial commit · `2026-10-03` · oahsiao
+07. [`M2_SKILLS@3f23ad2`](https://github.com/M2Station/M2_SKILLS/commit/3f23ad2f64432d30b799f994e77cfef48c871ac7) — feat(proxy): add Claude proxy config and adapter · `2026-10-02` · oahsiao
+08. [`M2_PUBLIC_RELEASE@1320cb4`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/1320cb4ded0e5cc0e6d9b498a88c26495f9c17ae) — chore(m2-apex): publish v0.5.17 · `2026-10-02` · oahsiao
+09. [`M2_APEX@40dc5a1`](https://github.com/M2Station/M2_APEX/commit/40dc5a1521284a391abe64e3af27608238cad1c3) — chore(release): bump version to 0.5.17 · `2026-10-02` · oahsiao
+10. [`M2_APEX@a0037fe`](https://github.com/M2Station/M2_APEX/commit/a0037fe1913a884827f0d8673d55bcf15a606760) — perf(search): warm the render pipeline before the search-... · `2026-10-02` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

@@ -1,94 +1,94 @@
 {
-  "updated": "2026-10-02 16:10 TWN",
+  "updated": "2026-10-03 15:47 TWN",
   "latestChanges": [
     {
-      "date": 1790928447000,
-      "committedDate": "2026-10-02T08:07:27Z",
-      "header": "fix(config): prevent duplicate and partial TOML writes",
+      "date": 1791002151000,
+      "committedDate": "2026-10-03T04:35:51Z",
+      "header": "fix(ui): align header logo vertically with title text",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/47e51271dbbf95aa57537f24470b47c08f3f45a1",
+      "sha": "47e5127",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791000828000,
+      "committedDate": "2026-10-03T04:13:48Z",
+      "header": "docs: add AGENTS.md coding agent conventions",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/7affd6b3521e556702b4723a7885aa8342308a55",
+      "sha": "7affd6b",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791000821000,
+      "committedDate": "2026-10-03T04:13:41Z",
+      "header": "feat(ui): add dashboard tab, app versioning, green logo/ICO and UI polish",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/599c588870dba64fb2601cd66fae41f99b222462",
+      "sha": "599c588",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791000813000,
+      "committedDate": "2026-10-03T04:13:33Z",
+      "header": "chore(brand): rename M2 Codex Proxy to M2 AI Proxy",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/2f7a4cbd110b1d5f477c84de30d92bbed6a0ee5d",
+      "sha": "2f7a4cb",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790997703000,
+      "committedDate": "2026-10-03T03:21:43Z",
+      "header": "feat(proxy): add M2 Codex Proxy GUI with embedded recovery proxy",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/f80b641d4548bdb1073483307dcc69f35c7ba8d3",
+      "sha": "f80b641",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790996952000,
+      "committedDate": "2026-10-03T03:09:12Z",
+      "header": "Initial commit",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/ac3ca13ed62a508c15a6ee689a0466930ea1586b",
+      "sha": "ac3ca13",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790968441000,
+      "committedDate": "2026-10-02T19:14:01Z",
+      "header": "feat(proxy): add Claude proxy config and adapter",
       "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/5bfd6660200e30c88364139fac1b650b11c834fe",
-      "sha": "5bfd666",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/3f23ad2f64432d30b799f994e77cfef48c871ac7",
+      "sha": "3f23ad2",
       "login": "oahsiao"
     },
     {
-      "date": 1790926132000,
-      "committedDate": "2026-10-02T07:28:52Z",
-      "header": "Update GO.BAT to auto-install pip deps in dev mode",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/992360f5e4055a8735e14761c4dd9076cebe68c3",
-      "sha": "992360f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790925972000,
-      "committedDate": "2026-10-02T07:26:12Z",
-      "header": "Add GO.BAT launcher for M2 CODEX PROXY GUI",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/121aca995181ea689ae2fbb38327540ebdf2ffe9",
-      "sha": "121aca9",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790925841000,
-      "committedDate": "2026-10-02T07:24:01Z",
-      "header": "Enhance codex_recovery_proxy_v2 with GUI log callback and model routing",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/15e3cd7d9b7b34b5079877d44abf1e0380a5fcf3",
-      "sha": "15e3cd7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790925773000,
-      "committedDate": "2026-10-02T07:22:53Z",
-      "header": "Add M2 CODEX PROXY GUI (onedir packaging, logo, dialog fix)",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/a572076a321c2bf761aa68d675e2a39671b70de7",
-      "sha": "a572076",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790922158000,
-      "committedDate": "2026-10-02T06:22:38Z",
-      "header": "Add ANDROID_STARTUP.md",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/62d53232bbde78db1c20afa1be7dbca8232729ac",
-      "sha": "62d5323",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790915529000,
-      "committedDate": "2026-10-02T04:32:09Z",
-      "header": "v0.5.16",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/664a526b0d336529e93d9ce95f13a1346adb6533",
-      "sha": "664a526",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790915429000,
-      "committedDate": "2026-10-02T04:30:29Z",
-      "header": "chore(m2-apex): publish v0.5.16",
+      "date": 1790953764000,
+      "committedDate": "2026-10-02T15:09:24Z",
+      "header": "chore(m2-apex): publish v0.5.17",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6f5c4cd8858f571c41c275cda2d7e0e7e53788c4",
-      "sha": "6f5c4cd",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/1320cb4ded0e5cc0e6d9b498a88c26495f9c17ae",
+      "sha": "1320cb4",
       "login": "oahsiao"
     },
     {
-      "date": 1790914904000,
-      "committedDate": "2026-10-02T04:21:44Z",
-      "header": "chore(m2-apex): publish v0.5.15",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/09c124af90dd8481783c248115932b6bdf4a1ba6",
-      "sha": "09c124a",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790913804000,
-      "committedDate": "2026-10-02T04:03:24Z",
-      "header": "v0.5.14",
+      "date": 1790953679000,
+      "committedDate": "2026-10-02T15:07:59Z",
+      "header": "chore(release): bump version to 0.5.17",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/d291424f4486c0bd48a9fabcc6ce2be25330f28a",
-      "sha": "d291424",
+      "url": "https://github.com/M2Station/M2_APEX/commit/40dc5a1521284a391abe64e3af27608238cad1c3",
+      "sha": "40dc5a1",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1790953244000,
+      "committedDate": "2026-10-02T15:00:44Z",
+      "header": "perf(search): warm the render pipeline before the search-bar warm-up",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/a0037fe1913a884827f0d8673d55bcf15a606760",
+      "sha": "a0037fe",
       "login": "oahsiao"
     }
   ]
