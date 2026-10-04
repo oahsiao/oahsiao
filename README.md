@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_AI_PROXY@47e5127`](https://github.com/M2Station/M2_AI_PROXY/commit/47e51271dbbf95aa57537f24470b47c08f3f45a1) — fix(ui): align header logo vertically with title text · `2026-10-03` · oahsiao
-02. [`M2_AI_PROXY@7affd6b`](https://github.com/M2Station/M2_AI_PROXY/commit/7affd6b3521e556702b4723a7885aa8342308a55) — docs: add AGENTS.md coding agent conventions · `2026-10-03` · oahsiao
-03. [`M2_AI_PROXY@599c588`](https://github.com/M2Station/M2_AI_PROXY/commit/599c588870dba64fb2601cd66fae41f99b222462) — feat(ui): add dashboard tab, app versioning, green logo/I... · `2026-10-03` · oahsiao
-04. [`M2_AI_PROXY@2f7a4cb`](https://github.com/M2Station/M2_AI_PROXY/commit/2f7a4cbd110b1d5f477c84de30d92bbed6a0ee5d) — chore(brand): rename M2 Codex Proxy to M2 AI Proxy · `2026-10-03` · oahsiao
-05. [`M2_AI_PROXY@f80b641`](https://github.com/M2Station/M2_AI_PROXY/commit/f80b641d4548bdb1073483307dcc69f35c7ba8d3) — feat(proxy): add M2 Codex Proxy GUI with embedded recover... · `2026-10-03` · oahsiao
-06. [`M2_AI_PROXY@ac3ca13`](https://github.com/M2Station/M2_AI_PROXY/commit/ac3ca13ed62a508c15a6ee689a0466930ea1586b) — Initial commit · `2026-10-03` · oahsiao
-07. [`M2_SKILLS@3f23ad2`](https://github.com/M2Station/M2_SKILLS/commit/3f23ad2f64432d30b799f994e77cfef48c871ac7) — feat(proxy): add Claude proxy config and adapter · `2026-10-02` · oahsiao
-08. [`M2_PUBLIC_RELEASE@1320cb4`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/1320cb4ded0e5cc0e6d9b498a88c26495f9c17ae) — chore(m2-apex): publish v0.5.17 · `2026-10-02` · oahsiao
-09. [`M2_APEX@40dc5a1`](https://github.com/M2Station/M2_APEX/commit/40dc5a1521284a391abe64e3af27608238cad1c3) — chore(release): bump version to 0.5.17 · `2026-10-02` · oahsiao
-10. [`M2_APEX@a0037fe`](https://github.com/M2Station/M2_APEX/commit/a0037fe1913a884827f0d8673d55bcf15a606760) — perf(search): warm the render pipeline before the search-... · `2026-10-02` · oahsiao
+01. [`M2_AI_PROXY@2c5fc73`](https://github.com/M2Station/M2_AI_PROXY/commit/2c5fc73a722cd38a49656a6e296fda99be720f88) — v0.4.14 · `2026-10-03` · oahsiao
+02. [`M2_PUBLIC_RELEASE@c78327e`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/c78327ebc9b61a530893ed3f5d6272c5f985ab6b) — chore(m2-ai-proxy): publish v0.4.14 · `2026-10-03` · oahsiao
+03. [`M2_AI_PROXY@8f7bacb`](https://github.com/M2Station/M2_AI_PROXY/commit/8f7bacb08502be6d38fb24882c392b69c9cd59ea) — fix(update): harden auto-update flow · `2026-10-03` · oahsiao
+04. [`M2_AI_PROXY@f5fc4ef`](https://github.com/M2Station/M2_AI_PROXY/commit/f5fc4efd011908999347435a0808cb3453f425f4) — chore(release): bump APP_VERSION to 0.4.13 · `2026-10-03` · oahsiao
+05. [`M2_PUBLIC_RELEASE@2388053`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/23880533fd3a77111df5b374983aec2b4deef966) — chore(m2-ai-proxy): publish v0.4.13 · `2026-10-03` · oahsiao
+06. [`M2_AI_PROXY@4e58873`](https://github.com/M2Station/M2_AI_PROXY/commit/4e58873201c378ec5816aa5bd3ab96ced7ffee4c) — fix(build): drop --noupx from spec-based builds again · `2026-10-03` · oahsiao
+07. [`M2_AI_PROXY@134bfa7`](https://github.com/M2Station/M2_AI_PROXY/commit/134bfa798fab7ac1477d534d6651d0347a3dec77) — refactor(build): build from spec as single source of truth · `2026-10-03` · oahsiao
+08. [`M2_AI_PROXY@a1c9832`](https://github.com/M2Station/M2_AI_PROXY/commit/a1c98325479e9b4327478ccd3d3425bae44dcc66) — fix(build): include dashboard icon pngs in BUILD_RELEASE.... · `2026-10-03` · oahsiao
+09. [`M2_PUBLIC_RELEASE@cb4ef39`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/cb4ef39096593e5a3ec0c281222cf9b408f716c2) — chore(m2-ai-proxy): publish v0.4.11 · `2026-10-03` · oahsiao
+10. [`M2_AI_PROXY@8e5f37b`](https://github.com/M2Station/M2_AI_PROXY/commit/8e5f37bf391c1c4b8c34e492e8e758fcd4570dc0) — fix(build): include dashboard icon pngs in build.bat add-... · `2026-10-03` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

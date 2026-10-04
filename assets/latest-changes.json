@@ -1,94 +1,94 @@
 {
-  "updated": "2026-10-03 15:47 TWN",
+  "updated": "2026-10-04 15:56 TWN",
   "latestChanges": [
     {
-      "date": 1791002151000,
-      "committedDate": "2026-10-03T04:35:51Z",
-      "header": "fix(ui): align header logo vertically with title text",
+      "date": 1791043818000,
+      "committedDate": "2026-10-03T16:10:18Z",
+      "header": "v0.4.14",
       "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/47e51271dbbf95aa57537f24470b47c08f3f45a1",
-      "sha": "47e5127",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/2c5fc73a722cd38a49656a6e296fda99be720f88",
+      "sha": "2c5fc73",
       "login": "oahsiao"
     },
     {
-      "date": 1791000828000,
-      "committedDate": "2026-10-03T04:13:48Z",
-      "header": "docs: add AGENTS.md coding agent conventions",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/7affd6b3521e556702b4723a7885aa8342308a55",
-      "sha": "7affd6b",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791000821000,
-      "committedDate": "2026-10-03T04:13:41Z",
-      "header": "feat(ui): add dashboard tab, app versioning, green logo/ICO and UI polish",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/599c588870dba64fb2601cd66fae41f99b222462",
-      "sha": "599c588",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791000813000,
-      "committedDate": "2026-10-03T04:13:33Z",
-      "header": "chore(brand): rename M2 Codex Proxy to M2 AI Proxy",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/2f7a4cbd110b1d5f477c84de30d92bbed6a0ee5d",
-      "sha": "2f7a4cb",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790997703000,
-      "committedDate": "2026-10-03T03:21:43Z",
-      "header": "feat(proxy): add M2 Codex Proxy GUI with embedded recovery proxy",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/f80b641d4548bdb1073483307dcc69f35c7ba8d3",
-      "sha": "f80b641",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790996952000,
-      "committedDate": "2026-10-03T03:09:12Z",
-      "header": "Initial commit",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/ac3ca13ed62a508c15a6ee689a0466930ea1586b",
-      "sha": "ac3ca13",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790968441000,
-      "committedDate": "2026-10-02T19:14:01Z",
-      "header": "feat(proxy): add Claude proxy config and adapter",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/3f23ad2f64432d30b799f994e77cfef48c871ac7",
-      "sha": "3f23ad2",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1790953764000,
-      "committedDate": "2026-10-02T15:09:24Z",
-      "header": "chore(m2-apex): publish v0.5.17",
+      "date": 1791043809000,
+      "committedDate": "2026-10-03T16:10:09Z",
+      "header": "chore(m2-ai-proxy): publish v0.4.14",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/1320cb4ded0e5cc0e6d9b498a88c26495f9c17ae",
-      "sha": "1320cb4",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/c78327ebc9b61a530893ed3f5d6272c5f985ab6b",
+      "sha": "c78327e",
       "login": "oahsiao"
     },
     {
-      "date": 1790953679000,
-      "committedDate": "2026-10-02T15:07:59Z",
-      "header": "chore(release): bump version to 0.5.17",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/40dc5a1521284a391abe64e3af27608238cad1c3",
-      "sha": "40dc5a1",
+      "date": 1791043469000,
+      "committedDate": "2026-10-03T16:04:29Z",
+      "header": "fix(update): harden auto-update flow",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/8f7bacb08502be6d38fb24882c392b69c9cd59ea",
+      "sha": "8f7bacb",
       "login": "oahsiao"
     },
     {
-      "date": 1790953244000,
-      "committedDate": "2026-10-02T15:00:44Z",
-      "header": "perf(search): warm the render pipeline before the search-bar warm-up",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/a0037fe1913a884827f0d8673d55bcf15a606760",
-      "sha": "a0037fe",
+      "date": 1791043206000,
+      "committedDate": "2026-10-03T16:00:06Z",
+      "header": "chore(release): bump APP_VERSION to 0.4.13",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/f5fc4efd011908999347435a0808cb3453f425f4",
+      "sha": "f5fc4ef",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791043144000,
+      "committedDate": "2026-10-03T15:59:04Z",
+      "header": "chore(m2-ai-proxy): publish v0.4.13",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/23880533fd3a77111df5b374983aec2b4deef966",
+      "sha": "2388053",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791043077000,
+      "committedDate": "2026-10-03T15:57:57Z",
+      "header": "fix(build): drop --noupx from spec-based builds again",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/4e58873201c378ec5816aa5bd3ab96ced7ffee4c",
+      "sha": "4e58873",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791042956000,
+      "committedDate": "2026-10-03T15:55:56Z",
+      "header": "refactor(build): build from spec as single source of truth",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/134bfa798fab7ac1477d534d6651d0347a3dec77",
+      "sha": "134bfa7",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791042765000,
+      "committedDate": "2026-10-03T15:52:45Z",
+      "header": "fix(build): include dashboard icon pngs in BUILD_RELEASE.CMD add-data",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/a1c98325479e9b4327478ccd3d3425bae44dcc66",
+      "sha": "a1c9832",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791042617000,
+      "committedDate": "2026-10-03T15:50:17Z",
+      "header": "chore(m2-ai-proxy): publish v0.4.11",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/cb4ef39096593e5a3ec0c281222cf9b408f716c2",
+      "sha": "cb4ef39",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791042553000,
+      "committedDate": "2026-10-03T15:49:13Z",
+      "header": "fix(build): include dashboard icon pngs in build.bat add-data",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/8e5f37bf391c1c4b8c34e492e8e758fcd4570dc0",
+      "sha": "8e5f37b",
       "login": "oahsiao"
     }
   ]
