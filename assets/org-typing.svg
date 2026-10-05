@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;79.60000000000001;79.60000000000001;0;0"
-        keyTimes="0;0.000;0.017;0.081;0.101;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;71.2;71.2;0;0"
+        keyTimes="0;0.000;0.015;0.082;0.104;1"
+        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>v0.4.14</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;314.8;314.8;0;0"
-        keyTimes="0;0.101;0.186;0.250;0.270;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;281.2;281.2;0;0"
+        keyTimes="0;0.104;0.182;0.249;0.270;1"
+        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-ai-proxy): publish v0.4.14</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-apex): publish v0.5.18</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;323.2;323.2;0;0"
-        keyTimes="0;0.270;0.357;0.421;0.441;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.270;0.396;0.464;0.485;1"
+        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(update): harden auto-update flow</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(search): add AI quick picks and extend war...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;373.6;373.6;0;0"
-        keyTimes="0;0.441;0.542;0.606;0.627;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;239.20000000000002;239.20000000000002;0;0"
+        keyTimes="0;0.485;0.551;0.618;0.639;1"
+        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): bump APP_VERSION to 0.4.13</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan># M2 AI PROXY - CLAUDE CLI</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;314.8;314.8;0;0"
-        keyTimes="0;0.627;0.711;0.775;0.795;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;340;340;0;0"
+        keyTimes="0;0.639;0.735;0.802;0.823;1"
+        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-ai-proxy): publish v0.4.13</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): bump version to 0.4.16</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.795;0.916;0.980;1.000;1"
-        dur="24.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;314.8;314.8;0;0"
+        keyTimes="0;0.823;0.912;0.979;1.000;1"
+        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(build): drop --noupx from spec-based builds...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-ai-proxy): publish v0.4.16</text>
     </g>
 </svg>
