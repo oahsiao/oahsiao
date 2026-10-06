@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@dc78630`](https://github.com/M2Station/M2_WIKI/commit/dc7863076e815f775e9c0cbf03f7ec8ae72e149f) — Update · `2026-10-05` · oahsiao
-02. [`M2_PUBLIC_RELEASE@c5bb136`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/c5bb136968c0c71dab77364de3ed8a384913ed02) — chore(m2-apex): publish v0.5.18 · `2026-10-05` · oahsiao
-03. [`M2_APEX@1fb9871`](https://github.com/M2Station/M2_APEX/commit/1fb987189ee2cefd295a5e74328e1826ed2c8a75) — feat(search): add AI quick picks and extend warm-up to in... · `2026-10-05` · oahsiao
-04. [`M2_WIKI@210e978`](https://github.com/M2Station/M2_WIKI/commit/210e978d93e3ae0edf42b5fbd192a404ee09eb2d) — # M2 AI PROXY - CLAUDE CLI · `2026-10-05` · oahsiao
-05. [`M2_AI_PROXY@552e91c`](https://github.com/M2Station/M2_AI_PROXY/commit/552e91cdaf1cb61e9bc60247e912bef7fa7023a9) — chore(release): bump version to 0.4.16 · `2026-10-05` · oahsiao
-06. [`M2_PUBLIC_RELEASE@5b2dc33`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5b2dc336814da041c4c52c486f7a2f3f0d8fd112) — chore(m2-ai-proxy): publish v0.4.16 · `2026-10-05` · oahsiao
-07. [`M2_AI_PROXY@5acf984`](https://github.com/M2Station/M2_AI_PROXY/commit/5acf984b5a56acaf68334655e13287f694a75f23) — feat(proxy): add fixed DPI scaling and UAC elevation for ... · `2026-10-05` · oahsiao
-08. [`M2_AI_PROXY@6b355f2`](https://github.com/M2Station/M2_AI_PROXY/commit/6b355f20daa4a125609016cce77ccc9383c27d17) — chore(release): bump version to 0.4.15 · `2026-10-05` · oahsiao
-09. [`M2_PUBLIC_RELEASE@7244450`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/72444503cefbe667adaff4cef1e1cd61cbdded3c) — chore(m2-ai-proxy): publish v0.4.15 · `2026-10-05` · oahsiao
-10. [`M2_WIKI@661c7ea`](https://github.com/M2Station/M2_WIKI/commit/661c7ea6b437b0a56059db6d60f032cf6ce1efe7) — refine image · `2026-10-05` · oahsiao
+01. [`M2_PILOT@4adbca5`](https://github.com/M2Station/M2_PILOT/commit/4adbca5e5b9cbb85ac9b0461633120a4aff5bad8) — Add persistent SAM log capture with SdfConsole and SurfDb... · `2026-10-06` · Linpei727
+02. [`M2_AI_PROXY@5948f9c`](https://github.com/M2Station/M2_AI_PROXY/commit/5948f9c70dd0b98d3e4cdaa1c327d8f3f11070a0) — feat(app): add host header override, VTT translation and ... · `2026-10-06` · oahsiao
+03. [`M2_WIKI@a5df972`](https://github.com/M2Station/M2_WIKI/commit/a5df97288f8cb17676c768a8967c9357394124c4) — +++ · `2026-10-06` · oahsiao
+04. [`M2_AI_PROXY@163dcfe`](https://github.com/M2Station/M2_AI_PROXY/commit/163dcfe4f72cd4a8359ed122520291300029a1ff) — build: bundle audio/VAD deps and silero model; update GO.... · `2026-10-06` · oahsiao
+05. [`M2_AI_PROXY@993ce45`](https://github.com/M2Station/M2_AI_PROXY/commit/993ce4592eb43f57c0f3a31795f0a69cdf9c7a0a) — feat(vtt): wire dual-source Voice tab with timing stats a... · `2026-10-06` · oahsiao
+06. [`M2_AI_PROXY@9c36ff7`](https://github.com/M2Station/M2_AI_PROXY/commit/9c36ff7616851960f7da2505995447bc208f771c) — feat(vtt): add loopback capture, VAD profiles, translatio... · `2026-10-06` · oahsiao
+07. [`M2_AI_PROXY@c9b32ac`](https://github.com/M2Station/M2_AI_PROXY/commit/c9b32acc68f3f3a21befce992e4ed1f95db54996) — feat(vtt): add sample rate selection and three-card layout · `2026-10-05` · oahsiao
+08. [`M2_AI_PROXY@552b936`](https://github.com/M2Station/M2_AI_PROXY/commit/552b9360fd9110cfede5e9fb724d30750deadeef) — feat(vtt): add Voice To Text tab with pluggable VAD and r... · `2026-10-05` · oahsiao
+09. [`M2_AI_PROXY@68f4a5c`](https://github.com/M2Station/M2_AI_PROXY/commit/68f4a5c2299c91859caea3a365a4c98dff13a163) — refactor(image): move image client package to TEXT_TO_IMAGE · `2026-10-05` · oahsiao
+10. [`M2_AI_PROXY@9fa9ab0`](https://github.com/M2Station/M2_AI_PROXY/commit/9fa9ab0b02f88cacc8971dd3c43b0702146ae340) — feat(image): persist Text to Image settings to local config · `2026-10-05` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

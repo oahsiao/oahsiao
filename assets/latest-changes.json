@@ -1,94 +1,94 @@
 {
-  "updated": "2026-10-05 16:40 TWN",
+  "updated": "2026-10-06 16:44 TWN",
   "latestChanges": [
     {
-      "date": 1791188363000,
-      "committedDate": "2026-10-05T08:19:23Z",
-      "header": "Update",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/dc7863076e815f775e9c0cbf03f7ec8ae72e149f",
-      "sha": "dc78630",
-      "login": "oahsiao"
+      "date": 1791274347000,
+      "committedDate": "2026-10-06T08:12:27Z",
+      "header": "Add persistent SAM log capture with SdfConsole and SurfDbg (#47)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/4adbca5e5b9cbb85ac9b0461633120a4aff5bad8",
+      "sha": "4adbca5",
+      "login": "Linpei727"
     },
     {
-      "date": 1791187271000,
-      "committedDate": "2026-10-05T08:01:11Z",
-      "header": "chore(m2-apex): publish v0.5.18",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/c5bb136968c0c71dab77364de3ed8a384913ed02",
-      "sha": "c5bb136",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791187014000,
-      "committedDate": "2026-10-05T07:56:54Z",
-      "header": "feat(search): add AI quick picks and extend warm-up to interactive surfaces",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/1fb987189ee2cefd295a5e74328e1826ed2c8a75",
-      "sha": "1fb9871",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791184658000,
-      "committedDate": "2026-10-05T07:17:38Z",
-      "header": "# M2 AI PROXY - CLAUDE CLI",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/210e978d93e3ae0edf42b5fbd192a404ee09eb2d",
-      "sha": "210e978",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791176679000,
-      "committedDate": "2026-10-05T05:04:39Z",
-      "header": "chore(release): bump version to 0.4.16",
+      "date": 1791273622000,
+      "committedDate": "2026-10-06T08:00:22Z",
+      "header": "feat(app): add host header override, VTT translation and transcript UI",
       "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/552e91cdaf1cb61e9bc60247e912bef7fa7023a9",
-      "sha": "552e91c",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/5948f9c70dd0b98d3e4cdaa1c327d8f3f11070a0",
+      "sha": "5948f9c",
       "login": "oahsiao"
     },
     {
-      "date": 1791176675000,
-      "committedDate": "2026-10-05T05:04:35Z",
-      "header": "chore(m2-ai-proxy): publish v0.4.16",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5b2dc336814da041c4c52c486f7a2f3f0d8fd112",
-      "sha": "5b2dc33",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791176453000,
-      "committedDate": "2026-10-05T05:00:53Z",
-      "header": "feat(proxy): add fixed DPI scaling and UAC elevation for packaged exe",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/5acf984b5a56acaf68334655e13287f694a75f23",
-      "sha": "5acf984",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791173554000,
-      "committedDate": "2026-10-05T04:12:34Z",
-      "header": "chore(release): bump version to 0.4.15",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/6b355f20daa4a125609016cce77ccc9383c27d17",
-      "sha": "6b355f2",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791170848000,
-      "committedDate": "2026-10-05T03:27:28Z",
-      "header": "chore(m2-ai-proxy): publish v0.4.15",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/72444503cefbe667adaff4cef1e1cd61cbdded3c",
-      "sha": "7244450",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791170823000,
-      "committedDate": "2026-10-05T03:27:03Z",
-      "header": "refine image",
+      "date": 1791272437000,
+      "committedDate": "2026-10-06T07:40:37Z",
+      "header": "+++",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/661c7ea6b437b0a56059db6d60f032cf6ce1efe7",
-      "sha": "661c7ea",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/a5df97288f8cb17676c768a8967c9357394124c4",
+      "sha": "a5df972",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791267513000,
+      "committedDate": "2026-10-06T06:18:33Z",
+      "header": "build: bundle audio/VAD deps and silero model; update GO.BAT and README",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/163dcfe4f72cd4a8359ed122520291300029a1ff",
+      "sha": "163dcfe",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791267503000,
+      "committedDate": "2026-10-06T06:18:23Z",
+      "header": "feat(vtt): wire dual-source Voice tab with timing stats and translation UI",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/993ce4592eb43f57c0f3a31795f0a69cdf9c7a0a",
+      "sha": "993ce45",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791267496000,
+      "committedDate": "2026-10-06T06:18:16Z",
+      "header": "feat(vtt): add loopback capture, VAD profiles, translation and streaming partials",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/9c36ff7616851960f7da2505995447bc208f771c",
+      "sha": "9c36ff7",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791217125000,
+      "committedDate": "2026-10-05T16:18:45Z",
+      "header": "feat(vtt): add sample rate selection and three-card layout",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/c9b32acc68f3f3a21befce992e4ed1f95db54996",
+      "sha": "c9b32ac",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791215997000,
+      "committedDate": "2026-10-05T15:59:57Z",
+      "header": "feat(vtt): add Voice To Text tab with pluggable VAD and remote ASR",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/552b9360fd9110cfede5e9fb724d30750deadeef",
+      "sha": "552b936",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791215984000,
+      "committedDate": "2026-10-05T15:59:44Z",
+      "header": "refactor(image): move image client package to TEXT_TO_IMAGE",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/68f4a5c2299c91859caea3a365a4c98dff13a163",
+      "sha": "68f4a5c",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791212323000,
+      "committedDate": "2026-10-05T14:58:43Z",
+      "header": "feat(image): persist Text to Image settings to local config",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/9fa9ab0b02f88cacc8971dd3c43b0702146ae340",
+      "sha": "9fa9ab0",
       "login": "oahsiao"
     }
   ]

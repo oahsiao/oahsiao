@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;71.2;71.2;0;0"
-        keyTimes="0;0.000;0.015;0.082;0.104;1"
-        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.000;0.108;0.166;0.184;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add persistent SAM log capture with SdfConsole ...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;281.2;281.2;0;0"
-        keyTimes="0;0.104;0.182;0.249;0.270;1"
-        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.184;0.292;0.349;0.367;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-apex): publish v0.5.18</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(app): add host header override, VTT transl...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.270;0.396;0.464;0.485;1"
-        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;46;46;0;0"
+        keyTimes="0;0.367;0.374;0.431;0.449;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(search): add AI quick picks and extend war...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>+++</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;239.20000000000002;239.20000000000002;0;0"
-        keyTimes="0;0.485;0.551;0.618;0.639;1"
-        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.449;0.557;0.615;0.633;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan># M2 AI PROXY - CLAUDE CLI</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>build: bundle audio/VAD deps and silero model; ...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;340;340;0;0"
-        keyTimes="0;0.639;0.735;0.802;0.823;1"
-        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.633;0.741;0.798;0.816;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): bump version to 0.4.16</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(vtt): wire dual-source Voice tab with timi...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;314.8;314.8;0;0"
-        keyTimes="0;0.823;0.912;0.979;1.000;1"
-        dur="23.8s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.816;0.924;0.982;1.000;1"
+        dur="27.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-ai-proxy): publish v0.4.16</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(vtt): add loopback capture, VAD profiles, ...</text>
     </g>
 </svg>
