@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PILOT@4adbca5`](https://github.com/M2Station/M2_PILOT/commit/4adbca5e5b9cbb85ac9b0461633120a4aff5bad8) — Add persistent SAM log capture with SdfConsole and SurfDb... · `2026-10-06` · Linpei727
-02. [`M2_AI_PROXY@5948f9c`](https://github.com/M2Station/M2_AI_PROXY/commit/5948f9c70dd0b98d3e4cdaa1c327d8f3f11070a0) — feat(app): add host header override, VTT translation and ... · `2026-10-06` · oahsiao
-03. [`M2_WIKI@a5df972`](https://github.com/M2Station/M2_WIKI/commit/a5df97288f8cb17676c768a8967c9357394124c4) — +++ · `2026-10-06` · oahsiao
-04. [`M2_AI_PROXY@163dcfe`](https://github.com/M2Station/M2_AI_PROXY/commit/163dcfe4f72cd4a8359ed122520291300029a1ff) — build: bundle audio/VAD deps and silero model; update GO.... · `2026-10-06` · oahsiao
-05. [`M2_AI_PROXY@993ce45`](https://github.com/M2Station/M2_AI_PROXY/commit/993ce4592eb43f57c0f3a31795f0a69cdf9c7a0a) — feat(vtt): wire dual-source Voice tab with timing stats a... · `2026-10-06` · oahsiao
-06. [`M2_AI_PROXY@9c36ff7`](https://github.com/M2Station/M2_AI_PROXY/commit/9c36ff7616851960f7da2505995447bc208f771c) — feat(vtt): add loopback capture, VAD profiles, translatio... · `2026-10-06` · oahsiao
-07. [`M2_AI_PROXY@c9b32ac`](https://github.com/M2Station/M2_AI_PROXY/commit/c9b32acc68f3f3a21befce992e4ed1f95db54996) — feat(vtt): add sample rate selection and three-card layout · `2026-10-05` · oahsiao
-08. [`M2_AI_PROXY@552b936`](https://github.com/M2Station/M2_AI_PROXY/commit/552b9360fd9110cfede5e9fb724d30750deadeef) — feat(vtt): add Voice To Text tab with pluggable VAD and r... · `2026-10-05` · oahsiao
-09. [`M2_AI_PROXY@68f4a5c`](https://github.com/M2Station/M2_AI_PROXY/commit/68f4a5c2299c91859caea3a365a4c98dff13a163) — refactor(image): move image client package to TEXT_TO_IMAGE · `2026-10-05` · oahsiao
-10. [`M2_AI_PROXY@9fa9ab0`](https://github.com/M2Station/M2_AI_PROXY/commit/9fa9ab0b02f88cacc8971dd3c43b0702146ae340) — feat(image): persist Text to Image settings to local config · `2026-10-05` · oahsiao
+01. [`M2_PUBLIC_RELEASE@6a10f64`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6a10f6430829ccb6879a3e6a9c633b6f258a35fb) — chore(m2-ai-proxy): publish v0.4.23 · `2026-10-07` · oahsiao
+02. [`M2_WIKI@3f552ca`](https://github.com/M2Station/M2_WIKI/commit/3f552ca8d88fa4af0ecc3922bbd640cd248fc0d6) — Update Onboard · `2026-10-07` · bofrankbo
+03. [`M2_PILOT@47332d7`](https://github.com/M2Station/M2_PILOT/commit/47332d7be02d0dd1845374bb9a2823dd00df4890) — Temperature sensors read (#45) · `2026-10-07` · KretonWang
+04. [`M2_AI_PROXY@8bac7d7`](https://github.com/M2Station/M2_AI_PROXY/commit/8bac7d7a4c613a7323cd9505dd9e8b290404ca76) — fix(release): restore approved Windows app icon · `2026-10-07` · oahsiao
+05. [`M2_AI_PROXY@fd6f419`](https://github.com/M2Station/M2_AI_PROXY/commit/fd6f419f1b8044c8a8e210398f6a3f6a4bf7e9ce) — fix(recovery): harden Claude streaming and diagnostics · `2026-10-07` · oahsiao
+06. [`M2_WIKI@0dad8ac`](https://github.com/M2Station/M2_WIKI/commit/0dad8ac62bee9bb7a092a4c0d422d040fa07a054) — Update SW milestone NDUP · `2026-10-07` · Kreton
+07. [`M2_AI_PROXY@dcdd027`](https://github.com/M2Station/M2_AI_PROXY/commit/dcdd027e3b642ba16e0046efc9467d79ad0ba10b) — chore(launcher): default to Python development mode · `2026-10-07` · oahsiao
+08. [`M2_AI_PROXY@4087c77`](https://github.com/M2Station/M2_AI_PROXY/commit/4087c77ba48d009c4a606c9744da349ff6e47146) — fix(release): embed crisp multi-resolution app icon · `2026-10-07` · oahsiao
+09. [`M2_AI_PROXY@9ceceaf`](https://github.com/M2Station/M2_AI_PROXY/commit/9ceceaf70848ba461ac4a6781f5b9dcd01ab0515) — feat(recovery): add provider circuit breaker health checks · `2026-10-07` · oahsiao
+10. [`M2_PUBLIC_RELEASE@2e3fd7a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2e3fd7a22f9cc01aac3d230f6c073bc75abd4c22) — chore(m2-ai-proxy): publish v0.4.22 · `2026-10-06` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
