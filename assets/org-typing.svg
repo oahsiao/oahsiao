@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;314.8;314.8;0;0"
-        keyTimes="0;0.000;0.085;0.150;0.171;1"
-        dur="24.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.000;0.125;0.192;0.213;1"
+        dur="24.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-ai-proxy): publish v0.4.23</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>[20261008_Update] New section for GBMR-OS-insta...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;138.4;138.4;0;0"
-        keyTimes="0;0.171;0.205;0.270;0.290;1"
-        dur="24.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;130;130;0;0"
+        keyTimes="0;0.213;0.245;0.312;0.333;1"
+        dur="24.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update Onboard</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>remove images</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;272.8;272.8;0;0"
-        keyTimes="0;0.290;0.363;0.428;0.449;1"
-        dur="24.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;79.60000000000001;79.60000000000001;0;0"
+        keyTimes="0;0.333;0.350;0.417;0.438;1"
+        dur="24.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Temperature sensors read (#45)</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>v0.4.26</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;415.6;415.6;0;0"
-        keyTimes="0;0.449;0.563;0.628;0.649;1"
-        dur="24.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;314.8;314.8;0;0"
+        keyTimes="0;0.438;0.525;0.592;0.613;1"
+        dur="24.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(release): restore approved Windows app icon</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-ai-proxy): publish v0.4.26</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.649;0.771;0.836;0.856;1"
-        dur="24.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.613;0.738;0.804;0.825;1"
+        dur="24.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(recovery): harden Claude streaming and diag...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(model-list): add Claude upstream model fet...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;222.4;222.4;0;0"
-        keyTimes="0;0.856;0.915;0.980;1.000;1"
-        dur="24.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;314.8;314.8;0;0"
+        keyTimes="0;0.825;0.912;0.979;1.000;1"
+        dur="24.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update SW milestone NDUP</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-ai-proxy): publish v0.4.25</text>
     </g>
 </svg>

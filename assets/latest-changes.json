@@ -1,95 +1,95 @@
 {
-  "updated": "2026-10-07 16:19 TWN",
+  "updated": "2026-10-08 16:35 TWN",
   "latestChanges": [
     {
-      "date": 1791360846000,
-      "committedDate": "2026-10-07T08:14:06Z",
-      "header": "chore(m2-ai-proxy): publish v0.4.23",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6a10f6430829ccb6879a3e6a9c633b6f258a35fb",
-      "sha": "6a10f64",
-      "login": "oahsiao"
+      "date": 1791441242000,
+      "committedDate": "2026-10-08T06:34:02Z",
+      "header": "[20261008_Update] New section for GBMR-OS-installation-guide",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/333727820149c1fdf8c47ddc55fef9dbc1090d36",
+      "sha": "3337278",
+      "login": "erickuo1111"
     },
     {
-      "date": 1791357361000,
-      "committedDate": "2026-10-07T07:16:01Z",
-      "header": "Update Onboard",
+      "date": 1791421092000,
+      "committedDate": "2026-10-08T00:58:12Z",
+      "header": "remove images",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/3f552ca8d88fa4af0ecc3922bbd640cd248fc0d6",
-      "sha": "3f552ca",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/42b5caa80e7b1965eb4d366cc125324cfbfbd3fb",
+      "sha": "42b5caa",
       "login": "bofrankbo"
     },
     {
-      "date": 1791354786000,
-      "committedDate": "2026-10-07T06:33:06Z",
-      "header": "Temperature sensors read (#45)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/47332d7be02d0dd1845374bb9a2823dd00df4890",
-      "sha": "47332d7",
-      "login": "KretonWang"
-    },
-    {
-      "date": 1791343653000,
-      "committedDate": "2026-10-07T03:27:33Z",
-      "header": "fix(release): restore approved Windows app icon",
+      "date": 1791381804000,
+      "committedDate": "2026-10-07T14:03:24Z",
+      "header": "v0.4.26",
       "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/8bac7d7a4c613a7323cd9505dd9e8b290404ca76",
-      "sha": "8bac7d7",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/8a7f930dbbc6d827ddb457820ce0300c56881cd3",
+      "sha": "8a7f930",
       "login": "oahsiao"
     },
     {
-      "date": 1791343517000,
-      "committedDate": "2026-10-07T03:25:17Z",
-      "header": "fix(recovery): harden Claude streaming and diagnostics",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/fd6f419f1b8044c8a8e210398f6a3f6a4bf7e9ce",
-      "sha": "fd6f419",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791343162000,
-      "committedDate": "2026-10-07T03:19:22Z",
-      "header": "Update SW milestone NDUP",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/0dad8ac62bee9bb7a092a4c0d422d040fa07a054",
-      "sha": "0dad8ac",
-      "login": "Kreton"
-    },
-    {
-      "date": 1791339313000,
-      "committedDate": "2026-10-07T02:15:13Z",
-      "header": "chore(launcher): default to Python development mode",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/dcdd027e3b642ba16e0046efc9467d79ad0ba10b",
-      "sha": "dcdd027",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791339309000,
-      "committedDate": "2026-10-07T02:15:09Z",
-      "header": "fix(release): embed crisp multi-resolution app icon",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/4087c77ba48d009c4a606c9744da349ff6e47146",
-      "sha": "4087c77",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791339301000,
-      "committedDate": "2026-10-07T02:15:01Z",
-      "header": "feat(recovery): add provider circuit breaker health checks",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/9ceceaf70848ba461ac4a6781f5b9dcd01ab0515",
-      "sha": "9ceceaf",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791292466000,
-      "committedDate": "2026-10-06T13:14:26Z",
-      "header": "chore(m2-ai-proxy): publish v0.4.22",
+      "date": 1791381761000,
+      "committedDate": "2026-10-07T14:02:41Z",
+      "header": "chore(m2-ai-proxy): publish v0.4.26",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/2e3fd7a22f9cc01aac3d230f6c073bc75abd4c22",
-      "sha": "2e3fd7a",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/e53de870c7d660bc988807dcc4dc0d84edf03703",
+      "sha": "e53de87",
       "login": "oahsiao"
+    },
+    {
+      "date": 1791380715000,
+      "committedDate": "2026-10-07T13:45:15Z",
+      "header": "feat(model-list): add Claude upstream model fetch and route logs to proxy consoles",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/45a472407e1d5922e35ad3a22d5a85cd21ea1ef8",
+      "sha": "45a4724",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791371460000,
+      "committedDate": "2026-10-07T11:11:00Z",
+      "header": "chore(m2-ai-proxy): publish v0.4.25",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/eb21b094c7cb1691b69dc7d69e83416a55e953ab",
+      "sha": "eb21b09",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791371402000,
+      "committedDate": "2026-10-07T11:10:02Z",
+      "header": "v0.4.25",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/0730bf449c14806817480d40504b8835ac20dba3",
+      "sha": "0730bf4",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791371296000,
+      "committedDate": "2026-10-07T11:08:16Z",
+      "header": "rename M2_CODEX_PROXT > M2_AI_PROXY",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/838bddde1896edc5ca6595bccd80da0fc37b06f8",
+      "sha": "838bddd",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791366643000,
+      "committedDate": "2026-10-07T09:50:43Z",
+      "header": "fix link",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/057f149c6e32f72249b89205217c1e5af63affc9",
+      "sha": "057f149",
+      "login": "bofrankbo"
+    },
+    {
+      "date": 1791363673000,
+      "committedDate": "2026-10-07T09:01:13Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/10aa296ea06b7f17a11d1d66ab9b5c7447128c1d",
+      "sha": "10aa296",
+      "login": "github-actions[bot]"
     }
   ]
 }
