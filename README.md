@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@3337278`](https://github.com/M2Station/M2_WIKI/commit/333727820149c1fdf8c47ddc55fef9dbc1090d36) — [20261008_Update] New section for GBMR-OS-installation-guide · `2026-10-08` · erickuo1111
-02. [`M2_WIKI@42b5caa`](https://github.com/M2Station/M2_WIKI/commit/42b5caa80e7b1965eb4d366cc125324cfbfbd3fb) — remove images · `2026-10-08` · bofrankbo
-03. [`M2_AI_PROXY@8a7f930`](https://github.com/M2Station/M2_AI_PROXY/commit/8a7f930dbbc6d827ddb457820ce0300c56881cd3) — v0.4.26 · `2026-10-07` · oahsiao
-04. [`M2_PUBLIC_RELEASE@e53de87`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/e53de870c7d660bc988807dcc4dc0d84edf03703) — chore(m2-ai-proxy): publish v0.4.26 · `2026-10-07` · oahsiao
-05. [`M2_AI_PROXY@45a4724`](https://github.com/M2Station/M2_AI_PROXY/commit/45a472407e1d5922e35ad3a22d5a85cd21ea1ef8) — feat(model-list): add Claude upstream model fetch and rou... · `2026-10-07` · oahsiao
-06. [`M2_PUBLIC_RELEASE@eb21b09`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/eb21b094c7cb1691b69dc7d69e83416a55e953ab) — chore(m2-ai-proxy): publish v0.4.25 · `2026-10-07` · oahsiao
-07. [`M2_AI_PROXY@0730bf4`](https://github.com/M2Station/M2_AI_PROXY/commit/0730bf449c14806817480d40504b8835ac20dba3) — v0.4.25 · `2026-10-07` · oahsiao
-08. [`M2_AI_PROXY@838bddd`](https://github.com/M2Station/M2_AI_PROXY/commit/838bddde1896edc5ca6595bccd80da0fc37b06f8) — rename M2_CODEX_PROXT > M2_AI_PROXY · `2026-10-07` · oahsiao
-09. [`M2_WIKI@057f149`](https://github.com/M2Station/M2_WIKI/commit/057f149c6e32f72249b89205217c1e5af63affc9) — fix link · `2026-10-07` · bofrankbo
-10. [`.github@10aa296`](https://github.com/M2Station/.github/commit/10aa296ea06b7f17a11d1d66ab9b5c7447128c1d) — chore: sync latest changes [skip ci] · `2026-10-07` · github-actions[bot]
+01. [`M2_AI_PROXY@4ad417e`](https://github.com/M2Station/M2_AI_PROXY/commit/4ad417e6a295c209efdf0e38318511853f7e4a19) — test(tetris): cover the arena, its players and the benchm... · `2026-10-09` · oahsiao
+02. [`M2_AI_PROXY@7ce8c1e`](https://github.com/M2Station/M2_AI_PROXY/commit/7ce8c1efe94c9eb351845017447a0141d5336374) — feat(benchmark): add the TETRIS arena as the BENCHMARK TE... · `2026-10-09` · oahsiao
+03. [`M2_AI_PROXY@04c8e2c`](https://github.com/M2Station/M2_AI_PROXY/commit/04c8e2c83e0bc0bc978b81540327aebbbdfbbf40) — feat(systemone): add image recognition tests to the decis... · `2026-10-09` · oahsiao
+04. [`M2_AI_PROXY@4636d38`](https://github.com/M2Station/M2_AI_PROXY/commit/4636d38a427cb8bae38ca0de6e0a287ef179bcf4) — test(systemone): cover the systemone client and its endpo... · `2026-10-08` · oahsiao
+05. [`M2_AI_PROXY@ae37d97`](https://github.com/M2Station/M2_AI_PROXY/commit/ae37d975610508fd8d760e97ad4c4503f7254046) — feat(systemone): add a SYSTEMONE tab for the typesafe.ai ... · `2026-10-08` · oahsiao
+06. [`M2_AI_PROXY@566cdb6`](https://github.com/M2Station/M2_AI_PROXY/commit/566cdb6fb48010e6615200e3fe92ac25f7630f65) — chore(release): bump APP_VERSION to 0.4.30 · `2026-10-08` · oahsiao
+07. [`M2_PUBLIC_RELEASE@6f226c5`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6f226c59856fa7d3d2ee560dcc59d2172fb9fb80) — chore(m2-ai-proxy): publish v0.4.30 · `2026-10-08` · oahsiao
+08. [`M2_PUBLIC_RELEASE@1e2f34f`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/1e2f34f8d6aa831c4d9349b76fa71558014bd8ca) — chore(m2-ai-proxy): publish v0.4.29 · `2026-10-08` · oahsiao
+09. [`M2_PUBLIC_RELEASE@43d809a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/43d809a4fc9ee7cc3e8016f792afc349571ae08b) — chore(m2-ai-proxy): publish v0.4.28 · `2026-10-08` · oahsiao
+10. [`M2_AI_PROXY@1982c8b`](https://github.com/M2Station/M2_AI_PROXY/commit/1982c8b29a393688961a8e6c4d36ca825c3c1b2c) — test(recovery): cover SSE termination for the failing blo... · `2026-10-08` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
