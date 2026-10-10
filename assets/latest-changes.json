@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-09 16:41 TWN",
+  "updated": "2026-10-10 16:14 TWN",
   "latestChanges": [
+    {
+      "date": 1791618095000,
+      "committedDate": "2026-10-10T07:41:35Z",
+      "header": "fix(snake): stop scoring the eating move as far from the food",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/e14483d3ba64188ef758f3f5bcd7542917b22e7c",
+      "sha": "e14483d",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791614852000,
+      "committedDate": "2026-10-10T06:47:32Z",
+      "header": "fix(snake): let every model answer decide the move, and judge food by path",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/552748d067108a85ef86271801d5c354ce9246b1",
+      "sha": "552748d",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791611641000,
+      "committedDate": "2026-10-10T05:54:01Z",
+      "header": "feat(snake): add the SNAKE arena as the benchmark's second game",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/146ebc5f508ef3342ae316fb219f77774900da7f",
+      "sha": "146ebc5",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791548964000,
+      "committedDate": "2026-10-09T12:29:24Z",
+      "header": "docs(tetris): complete the real-game sample and correct the averages",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/f10e5abbcd48d2cfd9ab7f5a817aa070b24e8327",
+      "sha": "f10e5ab",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791548791000,
+      "committedDate": "2026-10-09T12:26:31Z",
+      "header": "feat(tetris): blend the decision model's per-option probabilities",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/a3e78ca44ce2847cfbc25e226ab5e4525d037ac7",
+      "sha": "a3e78ca",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791537865000,
+      "committedDate": "2026-10-09T09:24:25Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/3d80db4c11eddd5585af7c872f3c710fb04a9794",
+      "sha": "3d80db4",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1791524757000,
       "committedDate": "2026-10-09T05:45:57Z",
@@ -35,60 +89,6 @@
       "repo": "M2_AI_PROXY",
       "url": "https://github.com/M2Station/M2_AI_PROXY/commit/4636d38a427cb8bae38ca0de6e0a287ef179bcf4",
       "sha": "4636d38",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791476037000,
-      "committedDate": "2026-10-08T16:13:57Z",
-      "header": "feat(systemone): add a SYSTEMONE tab for the typesafe.ai decision API",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/ae37d975610508fd8d760e97ad4c4503f7254046",
-      "sha": "ae37d97",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791471463000,
-      "committedDate": "2026-10-08T14:57:43Z",
-      "header": "chore(release): bump APP_VERSION to 0.4.30",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/566cdb6fb48010e6615200e3fe92ac25f7630f65",
-      "sha": "566cdb6",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791470354000,
-      "committedDate": "2026-10-08T14:39:14Z",
-      "header": "chore(m2-ai-proxy): publish v0.4.30",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6f226c59856fa7d3d2ee560dcc59d2172fb9fb80",
-      "sha": "6f226c5",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791469296000,
-      "committedDate": "2026-10-08T14:21:36Z",
-      "header": "chore(m2-ai-proxy): publish v0.4.29",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/1e2f34f8d6aa831c4d9349b76fa71558014bd8ca",
-      "sha": "1e2f34f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791468224000,
-      "committedDate": "2026-10-08T14:03:44Z",
-      "header": "chore(m2-ai-proxy): publish v0.4.28",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/43d809a4fc9ee7cc3e8016f792afc349571ae08b",
-      "sha": "43d809a",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791465090000,
-      "committedDate": "2026-10-08T13:11:30Z",
-      "header": "test(recovery): cover SSE termination for the failing block shapes",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/1982c8b29a393688961a8e6c4d36ca825c3c1b2c",
-      "sha": "1982c8b",
       "login": "oahsiao"
     }
   ]

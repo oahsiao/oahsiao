@@ -7,55 +7,55 @@
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.100;0.153;0.169;1"
-        dur="30.1s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.000;0.101;0.155;0.171;1"
+        dur="29.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>test(tetris): cover the arena, its players and ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(snake): stop scoring the eating move as far...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.169;0.269;0.322;0.339;1"
-        dur="30.1s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.171;0.272;0.326;0.343;1"
+        dur="29.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(benchmark): add the TETRIS arena as the BE...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(snake): let every model answer decide the m...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.339;0.438;0.491;0.508;1"
-        dur="30.1s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.343;0.444;0.497;0.514;1"
+        dur="29.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(systemone): add image recognition tests to...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(snake): add the SNAKE arena as the benchma...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.508;0.608;0.661;0.677;1"
-        dur="30.1s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.514;0.615;0.669;0.685;1"
+        dur="29.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>test(systemone): cover the systemone client and...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>docs(tetris): complete the real-game sample and...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.677;0.777;0.830;0.847;1"
-        dur="30.1s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.685;0.786;0.840;0.857;1"
+        dur="29.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(systemone): add a SYSTEMONE tab for the ty...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(tetris): blend the decision model's per-op...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;373.6;373.6;0;0"
-        keyTimes="0;0.847;0.930;0.983;1.000;1"
-        dur="30.1s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;323.2;323.2;0;0"
+        keyTimes="0;0.857;0.929;0.983;1.000;1"
+        dur="29.8s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): bump APP_VERSION to 0.4.30</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: sync latest changes [skip ci]</text>
     </g>
 </svg>
