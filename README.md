@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_AI_PROXY@e14483d`](https://github.com/M2Station/M2_AI_PROXY/commit/e14483d3ba64188ef758f3f5bcd7542917b22e7c) — fix(snake): stop scoring the eating move as far from the ... · `2026-10-10` · oahsiao
-02. [`M2_AI_PROXY@552748d`](https://github.com/M2Station/M2_AI_PROXY/commit/552748d067108a85ef86271801d5c354ce9246b1) — fix(snake): let every model answer decide the move, and j... · `2026-10-10` · oahsiao
-03. [`M2_AI_PROXY@146ebc5`](https://github.com/M2Station/M2_AI_PROXY/commit/146ebc5f508ef3342ae316fb219f77774900da7f) — feat(snake): add the SNAKE arena as the benchmark's secon... · `2026-10-10` · oahsiao
-04. [`M2_AI_PROXY@f10e5ab`](https://github.com/M2Station/M2_AI_PROXY/commit/f10e5abbcd48d2cfd9ab7f5a817aa070b24e8327) — docs(tetris): complete the real-game sample and correct t... · `2026-10-09` · oahsiao
-05. [`M2_AI_PROXY@a3e78ca`](https://github.com/M2Station/M2_AI_PROXY/commit/a3e78ca44ce2847cfbc25e226ab5e4525d037ac7) — feat(tetris): blend the decision model's per-option proba... · `2026-10-09` · oahsiao
-06. [`.github@3d80db4`](https://github.com/M2Station/.github/commit/3d80db4c11eddd5585af7c872f3c710fb04a9794) — chore: sync latest changes [skip ci] · `2026-10-09` · github-actions[bot]
-07. [`M2_AI_PROXY@4ad417e`](https://github.com/M2Station/M2_AI_PROXY/commit/4ad417e6a295c209efdf0e38318511853f7e4a19) — test(tetris): cover the arena, its players and the benchm... · `2026-10-09` · oahsiao
-08. [`M2_AI_PROXY@7ce8c1e`](https://github.com/M2Station/M2_AI_PROXY/commit/7ce8c1efe94c9eb351845017447a0141d5336374) — feat(benchmark): add the TETRIS arena as the BENCHMARK TE... · `2026-10-09` · oahsiao
-09. [`M2_AI_PROXY@04c8e2c`](https://github.com/M2Station/M2_AI_PROXY/commit/04c8e2c83e0bc0bc978b81540327aebbbdfbbf40) — feat(systemone): add image recognition tests to the decis... · `2026-10-09` · oahsiao
-10. [`M2_AI_PROXY@4636d38`](https://github.com/M2Station/M2_AI_PROXY/commit/4636d38a427cb8bae38ca0de6e0a287ef179bcf4) — test(systemone): cover the systemone client and its endpo... · `2026-10-08` · oahsiao
+01. [`M2_AI_PROXY@5bb041e`](https://github.com/M2Station/M2_AI_PROXY/commit/5bb041e49cab41241b38d79fe5ebebe61326942a) — docs(snake): record the server setting that actually fixe... · `2026-10-11` · oahsiao
+02. [`M2_AI_PROXY@c7a53e6`](https://github.com/M2Station/M2_AI_PROXY/commit/c7a53e6cf51a81960325e995942df86e5d059d3d) — docs(snake): the stall is a full re-prefill, not queueing... · `2026-10-11` · oahsiao
+03. [`M2_AI_PROXY@2f1de68`](https://github.com/M2Station/M2_AI_PROXY/commit/2f1de6827a43da24b7d56dd355b1af8b5b453c40) — fix(systemone): do not re-send a request that timed out · `2026-10-11` · oahsiao
+04. [`M2_AI_PROXY@a7c26f2`](https://github.com/M2Station/M2_AI_PROXY/commit/a7c26f2ccad3837a8358aa37a83a5460ddc23497) — docs(snake): locate the stall in slot oversubscription, n... · `2026-10-11` · oahsiao
+05. [`M2_AI_PROXY@74d7528`](https://github.com/M2Station/M2_AI_PROXY/commit/74d752888d070e02bcaa45afa42e842c89f31e7c) — fix(benchmark): pair each Planner LOG switch with its own... · `2026-10-11` · oahsiao
+06. [`M2_AI_PROXY@8017626`](https://github.com/M2Station/M2_AI_PROXY/commit/80176268f64e353eddb60f1127a6932a51025fee) — feat(benchmark): a Planner LOG switch that shows the serv... · `2026-10-11` · oahsiao
+07. [`M2_AI_PROXY@fff2cac`](https://github.com/M2Station/M2_AI_PROXY/commit/fff2cac37c5ebcf19c184d5924b9d0d8fb137e63) — fix(snake): put the seed hover help on the widgets that a... · `2026-10-10` · oahsiao
+08. [`M2_AI_PROXY@74a162a`](https://github.com/M2Station/M2_AI_PROXY/commit/74a162a5ee6a5ef5c8a7bcf84cf60a72daa0533f) — feat(snake): play a model's answer the moment it lands, i... · `2026-10-10` · oahsiao
+09. [`M2_AI_PROXY@740c3ae`](https://github.com/M2Station/M2_AI_PROXY/commit/740c3aec674dbb8c0b576b6d40b1ad75bc15aee5) — feat(benchmark): wait counter and seed help for TETRIS to... · `2026-10-10` · oahsiao
+10. [`M2_AI_PROXY@bd914e8`](https://github.com/M2Station/M2_AI_PROXY/commit/bd914e832f1d6ce0dfaaa511a4823d88ec837df7) — feat(snake): show how long a board has been waiting, and ... · `2026-10-10` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
