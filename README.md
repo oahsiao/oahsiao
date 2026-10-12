@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_AI_PROXY@5bb041e`](https://github.com/M2Station/M2_AI_PROXY/commit/5bb041e49cab41241b38d79fe5ebebe61326942a) — docs(snake): record the server setting that actually fixe... · `2026-10-11` · oahsiao
-02. [`M2_AI_PROXY@c7a53e6`](https://github.com/M2Station/M2_AI_PROXY/commit/c7a53e6cf51a81960325e995942df86e5d059d3d) — docs(snake): the stall is a full re-prefill, not queueing... · `2026-10-11` · oahsiao
-03. [`M2_AI_PROXY@2f1de68`](https://github.com/M2Station/M2_AI_PROXY/commit/2f1de6827a43da24b7d56dd355b1af8b5b453c40) — fix(systemone): do not re-send a request that timed out · `2026-10-11` · oahsiao
-04. [`M2_AI_PROXY@a7c26f2`](https://github.com/M2Station/M2_AI_PROXY/commit/a7c26f2ccad3837a8358aa37a83a5460ddc23497) — docs(snake): locate the stall in slot oversubscription, n... · `2026-10-11` · oahsiao
-05. [`M2_AI_PROXY@74d7528`](https://github.com/M2Station/M2_AI_PROXY/commit/74d752888d070e02bcaa45afa42e842c89f31e7c) — fix(benchmark): pair each Planner LOG switch with its own... · `2026-10-11` · oahsiao
-06. [`M2_AI_PROXY@8017626`](https://github.com/M2Station/M2_AI_PROXY/commit/80176268f64e353eddb60f1127a6932a51025fee) — feat(benchmark): a Planner LOG switch that shows the serv... · `2026-10-11` · oahsiao
-07. [`M2_AI_PROXY@fff2cac`](https://github.com/M2Station/M2_AI_PROXY/commit/fff2cac37c5ebcf19c184d5924b9d0d8fb137e63) — fix(snake): put the seed hover help on the widgets that a... · `2026-10-10` · oahsiao
-08. [`M2_AI_PROXY@74a162a`](https://github.com/M2Station/M2_AI_PROXY/commit/74a162a5ee6a5ef5c8a7bcf84cf60a72daa0533f) — feat(snake): play a model's answer the moment it lands, i... · `2026-10-10` · oahsiao
-09. [`M2_AI_PROXY@740c3ae`](https://github.com/M2Station/M2_AI_PROXY/commit/740c3aec674dbb8c0b576b6d40b1ad75bc15aee5) — feat(benchmark): wait counter and seed help for TETRIS to... · `2026-10-10` · oahsiao
-10. [`M2_AI_PROXY@bd914e8`](https://github.com/M2Station/M2_AI_PROXY/commit/bd914e832f1d6ce0dfaaa511a4823d88ec837df7) — feat(snake): show how long a board has been waiting, and ... · `2026-10-10` · oahsiao
+01. [`M2_PUBLIC_RELEASE@974224a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/974224abc5f3d81598be48882859169eb51f8ec8) — chore(m2-ai-proxy): publish v0.4.31 · `2026-10-12` · oahsiao
+02. [`M2_AI_PROXY@21bbdbf`](https://github.com/M2Station/M2_AI_PROXY/commit/21bbdbf1e01a95ee83b35edf6e8e75342e7ee544) — refactor(proxy): extract the console and health-check pan... · `2026-10-12` · oahsiao
+03. [`M2_AI_PROXY@e760808`](https://github.com/M2Station/M2_AI_PROXY/commit/e760808cfcc073a3f67b43663bfccabb75eb6ef3) — docs(tetris): record that the endpoint does not read opti... · `2026-10-12` · oahsiao
+04. [`M2_AI_PROXY@3c3769a`](https://github.com/M2Station/M2_AI_PROXY/commit/3c3769a6c19c05322c42e6f064ae2a634f65bbba) — test(tetris): cover the noul player and its panel · `2026-10-12` · oahsiao
+05. [`M2_AI_PROXY@38d85c4`](https://github.com/M2Station/M2_AI_PROXY/commit/38d85c434f55357214a0712b0f767512af034f01) — test(tetris): benchmarks for the choice/noul comparison a... · `2026-10-12` · oahsiao
+06. [`M2_AI_PROXY@af3915a`](https://github.com/M2Station/M2_AI_PROXY/commit/af3915ae26452e63c1cd8fc6c3d207e9a56e6e16) — feat(tetris): a noul player that rates one option per req... · `2026-10-12` · oahsiao
+07. [`M2_AI_PROXY@882eba3`](https://github.com/M2Station/M2_AI_PROXY/commit/882eba392be75c8c40103f84137d8e0c626eb3ac) — fix(tetris): send one clause per question, and shorten th... · `2026-10-12` · oahsiao
+08. [`M2_WIKI@bdcb55d`](https://github.com/M2Station/M2_WIKI/commit/bdcb55de32bd41e787c632808e5da946c08e1bec) — Update MICROSOFT_SEMM.md · `2026-10-12` · Sam6Su
+09. [`M2_AI_PROXY@61a622a`](https://github.com/M2Station/M2_AI_PROXY/commit/61a622a6f5e0135194924ed5d0e49adcb3dd3961) — feat(proxy): move the last three consoles onto the struct... · `2026-10-12` · oahsiao
+10. [`M2_AI_PROXY@ecf3500`](https://github.com/M2Station/M2_AI_PROXY/commit/ecf3500d8b38765367c9ac18227add87b4908f60) — feat(proxy): port the structured console and health check... · `2026-10-12` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
