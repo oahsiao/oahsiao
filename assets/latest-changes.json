@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-13 17:07 TWN",
+  "updated": "2026-10-14 15:17 TWN",
   "latestChanges": [
+    {
+      "date": 1791961429000,
+      "committedDate": "2026-10-14T07:03:49Z",
+      "header": "Move Ubuntu-24.04 WSL Distro from C: to D:",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/d19ceb9ab9ca0e12c76a1c2649f463fa7ef6d48c",
+      "sha": "d19ceb9",
+      "login": "Capo Huang"
+    },
+    {
+      "date": 1791958347000,
+      "committedDate": "2026-10-14T06:12:27Z",
+      "header": "Install OpenCode on WSL",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/7482dc5ffc5b5859a59ba0f58a8b601b6fb5dc3c",
+      "sha": "7482dc5",
+      "login": "Capo Huang"
+    },
+    {
+      "date": 1791944662000,
+      "committedDate": "2026-10-14T02:24:22Z",
+      "header": "feat(ui): add dashboard status icons, agent telemetry band and window-size memory",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/10906e7a6e85322ddc0d1e00f0bf947f4bfe9a1e",
+      "sha": "10906e7",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791944627000,
+      "committedDate": "2026-10-14T02:23:47Z",
+      "header": "feat(proxy): report retry/failure counts, agent state and model to the dashboard",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/6c75ed38e2557bf0fdf386a92f90592f9da4a96d",
+      "sha": "6c75ed3",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791884257000,
+      "committedDate": "2026-10-13T09:37:37Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/54a8776a4463557a497276a9e5eb11d78e18a16e",
+      "sha": "54a8776",
+      "login": "github-actions[bot]"
+    },
+    {
+      "date": 1791882805000,
+      "committedDate": "2026-10-13T09:13:25Z",
+      "header": "feat(recovery): keep the Claude downstream SSE alive with ping heartbeats",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/ef296b3910a8921a5a672e35929df1860681800f",
+      "sha": "ef296b3",
+      "login": "oahsiao"
+    },
     {
       "date": 1791881841000,
       "committedDate": "2026-10-13T08:57:21Z",
@@ -36,60 +90,6 @@
       "url": "https://github.com/M2Station/M2_SKILLS/commit/9a7548d87087f0524fe758c2208241b0b09c830c",
       "sha": "9a7548d",
       "login": "oahsiao"
-    },
-    {
-      "date": 1791877967000,
-      "committedDate": "2026-10-13T07:52:47Z",
-      "header": "Revise Visual Studio components section",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/4a3d64a7647bd0e47758f5d1b88cdfbb2ba4f2b1",
-      "sha": "4a3d64a",
-      "login": "Sam6Su"
-    },
-    {
-      "date": 1791876118000,
-      "committedDate": "2026-10-13T07:21:58Z",
-      "header": "[Update_20261013] Add CLANGPDB LTO linker error fix (LLVM 22.1.0)",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/f734eb0f0b086d32d29748420b4580575e2ffea1",
-      "sha": "f734eb0",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791864907000,
-      "committedDate": "2026-10-13T04:15:07Z",
-      "header": "feat(tweak): add dark/light mode switch with a System category",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/023ba2325288a8f396a9f03ee40eac7e6de965f9",
-      "sha": "023ba23",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791861850000,
-      "committedDate": "2026-10-13T03:24:10Z",
-      "header": "chore(m2-apex): publish v0.5.20",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/3066e34e6f0681422f2d91afbf9a25aabd013dea",
-      "sha": "3066e34",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791814621000,
-      "committedDate": "2026-10-12T14:17:01Z",
-      "header": "Update MSAGUI_v18 exe and delete previous exe",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/decfb70b0cded45576137b03fa9ff1956e7770a5",
-      "sha": "decfb70",
-      "login": "cin0429"
-    },
-    {
-      "date": 1791813324000,
-      "committedDate": "2026-10-12T13:55:24Z",
-      "header": "Add the Tab4 button help to MSAGUI_v18 / Rev. 2026.1012",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/29774129e583fe2c71b6e976372b667fe121dae6",
-      "sha": "2977412",
-      "login": "cin0429"
     }
   ]
 }
