@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;373.6;373.6;0;0"
-        keyTimes="0;0.000;0.091;0.149;0.167;1"
-        dur="27.7s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.000;0.099;0.152;0.168;1"
+        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Move Ubuntu-24.04 WSL Distro from C: to D:</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(p2p): add Style A consumption chart with l...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;214;214;0;0"
-        keyTimes="0;0.167;0.217;0.275;0.293;1"
-        dur="27.7s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.168;0.267;0.319;0.336;1"
+        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Install OpenCode on WSL</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(settings): add a Records tab with in-place...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.293;0.401;0.459;0.477;1"
-        dur="27.7s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.336;0.435;0.487;0.504;1"
+        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(ui): add dashboard status icons, agent tel...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(icon): render the full logo at tray sizes i...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.477;0.586;0.644;0.662;1"
-        dur="27.7s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.504;0.603;0.655;0.672;1"
+        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(proxy): report retry/failure counts, agent...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(settings): follow the tool's new record sc...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;323.2;323.2;0;0"
-        keyTimes="0;0.662;0.740;0.798;0.816;1"
-        dur="27.7s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.672;0.771;0.823;0.840;1"
+        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore: sync latest changes [skip ci]</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(p2p): vendor tool build 2407058b with a ve...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.816;0.924;0.982;1.000;1"
-        dur="27.7s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;407.20000000000005;407.20000000000005;0;0"
+        keyTimes="0;0.840;0.931;0.984;1.000;1"
+        dur="30.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(recovery): keep the Claude downstream SSE ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(icon): make the logo legible at tray sizes</text>
     </g>
 </svg>

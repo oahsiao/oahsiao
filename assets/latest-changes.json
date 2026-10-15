@@ -1,94 +1,94 @@
 {
-  "updated": "2026-10-14 15:17 TWN",
+  "updated": "2026-10-15 15:09 TWN",
   "latestChanges": [
     {
-      "date": 1791961429000,
-      "committedDate": "2026-10-14T07:03:49Z",
-      "header": "Move Ubuntu-24.04 WSL Distro from C: to D:",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/d19ceb9ab9ca0e12c76a1c2649f463fa7ef6d48c",
-      "sha": "d19ceb9",
-      "login": "Capo Huang"
+      "date": 1792047822000,
+      "committedDate": "2026-10-15T07:03:42Z",
+      "header": "feat(p2p): add Style A consumption chart with legend toggles",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/c059c1c30565c3026a7424a41d335a8d1b088a6d",
+      "sha": "c059c1c",
+      "login": "oahsiao"
     },
     {
-      "date": 1791958347000,
-      "committedDate": "2026-10-14T06:12:27Z",
-      "header": "Install OpenCode on WSL",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/7482dc5ffc5b5859a59ba0f58a8b601b6fb5dc3c",
-      "sha": "7482dc5",
-      "login": "Capo Huang"
+      "date": 1792046654000,
+      "committedDate": "2026-10-15T06:44:14Z",
+      "header": "feat(settings): add a Records tab with in-place edit and per-record delete",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/ecc640f77ecca7c307c88b05b46842badd2f755d",
+      "sha": "ecc640f",
+      "login": "oahsiao"
     },
     {
-      "date": 1791944662000,
-      "committedDate": "2026-10-14T02:24:22Z",
-      "header": "feat(ui): add dashboard status icons, agent telemetry band and window-size memory",
+      "date": 1792042364000,
+      "committedDate": "2026-10-15T05:32:44Z",
+      "header": "fix(icon): render the full logo at tray sizes instead of the mark alone",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/9ca0594111ec370999cdee23e1667a1881968f84",
+      "sha": "9ca0594",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792042341000,
+      "committedDate": "2026-10-15T05:32:21Z",
+      "header": "feat(settings): follow the tool's new record schema and unpack layout",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/37ef96149a37a9f537ecf6620e6608c5da49a7f1",
+      "sha": "37ef961",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792042319000,
+      "committedDate": "2026-10-15T05:31:59Z",
+      "header": "feat(p2p): vendor tool build 2407058b with a version tag",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/26739806afc4625b4f0a668bb7d9b8a91cba7bc9",
+      "sha": "2673980",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791988820000,
+      "committedDate": "2026-10-14T14:40:20Z",
+      "header": "fix(icon): make the logo legible at tray sizes",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/d54bd4c9fdf136ca734e00e81c4dfba6b331b2f5",
+      "sha": "d54bd4c",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791988783000,
+      "committedDate": "2026-10-14T14:39:43Z",
+      "header": "feat(settings): add a P2P tab that runs the M2_P2P_DB node",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/45f336a13635e6d7edc1a6c65742969601a69ee4",
+      "sha": "45f336a",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791977342000,
+      "committedDate": "2026-10-14T11:29:02Z",
+      "header": "chore(release): bump APP_VERSION to 0.4.32",
       "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/10906e7a6e85322ddc0d1e00f0bf947f4bfe9a1e",
-      "sha": "10906e7",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/f4392f1f323fd0ef324edf5eb60ce67f20df48cd",
+      "sha": "f4392f1",
       "login": "oahsiao"
     },
     {
-      "date": 1791944627000,
-      "committedDate": "2026-10-14T02:23:47Z",
-      "header": "feat(proxy): report retry/failure counts, agent state and model to the dashboard",
+      "date": 1791977287000,
+      "committedDate": "2026-10-14T11:28:07Z",
+      "header": "chore(m2-ai-proxy): publish v0.4.32",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6a47acc05f4b4fdbd0c94932d1a96eb0963143a0",
+      "sha": "6a47acc",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1791976447000,
+      "committedDate": "2026-10-14T11:14:07Z",
+      "header": "fix(proxy): back off longer on 429 and warn on bloated sessions",
       "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/6c75ed38e2557bf0fdf386a92f90592f9da4a96d",
-      "sha": "6c75ed3",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791884257000,
-      "committedDate": "2026-10-13T09:37:37Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/54a8776a4463557a497276a9e5eb11d78e18a16e",
-      "sha": "54a8776",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1791882805000,
-      "committedDate": "2026-10-13T09:13:25Z",
-      "header": "feat(recovery): keep the Claude downstream SSE alive with ping heartbeats",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/ef296b3910a8921a5a672e35929df1860681800f",
-      "sha": "ef296b3",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791881841000,
-      "committedDate": "2026-10-13T08:57:21Z",
-      "header": "docs(m2-code-review): add collaborative tone rule and PR comment template",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/b2e9c86004d66bdcbcd22b2948056d4586a0ae80",
-      "sha": "b2e9c86",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791881841000,
-      "committedDate": "2026-10-13T08:57:21Z",
-      "header": "chore: remove CODEX_DEBUG debug proxy tooling from repository",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/89701af93e04bfeb8d1cc9c4b42736c0702ffdcf",
-      "sha": "89701af",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791880765000,
-      "committedDate": "2026-10-13T08:39:25Z",
-      "header": "feat(review): add m2-code-review skill for local change review",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/666b1bd3ee7966921469667cf677c8a4f01fccf1",
-      "sha": "666b1bd",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1791880738000,
-      "committedDate": "2026-10-13T08:38:58Z",
-      "header": "feat(m2-commit): add PR handoff and lettered menu fallback to post-commit flow",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/9a7548d87087f0524fe758c2208241b0b09c830c",
-      "sha": "9a7548d",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/5ca57ecf476208f0eefb8af5279ec889c029e97e",
+      "sha": "5ca57ec",
       "login": "oahsiao"
     }
   ]
