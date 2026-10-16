@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@c059c1c`](https://github.com/M2Station/M2_APEX/commit/c059c1c30565c3026a7424a41d335a8d1b088a6d) — feat(p2p): add Style A consumption chart with legend toggles · `2026-10-15` · oahsiao
-02. [`M2_APEX@ecc640f`](https://github.com/M2Station/M2_APEX/commit/ecc640f77ecca7c307c88b05b46842badd2f755d) — feat(settings): add a Records tab with in-place edit and ... · `2026-10-15` · oahsiao
-03. [`M2_APEX@9ca0594`](https://github.com/M2Station/M2_APEX/commit/9ca0594111ec370999cdee23e1667a1881968f84) — fix(icon): render the full logo at tray sizes instead of ... · `2026-10-15` · oahsiao
-04. [`M2_APEX@37ef961`](https://github.com/M2Station/M2_APEX/commit/37ef96149a37a9f537ecf6620e6608c5da49a7f1) — feat(settings): follow the tool's new record schema and u... · `2026-10-15` · oahsiao
-05. [`M2_APEX@2673980`](https://github.com/M2Station/M2_APEX/commit/26739806afc4625b4f0a668bb7d9b8a91cba7bc9) — feat(p2p): vendor tool build 2407058b with a version tag · `2026-10-15` · oahsiao
-06. [`M2_APEX@d54bd4c`](https://github.com/M2Station/M2_APEX/commit/d54bd4c9fdf136ca734e00e81c4dfba6b331b2f5) — fix(icon): make the logo legible at tray sizes · `2026-10-14` · oahsiao
-07. [`M2_APEX@45f336a`](https://github.com/M2Station/M2_APEX/commit/45f336a13635e6d7edc1a6c65742969601a69ee4) — feat(settings): add a P2P tab that runs the M2_P2P_DB node · `2026-10-14` · oahsiao
-08. [`M2_AI_PROXY@f4392f1`](https://github.com/M2Station/M2_AI_PROXY/commit/f4392f1f323fd0ef324edf5eb60ce67f20df48cd) — chore(release): bump APP_VERSION to 0.4.32 · `2026-10-14` · oahsiao
-09. [`M2_PUBLIC_RELEASE@6a47acc`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/6a47acc05f4b4fdbd0c94932d1a96eb0963143a0) — chore(m2-ai-proxy): publish v0.4.32 · `2026-10-14` · oahsiao
-10. [`M2_AI_PROXY@5ca57ec`](https://github.com/M2Station/M2_AI_PROXY/commit/5ca57ecf476208f0eefb8af5279ec889c029e97e) — fix(proxy): back off longer on 429 and warn on bloated se... · `2026-10-14` · oahsiao
+01. [`M2_APEX@425c437`](https://github.com/M2Station/M2_APEX/commit/425c437cae411fbb1bc546d5fc53bd9f9653ff96) — chore(release): bump version to 0.5.25 · `2026-10-16` · oahsiao
+02. [`M2_PUBLIC_RELEASE@677dffd`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/677dffd1ed321d76b64aa0b3ad492e0d5fff892a) — chore(m2-apex): publish v0.5.25 · `2026-10-16` · oahsiao
+03. [`M2_APEX@25d45fe`](https://github.com/M2Station/M2_APEX/commit/25d45fe08ca3a47df2f117d44d2781115f19397b) — fix(settings): ignore a second admin read while one is in... · `2026-10-16` · oahsiao
+04. [`M2_APEX@8f478a1`](https://github.com/M2Station/M2_APEX/commit/8f478a1a081579a6f3359ab9e6362dd0345d6cd0) — fix(p2p): serialize the payload unpack · `2026-10-16` · oahsiao
+05. [`M2_AI_PROXY@2cb6bab`](https://github.com/M2Station/M2_AI_PROXY/commit/2cb6babbc1b3f1053ad20b1e962ba7ab2491566f) — chore(release): bump APP_VERSION to 0.4.34 · `2026-10-16` · oahsiao
+06. [`M2_APEX@d77f575`](https://github.com/M2Station/M2_APEX/commit/d77f575e6837d7c04a9a797a558c2edc56e0f126) — fix(p2p): let the transition guard reach every open window · `2026-10-16` · oahsiao
+07. [`M2_PUBLIC_RELEASE@4be4e17`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/4be4e17b163b61743af6bcecdcf48bd5ffd617c5) — chore(m2-ai-proxy): publish v0.4.34 · `2026-10-16` · oahsiao
+08. [`M2_APEX@48442b6`](https://github.com/M2Station/M2_APEX/commit/48442b68e4006344f2bfbf30b02452395d0034d1) — fix(p2p): make the listener transition guard process-wide · `2026-10-16` · oahsiao
+09. [`M2_AI_PROXY@a4c7f6b`](https://github.com/M2Station/M2_AI_PROXY/commit/a4c7f6b049dab17cd193f37801409712ad95e304) — fix(tg): abort a scheduled shutdown from every cancel route · `2026-10-16` · oahsiao
+10. [`M2_APEX@60b7bea`](https://github.com/M2Station/M2_APEX/commit/60b7bea3c04091575de05bab3c0d195c08fcbf1a) — v0.5.24 · `2026-10-16` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
