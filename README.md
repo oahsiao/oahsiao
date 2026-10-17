@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@425c437`](https://github.com/M2Station/M2_APEX/commit/425c437cae411fbb1bc546d5fc53bd9f9653ff96) — chore(release): bump version to 0.5.25 · `2026-10-16` · oahsiao
-02. [`M2_PUBLIC_RELEASE@677dffd`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/677dffd1ed321d76b64aa0b3ad492e0d5fff892a) — chore(m2-apex): publish v0.5.25 · `2026-10-16` · oahsiao
-03. [`M2_APEX@25d45fe`](https://github.com/M2Station/M2_APEX/commit/25d45fe08ca3a47df2f117d44d2781115f19397b) — fix(settings): ignore a second admin read while one is in... · `2026-10-16` · oahsiao
-04. [`M2_APEX@8f478a1`](https://github.com/M2Station/M2_APEX/commit/8f478a1a081579a6f3359ab9e6362dd0345d6cd0) — fix(p2p): serialize the payload unpack · `2026-10-16` · oahsiao
-05. [`M2_AI_PROXY@2cb6bab`](https://github.com/M2Station/M2_AI_PROXY/commit/2cb6babbc1b3f1053ad20b1e962ba7ab2491566f) — chore(release): bump APP_VERSION to 0.4.34 · `2026-10-16` · oahsiao
-06. [`M2_APEX@d77f575`](https://github.com/M2Station/M2_APEX/commit/d77f575e6837d7c04a9a797a558c2edc56e0f126) — fix(p2p): let the transition guard reach every open window · `2026-10-16` · oahsiao
-07. [`M2_PUBLIC_RELEASE@4be4e17`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/4be4e17b163b61743af6bcecdcf48bd5ffd617c5) — chore(m2-ai-proxy): publish v0.4.34 · `2026-10-16` · oahsiao
-08. [`M2_APEX@48442b6`](https://github.com/M2Station/M2_APEX/commit/48442b68e4006344f2bfbf30b02452395d0034d1) — fix(p2p): make the listener transition guard process-wide · `2026-10-16` · oahsiao
-09. [`M2_AI_PROXY@a4c7f6b`](https://github.com/M2Station/M2_AI_PROXY/commit/a4c7f6b049dab17cd193f37801409712ad95e304) — fix(tg): abort a scheduled shutdown from every cancel route · `2026-10-16` · oahsiao
-10. [`M2_APEX@60b7bea`](https://github.com/M2Station/M2_APEX/commit/60b7bea3c04091575de05bab3c0d195c08fcbf1a) — v0.5.24 · `2026-10-16` · oahsiao
+01. [`M2_APEX@86507c3`](https://github.com/M2Station/M2_APEX/commit/86507c30cb9ac69c1deaf34e1ccb849e831606df) — chore(release): bump version to 0.5.28 · `2026-10-17` · oahsiao
+02. [`M2_PUBLIC_RELEASE@0ebc83b`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/0ebc83b94a20577a0572e49732a6a6b2f0dcc362) — chore(m2-apex): publish v0.5.28 · `2026-10-17` · oahsiao
+03. [`M2_APEX@0ddc858`](https://github.com/M2Station/M2_APEX/commit/0ddc858d6e2ef55684f157f13f292958058f604c) — build(net10): retarget the app from net9.0-windows to net... · `2026-10-16` · oahsiao
+04. [`M2_APEX@62aef5e`](https://github.com/M2Station/M2_APEX/commit/62aef5e4968c0c5d82126029c9282e9c5ebf6a58) — chore(release): bump version to 0.5.27 · `2026-10-16` · oahsiao
+05. [`M2_PUBLIC_RELEASE@61e193e`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/61e193e3a5893adebbcddf9538d125677940fdce) — chore(m2-apex): publish v0.5.27 · `2026-10-16` · oahsiao
+06. [`M2_APEX@b0f5ac1`](https://github.com/M2Station/M2_APEX/commit/b0f5ac11c219fcadea7eb70ddc1b2dc014e1468a) — perf(search): cut the per-keystroke cost and fix three si... · `2026-10-16` · oahsiao
+07. [`M2_WIKI@26cb93b`](https://github.com/M2Station/M2_WIKI/commit/26cb93b49463fa3490d0fe6e15b5f77caaad3b35) — Update WIE design review for DV · `2026-10-16` · Sam6Su
+08. [`M2_WIKI@7b5d7cb`](https://github.com/M2Station/M2_WIKI/commit/7b5d7cb641feef9ef621e1fe0bdd49ba59731031) — ++ · `2026-10-16` · oahsiao
+09. [`M2_APEX@cf6e1f5`](https://github.com/M2Station/M2_APEX/commit/cf6e1f58f60f9418ca3973eaeecac272b6556ee7) — chore(release): bump version to 0.5.26 · `2026-10-16` · oahsiao
+10. [`M2_PUBLIC_RELEASE@88ef7a4`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/88ef7a4c68f2f90711d5c1be7fd1578750b695ec) — chore(m2-apex): publish v0.5.26 · `2026-10-16` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
