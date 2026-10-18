@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-17 14:44 TWN",
+  "updated": "2026-10-18 15:04 TWN",
   "latestChanges": [
+    {
+      "date": 1792252389000,
+      "committedDate": "2026-10-17T15:53:09Z",
+      "header": "chore(m2-apex): publish v0.5.30",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/c8fa0ac585215e46e2423bbbe2afd814b2fed0dc",
+      "sha": "c8fa0ac",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792251862000,
+      "committedDate": "2026-10-17T15:44:22Z",
+      "header": "feat(diagnostics): attribute every UI stall to a code path",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/3e323effa6631eadb8de56b90ddd2e8b87378a3c",
+      "sha": "3e323ef",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792228762000,
+      "committedDate": "2026-10-17T09:19:22Z",
+      "header": "chore(m2-ai-proxy): publish v0.4.35",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/d85ec075f0b35100a601773320cc53edce3d205a",
+      "sha": "d85ec07",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792228318000,
+      "committedDate": "2026-10-17T09:11:58Z",
+      "header": "chore(m2-apex): publish v0.5.29",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/4327019527e25b543940411122ae44f4b52f1d5a",
+      "sha": "4327019",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792227769000,
+      "committedDate": "2026-10-17T09:02:49Z",
+      "header": "fix(proxy): classify a per-minute limit as rate, not as a spent quota",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/83e2739ad80c3b8f592f26efb668620130e8fcf1",
+      "sha": "83e2739",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792227702000,
+      "committedDate": "2026-10-17T09:01:42Z",
+      "header": "fix(proxy): stop the limiter burning its own window, and stop it un-throttling",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/4b7826687d34d7e7a74a4e07dec81889d5b1772d",
+      "sha": "4b78266",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792227690000,
+      "committedDate": "2026-10-17T09:01:30Z",
+      "header": "feat(styles): add the design-token layer and fix nine UI defects (#141)",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/92939f1ef4089916fc8403dcd3480fa685d62839",
+      "sha": "92939f1",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792227331000,
+      "committedDate": "2026-10-17T08:55:31Z",
+      "header": "feat(proxy): throttle token rate before sending, not after the 429",
+      "repo": "M2_AI_PROXY",
+      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/e7fae5db8992a762ca3a02512dfba7c8286819c9",
+      "sha": "e7fae5d",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792220761000,
+      "committedDate": "2026-10-17T07:06:01Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/892ca33203517b4f19d140d7f1c5b5e6bd8e9e59",
+      "sha": "892ca33",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1792218056000,
       "committedDate": "2026-10-17T06:20:56Z",
@@ -8,87 +89,6 @@
       "repo": "M2_APEX",
       "url": "https://github.com/M2Station/M2_APEX/commit/86507c30cb9ac69c1deaf34e1ccb849e831606df",
       "sha": "86507c3",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792213799000,
-      "committedDate": "2026-10-17T05:09:59Z",
-      "header": "chore(m2-apex): publish v0.5.28",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/0ebc83b94a20577a0572e49732a6a6b2f0dcc362",
-      "sha": "0ebc83b",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792174878000,
-      "committedDate": "2026-10-16T18:21:18Z",
-      "header": "build(net10): retarget the app from net9.0-windows to net10.0-windows (#140)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/0ddc858d6e2ef55684f157f13f292958058f604c",
-      "sha": "0ddc858",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792168450000,
-      "committedDate": "2026-10-16T16:34:10Z",
-      "header": "chore(release): bump version to 0.5.27",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/62aef5e4968c0c5d82126029c9282e9c5ebf6a58",
-      "sha": "62aef5e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792168436000,
-      "committedDate": "2026-10-16T16:33:56Z",
-      "header": "chore(m2-apex): publish v0.5.27",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/61e193e3a5893adebbcddf9538d125677940fdce",
-      "sha": "61e193e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792168123000,
-      "committedDate": "2026-10-16T16:28:43Z",
-      "header": "perf(search): cut the per-keystroke cost and fix three silent UX failures (#139)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/b0f5ac11c219fcadea7eb70ddc1b2dc014e1468a",
-      "sha": "b0f5ac1",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792147125000,
-      "committedDate": "2026-10-16T10:38:45Z",
-      "header": "Update WIE design review for DV",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/26cb93b49463fa3490d0fe6e15b5f77caaad3b35",
-      "sha": "26cb93b",
-      "login": "Sam6Su"
-    },
-    {
-      "date": 1792145158000,
-      "committedDate": "2026-10-16T10:05:58Z",
-      "header": "++",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/7b5d7cb641feef9ef621e1fe0bdd49ba59731031",
-      "sha": "7b5d7cb",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792144904000,
-      "committedDate": "2026-10-16T10:01:44Z",
-      "header": "chore(release): bump version to 0.5.26",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/cf6e1f58f60f9418ca3973eaeecac272b6556ee7",
-      "sha": "cf6e1f5",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792144389000,
-      "committedDate": "2026-10-16T09:53:09Z",
-      "header": "chore(m2-apex): publish v0.5.26",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/88ef7a4c68f2f90711d5c1be7fd1578750b695ec",
-      "sha": "88ef7a4",
       "login": "oahsiao"
     }
   ]

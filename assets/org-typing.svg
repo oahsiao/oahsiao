@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;340;340;0;0"
-        keyTimes="0;0.000;0.085;0.144;0.163;1"
-        dur="26.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;281.2;281.2;0;0"
+        keyTimes="0;0.000;0.068;0.126;0.144;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): bump version to 0.5.28</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-apex): publish v0.5.30</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;281.2;281.2;0;0"
-        keyTimes="0;0.163;0.232;0.292;0.310;1"
-        dur="26.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.144;0.254;0.312;0.330;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-apex): publish v0.5.28</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(diagnostics): attribute every UI stall to ...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.310;0.422;0.481;0.500;1"
-        dur="26.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;314.8;314.8;0;0"
+        keyTimes="0;0.330;0.407;0.465;0.484;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>build(net10): retarget the app from net9.0-wind...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-ai-proxy): publish v0.4.35</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;340;340;0;0"
-        keyTimes="0;0.500;0.585;0.644;0.663;1"
-        dur="26.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;281.2;281.2;0;0"
+        keyTimes="0;0.484;0.551;0.610;0.628;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(release): bump version to 0.5.27</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-apex): publish v0.5.29</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;281.2;281.2;0;0"
-        keyTimes="0;0.663;0.732;0.792;0.810;1"
-        dur="26.9s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;440.8;440.8;0;0"
+        keyTimes="0;0.628;0.737;0.796;0.814;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-apex): publish v0.5.27</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(proxy): classify a per-minute limit as rate...</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.810;0.922;0.981;1.000;1"
-        dur="26.9s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.814;0.923;0.982;1.000;1"
+        dur="27.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>perf(search): cut the per-keystroke cost and fi...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(proxy): stop the limiter burning its own wi...</text>
     </g>
 </svg>

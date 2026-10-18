@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@86507c3`](https://github.com/M2Station/M2_APEX/commit/86507c30cb9ac69c1deaf34e1ccb849e831606df) — chore(release): bump version to 0.5.28 · `2026-10-17` · oahsiao
-02. [`M2_PUBLIC_RELEASE@0ebc83b`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/0ebc83b94a20577a0572e49732a6a6b2f0dcc362) — chore(m2-apex): publish v0.5.28 · `2026-10-17` · oahsiao
-03. [`M2_APEX@0ddc858`](https://github.com/M2Station/M2_APEX/commit/0ddc858d6e2ef55684f157f13f292958058f604c) — build(net10): retarget the app from net9.0-windows to net... · `2026-10-16` · oahsiao
-04. [`M2_APEX@62aef5e`](https://github.com/M2Station/M2_APEX/commit/62aef5e4968c0c5d82126029c9282e9c5ebf6a58) — chore(release): bump version to 0.5.27 · `2026-10-16` · oahsiao
-05. [`M2_PUBLIC_RELEASE@61e193e`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/61e193e3a5893adebbcddf9538d125677940fdce) — chore(m2-apex): publish v0.5.27 · `2026-10-16` · oahsiao
-06. [`M2_APEX@b0f5ac1`](https://github.com/M2Station/M2_APEX/commit/b0f5ac11c219fcadea7eb70ddc1b2dc014e1468a) — perf(search): cut the per-keystroke cost and fix three si... · `2026-10-16` · oahsiao
-07. [`M2_WIKI@26cb93b`](https://github.com/M2Station/M2_WIKI/commit/26cb93b49463fa3490d0fe6e15b5f77caaad3b35) — Update WIE design review for DV · `2026-10-16` · Sam6Su
-08. [`M2_WIKI@7b5d7cb`](https://github.com/M2Station/M2_WIKI/commit/7b5d7cb641feef9ef621e1fe0bdd49ba59731031) — ++ · `2026-10-16` · oahsiao
-09. [`M2_APEX@cf6e1f5`](https://github.com/M2Station/M2_APEX/commit/cf6e1f58f60f9418ca3973eaeecac272b6556ee7) — chore(release): bump version to 0.5.26 · `2026-10-16` · oahsiao
-10. [`M2_PUBLIC_RELEASE@88ef7a4`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/88ef7a4c68f2f90711d5c1be7fd1578750b695ec) — chore(m2-apex): publish v0.5.26 · `2026-10-16` · oahsiao
+01. [`M2_PUBLIC_RELEASE@c8fa0ac`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/c8fa0ac585215e46e2423bbbe2afd814b2fed0dc) — chore(m2-apex): publish v0.5.30 · `2026-10-17` · oahsiao
+02. [`M2_APEX@3e323ef`](https://github.com/M2Station/M2_APEX/commit/3e323effa6631eadb8de56b90ddd2e8b87378a3c) — feat(diagnostics): attribute every UI stall to a code path · `2026-10-17` · oahsiao
+03. [`M2_PUBLIC_RELEASE@d85ec07`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/d85ec075f0b35100a601773320cc53edce3d205a) — chore(m2-ai-proxy): publish v0.4.35 · `2026-10-17` · oahsiao
+04. [`M2_PUBLIC_RELEASE@4327019`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/4327019527e25b543940411122ae44f4b52f1d5a) — chore(m2-apex): publish v0.5.29 · `2026-10-17` · oahsiao
+05. [`M2_AI_PROXY@83e2739`](https://github.com/M2Station/M2_AI_PROXY/commit/83e2739ad80c3b8f592f26efb668620130e8fcf1) — fix(proxy): classify a per-minute limit as rate, not as a... · `2026-10-17` · oahsiao
+06. [`M2_AI_PROXY@4b78266`](https://github.com/M2Station/M2_AI_PROXY/commit/4b7826687d34d7e7a74a4e07dec81889d5b1772d) — fix(proxy): stop the limiter burning its own window, and ... · `2026-10-17` · oahsiao
+07. [`M2_APEX@92939f1`](https://github.com/M2Station/M2_APEX/commit/92939f1ef4089916fc8403dcd3480fa685d62839) — feat(styles): add the design-token layer and fix nine UI ... · `2026-10-17` · oahsiao
+08. [`M2_AI_PROXY@e7fae5d`](https://github.com/M2Station/M2_AI_PROXY/commit/e7fae5db8992a762ca3a02512dfba7c8286819c9) — feat(proxy): throttle token rate before sending, not afte... · `2026-10-17` · oahsiao
+09. [`.github@892ca33`](https://github.com/M2Station/.github/commit/892ca33203517b4f19d140d7f1c5b5e6bd8e9e59) — chore: sync latest changes [skip ci] · `2026-10-17` · github-actions[bot]
+10. [`M2_APEX@86507c3`](https://github.com/M2Station/M2_APEX/commit/86507c30cb9ac69c1deaf34e1ccb849e831606df) — chore(release): bump version to 0.5.28 · `2026-10-17` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
