@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PUBLIC_RELEASE@c8fa0ac`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/c8fa0ac585215e46e2423bbbe2afd814b2fed0dc) — chore(m2-apex): publish v0.5.30 · `2026-10-17` · oahsiao
-02. [`M2_APEX@3e323ef`](https://github.com/M2Station/M2_APEX/commit/3e323effa6631eadb8de56b90ddd2e8b87378a3c) — feat(diagnostics): attribute every UI stall to a code path · `2026-10-17` · oahsiao
-03. [`M2_PUBLIC_RELEASE@d85ec07`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/d85ec075f0b35100a601773320cc53edce3d205a) — chore(m2-ai-proxy): publish v0.4.35 · `2026-10-17` · oahsiao
-04. [`M2_PUBLIC_RELEASE@4327019`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/4327019527e25b543940411122ae44f4b52f1d5a) — chore(m2-apex): publish v0.5.29 · `2026-10-17` · oahsiao
-05. [`M2_AI_PROXY@83e2739`](https://github.com/M2Station/M2_AI_PROXY/commit/83e2739ad80c3b8f592f26efb668620130e8fcf1) — fix(proxy): classify a per-minute limit as rate, not as a... · `2026-10-17` · oahsiao
-06. [`M2_AI_PROXY@4b78266`](https://github.com/M2Station/M2_AI_PROXY/commit/4b7826687d34d7e7a74a4e07dec81889d5b1772d) — fix(proxy): stop the limiter burning its own window, and ... · `2026-10-17` · oahsiao
-07. [`M2_APEX@92939f1`](https://github.com/M2Station/M2_APEX/commit/92939f1ef4089916fc8403dcd3480fa685d62839) — feat(styles): add the design-token layer and fix nine UI ... · `2026-10-17` · oahsiao
-08. [`M2_AI_PROXY@e7fae5d`](https://github.com/M2Station/M2_AI_PROXY/commit/e7fae5db8992a762ca3a02512dfba7c8286819c9) — feat(proxy): throttle token rate before sending, not afte... · `2026-10-17` · oahsiao
-09. [`.github@892ca33`](https://github.com/M2Station/.github/commit/892ca33203517b4f19d140d7f1c5b5e6bd8e9e59) — chore: sync latest changes [skip ci] · `2026-10-17` · github-actions[bot]
-10. [`M2_APEX@86507c3`](https://github.com/M2Station/M2_APEX/commit/86507c30cb9ac69c1deaf34e1ccb849e831606df) — chore(release): bump version to 0.5.28 · `2026-10-17` · oahsiao
+01. [`M2_ECOSYSEM@bdbaeb5`](https://github.com/M2Station/M2_ECOSYSEM/commit/bdbaeb532eed41194f6a9ed37623aac95e80444d) — docs: add M2 ecosystem intro decks and agent conventions · `2026-10-19` · oahsiao
+02. [`M2_APEX@9d143d5`](https://github.com/M2Station/M2_APEX/commit/9d143d511b3319fdd3c1db30ad219fa0b3f082b3) — docs(prompts): add autonomous ui polish iteration prompt · `2026-10-19` · oahsiao
+03. [`M2_APEX@55a3429`](https://github.com/M2Station/M2_APEX/commit/55a34295c9b19c9805aa84a21410b972b0ad6eea) — chore(release): bump version to 0.5.31 · `2026-10-19` · oahsiao
+04. [`M2_WIKI@0c6639a`](https://github.com/M2Station/M2_WIKI/commit/0c6639a62658a57d144a65558e618ac3d2a4abfa) — +++ · `2026-10-19` · oahsiao
+05. [`M2_PUBLIC_RELEASE@52c922d`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/52c922d376d2d63b39e02ec314c9ca1789410bbc) — chore(m2-apex): publish v0.5.31 · `2026-10-19` · oahsiao
+06. [`M2_PUBLIC_RELEASE@b3eead1`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/b3eead11d01f4513d2541bd133f57787559e93dd) — chore(m2-ai-proxy): publish v0.4.36 · `2026-10-19` · oahsiao
+07. [`M2_APEX@036ccaf`](https://github.com/M2Station/M2_APEX/commit/036ccaf244453eb65f32a54cdf2ac1deebcd47d8) — fix(p2p): open the firewall rule on the Domain profile to... · `2026-10-19` · oahsiao
+08. [`M2_WIKI@a2cc49b`](https://github.com/M2Station/M2_WIKI/commit/a2cc49b09ac236693c8709945744613ee81e5d60) — ++ · `2026-10-19` · oahsiao
+09. [`M2_WIKI@ce03bcb`](https://github.com/M2Station/M2_WIKI/commit/ce03bcb86627715c35e4bc18087a33f0073b2fdc) — Add CLI info · `2026-10-19` · oahsiao
+10. [`M2_WIKI@2c605a2`](https://github.com/M2Station/M2_WIKI/commit/2c605a266f8eebc799f840ab4260331028977f21) — BAA Design Review on DV · `2026-10-19` · asuka-wu
 <!-- LATEST-CHANGES:END -->
 
 ---

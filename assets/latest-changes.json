@@ -1,95 +1,95 @@
 {
-  "updated": "2026-10-18 15:04 TWN",
+  "updated": "2026-10-19 15:29 TWN",
   "latestChanges": [
     {
-      "date": 1792252389000,
-      "committedDate": "2026-10-17T15:53:09Z",
-      "header": "chore(m2-apex): publish v0.5.30",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/c8fa0ac585215e46e2423bbbe2afd814b2fed0dc",
-      "sha": "c8fa0ac",
+      "date": 1792394597000,
+      "committedDate": "2026-10-19T07:23:17Z",
+      "header": "docs: add M2 ecosystem intro decks and agent conventions",
+      "repo": "M2_ECOSYSEM",
+      "url": "https://github.com/M2Station/M2_ECOSYSEM/commit/bdbaeb532eed41194f6a9ed37623aac95e80444d",
+      "sha": "bdbaeb5",
       "login": "oahsiao"
     },
     {
-      "date": 1792251862000,
-      "committedDate": "2026-10-17T15:44:22Z",
-      "header": "feat(diagnostics): attribute every UI stall to a code path",
+      "date": 1792386926000,
+      "committedDate": "2026-10-19T05:15:26Z",
+      "header": "docs(prompts): add autonomous ui polish iteration prompt",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/3e323effa6631eadb8de56b90ddd2e8b87378a3c",
-      "sha": "3e323ef",
+      "url": "https://github.com/M2Station/M2_APEX/commit/9d143d511b3319fdd3c1db30ad219fa0b3f082b3",
+      "sha": "9d143d5",
       "login": "oahsiao"
     },
     {
-      "date": 1792228762000,
-      "committedDate": "2026-10-17T09:19:22Z",
-      "header": "chore(m2-ai-proxy): publish v0.4.35",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/d85ec075f0b35100a601773320cc53edce3d205a",
-      "sha": "d85ec07",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792228318000,
-      "committedDate": "2026-10-17T09:11:58Z",
-      "header": "chore(m2-apex): publish v0.5.29",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/4327019527e25b543940411122ae44f4b52f1d5a",
-      "sha": "4327019",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792227769000,
-      "committedDate": "2026-10-17T09:02:49Z",
-      "header": "fix(proxy): classify a per-minute limit as rate, not as a spent quota",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/83e2739ad80c3b8f592f26efb668620130e8fcf1",
-      "sha": "83e2739",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792227702000,
-      "committedDate": "2026-10-17T09:01:42Z",
-      "header": "fix(proxy): stop the limiter burning its own window, and stop it un-throttling",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/4b7826687d34d7e7a74a4e07dec81889d5b1772d",
-      "sha": "4b78266",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792227690000,
-      "committedDate": "2026-10-17T09:01:30Z",
-      "header": "feat(styles): add the design-token layer and fix nine UI defects (#141)",
+      "date": 1792386926000,
+      "committedDate": "2026-10-19T05:15:26Z",
+      "header": "chore(release): bump version to 0.5.31",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/92939f1ef4089916fc8403dcd3480fa685d62839",
-      "sha": "92939f1",
+      "url": "https://github.com/M2Station/M2_APEX/commit/55a34295c9b19c9805aa84a21410b972b0ad6eea",
+      "sha": "55a3429",
       "login": "oahsiao"
     },
     {
-      "date": 1792227331000,
-      "committedDate": "2026-10-17T08:55:31Z",
-      "header": "feat(proxy): throttle token rate before sending, not after the 429",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/e7fae5db8992a762ca3a02512dfba7c8286819c9",
-      "sha": "e7fae5d",
+      "date": 1792386132000,
+      "committedDate": "2026-10-19T05:02:12Z",
+      "header": "+++",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/0c6639a62658a57d144a65558e618ac3d2a4abfa",
+      "sha": "0c6639a",
       "login": "oahsiao"
     },
     {
-      "date": 1792220761000,
-      "committedDate": "2026-10-17T07:06:01Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/892ca33203517b4f19d140d7f1c5b5e6bd8e9e59",
-      "sha": "892ca33",
-      "login": "github-actions[bot]"
+      "date": 1792385763000,
+      "committedDate": "2026-10-19T04:56:03Z",
+      "header": "chore(m2-apex): publish v0.5.31",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/52c922d376d2d63b39e02ec314c9ca1789410bbc",
+      "sha": "52c922d",
+      "login": "oahsiao"
     },
     {
-      "date": 1792218056000,
-      "committedDate": "2026-10-17T06:20:56Z",
-      "header": "chore(release): bump version to 0.5.28",
+      "date": 1792385365000,
+      "committedDate": "2026-10-19T04:49:25Z",
+      "header": "chore(m2-ai-proxy): publish v0.4.36",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/b3eead11d01f4513d2541bd133f57787559e93dd",
+      "sha": "b3eead1",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792385309000,
+      "committedDate": "2026-10-19T04:48:29Z",
+      "header": "fix(p2p): open the firewall rule on the Domain profile too (#143)",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/86507c30cb9ac69c1deaf34e1ccb849e831606df",
-      "sha": "86507c3",
+      "url": "https://github.com/M2Station/M2_APEX/commit/036ccaf244453eb65f32a54cdf2ac1deebcd47d8",
+      "sha": "036ccaf",
       "login": "oahsiao"
+    },
+    {
+      "date": 1792382730000,
+      "committedDate": "2026-10-19T04:05:30Z",
+      "header": "++",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/a2cc49b09ac236693c8709945744613ee81e5d60",
+      "sha": "a2cc49b",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792382421000,
+      "committedDate": "2026-10-19T04:00:21Z",
+      "header": "Add CLI info",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/ce03bcb86627715c35e4bc18087a33f0073b2fdc",
+      "sha": "ce03bcb",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792374372000,
+      "committedDate": "2026-10-19T01:46:12Z",
+      "header": "BAA Design Review on DV",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/2c605a266f8eebc799f840ab4260331028977f21",
+      "sha": "2c605a2",
+      "login": "asuka-wu"
     }
   ]
 }
