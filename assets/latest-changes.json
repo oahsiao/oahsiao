@@ -1,94 +1,94 @@
 {
-  "updated": "2026-10-20 15:18 TWN",
+  "updated": "2026-10-21 15:18 TWN",
   "latestChanges": [
     {
-      "date": 1792480738000,
-      "committedDate": "2026-10-20T07:18:58Z",
-      "header": "feat(m2-pr): inline prompt spec into self-contained SKILL",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/ce12cfb5c37a69e572c7a666413452514434d56a",
-      "sha": "ce12cfb",
+      "date": 1792566052000,
+      "committedDate": "2026-10-21T07:00:52Z",
+      "header": "update @m2_sut_bot_8_bot",
+      "repo": "M2_DEVOPS",
+      "url": "https://github.com/M2Station/M2_DEVOPS/commit/ca8d1f84d2ea573cbf90962c0300ac89baf7e0a9",
+      "sha": "ca8d1f8",
       "login": "oahsiao"
     },
     {
-      "date": 1792479991000,
-      "committedDate": "2026-10-20T07:06:31Z",
-      "header": "build(p2p): vendor M2_P2P_DB 9d30eb73 (#148)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/1336abc1bfdb3962d40def87830897d3800b7e2f",
-      "sha": "1336abc",
+      "date": 1792565249000,
+      "committedDate": "2026-10-21T06:47:29Z",
+      "header": "移除 重複 PROJECT CODE",
+      "repo": "M2_MFCI_UNLOCK_BOT",
+      "url": "https://github.com/M2Station/M2_MFCI_UNLOCK_BOT/commit/7bd6fbe58b2b7529fb286fd1b50f534fb4d1934a",
+      "sha": "7bd6fbe",
       "login": "oahsiao"
     },
     {
-      "date": 1792479569000,
-      "committedDate": "2026-10-20T06:59:29Z",
-      "header": "perf(index): widen default ExcludedFolders to cut baseline RAM (#147)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/17861fc6a9145ea00c9ca830d44ea6c222c6bc67",
-      "sha": "17861fc",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792479427000,
-      "committedDate": "2026-10-20T06:57:07Z",
-      "header": "[M2_PILOT] Add local internal speaker and microphone validation (#51)",
+      "date": 1792565162000,
+      "committedDate": "2026-10-21T06:46:02Z",
+      "header": "Support get fan speed (#53)",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/c0d2f070c1cb5b75b6f03f42eaa8377a741c0a95",
-      "sha": "c0d2f07",
-      "login": "Simon0719"
+      "url": "https://github.com/M2Station/M2_PILOT/commit/bdf19a868301716dce260a6bb24834838555056d",
+      "sha": "bdf19a8",
+      "login": "KretonWang"
     },
     {
-      "date": 1792414157000,
-      "committedDate": "2026-10-19T12:49:17Z",
-      "header": "v0.5.34",
+      "date": 1792564030000,
+      "committedDate": "2026-10-21T06:27:10Z",
+      "header": "add kinabalu and aguilar",
+      "repo": "M2_MFCI_UNLOCK_BOT",
+      "url": "https://github.com/M2Station/M2_MFCI_UNLOCK_BOT/commit/ce123b7b3fbee98c1f8eb54e4b5e6174f17cea02",
+      "sha": "ce123b7",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792549787000,
+      "committedDate": "2026-10-21T02:29:47Z",
+      "header": "chore(hooks): limit Telegram notifications to completion and input-needed events (#7)",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/1e0e7846372e754122efb1505f916bdea575031b",
+      "sha": "1e0e784",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792548754000,
+      "committedDate": "2026-10-21T02:12:34Z",
+      "header": "docs(m2-commit): replace phantom AGENTS.md section numbers with topic anchors",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/e29ce224b92fb61b08d34a697030d2f19dbaedcb",
+      "sha": "e29ce22",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792499971000,
+      "committedDate": "2026-10-20T12:39:31Z",
+      "header": "feat(m2-pr): extract polling loop into reusable script and add tests",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/3ead4d76bdd2cfde75c8220002f55e4c9b8a48f4",
+      "sha": "3ead4d7",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792499956000,
+      "committedDate": "2026-10-20T12:39:16Z",
+      "header": "feat(repo-scripts): add cross-skill sync-review-refs utility",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/3f5ff4d23950378d631813b1d9436c4b24d0f84e",
+      "sha": "3f5ff4d",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792499947000,
+      "committedDate": "2026-10-20T12:39:07Z",
+      "header": "chore(repo): add .gitignore for editor, python, and M2 runtime debris",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/4efc616289ff07a07e8eb87a228b7f7c5c0ec5fc",
+      "sha": "4efc616",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792492643000,
+      "committedDate": "2026-10-20T10:37:23Z",
+      "header": "v0.5.35",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/c27d65806ade512efe196db2bd05a3a66ddd6863",
-      "sha": "c27d658",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792413976000,
-      "committedDate": "2026-10-19T12:46:16Z",
-      "header": "chore(m2-apex): publish v0.5.34",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5226c76d97e20f9bd92c59e007925f681d368f33",
-      "sha": "5226c76",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792413030000,
-      "committedDate": "2026-10-19T12:30:30Z",
-      "header": "build(p2p): vendor M2_P2P_DB d811a5fc (#146)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/9e9a0d7af84b8908081008bcd0ba1c00021f8155",
-      "sha": "9e9a0d7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792409891000,
-      "committedDate": "2026-10-19T11:38:11Z",
-      "header": "chore(m2-apex): publish v0.5.33",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/592f00b24e42de1dadfc1046c4da0e018c419a3e",
-      "sha": "592f00b",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792409459000,
-      "committedDate": "2026-10-19T11:30:59Z",
-      "header": "build(p2p): vendor M2_P2P_DB e6dba9c3 (#145)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/51f5bd556216c5b1b8b6a6f7222c244c1ddaee89",
-      "sha": "51f5bd5",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792406242000,
-      "committedDate": "2026-10-19T10:37:22Z",
-      "header": "v0.4.36",
-      "repo": "M2_AI_PROXY",
-      "url": "https://github.com/M2Station/M2_AI_PROXY/commit/623de2a44fd7b032b3f5260aab6a02d2b4d1a87e",
-      "sha": "623de2a",
+      "url": "https://github.com/M2Station/M2_APEX/commit/b3bb0d411fdbfcb5c854c2d4ede8900ae2170709",
+      "sha": "b3bb0d4",
       "login": "oahsiao"
     }
   ]

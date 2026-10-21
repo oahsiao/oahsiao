@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_SKILLS@ce12cfb`](https://github.com/M2Station/M2_SKILLS/commit/ce12cfb5c37a69e572c7a666413452514434d56a) — feat(m2-pr): inline prompt spec into self-contained SKILL · `2026-10-20` · oahsiao
-02. [`M2_APEX@1336abc`](https://github.com/M2Station/M2_APEX/commit/1336abc1bfdb3962d40def87830897d3800b7e2f) — build(p2p): vendor M2_P2P_DB 9d30eb73 (#148) · `2026-10-20` · oahsiao
-03. [`M2_APEX@17861fc`](https://github.com/M2Station/M2_APEX/commit/17861fc6a9145ea00c9ca830d44ea6c222c6bc67) — perf(index): widen default ExcludedFolders to cut baselin... · `2026-10-20` · oahsiao
-04. [`M2_PILOT@c0d2f07`](https://github.com/M2Station/M2_PILOT/commit/c0d2f070c1cb5b75b6f03f42eaa8377a741c0a95) — [M2_PILOT] Add local internal speaker and microphone vali... · `2026-10-20` · Simon0719
-05. [`M2_APEX@c27d658`](https://github.com/M2Station/M2_APEX/commit/c27d65806ade512efe196db2bd05a3a66ddd6863) — v0.5.34 · `2026-10-19` · oahsiao
-06. [`M2_PUBLIC_RELEASE@5226c76`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/5226c76d97e20f9bd92c59e007925f681d368f33) — chore(m2-apex): publish v0.5.34 · `2026-10-19` · oahsiao
-07. [`M2_APEX@9e9a0d7`](https://github.com/M2Station/M2_APEX/commit/9e9a0d7af84b8908081008bcd0ba1c00021f8155) — build(p2p): vendor M2_P2P_DB d811a5fc (#146) · `2026-10-19` · oahsiao
-08. [`M2_PUBLIC_RELEASE@592f00b`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/592f00b24e42de1dadfc1046c4da0e018c419a3e) — chore(m2-apex): publish v0.5.33 · `2026-10-19` · oahsiao
-09. [`M2_APEX@51f5bd5`](https://github.com/M2Station/M2_APEX/commit/51f5bd556216c5b1b8b6a6f7222c244c1ddaee89) — build(p2p): vendor M2_P2P_DB e6dba9c3 (#145) · `2026-10-19` · oahsiao
-10. [`M2_AI_PROXY@623de2a`](https://github.com/M2Station/M2_AI_PROXY/commit/623de2a44fd7b032b3f5260aab6a02d2b4d1a87e) — v0.4.36 · `2026-10-19` · oahsiao
+01. [`M2_DEVOPS@ca8d1f8`](https://github.com/M2Station/M2_DEVOPS/commit/ca8d1f84d2ea573cbf90962c0300ac89baf7e0a9) — update @m2_sut_bot_8_bot · `2026-10-21` · oahsiao
+02. [`M2_MFCI_UNLOCK_BOT@7bd6fbe`](https://github.com/M2Station/M2_MFCI_UNLOCK_BOT/commit/7bd6fbe58b2b7529fb286fd1b50f534fb4d1934a) — 移除 重複 PROJECT CODE · `2026-10-21` · oahsiao
+03. [`M2_PILOT@bdf19a8`](https://github.com/M2Station/M2_PILOT/commit/bdf19a868301716dce260a6bb24834838555056d) — Support get fan speed (#53) · `2026-10-21` · KretonWang
+04. [`M2_MFCI_UNLOCK_BOT@ce123b7`](https://github.com/M2Station/M2_MFCI_UNLOCK_BOT/commit/ce123b7b3fbee98c1f8eb54e4b5e6174f17cea02) — add kinabalu and aguilar · `2026-10-21` · oahsiao
+05. [`M2_SKILLS@1e0e784`](https://github.com/M2Station/M2_SKILLS/commit/1e0e7846372e754122efb1505f916bdea575031b) — chore(hooks): limit Telegram notifications to completion ... · `2026-10-21` · oahsiao
+06. [`M2_SKILLS@e29ce22`](https://github.com/M2Station/M2_SKILLS/commit/e29ce224b92fb61b08d34a697030d2f19dbaedcb) — docs(m2-commit): replace phantom AGENTS.md section number... · `2026-10-21` · oahsiao
+07. [`M2_SKILLS@3ead4d7`](https://github.com/M2Station/M2_SKILLS/commit/3ead4d76bdd2cfde75c8220002f55e4c9b8a48f4) — feat(m2-pr): extract polling loop into reusable script an... · `2026-10-20` · oahsiao
+08. [`M2_SKILLS@3f5ff4d`](https://github.com/M2Station/M2_SKILLS/commit/3f5ff4d23950378d631813b1d9436c4b24d0f84e) — feat(repo-scripts): add cross-skill sync-review-refs utility · `2026-10-20` · oahsiao
+09. [`M2_SKILLS@4efc616`](https://github.com/M2Station/M2_SKILLS/commit/4efc616289ff07a07e8eb87a228b7f7c5c0ec5fc) — chore(repo): add .gitignore for editor, python, and M2 ru... · `2026-10-20` · oahsiao
+10. [`M2_APEX@b3bb0d4`](https://github.com/M2Station/M2_APEX/commit/b3bb0d411fdbfcb5c854c2d4ede8900ae2170709) — v0.5.35 · `2026-10-20` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
