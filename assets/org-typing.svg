@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;222.4;222.4;0;0"
-        keyTimes="0;0.000;0.060;0.126;0.146;1"
-        dur="24.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;79.60000000000001;79.60000000000001;0;0"
+        keyTimes="0;0.000;0.024;0.117;0.146;1"
+        dur="17.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>update @m2_sut_bot_8_bot</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>v0.5.36</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;172;172;0;0"
-        keyTimes="0;0.146;0.191;0.257;0.278;1"
-        dur="24.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;281.2;281.2;0;0"
+        keyTimes="0;0.146;0.254;0.347;0.376;1"
+        dur="17.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>移除 重複 PROJECT CODE</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(m2-apex): publish v0.5.36</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;247.60000000000002;247.60000000000002;0;0"
-        keyTimes="0;0.278;0.345;0.411;0.432;1"
-        dur="24.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;37.6;37.6;0;0"
+        keyTimes="0;0.376;0.383;0.476;0.505;1"
+        dur="17.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Support get fan speed (#53)</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>加入</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;222.4;222.4;0;0"
-        keyTimes="0;0.432;0.491;0.557;0.578;1"
-        dur="24.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;180.4;180.4;0;0"
+        keyTimes="0;0.505;0.571;0.664;0.693;1"
+        dur="17.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>add kinabalu and aguilar</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>五項修正，相關文件與回歸測試也已更新。</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.578;0.702;0.768;0.789;1"
-        dur="24.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;138.4;138.4;0;0"
+        keyTimes="0;0.693;0.742;0.835;0.864;1"
+        dur="17.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(hooks): limit Telegram notifications to c...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Initial commit</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.789;0.913;0.979;1.000;1"
-        dur="24.2s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;54.400000000000006;54.400000000000006;0;0"
+        keyTimes="0;0.864;0.878;0.971;1.000;1"
+        dur="17.2s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>docs(m2-commit): replace phantom AGENTS.md sect...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>修正內容</text>
     </g>
 </svg>

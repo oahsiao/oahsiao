@@ -1,94 +1,94 @@
 {
-  "updated": "2026-10-21 15:18 TWN",
+  "updated": "2026-10-22 15:18 TWN",
   "latestChanges": [
     {
-      "date": 1792566052000,
-      "committedDate": "2026-10-21T07:00:52Z",
-      "header": "update @m2_sut_bot_8_bot",
-      "repo": "M2_DEVOPS",
-      "url": "https://github.com/M2Station/M2_DEVOPS/commit/ca8d1f84d2ea573cbf90962c0300ac89baf7e0a9",
-      "sha": "ca8d1f8",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792565249000,
-      "committedDate": "2026-10-21T06:47:29Z",
-      "header": "移除 重複 PROJECT CODE",
-      "repo": "M2_MFCI_UNLOCK_BOT",
-      "url": "https://github.com/M2Station/M2_MFCI_UNLOCK_BOT/commit/7bd6fbe58b2b7529fb286fd1b50f534fb4d1934a",
-      "sha": "7bd6fbe",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792565162000,
-      "committedDate": "2026-10-21T06:46:02Z",
-      "header": "Support get fan speed (#53)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/bdf19a868301716dce260a6bb24834838555056d",
-      "sha": "bdf19a8",
-      "login": "KretonWang"
-    },
-    {
-      "date": 1792564030000,
-      "committedDate": "2026-10-21T06:27:10Z",
-      "header": "add kinabalu and aguilar",
-      "repo": "M2_MFCI_UNLOCK_BOT",
-      "url": "https://github.com/M2Station/M2_MFCI_UNLOCK_BOT/commit/ce123b7b3fbee98c1f8eb54e4b5e6174f17cea02",
-      "sha": "ce123b7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792549787000,
-      "committedDate": "2026-10-21T02:29:47Z",
-      "header": "chore(hooks): limit Telegram notifications to completion and input-needed events (#7)",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/1e0e7846372e754122efb1505f916bdea575031b",
-      "sha": "1e0e784",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792548754000,
-      "committedDate": "2026-10-21T02:12:34Z",
-      "header": "docs(m2-commit): replace phantom AGENTS.md section numbers with topic anchors",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/e29ce224b92fb61b08d34a697030d2f19dbaedcb",
-      "sha": "e29ce22",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792499971000,
-      "committedDate": "2026-10-20T12:39:31Z",
-      "header": "feat(m2-pr): extract polling loop into reusable script and add tests",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/3ead4d76bdd2cfde75c8220002f55e4c9b8a48f4",
-      "sha": "3ead4d7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792499956000,
-      "committedDate": "2026-10-20T12:39:16Z",
-      "header": "feat(repo-scripts): add cross-skill sync-review-refs utility",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/3f5ff4d23950378d631813b1d9436c4b24d0f84e",
-      "sha": "3f5ff4d",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792499947000,
-      "committedDate": "2026-10-20T12:39:07Z",
-      "header": "chore(repo): add .gitignore for editor, python, and M2 runtime debris",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/4efc616289ff07a07e8eb87a228b7f7c5c0ec5fc",
-      "sha": "4efc616",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792492643000,
-      "committedDate": "2026-10-20T10:37:23Z",
-      "header": "v0.5.35",
+      "date": 1792652147000,
+      "committedDate": "2026-10-22T06:55:47Z",
+      "header": "v0.5.36",
       "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/b3bb0d411fdbfcb5c854c2d4ede8900ae2170709",
-      "sha": "b3bb0d4",
+      "url": "https://github.com/M2Station/M2_APEX/commit/5110be69a25cfa29bfad26ac5381cf063d1f253e",
+      "sha": "5110be6",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792652075000,
+      "committedDate": "2026-10-22T06:54:35Z",
+      "header": "chore(m2-apex): publish v0.5.36",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/96e670b0c2e31b1a4894562b1b5d45ca203885c3",
+      "sha": "96e670b",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792649512000,
+      "committedDate": "2026-10-22T06:11:52Z",
+      "header": "加入",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/39b27ecdaa9310e8f336e1042f9e480a10f0faa3",
+      "sha": "39b27ec",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792646892000,
+      "committedDate": "2026-10-22T05:28:12Z",
+      "header": "五項修正，相關文件與回歸測試也已更新。",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/49c869ce2aa553431646289e63843fefe69c6bd1",
+      "sha": "49c869c",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792645894000,
+      "committedDate": "2026-10-22T05:11:34Z",
+      "header": "Initial commit",
+      "repo": "L2_SKILL",
+      "url": "https://github.com/M2Station/L2_SKILL/commit/6a054160d45b0a86a6a577706d496598d062394a",
+      "sha": "6a05416",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792645873000,
+      "committedDate": "2026-10-22T05:11:13Z",
+      "header": "Initial commit",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/5343ab53da57da90244cb6a77088e751f37473a8",
+      "sha": "5343ab5",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792645327000,
+      "committedDate": "2026-10-22T05:02:07Z",
+      "header": "修正內容",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/0c6aea2606b1c363fde47e490ed318660983a97f",
+      "sha": "0c6aea2",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792642207000,
+      "committedDate": "2026-10-22T04:10:07Z",
+      "header": "主要修正",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/b9e31332e32b1892bc1ee3ea5209dee75e40ba89",
+      "sha": "b9e3133",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792642078000,
+      "committedDate": "2026-10-22T04:07:58Z",
+      "header": "Support OS desktop verification tool (#54)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/d0b6c870c19fd9eb89df549c2a37ba56e3fd4db9",
+      "sha": "d0b6c87",
+      "login": "capohuang"
+    },
+    {
+      "date": 1792635850000,
+      "committedDate": "2026-10-22T02:24:10Z",
+      "header": "加入持久化 P2P 診斷。",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/0e26e960b51ba20c6a41934e8cb0683993521efb",
+      "sha": "0e26e96",
       "login": "oahsiao"
     }
   ]

@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_DEVOPS@ca8d1f8`](https://github.com/M2Station/M2_DEVOPS/commit/ca8d1f84d2ea573cbf90962c0300ac89baf7e0a9) — update @m2_sut_bot_8_bot · `2026-10-21` · oahsiao
-02. [`M2_MFCI_UNLOCK_BOT@7bd6fbe`](https://github.com/M2Station/M2_MFCI_UNLOCK_BOT/commit/7bd6fbe58b2b7529fb286fd1b50f534fb4d1934a) — 移除 重複 PROJECT CODE · `2026-10-21` · oahsiao
-03. [`M2_PILOT@bdf19a8`](https://github.com/M2Station/M2_PILOT/commit/bdf19a868301716dce260a6bb24834838555056d) — Support get fan speed (#53) · `2026-10-21` · KretonWang
-04. [`M2_MFCI_UNLOCK_BOT@ce123b7`](https://github.com/M2Station/M2_MFCI_UNLOCK_BOT/commit/ce123b7b3fbee98c1f8eb54e4b5e6174f17cea02) — add kinabalu and aguilar · `2026-10-21` · oahsiao
-05. [`M2_SKILLS@1e0e784`](https://github.com/M2Station/M2_SKILLS/commit/1e0e7846372e754122efb1505f916bdea575031b) — chore(hooks): limit Telegram notifications to completion ... · `2026-10-21` · oahsiao
-06. [`M2_SKILLS@e29ce22`](https://github.com/M2Station/M2_SKILLS/commit/e29ce224b92fb61b08d34a697030d2f19dbaedcb) — docs(m2-commit): replace phantom AGENTS.md section number... · `2026-10-21` · oahsiao
-07. [`M2_SKILLS@3ead4d7`](https://github.com/M2Station/M2_SKILLS/commit/3ead4d76bdd2cfde75c8220002f55e4c9b8a48f4) — feat(m2-pr): extract polling loop into reusable script an... · `2026-10-20` · oahsiao
-08. [`M2_SKILLS@3f5ff4d`](https://github.com/M2Station/M2_SKILLS/commit/3f5ff4d23950378d631813b1d9436c4b24d0f84e) — feat(repo-scripts): add cross-skill sync-review-refs utility · `2026-10-20` · oahsiao
-09. [`M2_SKILLS@4efc616`](https://github.com/M2Station/M2_SKILLS/commit/4efc616289ff07a07e8eb87a228b7f7c5c0ec5fc) — chore(repo): add .gitignore for editor, python, and M2 ru... · `2026-10-20` · oahsiao
-10. [`M2_APEX@b3bb0d4`](https://github.com/M2Station/M2_APEX/commit/b3bb0d411fdbfcb5c854c2d4ede8900ae2170709) — v0.5.35 · `2026-10-20` · oahsiao
+01. [`M2_APEX@5110be6`](https://github.com/M2Station/M2_APEX/commit/5110be69a25cfa29bfad26ac5381cf063d1f253e) — v0.5.36 · `2026-10-22` · oahsiao
+02. [`M2_PUBLIC_RELEASE@96e670b`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/96e670b0c2e31b1a4894562b1b5d45ca203885c3) — chore(m2-apex): publish v0.5.36 · `2026-10-22` · oahsiao
+03. [`M2_APEX@39b27ec`](https://github.com/M2Station/M2_APEX/commit/39b27ecdaa9310e8f336e1042f9e480a10f0faa3) — 加入 · `2026-10-22` · oahsiao
+04. [`M2_APEX@49c869c`](https://github.com/M2Station/M2_APEX/commit/49c869ce2aa553431646289e63843fefe69c6bd1) — 五項修正，相關文件與回歸測試也已更新。 · `2026-10-22` · oahsiao
+05. [`L2_SKILL@6a05416`](https://github.com/M2Station/L2_SKILL/commit/6a054160d45b0a86a6a577706d496598d062394a) — Initial commit · `2026-10-22` · oahsiao
+06. [`M2_TIMELINE@5343ab5`](https://github.com/M2Station/M2_TIMELINE/commit/5343ab53da57da90244cb6a77088e751f37473a8) — Initial commit · `2026-10-22` · oahsiao
+07. [`M2_APEX@0c6aea2`](https://github.com/M2Station/M2_APEX/commit/0c6aea2606b1c363fde47e490ed318660983a97f) — 修正內容 · `2026-10-22` · oahsiao
+08. [`M2_APEX@b9e3133`](https://github.com/M2Station/M2_APEX/commit/b9e31332e32b1892bc1ee3ea5209dee75e40ba89) — 主要修正 · `2026-10-22` · oahsiao
+09. [`M2_PILOT@d0b6c87`](https://github.com/M2Station/M2_PILOT/commit/d0b6c870c19fd9eb89df549c2a37ba56e3fd4db9) — Support OS desktop verification tool (#54) · `2026-10-22` · capohuang
+10. [`M2_APEX@0e26e96`](https://github.com/M2Station/M2_APEX/commit/0e26e960b51ba20c6a41934e8cb0683993521efb) — 加入持久化 P2P 診斷。 · `2026-10-22` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
