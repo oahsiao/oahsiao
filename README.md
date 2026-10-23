@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@5110be6`](https://github.com/M2Station/M2_APEX/commit/5110be69a25cfa29bfad26ac5381cf063d1f253e) — v0.5.36 · `2026-10-22` · oahsiao
-02. [`M2_PUBLIC_RELEASE@96e670b`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/96e670b0c2e31b1a4894562b1b5d45ca203885c3) — chore(m2-apex): publish v0.5.36 · `2026-10-22` · oahsiao
-03. [`M2_APEX@39b27ec`](https://github.com/M2Station/M2_APEX/commit/39b27ecdaa9310e8f336e1042f9e480a10f0faa3) — 加入 · `2026-10-22` · oahsiao
-04. [`M2_APEX@49c869c`](https://github.com/M2Station/M2_APEX/commit/49c869ce2aa553431646289e63843fefe69c6bd1) — 五項修正，相關文件與回歸測試也已更新。 · `2026-10-22` · oahsiao
-05. [`L2_SKILL@6a05416`](https://github.com/M2Station/L2_SKILL/commit/6a054160d45b0a86a6a577706d496598d062394a) — Initial commit · `2026-10-22` · oahsiao
-06. [`M2_TIMELINE@5343ab5`](https://github.com/M2Station/M2_TIMELINE/commit/5343ab53da57da90244cb6a77088e751f37473a8) — Initial commit · `2026-10-22` · oahsiao
-07. [`M2_APEX@0c6aea2`](https://github.com/M2Station/M2_APEX/commit/0c6aea2606b1c363fde47e490ed318660983a97f) — 修正內容 · `2026-10-22` · oahsiao
-08. [`M2_APEX@b9e3133`](https://github.com/M2Station/M2_APEX/commit/b9e31332e32b1892bc1ee3ea5209dee75e40ba89) — 主要修正 · `2026-10-22` · oahsiao
-09. [`M2_PILOT@d0b6c87`](https://github.com/M2Station/M2_PILOT/commit/d0b6c870c19fd9eb89df549c2a37ba56e3fd4db9) — Support OS desktop verification tool (#54) · `2026-10-22` · capohuang
-10. [`M2_APEX@0e26e96`](https://github.com/M2Station/M2_APEX/commit/0e26e960b51ba20c6a41934e8cb0683993521efb) — 加入持久化 P2P 診斷。 · `2026-10-22` · oahsiao
+01. [`M2_SS@92d747c`](https://github.com/M2Station/M2_SS/commit/92d747c3f180375fc3f87c02f02480eafbdecaa4) — add scenario section · `2026-10-23` · oahsiao
+02. [`M2_MSAGUI@bfc2b88`](https://github.com/M2Station/M2_MSAGUI/commit/bfc2b88a2a797cb50fbfb6dc378015793d56fc4c) — Update MSAGUI_v20 exe and delete previous exe · `2026-10-22` · cin0429
+03. [`M2_MSAGUI@aa30f96`](https://github.com/M2Station/M2_MSAGUI/commit/aa30f96b31ea90c69c0c130c36deedbff3a1bc1c) — Describe the rest of MSAGUI_v20 in the ReleaseNote and Te... · `2026-10-22` · cin0429
+04. [`M2_MSAGUI@9558b0b`](https://github.com/M2Station/M2_MSAGUI/commit/9558b0bd73bcf7c4d3bc5c0eae84b5ca12bea15b) — Chart the listed test items in the MSA email and size it ... · `2026-10-22` · cin0429
+05. [`M2_MSAGUI@dcedee0`](https://github.com/M2Station/M2_MSAGUI/commit/dcedee037587c6a946cc254a57d4e6c4ae363eac) — Describe MSAGUI_v20 in the ReleaseNote and Technical Refe... · `2026-10-22` · cin0429
+06. [`M2_MSAGUI@7b13779`](https://github.com/M2Station/M2_MSAGUI/commit/7b13779c61ebd7baa3eb17d02070ae11b1f95bec) — Add a Compact Table tab to AnalysisResult.html and capabi... · `2026-10-22` · cin0429
+07. [`M2_SS@6bc2345`](https://github.com/M2Station/M2_SS/commit/6bc2345d704d19d5d13dee5bf8c8f372caa34bf8) — 在 STYLE A 裡： · `2026-10-22` · oahsiao
+08. [`M2_ECOSYSEM@ea4ea51`](https://github.com/M2Station/M2_ECOSYSEM/commit/ea4ea5170423a3194e7f98336bddbcd25ad2689b) — docs: add M2 ecosystem sales deck V5 · `2026-10-22` · oahsiao
+09. [`M2_WIKI@b1f00f6`](https://github.com/M2Station/M2_WIKI/commit/b1f00f6b5b9e52024863d03f49dec42118904d6c) — +++ · `2026-10-22` · oahsiao
+10. [`M2_SS@a889448`](https://github.com/M2Station/M2_SS/commit/a889448b545eec4781b32bd7f4bbf585d241d3e1) — ++ · `2026-10-22` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
