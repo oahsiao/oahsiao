@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-23 15:11 TWN",
+  "updated": "2026-10-24 15:01 TWN",
   "latestChanges": [
+    {
+      "date": 1792762990000,
+      "committedDate": "2026-10-23T13:43:10Z",
+      "header": "Add STAGE overlap warnings, DateInput, SchedulePresentations, TeamPlanner, and project timeline views",
+      "repo": "M2_SS",
+      "url": "https://github.com/M2Station/M2_SS/commit/69e9373080c56713a4576d419333aa1ce7ce80f7",
+      "sha": "69e9373",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792751358000,
+      "committedDate": "2026-10-23T10:29:18Z",
+      "header": "feature implement",
+      "repo": "M2_SS",
+      "url": "https://github.com/M2Station/M2_SS/commit/925e4a952224902d6942ef7b0295e811fc31a684",
+      "sha": "925e4a9",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1792741698000,
+      "committedDate": "2026-10-23T07:48:18Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/cf83fc39abd7c97e799afaa3f93b8e9ee8b7f204",
+      "sha": "cf83fc3",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1792738843000,
       "committedDate": "2026-10-23T07:00:43Z",
@@ -62,33 +89,6 @@
       "repo": "M2_SS",
       "url": "https://github.com/M2Station/M2_SS/commit/6bc2345d704d19d5d13dee5bf8c8f372caa34bf8",
       "sha": "6bc2345",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792672458000,
-      "committedDate": "2026-10-22T12:34:18Z",
-      "header": "docs: add M2 ecosystem sales deck V5",
-      "repo": "M2_ECOSYSEM",
-      "url": "https://github.com/M2Station/M2_ECOSYSEM/commit/ea4ea5170423a3194e7f98336bddbcd25ad2689b",
-      "sha": "ea4ea51",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792672340000,
-      "committedDate": "2026-10-22T12:32:20Z",
-      "header": "+++",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/b1f00f6b5b9e52024863d03f49dec42118904d6c",
-      "sha": "b1f00f6",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792671570000,
-      "committedDate": "2026-10-22T12:19:30Z",
-      "header": "++",
-      "repo": "M2_SS",
-      "url": "https://github.com/M2Station/M2_SS/commit/a889448b545eec4781b32bd7f4bbf585d241d3e1",
-      "sha": "a889448",
       "login": "oahsiao"
     }
   ]
