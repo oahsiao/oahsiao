@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_SS@69e9373`](https://github.com/M2Station/M2_SS/commit/69e9373080c56713a4576d419333aa1ce7ce80f7) — Add STAGE overlap warnings, DateInput, SchedulePresentati... · `2026-10-23` · oahsiao
-02. [`M2_SS@925e4a9`](https://github.com/M2Station/M2_SS/commit/925e4a952224902d6942ef7b0295e811fc31a684) — feature implement · `2026-10-23` · oahsiao
-03. [`.github@cf83fc3`](https://github.com/M2Station/.github/commit/cf83fc39abd7c97e799afaa3f93b8e9ee8b7f204) — chore: sync latest changes [skip ci] · `2026-10-23` · github-actions[bot]
-04. [`M2_SS@92d747c`](https://github.com/M2Station/M2_SS/commit/92d747c3f180375fc3f87c02f02480eafbdecaa4) — add scenario section · `2026-10-23` · oahsiao
-05. [`M2_MSAGUI@bfc2b88`](https://github.com/M2Station/M2_MSAGUI/commit/bfc2b88a2a797cb50fbfb6dc378015793d56fc4c) — Update MSAGUI_v20 exe and delete previous exe · `2026-10-22` · cin0429
-06. [`M2_MSAGUI@aa30f96`](https://github.com/M2Station/M2_MSAGUI/commit/aa30f96b31ea90c69c0c130c36deedbff3a1bc1c) — Describe the rest of MSAGUI_v20 in the ReleaseNote and Te... · `2026-10-22` · cin0429
-07. [`M2_MSAGUI@9558b0b`](https://github.com/M2Station/M2_MSAGUI/commit/9558b0bd73bcf7c4d3bc5c0eae84b5ca12bea15b) — Chart the listed test items in the MSA email and size it ... · `2026-10-22` · cin0429
-08. [`M2_MSAGUI@dcedee0`](https://github.com/M2Station/M2_MSAGUI/commit/dcedee037587c6a946cc254a57d4e6c4ae363eac) — Describe MSAGUI_v20 in the ReleaseNote and Technical Refe... · `2026-10-22` · cin0429
-09. [`M2_MSAGUI@7b13779`](https://github.com/M2Station/M2_MSAGUI/commit/7b13779c61ebd7baa3eb17d02070ae11b1f95bec) — Add a Compact Table tab to AnalysisResult.html and capabi... · `2026-10-22` · cin0429
-10. [`M2_SS@6bc2345`](https://github.com/M2Station/M2_SS/commit/6bc2345d704d19d5d13dee5bf8c8f372caa34bf8) — 在 STYLE A 裡： · `2026-10-22` · oahsiao
+01. [`.github@75debe0`](https://github.com/M2Station/.github/commit/75debe0a3ccb440e957c93c0846d7c1b187eaa98) — chore: sync latest changes [skip ci] · `2026-10-24` · github-actions[bot]
+02. [`M2_SS@69e9373`](https://github.com/M2Station/M2_SS/commit/69e9373080c56713a4576d419333aa1ce7ce80f7) — Add STAGE overlap warnings, DateInput, SchedulePresentati... · `2026-10-23` · oahsiao
+03. [`M2_SS@925e4a9`](https://github.com/M2Station/M2_SS/commit/925e4a952224902d6942ef7b0295e811fc31a684) — feature implement · `2026-10-23` · oahsiao
+04. [`.github@cf83fc3`](https://github.com/M2Station/.github/commit/cf83fc39abd7c97e799afaa3f93b8e9ee8b7f204) — chore: sync latest changes [skip ci] · `2026-10-23` · github-actions[bot]
+05. [`M2_SS@92d747c`](https://github.com/M2Station/M2_SS/commit/92d747c3f180375fc3f87c02f02480eafbdecaa4) — add scenario section · `2026-10-23` · oahsiao
+06. [`M2_MSAGUI@bfc2b88`](https://github.com/M2Station/M2_MSAGUI/commit/bfc2b88a2a797cb50fbfb6dc378015793d56fc4c) — Update MSAGUI_v20 exe and delete previous exe · `2026-10-22` · cin0429
+07. [`M2_MSAGUI@aa30f96`](https://github.com/M2Station/M2_MSAGUI/commit/aa30f96b31ea90c69c0c130c36deedbff3a1bc1c) — Describe the rest of MSAGUI_v20 in the ReleaseNote and Te... · `2026-10-22` · cin0429
+08. [`M2_MSAGUI@9558b0b`](https://github.com/M2Station/M2_MSAGUI/commit/9558b0bd73bcf7c4d3bc5c0eae84b5ca12bea15b) — Chart the listed test items in the MSA email and size it ... · `2026-10-22` · cin0429
+09. [`M2_MSAGUI@dcedee0`](https://github.com/M2Station/M2_MSAGUI/commit/dcedee037587c6a946cc254a57d4e6c4ae363eac) — Describe MSAGUI_v20 in the ReleaseNote and Technical Refe... · `2026-10-22` · cin0429
+10. [`M2_MSAGUI@7b13779`](https://github.com/M2Station/M2_MSAGUI/commit/7b13779c61ebd7baa3eb17d02070ae11b1f95bec) — Add a Compact Table tab to AnalysisResult.html and capabi... · `2026-10-22` · cin0429
 <!-- LATEST-CHANGES:END -->
 
 ---

@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-24 15:01 TWN",
+  "updated": "2026-10-25 15:25 TWN",
   "latestChanges": [
+    {
+      "date": 1792826984000,
+      "committedDate": "2026-10-24T07:29:44Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/75debe0a3ccb440e957c93c0846d7c1b187eaa98",
+      "sha": "75debe0",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1792762990000,
       "committedDate": "2026-10-23T13:43:10Z",
@@ -81,15 +90,6 @@
       "url": "https://github.com/M2Station/M2_MSAGUI/commit/7b13779c61ebd7baa3eb17d02070ae11b1f95bec",
       "sha": "7b13779",
       "login": "cin0429"
-    },
-    {
-      "date": 1792672667000,
-      "committedDate": "2026-10-22T12:37:47Z",
-      "header": "在 STYLE A 裡：",
-      "repo": "M2_SS",
-      "url": "https://github.com/M2Station/M2_SS/commit/6bc2345d704d19d5d13dee5bf8c8f372caa34bf8",
-      "sha": "6bc2345",
-      "login": "oahsiao"
     }
   ]
 }
