@@ -94,10 +94,10 @@
       <animate attributeName="height" from="0" to="10" dur="1s" begin="0.66s" fill="freeze"/>
       <animate attributeName="y" from="94" to="84" dur="1s" begin="0.66s" fill="freeze"/>
     </rect>
-    <rect x="434" y="83" width="16" height="11" fill="#00f5d4" opacity="0.29" rx="1">
+    <rect x="434" y="83" width="16" height="11" fill="#00f5d4" opacity="0.28" rx="1">
       <animate attributeName="height" from="0" to="11" dur="1s" begin="0.69s" fill="freeze"/>
       <animate attributeName="y" from="94" to="83" dur="1s" begin="0.69s" fill="freeze"/>
     </rect>
     <text x="442" y="106" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">23</text>
-  <text x="240" y="124" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-10-25 15:25 TWN</text>
+  <text x="240" y="124" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">M2Station · UPDATED 2026-10-26 15:34 TWN</text>
 </svg>

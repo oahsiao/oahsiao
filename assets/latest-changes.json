@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-25 15:25 TWN",
+  "updated": "2026-10-26 15:34 TWN",
   "latestChanges": [
+    {
+      "date": 1792976943000,
+      "committedDate": "2026-10-26T01:09:03Z",
+      "header": "chore(dev-deps): bump @napi-rs/canvas",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/bfeefaf9a18ccb5e8394bedf89f45aea2a31e4aa",
+      "sha": "bfeefaf",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1792914205000,
+      "committedDate": "2026-10-25T07:43:25Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/969f414e6e8de5b1766a64d6fbd0d966d599bf2e",
+      "sha": "969f414",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1792826984000,
       "committedDate": "2026-10-24T07:29:44Z",
@@ -71,24 +89,6 @@
       "repo": "M2_MSAGUI",
       "url": "https://github.com/M2Station/M2_MSAGUI/commit/9558b0bd73bcf7c4d3bc5c0eae84b5ca12bea15b",
       "sha": "9558b0b",
-      "login": "cin0429"
-    },
-    {
-      "date": 1792680327000,
-      "committedDate": "2026-10-22T14:45:27Z",
-      "header": "Describe MSAGUI_v20 in the ReleaseNote and Technical Reference (Rev. 2026.1022)",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/dcedee037587c6a946cc254a57d4e6c4ae363eac",
-      "sha": "dcedee0",
-      "login": "cin0429"
-    },
-    {
-      "date": 1792680326000,
-      "committedDate": "2026-10-22T14:45:26Z",
-      "header": "Add a Compact Table tab to AnalysisResult.html and capability tables to VariabilityCharts.html",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/7b13779c61ebd7baa3eb17d02070ae11b1f95bec",
-      "sha": "7b13779",
       "login": "cin0429"
     }
   ]
