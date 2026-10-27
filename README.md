@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_GIT_DIFF@bfeefaf`](https://github.com/M2Station/M2_GIT_DIFF/commit/bfeefaf9a18ccb5e8394bedf89f45aea2a31e4aa) — chore(dev-deps): bump @napi-rs/canvas · `2026-10-26` · dependabot[bot]
-02. [`.github@969f414`](https://github.com/M2Station/.github/commit/969f414e6e8de5b1766a64d6fbd0d966d599bf2e) — chore: sync latest changes [skip ci] · `2026-10-25` · github-actions[bot]
-03. [`.github@75debe0`](https://github.com/M2Station/.github/commit/75debe0a3ccb440e957c93c0846d7c1b187eaa98) — chore: sync latest changes [skip ci] · `2026-10-24` · github-actions[bot]
-04. [`M2_SS@69e9373`](https://github.com/M2Station/M2_SS/commit/69e9373080c56713a4576d419333aa1ce7ce80f7) — Add STAGE overlap warnings, DateInput, SchedulePresentati... · `2026-10-23` · oahsiao
-05. [`M2_SS@925e4a9`](https://github.com/M2Station/M2_SS/commit/925e4a952224902d6942ef7b0295e811fc31a684) — feature implement · `2026-10-23` · oahsiao
-06. [`.github@cf83fc3`](https://github.com/M2Station/.github/commit/cf83fc39abd7c97e799afaa3f93b8e9ee8b7f204) — chore: sync latest changes [skip ci] · `2026-10-23` · github-actions[bot]
-07. [`M2_SS@92d747c`](https://github.com/M2Station/M2_SS/commit/92d747c3f180375fc3f87c02f02480eafbdecaa4) — add scenario section · `2026-10-23` · oahsiao
-08. [`M2_MSAGUI@bfc2b88`](https://github.com/M2Station/M2_MSAGUI/commit/bfc2b88a2a797cb50fbfb6dc378015793d56fc4c) — Update MSAGUI_v20 exe and delete previous exe · `2026-10-22` · cin0429
-09. [`M2_MSAGUI@aa30f96`](https://github.com/M2Station/M2_MSAGUI/commit/aa30f96b31ea90c69c0c130c36deedbff3a1bc1c) — Describe the rest of MSAGUI_v20 in the ReleaseNote and Te... · `2026-10-22` · cin0429
-10. [`M2_MSAGUI@9558b0b`](https://github.com/M2Station/M2_MSAGUI/commit/9558b0bd73bcf7c4d3bc5c0eae84b5ca12bea15b) — Chart the listed test items in the MSA email and size it ... · `2026-10-22` · cin0429
+01. [`M2_SS@d9ab8b0`](https://github.com/M2Station/M2_SS/commit/d9ab8b0101c5bc1879f97bfa76ac7f96cdce6c7d) — +++ · `2026-10-27` · oahsiao
+02. [`M2_SS@361fe92`](https://github.com/M2Station/M2_SS/commit/361fe925eee59a1c0c90574ee0f016b83a09b90b) — +++ · `2026-10-27` · oahsiao
+03. [`M2_WIKI@4a12d20`](https://github.com/M2Station/M2_WIKI/commit/4a12d20d7cc21c4e33ec986f5412d7041e770430) — update design review · `2026-10-27` · bofrankbo
+04. [`.github@dc2067a`](https://github.com/M2Station/.github/commit/dc2067a518e09a54864a9812e82ce63b6a5cc5da) — chore: sync latest changes [skip ci] · `2026-10-26` · github-actions[bot]
+05. [`M2_GIT_DIFF@bfeefaf`](https://github.com/M2Station/M2_GIT_DIFF/commit/bfeefaf9a18ccb5e8394bedf89f45aea2a31e4aa) — chore(dev-deps): bump @napi-rs/canvas · `2026-10-26` · dependabot[bot]
+06. [`.github@969f414`](https://github.com/M2Station/.github/commit/969f414e6e8de5b1766a64d6fbd0d966d599bf2e) — chore: sync latest changes [skip ci] · `2026-10-25` · github-actions[bot]
+07. [`.github@75debe0`](https://github.com/M2Station/.github/commit/75debe0a3ccb440e957c93c0846d7c1b187eaa98) — chore: sync latest changes [skip ci] · `2026-10-24` · github-actions[bot]
+08. [`M2_SS@69e9373`](https://github.com/M2Station/M2_SS/commit/69e9373080c56713a4576d419333aa1ce7ce80f7) — Add STAGE overlap warnings, DateInput, SchedulePresentati... · `2026-10-23` · oahsiao
+09. [`M2_SS@925e4a9`](https://github.com/M2Station/M2_SS/commit/925e4a952224902d6942ef7b0295e811fc31a684) — feature implement · `2026-10-23` · oahsiao
+10. [`.github@cf83fc3`](https://github.com/M2Station/.github/commit/cf83fc39abd7c97e799afaa3f93b8e9ee8b7f204) — chore: sync latest changes [skip ci] · `2026-10-23` · github-actions[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---

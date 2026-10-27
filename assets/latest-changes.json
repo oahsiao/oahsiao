@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-26 15:34 TWN",
+  "updated": "2026-10-27 15:31 TWN",
   "latestChanges": [
+    {
+      "date": 1793083359000,
+      "committedDate": "2026-10-27T06:42:39Z",
+      "header": "+++",
+      "repo": "M2_SS",
+      "url": "https://github.com/M2Station/M2_SS/commit/d9ab8b0101c5bc1879f97bfa76ac7f96cdce6c7d",
+      "sha": "d9ab8b0",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793072893000,
+      "committedDate": "2026-10-27T03:48:13Z",
+      "header": "+++",
+      "repo": "M2_SS",
+      "url": "https://github.com/M2Station/M2_SS/commit/361fe925eee59a1c0c90574ee0f016b83a09b90b",
+      "sha": "361fe92",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793067361000,
+      "committedDate": "2026-10-27T02:16:01Z",
+      "header": "update design review",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/4a12d20d7cc21c4e33ec986f5412d7041e770430",
+      "sha": "4a12d20",
+      "login": "bofrankbo"
+    },
+    {
+      "date": 1793001551000,
+      "committedDate": "2026-10-26T07:59:11Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/dc2067a518e09a54864a9812e82ce63b6a5cc5da",
+      "sha": "dc2067a",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1792976943000,
       "committedDate": "2026-10-26T01:09:03Z",
@@ -54,42 +90,6 @@
       "url": "https://github.com/M2Station/.github/commit/cf83fc39abd7c97e799afaa3f93b8e9ee8b7f204",
       "sha": "cf83fc3",
       "login": "github-actions[bot]"
-    },
-    {
-      "date": 1792738843000,
-      "committedDate": "2026-10-23T07:00:43Z",
-      "header": "add scenario section",
-      "repo": "M2_SS",
-      "url": "https://github.com/M2Station/M2_SS/commit/92d747c3f180375fc3f87c02f02480eafbdecaa4",
-      "sha": "92d747c",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1792680563000,
-      "committedDate": "2026-10-22T14:49:23Z",
-      "header": "Update MSAGUI_v20 exe and delete previous exe",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/bfc2b88a2a797cb50fbfb6dc378015793d56fc4c",
-      "sha": "bfc2b88",
-      "login": "cin0429"
-    },
-    {
-      "date": 1792680328000,
-      "committedDate": "2026-10-22T14:45:28Z",
-      "header": "Describe the rest of MSAGUI_v20 in the ReleaseNote and Technical Reference (Rev. 2026.1022)",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/aa30f96b31ea90c69c0c130c36deedbff3a1bc1c",
-      "sha": "aa30f96",
-      "login": "cin0429"
-    },
-    {
-      "date": 1792680328000,
-      "committedDate": "2026-10-22T14:45:28Z",
-      "header": "Chart the listed test items in the MSA email and size it to the mail limit",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/9558b0bd73bcf7c4d3bc5c0eae84b5ca12bea15b",
-      "sha": "9558b0b",
-      "login": "cin0429"
     }
   ]
 }
