@@ -1,95 +1,95 @@
 {
-  "updated": "2026-10-27 15:31 TWN",
+  "updated": "2026-10-28 16:03 TWN",
   "latestChanges": [
     {
-      "date": 1793083359000,
-      "committedDate": "2026-10-27T06:42:39Z",
-      "header": "+++",
-      "repo": "M2_SS",
-      "url": "https://github.com/M2Station/M2_SS/commit/d9ab8b0101c5bc1879f97bfa76ac7f96cdce6c7d",
-      "sha": "d9ab8b0",
+      "date": 1793165662000,
+      "committedDate": "2026-10-28T05:34:22Z",
+      "header": "v0.5.37",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/b582e689b129a3821a6e62b36adef303216bcecc",
+      "sha": "b582e68",
       "login": "oahsiao"
     },
     {
-      "date": 1793072893000,
-      "committedDate": "2026-10-27T03:48:13Z",
-      "header": "+++",
-      "repo": "M2_SS",
-      "url": "https://github.com/M2Station/M2_SS/commit/361fe925eee59a1c0c90574ee0f016b83a09b90b",
-      "sha": "361fe92",
-      "login": "oahsiao"
+      "date": 1793165556000,
+      "committedDate": "2026-10-28T05:32:36Z",
+      "header": "support RF function (#55)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/5d1fb0cbfbc6912d525aea8e01bab07855a2ad96",
+      "sha": "5d1fb0c",
+      "login": "chuan0000"
     },
     {
-      "date": 1793067361000,
-      "committedDate": "2026-10-27T02:16:01Z",
-      "header": "update design review",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/4a12d20d7cc21c4e33ec986f5412d7041e770430",
-      "sha": "4a12d20",
-      "login": "bofrankbo"
-    },
-    {
-      "date": 1793001551000,
-      "committedDate": "2026-10-26T07:59:11Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/dc2067a518e09a54864a9812e82ce63b6a5cc5da",
-      "sha": "dc2067a",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1792976943000,
-      "committedDate": "2026-10-26T01:09:03Z",
-      "header": "chore(dev-deps): bump @napi-rs/canvas",
+      "date": 1793159483000,
+      "committedDate": "2026-10-28T03:51:23Z",
+      "header": "chore(release): bump version to 0.4.5",
       "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/bfeefaf9a18ccb5e8394bedf89f45aea2a31e4aa",
-      "sha": "bfeefaf",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1792914205000,
-      "committedDate": "2026-10-25T07:43:25Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/969f414e6e8de5b1766a64d6fbd0d966d599bf2e",
-      "sha": "969f414",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1792826984000,
-      "committedDate": "2026-10-24T07:29:44Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/75debe0a3ccb440e957c93c0846d7c1b187eaa98",
-      "sha": "75debe0",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1792762990000,
-      "committedDate": "2026-10-23T13:43:10Z",
-      "header": "Add STAGE overlap warnings, DateInput, SchedulePresentations, TeamPlanner, and project timeline views",
-      "repo": "M2_SS",
-      "url": "https://github.com/M2Station/M2_SS/commit/69e9373080c56713a4576d419333aa1ce7ce80f7",
-      "sha": "69e9373",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/b2f11a0917644040bcea75c8cc3183ebb5057d7d",
+      "sha": "b2f11a0",
       "login": "oahsiao"
     },
     {
-      "date": 1792751358000,
-      "committedDate": "2026-10-23T10:29:18Z",
-      "header": "feature implement",
-      "repo": "M2_SS",
-      "url": "https://github.com/M2Station/M2_SS/commit/925e4a952224902d6942ef7b0295e811fc31a684",
-      "sha": "925e4a9",
+      "date": 1793159477000,
+      "committedDate": "2026-10-28T03:51:17Z",
+      "header": "chore: add missing MIT headers to release scripts",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/b9580699ccbe038bc1c32e6a5852409ca471241a",
+      "sha": "b958069",
       "login": "oahsiao"
     },
     {
-      "date": 1792741698000,
-      "committedDate": "2026-10-23T07:48:18Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/cf83fc39abd7c97e799afaa3f93b8e9ee8b7f204",
-      "sha": "cf83fc3",
-      "login": "github-actions[bot]"
+      "date": 1793159472000,
+      "committedDate": "2026-10-28T03:51:12Z",
+      "header": "feat(release): preflight dependency resolvability before npm ci",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/dda19f3162daf13cbb87bfb6ef57a2e49ab2d42e",
+      "sha": "dda19f3",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793159379000,
+      "committedDate": "2026-10-28T03:49:39Z",
+      "header": "chore(m2-git-diff): publish v0.4.5",
+      "repo": "M2_PUBLIC_RELEASE",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/daf6187a5f0f1d7a35ad5b8673c707141c43beca",
+      "sha": "daf6187",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793159160000,
+      "committedDate": "2026-10-28T03:46:00Z",
+      "header": "Fix the heading issues.",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/f7e2d03b06cfb4c300cea9b112deabd1da3b6319",
+      "sha": "f7e2d03",
+      "login": "v-chtseng"
+    },
+    {
+      "date": 1793158893000,
+      "committedDate": "2026-10-28T03:41:33Z",
+      "header": "Fix the heading issues.",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/451dc175a7342ec6ed0cfbf267125071de21ab7b",
+      "sha": "451dc17",
+      "login": "v-chtseng"
+    },
+    {
+      "date": 1793158207000,
+      "committedDate": "2026-10-28T03:30:07Z",
+      "header": "Obtain three sets of 5,000 Copilot AI Credits each.",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/68d39525a418fc15e39b73174f796248eb0ef75c",
+      "sha": "68d3952",
+      "login": "v-chtseng"
+    },
+    {
+      "date": 1793157483000,
+      "committedDate": "2026-10-28T03:18:03Z",
+      "header": "Add boot-to-UEFI-Shell DUT tool (#57)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/c770cb7fd99aa87c2edbbf421170b8746d437f12",
+      "sha": "c770cb7",
+      "login": "pega-irenelin"
     }
   ]
 }

@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_SS@d9ab8b0`](https://github.com/M2Station/M2_SS/commit/d9ab8b0101c5bc1879f97bfa76ac7f96cdce6c7d) — +++ · `2026-10-27` · oahsiao
-02. [`M2_SS@361fe92`](https://github.com/M2Station/M2_SS/commit/361fe925eee59a1c0c90574ee0f016b83a09b90b) — +++ · `2026-10-27` · oahsiao
-03. [`M2_WIKI@4a12d20`](https://github.com/M2Station/M2_WIKI/commit/4a12d20d7cc21c4e33ec986f5412d7041e770430) — update design review · `2026-10-27` · bofrankbo
-04. [`.github@dc2067a`](https://github.com/M2Station/.github/commit/dc2067a518e09a54864a9812e82ce63b6a5cc5da) — chore: sync latest changes [skip ci] · `2026-10-26` · github-actions[bot]
-05. [`M2_GIT_DIFF@bfeefaf`](https://github.com/M2Station/M2_GIT_DIFF/commit/bfeefaf9a18ccb5e8394bedf89f45aea2a31e4aa) — chore(dev-deps): bump @napi-rs/canvas · `2026-10-26` · dependabot[bot]
-06. [`.github@969f414`](https://github.com/M2Station/.github/commit/969f414e6e8de5b1766a64d6fbd0d966d599bf2e) — chore: sync latest changes [skip ci] · `2026-10-25` · github-actions[bot]
-07. [`.github@75debe0`](https://github.com/M2Station/.github/commit/75debe0a3ccb440e957c93c0846d7c1b187eaa98) — chore: sync latest changes [skip ci] · `2026-10-24` · github-actions[bot]
-08. [`M2_SS@69e9373`](https://github.com/M2Station/M2_SS/commit/69e9373080c56713a4576d419333aa1ce7ce80f7) — Add STAGE overlap warnings, DateInput, SchedulePresentati... · `2026-10-23` · oahsiao
-09. [`M2_SS@925e4a9`](https://github.com/M2Station/M2_SS/commit/925e4a952224902d6942ef7b0295e811fc31a684) — feature implement · `2026-10-23` · oahsiao
-10. [`.github@cf83fc3`](https://github.com/M2Station/.github/commit/cf83fc39abd7c97e799afaa3f93b8e9ee8b7f204) — chore: sync latest changes [skip ci] · `2026-10-23` · github-actions[bot]
+01. [`M2_APEX@b582e68`](https://github.com/M2Station/M2_APEX/commit/b582e689b129a3821a6e62b36adef303216bcecc) — v0.5.37 · `2026-10-28` · oahsiao
+02. [`M2_PILOT@5d1fb0c`](https://github.com/M2Station/M2_PILOT/commit/5d1fb0cbfbc6912d525aea8e01bab07855a2ad96) — support RF function (#55) · `2026-10-28` · chuan0000
+03. [`M2_GIT_DIFF@b2f11a0`](https://github.com/M2Station/M2_GIT_DIFF/commit/b2f11a0917644040bcea75c8cc3183ebb5057d7d) — chore(release): bump version to 0.4.5 · `2026-10-28` · oahsiao
+04. [`M2_GIT_DIFF@b958069`](https://github.com/M2Station/M2_GIT_DIFF/commit/b9580699ccbe038bc1c32e6a5852409ca471241a) — chore: add missing MIT headers to release scripts · `2026-10-28` · oahsiao
+05. [`M2_GIT_DIFF@dda19f3`](https://github.com/M2Station/M2_GIT_DIFF/commit/dda19f3162daf13cbb87bfb6ef57a2e49ab2d42e) — feat(release): preflight dependency resolvability before ... · `2026-10-28` · oahsiao
+06. [`M2_PUBLIC_RELEASE@daf6187`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/daf6187a5f0f1d7a35ad5b8673c707141c43beca) — chore(m2-git-diff): publish v0.4.5 · `2026-10-28` · oahsiao
+07. [`M2_WIKI@f7e2d03`](https://github.com/M2Station/M2_WIKI/commit/f7e2d03b06cfb4c300cea9b112deabd1da3b6319) — Fix the heading issues. · `2026-10-28` · v-chtseng
+08. [`M2_WIKI@451dc17`](https://github.com/M2Station/M2_WIKI/commit/451dc175a7342ec6ed0cfbf267125071de21ab7b) — Fix the heading issues. · `2026-10-28` · v-chtseng
+09. [`M2_WIKI@68d3952`](https://github.com/M2Station/M2_WIKI/commit/68d39525a418fc15e39b73174f796248eb0ef75c) — Obtain three sets of 5,000 Copilot AI Credits each. · `2026-10-28` · v-chtseng
+10. [`M2_PILOT@c770cb7`](https://github.com/M2Station/M2_PILOT/commit/c770cb7fd99aa87c2edbbf421170b8746d437f12) — Add boot-to-UEFI-Shell DUT tool (#57) · `2026-10-28` · pega-irenelin
 <!-- LATEST-CHANGES:END -->
 
 ---
