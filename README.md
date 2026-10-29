@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_APEX@b582e68`](https://github.com/M2Station/M2_APEX/commit/b582e689b129a3821a6e62b36adef303216bcecc) — v0.5.37 · `2026-10-28` · oahsiao
-02. [`M2_PILOT@5d1fb0c`](https://github.com/M2Station/M2_PILOT/commit/5d1fb0cbfbc6912d525aea8e01bab07855a2ad96) — support RF function (#55) · `2026-10-28` · chuan0000
-03. [`M2_GIT_DIFF@b2f11a0`](https://github.com/M2Station/M2_GIT_DIFF/commit/b2f11a0917644040bcea75c8cc3183ebb5057d7d) — chore(release): bump version to 0.4.5 · `2026-10-28` · oahsiao
-04. [`M2_GIT_DIFF@b958069`](https://github.com/M2Station/M2_GIT_DIFF/commit/b9580699ccbe038bc1c32e6a5852409ca471241a) — chore: add missing MIT headers to release scripts · `2026-10-28` · oahsiao
-05. [`M2_GIT_DIFF@dda19f3`](https://github.com/M2Station/M2_GIT_DIFF/commit/dda19f3162daf13cbb87bfb6ef57a2e49ab2d42e) — feat(release): preflight dependency resolvability before ... · `2026-10-28` · oahsiao
-06. [`M2_PUBLIC_RELEASE@daf6187`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/daf6187a5f0f1d7a35ad5b8673c707141c43beca) — chore(m2-git-diff): publish v0.4.5 · `2026-10-28` · oahsiao
-07. [`M2_WIKI@f7e2d03`](https://github.com/M2Station/M2_WIKI/commit/f7e2d03b06cfb4c300cea9b112deabd1da3b6319) — Fix the heading issues. · `2026-10-28` · v-chtseng
-08. [`M2_WIKI@451dc17`](https://github.com/M2Station/M2_WIKI/commit/451dc175a7342ec6ed0cfbf267125071de21ab7b) — Fix the heading issues. · `2026-10-28` · v-chtseng
-09. [`M2_WIKI@68d3952`](https://github.com/M2Station/M2_WIKI/commit/68d39525a418fc15e39b73174f796248eb0ef75c) — Obtain three sets of 5,000 Copilot AI Credits each. · `2026-10-28` · v-chtseng
-10. [`M2_PILOT@c770cb7`](https://github.com/M2Station/M2_PILOT/commit/c770cb7fd99aa87c2edbbf421170b8746d437f12) — Add boot-to-UEFI-Shell DUT tool (#57) · `2026-10-28` · pega-irenelin
+01. [`M2_PILOT@702a88e`](https://github.com/M2Station/M2_PILOT/commit/702a88e40e844e3b6b1c1a517b4b6abc66bc186b) — RF data provision (#59) · `2026-10-29` · chuan0000
+02. [`M2_PUBLIC_RELEASE@f5d7d3d`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f5d7d3d97d3c6a84f73647b0ba5d6f5ccf69e5ed) — chore(m2-apex): publish v0.5.39 · `2026-10-29` · oahsiao
+03. [`M2_APEX@03e774f`](https://github.com/M2Station/M2_APEX/commit/03e774fafdebe0b572ea1f72bce8db38b26fab02) — feat(settings): lead the P2P records grid with the login ... · `2026-10-29` · oahsiao
+04. [`M2_APEX@5ae8cb4`](https://github.com/M2Station/M2_APEX/commit/5ae8cb433073f1e53a2c341747c7a66099436794) — fix(settings): marshal the app index status before touchi... · `2026-10-29` · oahsiao
+05. [`M2_APEX@de760af`](https://github.com/M2Station/M2_APEX/commit/de760af0aad330348ade6a481d9448f3c99d62dc) — feat(p2p): add the LoginName to CP_ACC table and kind series · `2026-10-29` · oahsiao
+06. [`M2_TIMELINE@809ec28`](https://github.com/M2Station/M2_TIMELINE/commit/809ec28a5e3ff89eeece2a9a19cf14aa0ca06bbb) — feat(app): add ED1 task table and timeline settings page · `2026-10-29` · oahsiao
+07. [`M2_TIMELINE@417fe6b`](https://github.com/M2Station/M2_TIMELINE/commit/417fe6b7dd8b3825bf9f196a605ee78417279bd5) — feat(app): add role tag filtering for perspectives · `2026-10-29` · oahsiao
+08. [`M2_TIMELINE@6895f55`](https://github.com/M2Station/M2_TIMELINE/commit/6895f55a827c9105db46a64a274e0ea03cdd8117) — feat(diagram): show per-stage calendar durations and clea... · `2026-10-29` · oahsiao
+09. [`M2_TIMELINE@7a6fa63`](https://github.com/M2Station/M2_TIMELINE/commit/7a6fa630189da4785b7aab14445dd6bcda0b4ad5) — feat(schedule): add event name overrides and explicit dep... · `2026-10-29` · oahsiao
+10. [`M2_TIMELINE@1704322`](https://github.com/M2Station/M2_TIMELINE/commit/170432299c813d5cabceb2e912369e6be8d964b9) — feat(ui): add draft undo with Ctrl+Z · `2026-10-29` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

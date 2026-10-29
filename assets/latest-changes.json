@@ -1,95 +1,95 @@
 {
-  "updated": "2026-10-28 16:03 TWN",
+  "updated": "2026-10-29 16:13 TWN",
   "latestChanges": [
     {
-      "date": 1793165662000,
-      "committedDate": "2026-10-28T05:34:22Z",
-      "header": "v0.5.37",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/b582e689b129a3821a6e62b36adef303216bcecc",
-      "sha": "b582e68",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793165556000,
-      "committedDate": "2026-10-28T05:32:36Z",
-      "header": "support RF function (#55)",
+      "date": 1793258761000,
+      "committedDate": "2026-10-29T07:26:01Z",
+      "header": "RF data provision (#59)",
       "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/5d1fb0cbfbc6912d525aea8e01bab07855a2ad96",
-      "sha": "5d1fb0c",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/702a88e40e844e3b6b1c1a517b4b6abc66bc186b",
+      "sha": "702a88e",
       "login": "chuan0000"
     },
     {
-      "date": 1793159483000,
-      "committedDate": "2026-10-28T03:51:23Z",
-      "header": "chore(release): bump version to 0.4.5",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/b2f11a0917644040bcea75c8cc3183ebb5057d7d",
-      "sha": "b2f11a0",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793159477000,
-      "committedDate": "2026-10-28T03:51:17Z",
-      "header": "chore: add missing MIT headers to release scripts",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/b9580699ccbe038bc1c32e6a5852409ca471241a",
-      "sha": "b958069",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793159472000,
-      "committedDate": "2026-10-28T03:51:12Z",
-      "header": "feat(release): preflight dependency resolvability before npm ci",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/dda19f3162daf13cbb87bfb6ef57a2e49ab2d42e",
-      "sha": "dda19f3",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793159379000,
-      "committedDate": "2026-10-28T03:49:39Z",
-      "header": "chore(m2-git-diff): publish v0.4.5",
+      "date": 1793258132000,
+      "committedDate": "2026-10-29T07:15:32Z",
+      "header": "chore(m2-apex): publish v0.5.39",
       "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/daf6187a5f0f1d7a35ad5b8673c707141c43beca",
-      "sha": "daf6187",
+      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f5d7d3d97d3c6a84f73647b0ba5d6f5ccf69e5ed",
+      "sha": "f5d7d3d",
       "login": "oahsiao"
     },
     {
-      "date": 1793159160000,
-      "committedDate": "2026-10-28T03:46:00Z",
-      "header": "Fix the heading issues.",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/f7e2d03b06cfb4c300cea9b112deabd1da3b6319",
-      "sha": "f7e2d03",
-      "login": "v-chtseng"
+      "date": 1793257330000,
+      "committedDate": "2026-10-29T07:02:10Z",
+      "header": "feat(settings): lead the P2P records grid with the login name column",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/03e774fafdebe0b572ea1f72bce8db38b26fab02",
+      "sha": "03e774f",
+      "login": "oahsiao"
     },
     {
-      "date": 1793158893000,
-      "committedDate": "2026-10-28T03:41:33Z",
-      "header": "Fix the heading issues.",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/451dc175a7342ec6ed0cfbf267125071de21ab7b",
-      "sha": "451dc17",
-      "login": "v-chtseng"
+      "date": 1793257276000,
+      "committedDate": "2026-10-29T07:01:16Z",
+      "header": "fix(settings): marshal the app index status before touching the window",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/5ae8cb433073f1e53a2c341747c7a66099436794",
+      "sha": "5ae8cb4",
+      "login": "oahsiao"
     },
     {
-      "date": 1793158207000,
-      "committedDate": "2026-10-28T03:30:07Z",
-      "header": "Obtain three sets of 5,000 Copilot AI Credits each.",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/68d39525a418fc15e39b73174f796248eb0ef75c",
-      "sha": "68d3952",
-      "login": "v-chtseng"
+      "date": 1793257195000,
+      "committedDate": "2026-10-29T06:59:55Z",
+      "header": "feat(p2p): add the LoginName to CP_ACC table and kind series",
+      "repo": "M2_APEX",
+      "url": "https://github.com/M2Station/M2_APEX/commit/de760af0aad330348ade6a481d9448f3c99d62dc",
+      "sha": "de760af",
+      "login": "oahsiao"
     },
     {
-      "date": 1793157483000,
-      "committedDate": "2026-10-28T03:18:03Z",
-      "header": "Add boot-to-UEFI-Shell DUT tool (#57)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/c770cb7fd99aa87c2edbbf421170b8746d437f12",
-      "sha": "c770cb7",
-      "login": "pega-irenelin"
+      "date": 1793256060000,
+      "committedDate": "2026-10-29T06:41:00Z",
+      "header": "feat(app): add ED1 task table and timeline settings page",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/809ec28a5e3ff89eeece2a9a19cf14aa0ca06bbb",
+      "sha": "809ec28",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793256059000,
+      "committedDate": "2026-10-29T06:40:59Z",
+      "header": "feat(app): add role tag filtering for perspectives",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/417fe6b7dd8b3825bf9f196a605ee78417279bd5",
+      "sha": "417fe6b",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793256058000,
+      "committedDate": "2026-10-29T06:40:58Z",
+      "header": "feat(diagram): show per-stage calendar durations and clean print export",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/6895f55a827c9105db46a64a274e0ea03cdd8117",
+      "sha": "6895f55",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793256057000,
+      "committedDate": "2026-10-29T06:40:57Z",
+      "header": "feat(schedule): add event name overrides and explicit dependencies",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/7a6fa630189da4785b7aab14445dd6bcda0b4ad5",
+      "sha": "7a6fa63",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793256056000,
+      "committedDate": "2026-10-29T06:40:56Z",
+      "header": "feat(ui): add draft undo with Ctrl+Z",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/170432299c813d5cabceb2e912369e6be8d964b9",
+      "sha": "1704322",
+      "login": "oahsiao"
     }
   ]
 }
