@@ -1,95 +1,95 @@
 {
-  "updated": "2026-10-29 16:13 TWN",
+  "updated": "2026-10-30 16:19 TWN",
   "latestChanges": [
     {
-      "date": 1793258761000,
-      "committedDate": "2026-10-29T07:26:01Z",
-      "header": "RF data provision (#59)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/702a88e40e844e3b6b1c1a517b4b6abc66bc186b",
-      "sha": "702a88e",
-      "login": "chuan0000"
-    },
-    {
-      "date": 1793258132000,
-      "committedDate": "2026-10-29T07:15:32Z",
-      "header": "chore(m2-apex): publish v0.5.39",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f5d7d3d97d3c6a84f73647b0ba5d6f5ccf69e5ed",
-      "sha": "f5d7d3d",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793257330000,
-      "committedDate": "2026-10-29T07:02:10Z",
-      "header": "feat(settings): lead the P2P records grid with the login name column",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/03e774fafdebe0b572ea1f72bce8db38b26fab02",
-      "sha": "03e774f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793257276000,
-      "committedDate": "2026-10-29T07:01:16Z",
-      "header": "fix(settings): marshal the app index status before touching the window",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/5ae8cb433073f1e53a2c341747c7a66099436794",
-      "sha": "5ae8cb4",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793257195000,
-      "committedDate": "2026-10-29T06:59:55Z",
-      "header": "feat(p2p): add the LoginName to CP_ACC table and kind series",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/de760af0aad330348ade6a481d9448f3c99d62dc",
-      "sha": "de760af",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793256060000,
-      "committedDate": "2026-10-29T06:41:00Z",
-      "header": "feat(app): add ED1 task table and timeline settings page",
+      "date": 1793342105000,
+      "committedDate": "2026-10-30T06:35:05Z",
+      "header": "feat(studio): add ED1 template editor tab and rename scenario templates",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/809ec28a5e3ff89eeece2a9a19cf14aa0ca06bbb",
-      "sha": "809ec28",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/d4d216b4332f2762fafb71d5c0caa745bed83b69",
+      "sha": "d4d216b",
       "login": "oahsiao"
     },
     {
-      "date": 1793256059000,
-      "committedDate": "2026-10-29T06:40:59Z",
-      "header": "feat(app): add role tag filtering for perspectives",
+      "date": 1793342096000,
+      "committedDate": "2026-10-30T06:34:56Z",
+      "header": "feat(version): surface package version in app, exports, and session",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/417fe6b7dd8b3825bf9f196a605ee78417279bd5",
-      "sha": "417fe6b",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/09051747ba83c08fe4186b295af7d89a0a3eb979",
+      "sha": "0905174",
       "login": "oahsiao"
     },
     {
-      "date": 1793256058000,
-      "committedDate": "2026-10-29T06:40:58Z",
-      "header": "feat(diagram): show per-stage calendar durations and clean print export",
+      "date": 1793342093000,
+      "committedDate": "2026-10-30T06:34:53Z",
+      "header": "style(ui): enlarge desktop control targets and unify field spacing",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/6895f55a827c9105db46a64a274e0ea03cdd8117",
-      "sha": "6895f55",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/092cab4ff83d3d7c2840dd1b01e099b5ebd18bd9",
+      "sha": "092cab4",
       "login": "oahsiao"
     },
     {
-      "date": 1793256057000,
-      "committedDate": "2026-10-29T06:40:57Z",
-      "header": "feat(schedule): add event name overrides and explicit dependencies",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/7a6fa630189da4785b7aab14445dd6bcda0b4ad5",
-      "sha": "7a6fa63",
-      "login": "oahsiao"
+      "date": 1793341990000,
+      "committedDate": "2026-10-30T06:33:10Z",
+      "header": "Describe limit-file-only comparison in the v22 ReleaseNote and Rev. 2026.1030",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/cae89c3086b6c251833e57808d87f906c095aca2",
+      "sha": "cae89c3",
+      "login": "cin0429"
     },
     {
-      "date": 1793256056000,
-      "committedDate": "2026-10-29T06:40:56Z",
-      "header": "feat(ui): add draft undo with Ctrl+Z",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/170432299c813d5cabceb2e912369e6be8d964b9",
-      "sha": "1704322",
-      "login": "oahsiao"
+      "date": 1793341990000,
+      "committedDate": "2026-10-30T06:33:10Z",
+      "header": "Compare limit files kept directly in LogLimit Compare project folders",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/47f68dd1944bb443915876640bddfa7dec9544b8",
+      "sha": "47f68dd",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793341989000,
+      "committedDate": "2026-10-30T06:33:09Z",
+      "header": "Update ReleaseNote for MSAGUI_v22 and the Technical Reference to Rev. 2026.1030",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/ae7024271e82504147456ab3915dfbc262db2585",
+      "sha": "ae70242",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793341989000,
+      "committedDate": "2026-10-30T06:33:09Z",
+      "header": "Link MSA Summary table items to their variability charts",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/ae3d08c237316f726f2956ab4bbdd98203364e33",
+      "sha": "ae3d08c",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793341989000,
+      "committedDate": "2026-10-30T06:33:09Z",
+      "header": "Always open LogLimit Compare reports in English",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/30c595bc04af7ff11469310b30d47db5b6448388",
+      "sha": "30c595b",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793341988000,
+      "committedDate": "2026-10-30T06:33:08Z",
+      "header": "Add a collapsed filter guide under the LogLimit Compare filter buttons",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/d3863175b5c7bea4b7cf782c350bd39db6e543e8",
+      "sha": "d386317",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793341988000,
+      "committedDate": "2026-10-30T06:33:08Z",
+      "header": "Split the LogLimit Compare same-value filter into two filters",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/95e669050156cf56c52e125886a3f278924369e5",
+      "sha": "95e6690",
+      "login": "cin0429"
     }
   ]
 }

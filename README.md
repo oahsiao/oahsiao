@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PILOT@702a88e`](https://github.com/M2Station/M2_PILOT/commit/702a88e40e844e3b6b1c1a517b4b6abc66bc186b) — RF data provision (#59) · `2026-10-29` · chuan0000
-02. [`M2_PUBLIC_RELEASE@f5d7d3d`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/f5d7d3d97d3c6a84f73647b0ba5d6f5ccf69e5ed) — chore(m2-apex): publish v0.5.39 · `2026-10-29` · oahsiao
-03. [`M2_APEX@03e774f`](https://github.com/M2Station/M2_APEX/commit/03e774fafdebe0b572ea1f72bce8db38b26fab02) — feat(settings): lead the P2P records grid with the login ... · `2026-10-29` · oahsiao
-04. [`M2_APEX@5ae8cb4`](https://github.com/M2Station/M2_APEX/commit/5ae8cb433073f1e53a2c341747c7a66099436794) — fix(settings): marshal the app index status before touchi... · `2026-10-29` · oahsiao
-05. [`M2_APEX@de760af`](https://github.com/M2Station/M2_APEX/commit/de760af0aad330348ade6a481d9448f3c99d62dc) — feat(p2p): add the LoginName to CP_ACC table and kind series · `2026-10-29` · oahsiao
-06. [`M2_TIMELINE@809ec28`](https://github.com/M2Station/M2_TIMELINE/commit/809ec28a5e3ff89eeece2a9a19cf14aa0ca06bbb) — feat(app): add ED1 task table and timeline settings page · `2026-10-29` · oahsiao
-07. [`M2_TIMELINE@417fe6b`](https://github.com/M2Station/M2_TIMELINE/commit/417fe6b7dd8b3825bf9f196a605ee78417279bd5) — feat(app): add role tag filtering for perspectives · `2026-10-29` · oahsiao
-08. [`M2_TIMELINE@6895f55`](https://github.com/M2Station/M2_TIMELINE/commit/6895f55a827c9105db46a64a274e0ea03cdd8117) — feat(diagram): show per-stage calendar durations and clea... · `2026-10-29` · oahsiao
-09. [`M2_TIMELINE@7a6fa63`](https://github.com/M2Station/M2_TIMELINE/commit/7a6fa630189da4785b7aab14445dd6bcda0b4ad5) — feat(schedule): add event name overrides and explicit dep... · `2026-10-29` · oahsiao
-10. [`M2_TIMELINE@1704322`](https://github.com/M2Station/M2_TIMELINE/commit/170432299c813d5cabceb2e912369e6be8d964b9) — feat(ui): add draft undo with Ctrl+Z · `2026-10-29` · oahsiao
+01. [`M2_TIMELINE@d4d216b`](https://github.com/M2Station/M2_TIMELINE/commit/d4d216b4332f2762fafb71d5c0caa745bed83b69) — feat(studio): add ED1 template editor tab and rename scen... · `2026-10-30` · oahsiao
+02. [`M2_TIMELINE@0905174`](https://github.com/M2Station/M2_TIMELINE/commit/09051747ba83c08fe4186b295af7d89a0a3eb979) — feat(version): surface package version in app, exports, a... · `2026-10-30` · oahsiao
+03. [`M2_TIMELINE@092cab4`](https://github.com/M2Station/M2_TIMELINE/commit/092cab4ff83d3d7c2840dd1b01e099b5ebd18bd9) — style(ui): enlarge desktop control targets and unify fiel... · `2026-10-30` · oahsiao
+04. [`M2_MSAGUI@cae89c3`](https://github.com/M2Station/M2_MSAGUI/commit/cae89c3086b6c251833e57808d87f906c095aca2) — Describe limit-file-only comparison in the v22 ReleaseNot... · `2026-10-30` · cin0429
+05. [`M2_MSAGUI@47f68dd`](https://github.com/M2Station/M2_MSAGUI/commit/47f68dd1944bb443915876640bddfa7dec9544b8) — Compare limit files kept directly in LogLimit Compare pro... · `2026-10-30` · cin0429
+06. [`M2_MSAGUI@ae70242`](https://github.com/M2Station/M2_MSAGUI/commit/ae7024271e82504147456ab3915dfbc262db2585) — Update ReleaseNote for MSAGUI_v22 and the Technical Refer... · `2026-10-30` · cin0429
+07. [`M2_MSAGUI@ae3d08c`](https://github.com/M2Station/M2_MSAGUI/commit/ae3d08c237316f726f2956ab4bbdd98203364e33) — Link MSA Summary table items to their variability charts · `2026-10-30` · cin0429
+08. [`M2_MSAGUI@30c595b`](https://github.com/M2Station/M2_MSAGUI/commit/30c595bc04af7ff11469310b30d47db5b6448388) — Always open LogLimit Compare reports in English · `2026-10-30` · cin0429
+09. [`M2_MSAGUI@d386317`](https://github.com/M2Station/M2_MSAGUI/commit/d3863175b5c7bea4b7cf782c350bd39db6e543e8) — Add a collapsed filter guide under the LogLimit Compare f... · `2026-10-30` · cin0429
+10. [`M2_MSAGUI@95e6690`](https://github.com/M2Station/M2_MSAGUI/commit/95e669050156cf56c52e125886a3f278924369e5) — Split the LogLimit Compare same-value filter into two fil... · `2026-10-30` · cin0429
 <!-- LATEST-CHANGES:END -->
 
 ---
