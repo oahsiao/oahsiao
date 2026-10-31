@@ -1,95 +1,95 @@
 {
-  "updated": "2026-10-30 16:19 TWN",
+  "updated": "2026-10-31 16:09 TWN",
   "latestChanges": [
     {
-      "date": 1793342105000,
-      "committedDate": "2026-10-30T06:35:05Z",
-      "header": "feat(studio): add ED1 template editor tab and rename scenario templates",
+      "date": 1793429597000,
+      "committedDate": "2026-10-31T06:53:17Z",
+      "header": "feat(i18n): rename the Style A presentation to \"Interactive phase presentation\"",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/d4d216b4332f2762fafb71d5c0caa745bed83b69",
-      "sha": "d4d216b",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/8a746755bd7d4110c152f6afca92f101c7ab06e3",
+      "sha": "8a74675",
       "login": "oahsiao"
     },
     {
-      "date": 1793342096000,
-      "committedDate": "2026-10-30T06:34:56Z",
-      "header": "feat(version): surface package version in app, exports, and session",
+      "date": 1793428653000,
+      "committedDate": "2026-10-31T06:37:33Z",
+      "header": "style(ui): derive theme colours from tokens, enforce the type floor",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/09051747ba83c08fe4186b295af7d89a0a3eb979",
-      "sha": "0905174",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/c9e5abcc5bc78a679a095f39acfaad8c2886889e",
+      "sha": "c9e5abc",
       "login": "oahsiao"
     },
     {
-      "date": 1793342093000,
-      "committedDate": "2026-10-30T06:34:53Z",
-      "header": "style(ui): enlarge desktop control targets and unify field spacing",
+      "date": 1793413540000,
+      "committedDate": "2026-10-31T02:25:40Z",
+      "header": "fix(diagram): keep event labels on one line at a uniform size",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/092cab4ff83d3d7c2840dd1b01e099b5ebd18bd9",
-      "sha": "092cab4",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/6b96a318545223b43a872cdcb31f0c78fd5a034d",
+      "sha": "6b96a31",
       "login": "oahsiao"
     },
     {
-      "date": 1793341990000,
-      "committedDate": "2026-10-30T06:33:10Z",
-      "header": "Describe limit-file-only comparison in the v22 ReleaseNote and Rev. 2026.1030",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/cae89c3086b6c251833e57808d87f906c095aca2",
-      "sha": "cae89c3",
-      "login": "cin0429"
+      "date": 1793389520000,
+      "committedDate": "2026-10-30T19:45:20Z",
+      "header": "fix(diagram): show event date ranges as \"start | end\", keep the name intact",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/1566abad1271412df07205289875524a303831f0",
+      "sha": "1566aba",
+      "login": "oahsiao"
     },
     {
-      "date": 1793341990000,
-      "committedDate": "2026-10-30T06:33:10Z",
-      "header": "Compare limit files kept directly in LogLimit Compare project folders",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/47f68dd1944bb443915876640bddfa7dec9544b8",
-      "sha": "47f68dd",
-      "login": "cin0429"
+      "date": 1793387675000,
+      "committedDate": "2026-10-30T19:14:35Z",
+      "header": "build(php): target PHP 8.5 across the launcher, CI, and packages",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/42682942c54b2797be934ebf27e820b5d6fac211",
+      "sha": "4268294",
+      "login": "oahsiao"
     },
     {
-      "date": 1793341989000,
-      "committedDate": "2026-10-30T06:33:09Z",
-      "header": "Update ReleaseNote for MSAGUI_v22 and the Technical Reference to Rev. 2026.1030",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/ae7024271e82504147456ab3915dfbc262db2585",
-      "sha": "ae70242",
-      "login": "cin0429"
+      "date": 1793386917000,
+      "committedDate": "2026-10-30T19:01:57Z",
+      "header": "feat(m2-pr): extend auto mode with post-merge cleanup and stage reporting",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/3ea8df882fd4ff070bdec7510a7bef211b7fab5d",
+      "sha": "3ea8df8",
+      "login": "oahsiao"
     },
     {
-      "date": 1793341989000,
-      "committedDate": "2026-10-30T06:33:09Z",
-      "header": "Link MSA Summary table items to their variability charts",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/ae3d08c237316f726f2956ab4bbdd98203364e33",
-      "sha": "ae3d08c",
-      "login": "cin0429"
+      "date": 1793386911000,
+      "committedDate": "2026-10-30T19:01:51Z",
+      "header": "feat(m2-commit): add auto mode for unattended commit and push to main",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/f359066ef442039c167e798af964424626866cc9",
+      "sha": "f359066",
+      "login": "oahsiao"
     },
     {
-      "date": 1793341989000,
-      "committedDate": "2026-10-30T06:33:09Z",
-      "header": "Always open LogLimit Compare reports in English",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/30c595bc04af7ff11469310b30d47db5b6448388",
-      "sha": "30c595b",
-      "login": "cin0429"
+      "date": 1793386638000,
+      "committedDate": "2026-10-30T18:57:18Z",
+      "header": "fix(test): resolve the short 8.3 temp path in the API test",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/7e9930a6e41f0bbc6db8a3d2629d38f869e573ea",
+      "sha": "7e9930a",
+      "login": "oahsiao"
     },
     {
-      "date": 1793341988000,
-      "committedDate": "2026-10-30T06:33:08Z",
-      "header": "Add a collapsed filter guide under the LogLimit Compare filter buttons",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/d3863175b5c7bea4b7cf782c350bd39db6e543e8",
-      "sha": "d386317",
-      "login": "cin0429"
+      "date": 1793386405000,
+      "committedDate": "2026-10-30T18:53:25Z",
+      "header": "fix(ci): move the verify workflow to the repository root",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/d4957086cbd4307e80635e6b70163a1ac7711f06",
+      "sha": "d495708",
+      "login": "oahsiao"
     },
     {
-      "date": 1793341988000,
-      "committedDate": "2026-10-30T06:33:08Z",
-      "header": "Split the LogLimit Compare same-value filter into two filters",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/95e669050156cf56c52e125886a3f278924369e5",
-      "sha": "95e6690",
-      "login": "cin0429"
+      "date": 1793386316000,
+      "committedDate": "2026-10-30T18:51:56Z",
+      "header": "fix(ci): make the verify workflow run, and fix the deployment test",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/6c2726a0823510b50faefe12a9ffc2f84b526a69",
+      "sha": "6c2726a",
+      "login": "oahsiao"
     }
   ]
 }

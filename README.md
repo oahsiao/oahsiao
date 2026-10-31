@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@d4d216b`](https://github.com/M2Station/M2_TIMELINE/commit/d4d216b4332f2762fafb71d5c0caa745bed83b69) — feat(studio): add ED1 template editor tab and rename scen... · `2026-10-30` · oahsiao
-02. [`M2_TIMELINE@0905174`](https://github.com/M2Station/M2_TIMELINE/commit/09051747ba83c08fe4186b295af7d89a0a3eb979) — feat(version): surface package version in app, exports, a... · `2026-10-30` · oahsiao
-03. [`M2_TIMELINE@092cab4`](https://github.com/M2Station/M2_TIMELINE/commit/092cab4ff83d3d7c2840dd1b01e099b5ebd18bd9) — style(ui): enlarge desktop control targets and unify fiel... · `2026-10-30` · oahsiao
-04. [`M2_MSAGUI@cae89c3`](https://github.com/M2Station/M2_MSAGUI/commit/cae89c3086b6c251833e57808d87f906c095aca2) — Describe limit-file-only comparison in the v22 ReleaseNot... · `2026-10-30` · cin0429
-05. [`M2_MSAGUI@47f68dd`](https://github.com/M2Station/M2_MSAGUI/commit/47f68dd1944bb443915876640bddfa7dec9544b8) — Compare limit files kept directly in LogLimit Compare pro... · `2026-10-30` · cin0429
-06. [`M2_MSAGUI@ae70242`](https://github.com/M2Station/M2_MSAGUI/commit/ae7024271e82504147456ab3915dfbc262db2585) — Update ReleaseNote for MSAGUI_v22 and the Technical Refer... · `2026-10-30` · cin0429
-07. [`M2_MSAGUI@ae3d08c`](https://github.com/M2Station/M2_MSAGUI/commit/ae3d08c237316f726f2956ab4bbdd98203364e33) — Link MSA Summary table items to their variability charts · `2026-10-30` · cin0429
-08. [`M2_MSAGUI@30c595b`](https://github.com/M2Station/M2_MSAGUI/commit/30c595bc04af7ff11469310b30d47db5b6448388) — Always open LogLimit Compare reports in English · `2026-10-30` · cin0429
-09. [`M2_MSAGUI@d386317`](https://github.com/M2Station/M2_MSAGUI/commit/d3863175b5c7bea4b7cf782c350bd39db6e543e8) — Add a collapsed filter guide under the LogLimit Compare f... · `2026-10-30` · cin0429
-10. [`M2_MSAGUI@95e6690`](https://github.com/M2Station/M2_MSAGUI/commit/95e669050156cf56c52e125886a3f278924369e5) — Split the LogLimit Compare same-value filter into two fil... · `2026-10-30` · cin0429
+01. [`M2_TIMELINE@8a74675`](https://github.com/M2Station/M2_TIMELINE/commit/8a746755bd7d4110c152f6afca92f101c7ab06e3) — feat(i18n): rename the Style A presentation to "Interacti... · `2026-10-31` · oahsiao
+02. [`M2_TIMELINE@c9e5abc`](https://github.com/M2Station/M2_TIMELINE/commit/c9e5abcc5bc78a679a095f39acfaad8c2886889e) — style(ui): derive theme colours from tokens, enforce the ... · `2026-10-31` · oahsiao
+03. [`M2_TIMELINE@6b96a31`](https://github.com/M2Station/M2_TIMELINE/commit/6b96a318545223b43a872cdcb31f0c78fd5a034d) — fix(diagram): keep event labels on one line at a uniform ... · `2026-10-31` · oahsiao
+04. [`M2_TIMELINE@1566aba`](https://github.com/M2Station/M2_TIMELINE/commit/1566abad1271412df07205289875524a303831f0) — fix(diagram): show event date ranges as "start \| end", ke... · `2026-10-30` · oahsiao
+05. [`M2_TIMELINE@4268294`](https://github.com/M2Station/M2_TIMELINE/commit/42682942c54b2797be934ebf27e820b5d6fac211) — build(php): target PHP 8.5 across the launcher, CI, and p... · `2026-10-30` · oahsiao
+06. [`M2_SKILLS@3ea8df8`](https://github.com/M2Station/M2_SKILLS/commit/3ea8df882fd4ff070bdec7510a7bef211b7fab5d) — feat(m2-pr): extend auto mode with post-merge cleanup and... · `2026-10-30` · oahsiao
+07. [`M2_SKILLS@f359066`](https://github.com/M2Station/M2_SKILLS/commit/f359066ef442039c167e798af964424626866cc9) — feat(m2-commit): add auto mode for unattended commit and ... · `2026-10-30` · oahsiao
+08. [`M2_TIMELINE@7e9930a`](https://github.com/M2Station/M2_TIMELINE/commit/7e9930a6e41f0bbc6db8a3d2629d38f869e573ea) — fix(test): resolve the short 8.3 temp path in the API test · `2026-10-30` · oahsiao
+09. [`M2_TIMELINE@d495708`](https://github.com/M2Station/M2_TIMELINE/commit/d4957086cbd4307e80635e6b70163a1ac7711f06) — fix(ci): move the verify workflow to the repository root · `2026-10-30` · oahsiao
+10. [`M2_TIMELINE@6c2726a`](https://github.com/M2Station/M2_TIMELINE/commit/6c2726a0823510b50faefe12a9ffc2f84b526a69) — fix(ci): make the verify workflow run, and fix the deploy... · `2026-10-30` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
