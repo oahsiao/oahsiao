@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-31 16:09 TWN",
+  "updated": "2026-11-01 16:54 TWN",
   "latestChanges": [
+    {
+      "date": 1793435868000,
+      "committedDate": "2026-10-31T08:37:48Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/e98013ed641b4999c80213375b72b22568c53a51",
+      "sha": "e98013e",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1793429597000,
       "committedDate": "2026-10-31T06:53:17Z",
@@ -80,15 +89,6 @@
       "repo": "M2_TIMELINE",
       "url": "https://github.com/M2Station/M2_TIMELINE/commit/d4957086cbd4307e80635e6b70163a1ac7711f06",
       "sha": "d495708",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793386316000,
-      "committedDate": "2026-10-30T18:51:56Z",
-      "header": "fix(ci): make the verify workflow run, and fix the deployment test",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/6c2726a0823510b50faefe12a9ffc2f84b526a69",
-      "sha": "6c2726a",
       "login": "oahsiao"
     }
   ]
