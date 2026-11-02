@@ -1,94 +1,94 @@
 {
-  "updated": "2026-11-01 16:54 TWN",
+  "updated": "2026-11-02 17:04 TWN",
   "latestChanges": [
     {
-      "date": 1793435868000,
-      "committedDate": "2026-10-31T08:37:48Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/e98013ed641b4999c80213375b72b22568c53a51",
-      "sha": "e98013e",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1793429597000,
-      "committedDate": "2026-10-31T06:53:17Z",
-      "header": "feat(i18n): rename the Style A presentation to \"Interactive phase presentation\"",
+      "date": 1793605700000,
+      "committedDate": "2026-11-02T07:48:20Z",
+      "header": "feat(templates): show each project template as a card with its EVENT count",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/8a746755bd7d4110c152f6afca92f101c7ab06e3",
-      "sha": "8a74675",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/ae5c3fd7f1acab521718bc4f6e110cd9dddf6818",
+      "sha": "ae5c3fd",
       "login": "oahsiao"
     },
     {
-      "date": 1793428653000,
-      "committedDate": "2026-10-31T06:37:33Z",
-      "header": "style(ui): derive theme colours from tokens, enforce the type floor",
+      "date": 1793601179000,
+      "committedDate": "2026-11-02T06:32:59Z",
+      "header": "Update ReleaseNote for MSAGUI_v23 and the Technical Reference to Rev. 2026.1102",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/9f383c8b2903c183698b517f5a94c7e304d7016f",
+      "sha": "9f383c8",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793601177000,
+      "committedDate": "2026-11-02T06:32:57Z",
+      "header": "Explain Item Mapping with a README sheet and warn about dropped items",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/71d8fdb3163f140b512525c026211f41ec0a59cd",
+      "sha": "71d8fdb",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793601175000,
+      "committedDate": "2026-11-02T06:32:55Z",
+      "header": "Let LogLimit Compare choose which match view the report opens on",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/22124c1995c5d908f1a1fba80e987eaf1a97e275",
+      "sha": "22124c1",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793601174000,
+      "committedDate": "2026-11-02T06:32:54Z",
+      "header": "Keep MSA email grids intact when pasted into another Outlook mail",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/d6258cdd44d20d275b0f795a6020bd5bd2a372e7",
+      "sha": "d6258cd",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793597603000,
+      "committedDate": "2026-11-02T05:33:23Z",
+      "header": "fix(mcp): survive a wire log directory that cannot be created",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/c9e5abcc5bc78a679a095f39acfaad8c2886889e",
-      "sha": "c9e5abc",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/66f9ba424b6720a28896cd00cc93bcbf301628b8",
+      "sha": "66f9ba4",
       "login": "oahsiao"
     },
     {
-      "date": 1793413540000,
-      "committedDate": "2026-10-31T02:25:40Z",
-      "header": "fix(diagram): keep event labels on one line at a uniform size",
+      "date": 1793597563000,
+      "committedDate": "2026-11-02T05:32:43Z",
+      "header": "fix(styles): keep the stage ink usable in print media",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/6b96a318545223b43a872cdcb31f0c78fd5a034d",
-      "sha": "6b96a31",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/71be67ddeb06b69b21811257fa0dbdb56438c2a7",
+      "sha": "71be67d",
       "login": "oahsiao"
     },
     {
-      "date": 1793389520000,
-      "committedDate": "2026-10-30T19:45:20Z",
-      "header": "fix(diagram): show event date ranges as \"start | end\", keep the name intact",
+      "date": 1793593264000,
+      "committedDate": "2026-11-02T04:21:04Z",
+      "header": "fix(ed1): restore the short reorder hint in the row tooltip",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/1566abad1271412df07205289875524a303831f0",
-      "sha": "1566aba",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/5c0f8a6b21983f830b439a07e182c2a2cc619abd",
+      "sha": "5c0f8a6",
       "login": "oahsiao"
     },
     {
-      "date": 1793387675000,
-      "committedDate": "2026-10-30T19:14:35Z",
-      "header": "build(php): target PHP 8.5 across the launcher, CI, and packages",
+      "date": 1793592969000,
+      "committedDate": "2026-11-02T04:16:09Z",
+      "header": "fix(ed1): stop repeating the reorder hint in every row tooltip",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/42682942c54b2797be934ebf27e820b5d6fac211",
-      "sha": "4268294",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/8212cae508bd963a8d136bfbf4d6074c6c3174f7",
+      "sha": "8212cae",
       "login": "oahsiao"
     },
     {
-      "date": 1793386917000,
-      "committedDate": "2026-10-30T19:01:57Z",
-      "header": "feat(m2-pr): extend auto mode with post-merge cleanup and stage reporting",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/3ea8df882fd4ff070bdec7510a7bef211b7fab5d",
-      "sha": "3ea8df8",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793386911000,
-      "committedDate": "2026-10-30T19:01:51Z",
-      "header": "feat(m2-commit): add auto mode for unattended commit and push to main",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/f359066ef442039c167e798af964424626866cc9",
-      "sha": "f359066",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793386638000,
-      "committedDate": "2026-10-30T18:57:18Z",
-      "header": "fix(test): resolve the short 8.3 temp path in the API test",
+      "date": 1793592902000,
+      "committedDate": "2026-11-02T04:15:02Z",
+      "header": "refactor(ed1): drive ED1 row geometry and stage ink from tokens",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/7e9930a6e41f0bbc6db8a3d2629d38f869e573ea",
-      "sha": "7e9930a",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793386405000,
-      "committedDate": "2026-10-30T18:53:25Z",
-      "header": "fix(ci): move the verify workflow to the repository root",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/d4957086cbd4307e80635e6b70163a1ac7711f06",
-      "sha": "d495708",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/8cd6e527adedd30d4b828749f1640d6989a5c9d4",
+      "sha": "8cd6e52",
       "login": "oahsiao"
     }
   ]
