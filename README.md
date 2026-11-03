@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@ae5c3fd`](https://github.com/M2Station/M2_TIMELINE/commit/ae5c3fd7f1acab521718bc4f6e110cd9dddf6818) — feat(templates): show each project template as a card wit... · `2026-11-02` · oahsiao
-02. [`M2_MSAGUI@9f383c8`](https://github.com/M2Station/M2_MSAGUI/commit/9f383c8b2903c183698b517f5a94c7e304d7016f) — Update ReleaseNote for MSAGUI_v23 and the Technical Refer... · `2026-11-02` · cin0429
-03. [`M2_MSAGUI@71d8fdb`](https://github.com/M2Station/M2_MSAGUI/commit/71d8fdb3163f140b512525c026211f41ec0a59cd) — Explain Item Mapping with a README sheet and warn about d... · `2026-11-02` · cin0429
-04. [`M2_MSAGUI@22124c1`](https://github.com/M2Station/M2_MSAGUI/commit/22124c1995c5d908f1a1fba80e987eaf1a97e275) — Let LogLimit Compare choose which match view the report o... · `2026-11-02` · cin0429
-05. [`M2_MSAGUI@d6258cd`](https://github.com/M2Station/M2_MSAGUI/commit/d6258cdd44d20d275b0f795a6020bd5bd2a372e7) — Keep MSA email grids intact when pasted into another Outl... · `2026-11-02` · cin0429
-06. [`M2_TIMELINE@66f9ba4`](https://github.com/M2Station/M2_TIMELINE/commit/66f9ba424b6720a28896cd00cc93bcbf301628b8) — fix(mcp): survive a wire log directory that cannot be cre... · `2026-11-02` · oahsiao
-07. [`M2_TIMELINE@71be67d`](https://github.com/M2Station/M2_TIMELINE/commit/71be67ddeb06b69b21811257fa0dbdb56438c2a7) — fix(styles): keep the stage ink usable in print media · `2026-11-02` · oahsiao
-08. [`M2_TIMELINE@5c0f8a6`](https://github.com/M2Station/M2_TIMELINE/commit/5c0f8a6b21983f830b439a07e182c2a2cc619abd) — fix(ed1): restore the short reorder hint in the row tooltip · `2026-11-02` · oahsiao
-09. [`M2_TIMELINE@8212cae`](https://github.com/M2Station/M2_TIMELINE/commit/8212cae508bd963a8d136bfbf4d6074c6c3174f7) — fix(ed1): stop repeating the reorder hint in every row to... · `2026-11-02` · oahsiao
-10. [`M2_TIMELINE@8cd6e52`](https://github.com/M2Station/M2_TIMELINE/commit/8cd6e527adedd30d4b828749f1640d6989a5c9d4) — refactor(ed1): drive ED1 row geometry and stage ink from ... · `2026-11-02` · oahsiao
+01. [`M2_TIMELINE@72c8e4a`](https://github.com/M2Station/M2_TIMELINE/commit/72c8e4a8c128e43df65481465616af96a42a12d2) — docs: document the ED2 zoom, display order, auto routing ... · `2026-11-03` · oahsiao
+02. [`M2_TIMELINE@997d909`](https://github.com/M2Station/M2_TIMELINE/commit/997d909903615e346e9f37d2dc53fb9e440b3135) — feat(backend): validate the timeline display order and da... · `2026-11-03` · oahsiao
+03. [`M2_TIMELINE@2674cd3`](https://github.com/M2Station/M2_TIMELINE/commit/2674cd3166a72142ad21c6646a3e1e296e2af4e8) — feat(ed2): order rows, re-route connections and edit EVEN... · `2026-11-03` · oahsiao
+04. [`M2_TIMELINE@aa8cf9c`](https://github.com/M2Station/M2_TIMELINE/commit/aa8cf9c4614c0a8017a905f72ec16297ce1f8bd2) — feat(engine): add timeline row ordering, row reordering a... · `2026-11-03` · oahsiao
+05. [`M2_WIKI@6c176ec`](https://github.com/M2Station/M2_WIKI/commit/6c176ec6affcf081edacaafdc44bfe08d5242503) — + Add more info. 懂得就懂 · `2026-11-03` · oahsiao
+06. [`M2_DEVOPS@fe89741`](https://github.com/M2Station/M2_DEVOPS/commit/fe89741a96cf7924372f75e7e92c3e7e6d09d85b) — feat(ui): show the MILESTONE column before priority in ev... · `2026-11-03` · oahsiao
+07. [`M2_WIKI@c45bc5c`](https://github.com/M2Station/M2_WIKI/commit/c45bc5cdf7cac691a03e0261742bcf3daff37ef2) — 2026 商業管理方針 · `2026-11-03` · oahsiao
+08. [`M2_TIMELINE@a978ba8`](https://github.com/M2Station/M2_TIMELINE/commit/a978ba8d13962a8e8cf8f48dbbc46ddc95717cb1) — docs: document the schedule template timeline workflow · `2026-11-03` · oahsiao
+09. [`M2_TIMELINE@4ae7516`](https://github.com/M2Station/M2_TIMELINE/commit/4ae7516d41dd0849abae84895886142a29905fe5) — feat(backend): validate schedule dependencies and timelin... · `2026-11-03` · oahsiao
+10. [`M2_TIMELINE@aa1daab`](https://github.com/M2Station/M2_TIMELINE/commit/aa1daab59503bea8df74aa9abb25c71e124fcedb) — feat(templates): add the ED2 timeline editor and schedule... · `2026-11-03` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

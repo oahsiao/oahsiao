@@ -2,36 +2,36 @@
   <rect width="480" height="160" fill="#060a0f" rx="8"/>
   <text x="12" y="14" font-family="DM Mono,monospace" font-size="9" fill="#007a6a" letter-spacing="3">// M2STATION · LANGUAGE BREAKDOWN</text>
   <line x1="8" y1="22" x2="472" y2="22" stroke="#00f5d4" stroke-width="0.3" opacity="0.3"/>
-  <path d="M80,78 L80.0,18.0 A60,60 0 0 1 125.3,117.4 Z"
-      fill="#3572A5" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L125.3,117.4 A60,60 0 0 1 66.9,136.6 Z"
-      fill="#f1e05a" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L66.9,136.6 A60,60 0 0 1 30.0,111.1 Z"
-      fill="#7355dd" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L30.0,111.1 A60,60 0 0 1 20.1,80.6 Z"
-      fill="#555555" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L20.1,80.6 A60,60 0 0 1 23.4,58.0 Z"
-      fill="#e34c26" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L23.4,58.0 A60,60 0 0 1 31.0,43.3 Z"
-      fill="#888" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L31.0,43.3 A60,60 0 0 1 40.6,32.7 Z"
-      fill="#4F5D95" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L40.6,32.7 A60,60 0 0 1 49.5,26.4 Z"
-      fill="#012456" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L49.5,26.4 A60,60 0 0 1 57.6,22.4 Z"
-      fill="#663399" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L57.6,22.4 A60,60 0 0 1 61.8,20.8 Z"
+  <path d="M80,78 L80.0,18.0 A60,60 0 0 1 125.5,117.1 Z"
+      fill="#3572A5" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L125.5,117.1 A60,60 0 0 1 67.6,136.7 Z"
+      fill="#f1e05a" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L67.6,136.7 A60,60 0 0 1 30.4,111.7 Z"
+      fill="#7355dd" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L30.4,111.7 A60,60 0 0 1 20.1,81.4 Z"
+      fill="#555555" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L20.1,81.4 A60,60 0 0 1 23.1,59.1 Z"
+      fill="#e34c26" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L23.1,59.1 A60,60 0 0 1 30.4,44.3 Z"
+      fill="#888" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L30.4,44.3 A60,60 0 0 1 39.8,33.5 Z"
+      fill="#4F5D95" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L39.8,33.5 A60,60 0 0 1 48.2,27.1 Z"
+      fill="#012456" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L48.2,27.1 A60,60 0 0 1 56.2,22.9 Z"
+      fill="#663399" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L56.2,22.9 A60,60 0 0 1 61.5,20.9 Z"
       fill="#3178c6" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/>
   <circle cx="80" cy="78" r="34" fill="#060a0f"/>
   <text x="80" y="74" text-anchor="middle" font-family="DM Mono,monospace" font-size="9" fill="#00f5d4">LANG</text>
   <text x="80" y="88" text-anchor="middle" font-family="DM Mono,monospace" font-size="9" fill="#007a6a">MIX</text>
   <rect x="170" y="36" width="10" height="10" fill="#3572A5" rx="2"/>
     <text x="184" y="45" font-family="DM Mono,monospace" font-size="11" fill="#00b890">Python</text>
-    <text x="290" y="45" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">36.4%</text><rect x="320" y="36" width="10" height="10" fill="#f1e05a" rx="2"/>
+    <text x="290" y="45" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">36.3%</text><rect x="320" y="36" width="10" height="10" fill="#f1e05a" rx="2"/>
     <text x="334" y="45" font-family="DM Mono,monospace" font-size="11" fill="#00b890">JavaScript</text>
-    <text x="440" y="45" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">17.1%</text><rect x="170" y="58" width="10" height="10" fill="#7355dd" rx="2"/>
+    <text x="440" y="45" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">17%</text><rect x="170" y="58" width="10" height="10" fill="#7355dd" rx="2"/>
     <text x="184" y="67" font-family="DM Mono,monospace" font-size="11" fill="#00b890">C#</text>
     <text x="290" y="67" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">12.2%</text><rect x="320" y="58" width="10" height="10" fill="#555555" rx="2"/>
     <text x="334" y="67" font-family="DM Mono,monospace" font-size="11" fill="#00b890">C</text>
     <text x="440" y="67" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">8.6%</text><rect x="170" y="80" width="10" height="10" fill="#e34c26" rx="2"/>
     <text x="184" y="89" font-family="DM Mono,monospace" font-size="11" fill="#00b890">HTML</text>
-    <text x="290" y="89" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">6.1%</text><rect x="320" y="80" width="10" height="10" fill="#888" rx="2"/>
+    <text x="290" y="89" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">6%</text><rect x="320" y="80" width="10" height="10" fill="#888" rx="2"/>
     <text x="334" y="89" font-family="DM Mono,monospace" font-size="11" fill="#00b890">ASL</text>
     <text x="440" y="89" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">4.4%</text><rect x="170" y="102" width="10" height="10" fill="#4F5D95" rx="2"/>
     <text x="184" y="111" font-family="DM Mono,monospace" font-size="11" fill="#00b890">PHP</text>
     <text x="290" y="111" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">3.8%</text><rect x="320" y="102" width="10" height="10" fill="#012456" rx="2"/>
     <text x="334" y="111" font-family="DM Mono,monospace" font-size="11" fill="#00b890">PowerShell</text>
-    <text x="440" y="111" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">2.9%</text>
-  <text x="240" y="154" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">oahsiao @ M2Station · UPDATED 2026-11-02 17:04 TWN</text>
+    <text x="440" y="111" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">2.8%</text>
+  <text x="240" y="154" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">oahsiao @ M2Station · UPDATED 2026-11-03 17:12 TWN</text>
 </svg>

@@ -1,94 +1,94 @@
 {
-  "updated": "2026-11-02 17:04 TWN",
+  "updated": "2026-11-03 17:12 TWN",
   "latestChanges": [
     {
-      "date": 1793605700000,
-      "committedDate": "2026-11-02T07:48:20Z",
-      "header": "feat(templates): show each project template as a card with its EVENT count",
+      "date": 1793686445000,
+      "committedDate": "2026-11-03T06:14:05Z",
+      "header": "docs: document the ED2 zoom, display order, auto routing and grid editing",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/ae5c3fd7f1acab521718bc4f6e110cd9dddf6818",
-      "sha": "ae5c3fd",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/72c8e4a8c128e43df65481465616af96a42a12d2",
+      "sha": "72c8e4a",
       "login": "oahsiao"
     },
     {
-      "date": 1793601179000,
-      "committedDate": "2026-11-02T06:32:59Z",
-      "header": "Update ReleaseNote for MSAGUI_v23 and the Technical Reference to Rev. 2026.1102",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/9f383c8b2903c183698b517f5a94c7e304d7016f",
-      "sha": "9f383c8",
-      "login": "cin0429"
-    },
-    {
-      "date": 1793601177000,
-      "committedDate": "2026-11-02T06:32:57Z",
-      "header": "Explain Item Mapping with a README sheet and warn about dropped items",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/71d8fdb3163f140b512525c026211f41ec0a59cd",
-      "sha": "71d8fdb",
-      "login": "cin0429"
-    },
-    {
-      "date": 1793601175000,
-      "committedDate": "2026-11-02T06:32:55Z",
-      "header": "Let LogLimit Compare choose which match view the report opens on",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/22124c1995c5d908f1a1fba80e987eaf1a97e275",
-      "sha": "22124c1",
-      "login": "cin0429"
-    },
-    {
-      "date": 1793601174000,
-      "committedDate": "2026-11-02T06:32:54Z",
-      "header": "Keep MSA email grids intact when pasted into another Outlook mail",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/d6258cdd44d20d275b0f795a6020bd5bd2a372e7",
-      "sha": "d6258cd",
-      "login": "cin0429"
-    },
-    {
-      "date": 1793597603000,
-      "committedDate": "2026-11-02T05:33:23Z",
-      "header": "fix(mcp): survive a wire log directory that cannot be created",
+      "date": 1793686445000,
+      "committedDate": "2026-11-03T06:14:05Z",
+      "header": "feat(backend): validate the timeline display order and day-count zoom",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/66f9ba424b6720a28896cd00cc93bcbf301628b8",
-      "sha": "66f9ba4",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/997d909903615e346e9f37d2dc53fb9e440b3135",
+      "sha": "997d909",
       "login": "oahsiao"
     },
     {
-      "date": 1793597563000,
-      "committedDate": "2026-11-02T05:32:43Z",
-      "header": "fix(styles): keep the stage ink usable in print media",
+      "date": 1793686433000,
+      "committedDate": "2026-11-03T06:13:53Z",
+      "header": "feat(ed2): order rows, re-route connections and edit EVENTS in the grid",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/71be67ddeb06b69b21811257fa0dbdb56438c2a7",
-      "sha": "71be67d",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/2674cd3166a72142ad21c6646a3e1e296e2af4e8",
+      "sha": "2674cd3",
       "login": "oahsiao"
     },
     {
-      "date": 1793593264000,
-      "committedDate": "2026-11-02T04:21:04Z",
-      "header": "fix(ed1): restore the short reorder hint in the row tooltip",
+      "date": 1793686407000,
+      "committedDate": "2026-11-03T06:13:27Z",
+      "header": "feat(engine): add timeline row ordering, row reordering and day-count zoom",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/5c0f8a6b21983f830b439a07e182c2a2cc619abd",
-      "sha": "5c0f8a6",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/aa8cf9c4614c0a8017a905f72ec16297ce1f8bd2",
+      "sha": "aa8cf9c",
       "login": "oahsiao"
     },
     {
-      "date": 1793592969000,
-      "committedDate": "2026-11-02T04:16:09Z",
-      "header": "fix(ed1): stop repeating the reorder hint in every row tooltip",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/8212cae508bd963a8d136bfbf4d6074c6c3174f7",
-      "sha": "8212cae",
+      "date": 1793683618000,
+      "committedDate": "2026-11-03T05:26:58Z",
+      "header": "+ Add more info. 懂得就懂",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/6c176ec6affcf081edacaafdc44bfe08d5242503",
+      "sha": "6c176ec",
       "login": "oahsiao"
     },
     {
-      "date": 1793592902000,
-      "committedDate": "2026-11-02T04:15:02Z",
-      "header": "refactor(ed1): drive ED1 row geometry and stage ink from tokens",
+      "date": 1793683272000,
+      "committedDate": "2026-11-03T05:21:12Z",
+      "header": "feat(ui): show the MILESTONE column before priority in every table",
+      "repo": "M2_DEVOPS",
+      "url": "https://github.com/M2Station/M2_DEVOPS/commit/fe89741a96cf7924372f75e7e92c3e7e6d09d85b",
+      "sha": "fe89741",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793682762000,
+      "committedDate": "2026-11-03T05:12:42Z",
+      "header": "2026 商業管理方針",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/c45bc5cdf7cac691a03e0261742bcf3daff37ef2",
+      "sha": "c45bc5c",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793678406000,
+      "committedDate": "2026-11-03T04:00:06Z",
+      "header": "docs: document the schedule template timeline workflow",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/8cd6e527adedd30d4b828749f1640d6989a5c9d4",
-      "sha": "8cd6e52",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/a978ba8d13962a8e8cf8f48dbbc46ddc95717cb1",
+      "sha": "a978ba8",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793678392000,
+      "committedDate": "2026-11-03T03:59:52Z",
+      "header": "feat(backend): validate schedule dependencies and timeline presentation",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/4ae7516d41dd0849abae84895886142a29905fe5",
+      "sha": "4ae7516",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793678355000,
+      "committedDate": "2026-11-03T03:59:15Z",
+      "header": "feat(templates): add the ED2 timeline editor and schedule dependency rules",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/aa1daab59503bea8df74aa9abb25c71e124fcedb",
+      "sha": "aa1daab",
       "login": "oahsiao"
     }
   ]

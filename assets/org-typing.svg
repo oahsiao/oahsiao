@@ -7,55 +7,55 @@
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.098;0.150;0.167;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.000;0.104;0.159;0.177;1"
+        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(templates): show each project template as ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>docs: document the ED2 zoom, display order, aut...</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.167;0.265;0.317;0.333;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.177;0.281;0.336;0.353;1"
+        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update ReleaseNote for MSAGUI_v23 and the Techn...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(backend): validate the timeline display or...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.333;0.431;0.484;0.500;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.353;0.457;0.513;0.530;1"
+        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Explain Item Mapping with a README sheet and wa...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(ed2): order rows, re-route connections and...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.500;0.598;0.650;0.667;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.530;0.634;0.690;0.707;1"
+        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Let LogLimit Compare choose which match view th...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(engine): add timeline row ordering, row re...</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.667;0.765;0.817;0.833;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;197.20000000000002;197.20000000000002;0;0"
+        keyTimes="0;0.707;0.751;0.806;0.823;1"
+        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Keep MSA email grids intact when pasted into an...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>+ Add more info. 懂得就懂</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.833;0.931;0.984;1.000;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.823;0.927;0.983;1.000;1"
+        dur="28.9s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(mcp): survive a wire log directory that can...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(ui): show the MILESTONE column before prio...</text>
     </g>
 </svg>
