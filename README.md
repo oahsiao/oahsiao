@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@72c8e4a`](https://github.com/M2Station/M2_TIMELINE/commit/72c8e4a8c128e43df65481465616af96a42a12d2) — docs: document the ED2 zoom, display order, auto routing ... · `2026-11-03` · oahsiao
-02. [`M2_TIMELINE@997d909`](https://github.com/M2Station/M2_TIMELINE/commit/997d909903615e346e9f37d2dc53fb9e440b3135) — feat(backend): validate the timeline display order and da... · `2026-11-03` · oahsiao
-03. [`M2_TIMELINE@2674cd3`](https://github.com/M2Station/M2_TIMELINE/commit/2674cd3166a72142ad21c6646a3e1e296e2af4e8) — feat(ed2): order rows, re-route connections and edit EVEN... · `2026-11-03` · oahsiao
-04. [`M2_TIMELINE@aa8cf9c`](https://github.com/M2Station/M2_TIMELINE/commit/aa8cf9c4614c0a8017a905f72ec16297ce1f8bd2) — feat(engine): add timeline row ordering, row reordering a... · `2026-11-03` · oahsiao
-05. [`M2_WIKI@6c176ec`](https://github.com/M2Station/M2_WIKI/commit/6c176ec6affcf081edacaafdc44bfe08d5242503) — + Add more info. 懂得就懂 · `2026-11-03` · oahsiao
-06. [`M2_DEVOPS@fe89741`](https://github.com/M2Station/M2_DEVOPS/commit/fe89741a96cf7924372f75e7e92c3e7e6d09d85b) — feat(ui): show the MILESTONE column before priority in ev... · `2026-11-03` · oahsiao
-07. [`M2_WIKI@c45bc5c`](https://github.com/M2Station/M2_WIKI/commit/c45bc5cdf7cac691a03e0261742bcf3daff37ef2) — 2026 商業管理方針 · `2026-11-03` · oahsiao
-08. [`M2_TIMELINE@a978ba8`](https://github.com/M2Station/M2_TIMELINE/commit/a978ba8d13962a8e8cf8f48dbbc46ddc95717cb1) — docs: document the schedule template timeline workflow · `2026-11-03` · oahsiao
-09. [`M2_TIMELINE@4ae7516`](https://github.com/M2Station/M2_TIMELINE/commit/4ae7516d41dd0849abae84895886142a29905fe5) — feat(backend): validate schedule dependencies and timelin... · `2026-11-03` · oahsiao
-10. [`M2_TIMELINE@aa1daab`](https://github.com/M2Station/M2_TIMELINE/commit/aa1daab59503bea8df74aa9abb25c71e124fcedb) — feat(templates): add the ED2 timeline editor and schedule... · `2026-11-03` · oahsiao
+01. [`M2_TIMELINE@1d31dee`](https://github.com/M2Station/M2_TIMELINE/commit/1d31dee87a5a382be4f11431f8877a374de77f6d) — feat(studio): share the editor toolbar with project settings · `2026-11-04` · oahsiao
+02. [`M2_TIMELINE@37a132c`](https://github.com/M2Station/M2_TIMELINE/commit/37a132c92bd1b2d3b5c722191b8c89d0d97bf407) — test(ed1): restore the ED1 settings test coverage · `2026-11-04` · oahsiao
+03. [`M2_TIMELINE@ceddb4e`](https://github.com/M2Station/M2_TIMELINE/commit/ceddb4e17863753a42ba6daafe7d317ca523941b) — feat(studio): configure working weeks and share dependenc... · `2026-11-04` · oahsiao
+04. [`M2_WIKI@eb198b8`](https://github.com/M2Station/M2_WIKI/commit/eb198b8b100c9493dc47d2cc4d573cb6c26e828d) — Create Proxima account to receive 5,000 × 2 AIC · `2026-11-04` · v-chtseng
+05. [`M2_TIMELINE@911f8a3`](https://github.com/M2Station/M2_TIMELINE/commit/911f8a365642bf39a6d8137fb0f17aec5f05a8ea) — feat(iui1): consolidate STAGE timelines into shared lanes · `2026-11-04` · oahsiao
+06. [`M2_TIMELINE@75e7f9a`](https://github.com/M2Station/M2_TIMELINE/commit/75e7f9aeeb8ef196b81ca36e2a9955a9a1f10f97) — feat(iui1): reuse the project editor and copy template re... · `2026-11-04` · oahsiao
+07. [`M2_TIMELINE@316d3d7`](https://github.com/M2Station/M2_TIMELINE/commit/316d3d71df127364e49ef649f121ce618be92763) — test(ed1): assert the new project tab order around ED1 · `2026-11-04` · oahsiao
+08. [`M2_MSAGUI@ba4c92f`](https://github.com/M2Station/M2_MSAGUI/commit/ba4c92f282a4f079d8bf78e0d5efec8933ae9198) — Let a missing Log Limit Compare item count as a limit dif... · `2026-11-03` · UncleRyanR
+09. [`M2_MSAGUI@9e9ec7a`](https://github.com/M2Station/M2_MSAGUI/commit/9e9ec7a5fffd97e1b5dda3b7e1cd0307d57526a0) — Let Log Limit Compare match any field combination and kee... · `2026-11-03` · UncleRyanR
+10. [`M2_TIMELINE@a65bc73`](https://github.com/M2Station/M2_TIMELINE/commit/a65bc73e1604c433d53a30293bfb4d082681bed8) — feat(studio): compact project settings and import STAGEs ... · `2026-11-03` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
