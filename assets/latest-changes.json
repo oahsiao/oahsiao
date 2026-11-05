@@ -1,95 +1,95 @@
 {
-  "updated": "2026-11-04 16:48 TWN",
+  "updated": "2026-11-05 17:11 TWN",
   "latestChanges": [
     {
-      "date": 1793779989000,
-      "committedDate": "2026-11-04T08:13:09Z",
-      "header": "feat(studio): share the editor toolbar with project settings",
+      "date": 1793866427000,
+      "committedDate": "2026-11-05T08:13:47Z",
+      "header": "feat(project): add Mermaid export gallery and read-only reference timelines",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/1d31dee87a5a382be4f11431f8877a374de77f6d",
-      "sha": "1d31dee",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/4b326f5591678fede44b06feff1f0a035f72058b",
+      "sha": "4b326f5",
       "login": "oahsiao"
     },
     {
-      "date": 1793778178000,
-      "committedDate": "2026-11-04T07:42:58Z",
-      "header": "test(ed1): restore the ED1 settings test coverage",
+      "date": 1793848575000,
+      "committedDate": "2026-11-05T03:16:15Z",
+      "header": "feat(project): add custom working days and cross-timeline summary",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/37a132c92bd1b2d3b5c722191b8c89d0d97bf407",
-      "sha": "37a132c",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/6c4d6d2411919a49a1cf679b1e8ba9ed0ca275cb",
+      "sha": "6c4d6d2",
       "login": "oahsiao"
     },
     {
-      "date": 1793777423000,
-      "committedDate": "2026-11-04T07:30:23Z",
-      "header": "feat(studio): configure working weeks and share dependency rules",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/ceddb4e17863753a42ba6daafe7d317ca523941b",
-      "sha": "ceddb4e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793773407000,
-      "committedDate": "2026-11-04T06:23:27Z",
-      "header": "Create Proxima account to receive 5,000 × 2 AIC",
+      "date": 1793846890000,
+      "committedDate": "2026-11-05T02:48:10Z",
+      "header": "Update Switch the GitHub Copilot account in VS Code.",
       "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/eb198b8b100c9493dc47d2cc4d573cb6c26e828d",
-      "sha": "eb198b8",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/1ac79f58cc6dd2b797f024a16dada8466c8e7282",
+      "sha": "1ac79f5",
       "login": "v-chtseng"
     },
     {
-      "date": 1793762340000,
-      "committedDate": "2026-11-04T03:19:00Z",
-      "header": "feat(iui1): consolidate STAGE timelines into shared lanes",
+      "date": 1793846569000,
+      "committedDate": "2026-11-05T02:42:49Z",
+      "header": "feat(project): add multi-timeline planning with timeline references",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/911f8a365642bf39a6d8137fb0f17aec5f05a8ea",
-      "sha": "911f8a3",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/21b558d3e6a89e76cfb3085fcf5a1d890a0dec91",
+      "sha": "21b558d",
       "login": "oahsiao"
     },
     {
-      "date": 1793758717000,
-      "committedDate": "2026-11-04T02:18:37Z",
-      "header": "feat(iui1): reuse the project editor and copy template reports",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/75e7f9aeeb8ef196b81ca36e2a9955a9a1f10f97",
-      "sha": "75e7f9a",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793756411000,
-      "committedDate": "2026-11-04T01:40:11Z",
-      "header": "test(ed1): assert the new project tab order around ED1",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/316d3d71df127364e49ef649f121ce618be92763",
-      "sha": "316d3d7",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1793718818000,
-      "committedDate": "2026-11-03T15:13:38Z",
-      "header": "Let a missing Log Limit Compare item count as a limit difference, outlined in blue.",
+      "date": 1793800186000,
+      "committedDate": "2026-11-04T13:49:46Z",
+      "header": "Document MSAGUI_v24 and Rev. 2026.1104",
       "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/ba4c92f282a4f079d8bf78e0d5efec8933ae9198",
-      "sha": "ba4c92f",
-      "login": "UncleRyanR"
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/030eea4b4101296cb2f94a017562cc946fa6bbf0",
+      "sha": "030eea4",
+      "login": "cin0429"
     },
     {
-      "date": 1793708554000,
-      "committedDate": "2026-11-03T12:22:34Z",
-      "header": "Let Log Limit Compare match any field combination and keep identity columns readable.",
+      "date": 1793800185000,
+      "committedDate": "2026-11-04T13:49:45Z",
+      "header": "Replace the Item Mapping Group column with MOD name columns",
       "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/9e9ec7a5fffd97e1b5dda3b7e1cd0307d57526a0",
-      "sha": "9e9ec7a",
-      "login": "UncleRyanR"
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/08929ff24dc93a21904c82feb59044a4d27ee84f",
+      "sha": "08929ff",
+      "login": "cin0429"
     },
     {
-      "date": 1793706521000,
-      "committedDate": "2026-11-03T11:48:41Z",
-      "header": "feat(studio): compact project settings and import STAGEs from templates",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/a65bc73e1604c433d53a30293bfb4d082681bed8",
-      "sha": "a65bc73",
-      "login": "oahsiao"
+      "date": 1793800184000,
+      "committedDate": "2026-11-04T13:49:44Z",
+      "header": "Add Excel-only output to LogLimit Compare and restore report defaults on every open",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/732c3aae774df46b3c08d6468864495fe3010e14",
+      "sha": "732c3aa",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793800183000,
+      "committedDate": "2026-11-04T13:49:43Z",
+      "header": "Move Clear Components to the end of the LogLimit Compare buttons",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/d933190b211467e6bd7b3c14c169cc296010769f",
+      "sha": "d933190",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793800182000,
+      "committedDate": "2026-11-04T13:49:42Z",
+      "header": "Let LogLimit Compare collapse the source and version details",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/7dbd30c228159d4fc12776d28f391bee2e3dd6b8",
+      "sha": "7dbd30c",
+      "login": "cin0429"
+    },
+    {
+      "date": 1793800181000,
+      "committedDate": "2026-11-04T13:49:41Z",
+      "header": "Freeze the LogLimit Compare stats and search row and add Clear Components",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/dfc68e1610f007acb9d499929da4cf752579e035",
+      "sha": "dfc68e1",
+      "login": "cin0429"
     }
   ]
 }

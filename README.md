@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@1d31dee`](https://github.com/M2Station/M2_TIMELINE/commit/1d31dee87a5a382be4f11431f8877a374de77f6d) — feat(studio): share the editor toolbar with project settings · `2026-11-04` · oahsiao
-02. [`M2_TIMELINE@37a132c`](https://github.com/M2Station/M2_TIMELINE/commit/37a132c92bd1b2d3b5c722191b8c89d0d97bf407) — test(ed1): restore the ED1 settings test coverage · `2026-11-04` · oahsiao
-03. [`M2_TIMELINE@ceddb4e`](https://github.com/M2Station/M2_TIMELINE/commit/ceddb4e17863753a42ba6daafe7d317ca523941b) — feat(studio): configure working weeks and share dependenc... · `2026-11-04` · oahsiao
-04. [`M2_WIKI@eb198b8`](https://github.com/M2Station/M2_WIKI/commit/eb198b8b100c9493dc47d2cc4d573cb6c26e828d) — Create Proxima account to receive 5,000 × 2 AIC · `2026-11-04` · v-chtseng
-05. [`M2_TIMELINE@911f8a3`](https://github.com/M2Station/M2_TIMELINE/commit/911f8a365642bf39a6d8137fb0f17aec5f05a8ea) — feat(iui1): consolidate STAGE timelines into shared lanes · `2026-11-04` · oahsiao
-06. [`M2_TIMELINE@75e7f9a`](https://github.com/M2Station/M2_TIMELINE/commit/75e7f9aeeb8ef196b81ca36e2a9955a9a1f10f97) — feat(iui1): reuse the project editor and copy template re... · `2026-11-04` · oahsiao
-07. [`M2_TIMELINE@316d3d7`](https://github.com/M2Station/M2_TIMELINE/commit/316d3d71df127364e49ef649f121ce618be92763) — test(ed1): assert the new project tab order around ED1 · `2026-11-04` · oahsiao
-08. [`M2_MSAGUI@ba4c92f`](https://github.com/M2Station/M2_MSAGUI/commit/ba4c92f282a4f079d8bf78e0d5efec8933ae9198) — Let a missing Log Limit Compare item count as a limit dif... · `2026-11-03` · UncleRyanR
-09. [`M2_MSAGUI@9e9ec7a`](https://github.com/M2Station/M2_MSAGUI/commit/9e9ec7a5fffd97e1b5dda3b7e1cd0307d57526a0) — Let Log Limit Compare match any field combination and kee... · `2026-11-03` · UncleRyanR
-10. [`M2_TIMELINE@a65bc73`](https://github.com/M2Station/M2_TIMELINE/commit/a65bc73e1604c433d53a30293bfb4d082681bed8) — feat(studio): compact project settings and import STAGEs ... · `2026-11-03` · oahsiao
+01. [`M2_TIMELINE@4b326f5`](https://github.com/M2Station/M2_TIMELINE/commit/4b326f5591678fede44b06feff1f0a035f72058b) — feat(project): add Mermaid export gallery and read-only r... · `2026-11-05` · oahsiao
+02. [`M2_TIMELINE@6c4d6d2`](https://github.com/M2Station/M2_TIMELINE/commit/6c4d6d2411919a49a1cf679b1e8ba9ed0ca275cb) — feat(project): add custom working days and cross-timeline... · `2026-11-05` · oahsiao
+03. [`M2_WIKI@1ac79f5`](https://github.com/M2Station/M2_WIKI/commit/1ac79f58cc6dd2b797f024a16dada8466c8e7282) — Update Switch the GitHub Copilot account in VS Code. · `2026-11-05` · v-chtseng
+04. [`M2_TIMELINE@21b558d`](https://github.com/M2Station/M2_TIMELINE/commit/21b558d3e6a89e76cfb3085fcf5a1d890a0dec91) — feat(project): add multi-timeline planning with timeline ... · `2026-11-05` · oahsiao
+05. [`M2_MSAGUI@030eea4`](https://github.com/M2Station/M2_MSAGUI/commit/030eea4b4101296cb2f94a017562cc946fa6bbf0) — Document MSAGUI_v24 and Rev. 2026.1104 · `2026-11-04` · cin0429
+06. [`M2_MSAGUI@08929ff`](https://github.com/M2Station/M2_MSAGUI/commit/08929ff24dc93a21904c82feb59044a4d27ee84f) — Replace the Item Mapping Group column with MOD name columns · `2026-11-04` · cin0429
+07. [`M2_MSAGUI@732c3aa`](https://github.com/M2Station/M2_MSAGUI/commit/732c3aae774df46b3c08d6468864495fe3010e14) — Add Excel-only output to LogLimit Compare and restore rep... · `2026-11-04` · cin0429
+08. [`M2_MSAGUI@d933190`](https://github.com/M2Station/M2_MSAGUI/commit/d933190b211467e6bd7b3c14c169cc296010769f) — Move Clear Components to the end of the LogLimit Compare ... · `2026-11-04` · cin0429
+09. [`M2_MSAGUI@7dbd30c`](https://github.com/M2Station/M2_MSAGUI/commit/7dbd30c228159d4fc12776d28f391bee2e3dd6b8) — Let LogLimit Compare collapse the source and version details · `2026-11-04` · cin0429
+10. [`M2_MSAGUI@dfc68e1`](https://github.com/M2Station/M2_MSAGUI/commit/dfc68e1610f007acb9d499929da4cf752579e035) — Freeze the LogLimit Compare stats and search row and add ... · `2026-11-04` · cin0429
 <!-- LATEST-CHANGES:END -->
 
 ---
