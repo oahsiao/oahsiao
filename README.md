@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@4b326f5`](https://github.com/M2Station/M2_TIMELINE/commit/4b326f5591678fede44b06feff1f0a035f72058b) — feat(project): add Mermaid export gallery and read-only r... · `2026-11-05` · oahsiao
-02. [`M2_TIMELINE@6c4d6d2`](https://github.com/M2Station/M2_TIMELINE/commit/6c4d6d2411919a49a1cf679b1e8ba9ed0ca275cb) — feat(project): add custom working days and cross-timeline... · `2026-11-05` · oahsiao
-03. [`M2_WIKI@1ac79f5`](https://github.com/M2Station/M2_WIKI/commit/1ac79f58cc6dd2b797f024a16dada8466c8e7282) — Update Switch the GitHub Copilot account in VS Code. · `2026-11-05` · v-chtseng
-04. [`M2_TIMELINE@21b558d`](https://github.com/M2Station/M2_TIMELINE/commit/21b558d3e6a89e76cfb3085fcf5a1d890a0dec91) — feat(project): add multi-timeline planning with timeline ... · `2026-11-05` · oahsiao
-05. [`M2_MSAGUI@030eea4`](https://github.com/M2Station/M2_MSAGUI/commit/030eea4b4101296cb2f94a017562cc946fa6bbf0) — Document MSAGUI_v24 and Rev. 2026.1104 · `2026-11-04` · cin0429
-06. [`M2_MSAGUI@08929ff`](https://github.com/M2Station/M2_MSAGUI/commit/08929ff24dc93a21904c82feb59044a4d27ee84f) — Replace the Item Mapping Group column with MOD name columns · `2026-11-04` · cin0429
-07. [`M2_MSAGUI@732c3aa`](https://github.com/M2Station/M2_MSAGUI/commit/732c3aae774df46b3c08d6468864495fe3010e14) — Add Excel-only output to LogLimit Compare and restore rep... · `2026-11-04` · cin0429
-08. [`M2_MSAGUI@d933190`](https://github.com/M2Station/M2_MSAGUI/commit/d933190b211467e6bd7b3c14c169cc296010769f) — Move Clear Components to the end of the LogLimit Compare ... · `2026-11-04` · cin0429
-09. [`M2_MSAGUI@7dbd30c`](https://github.com/M2Station/M2_MSAGUI/commit/7dbd30c228159d4fc12776d28f391bee2e3dd6b8) — Let LogLimit Compare collapse the source and version details · `2026-11-04` · cin0429
-10. [`M2_MSAGUI@dfc68e1`](https://github.com/M2Station/M2_MSAGUI/commit/dfc68e1610f007acb9d499929da4cf752579e035) — Freeze the LogLimit Compare stats and search row and add ... · `2026-11-04` · cin0429
+01. [`M2_TIMELINE@2b78b12`](https://github.com/M2Station/M2_TIMELINE/commit/2b78b122b4c037958e0a59cfa259fe66da08a8d3) — feat(studio): drop the getting-started panel from the pro... · `2026-11-06` · oahsiao
+02. [`M2_TIMELINE@036cd68`](https://github.com/M2Station/M2_TIMELINE/commit/036cd68e8de80f49da30df3a134c4bfcf76ef7eb) — feat(studio): add download center, validation cards and p... · `2026-11-06` · oahsiao
+03. [`M2_TIMELINE@9b5f7af`](https://github.com/M2Station/M2_TIMELINE/commit/9b5f7afafb348466fc54e0838496d5de2b2b91d0) — feat(project): add presentation-only LV2 entries and edit... · `2026-11-06` · oahsiao
+04. [`M2_TIMELINE@c5696c0`](https://github.com/M2Station/M2_TIMELINE/commit/c5696c061e1d3b184cd0962a417cf053d31e33c2) — feat(mcp): add draft-editing tools for project settings a... · `2026-11-06` · oahsiao
+05. [`M2_TIMELINE@dc50537`](https://github.com/M2Station/M2_TIMELINE/commit/dc505373db794fb363bb79d0a903393a27869d92) — feat(project): rebuild the phase briefing around LV1/LV2 ... · `2026-11-05` · oahsiao
+06. [`.github@514c39b`](https://github.com/M2Station/.github/commit/514c39b8b6b488c90f9e6a1ea4e7da11d1bf8226) — chore: sync latest changes [skip ci] · `2026-11-05` · github-actions[bot]
+07. [`M2_TIMELINE@4b326f5`](https://github.com/M2Station/M2_TIMELINE/commit/4b326f5591678fede44b06feff1f0a035f72058b) — feat(project): add Mermaid export gallery and read-only r... · `2026-11-05` · oahsiao
+08. [`M2_TIMELINE@6c4d6d2`](https://github.com/M2Station/M2_TIMELINE/commit/6c4d6d2411919a49a1cf679b1e8ba9ed0ca275cb) — feat(project): add custom working days and cross-timeline... · `2026-11-05` · oahsiao
+09. [`M2_WIKI@1ac79f5`](https://github.com/M2Station/M2_WIKI/commit/1ac79f58cc6dd2b797f024a16dada8466c8e7282) — Update Switch the GitHub Copilot account in VS Code. · `2026-11-05` · v-chtseng
+10. [`M2_TIMELINE@21b558d`](https://github.com/M2Station/M2_TIMELINE/commit/21b558d3e6a89e76cfb3085fcf5a1d890a0dec91) — feat(project): add multi-timeline planning with timeline ... · `2026-11-05` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

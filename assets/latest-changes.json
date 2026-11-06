@@ -1,6 +1,60 @@
 {
-  "updated": "2026-11-05 17:11 TWN",
+  "updated": "2026-11-06 17:03 TWN",
   "latestChanges": [
+    {
+      "date": 1793952053000,
+      "committedDate": "2026-11-06T08:00:53Z",
+      "header": "feat(studio): drop the getting-started panel from the project overview",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/2b78b122b4c037958e0a59cfa259fe66da08a8d3",
+      "sha": "2b78b12",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793951296000,
+      "committedDate": "2026-11-06T07:48:16Z",
+      "header": "feat(studio): add download center, validation cards and project Timeline settings",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/036cd68e8de80f49da30df3a134c4bfcf76ef7eb",
+      "sha": "036cd68",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793941083000,
+      "committedDate": "2026-11-06T04:58:03Z",
+      "header": "feat(project): add presentation-only LV2 entries and editable EVENT finish",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/9b5f7afafb348466fc54e0838496d5de2b2b91d0",
+      "sha": "9b5f7af",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793937045000,
+      "committedDate": "2026-11-06T03:50:45Z",
+      "header": "feat(mcp): add draft-editing tools for project settings and timelines",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/c5696c061e1d3b184cd0962a417cf053d31e33c2",
+      "sha": "c5696c0",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793877692000,
+      "committedDate": "2026-11-05T11:21:32Z",
+      "header": "feat(project): rebuild the phase briefing around LV1/LV2 focus and multi-timeline views",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/dc505373db794fb363bb79d0a903393a27869d92",
+      "sha": "dc50537",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1793871735000,
+      "committedDate": "2026-11-05T09:42:15Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/514c39b8b6b488c90f9e6a1ea4e7da11d1bf8226",
+      "sha": "514c39b",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1793866427000,
       "committedDate": "2026-11-05T08:13:47Z",
@@ -36,60 +90,6 @@
       "url": "https://github.com/M2Station/M2_TIMELINE/commit/21b558d3e6a89e76cfb3085fcf5a1d890a0dec91",
       "sha": "21b558d",
       "login": "oahsiao"
-    },
-    {
-      "date": 1793800186000,
-      "committedDate": "2026-11-04T13:49:46Z",
-      "header": "Document MSAGUI_v24 and Rev. 2026.1104",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/030eea4b4101296cb2f94a017562cc946fa6bbf0",
-      "sha": "030eea4",
-      "login": "cin0429"
-    },
-    {
-      "date": 1793800185000,
-      "committedDate": "2026-11-04T13:49:45Z",
-      "header": "Replace the Item Mapping Group column with MOD name columns",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/08929ff24dc93a21904c82feb59044a4d27ee84f",
-      "sha": "08929ff",
-      "login": "cin0429"
-    },
-    {
-      "date": 1793800184000,
-      "committedDate": "2026-11-04T13:49:44Z",
-      "header": "Add Excel-only output to LogLimit Compare and restore report defaults on every open",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/732c3aae774df46b3c08d6468864495fe3010e14",
-      "sha": "732c3aa",
-      "login": "cin0429"
-    },
-    {
-      "date": 1793800183000,
-      "committedDate": "2026-11-04T13:49:43Z",
-      "header": "Move Clear Components to the end of the LogLimit Compare buttons",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/d933190b211467e6bd7b3c14c169cc296010769f",
-      "sha": "d933190",
-      "login": "cin0429"
-    },
-    {
-      "date": 1793800182000,
-      "committedDate": "2026-11-04T13:49:42Z",
-      "header": "Let LogLimit Compare collapse the source and version details",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/7dbd30c228159d4fc12776d28f391bee2e3dd6b8",
-      "sha": "7dbd30c",
-      "login": "cin0429"
-    },
-    {
-      "date": 1793800181000,
-      "committedDate": "2026-11-04T13:49:41Z",
-      "header": "Freeze the LogLimit Compare stats and search row and add Clear Components",
-      "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/dfc68e1610f007acb9d499929da4cf752579e035",
-      "sha": "dfc68e1",
-      "login": "cin0429"
     }
   ]
 }
