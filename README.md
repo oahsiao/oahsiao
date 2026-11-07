@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@2b78b12`](https://github.com/M2Station/M2_TIMELINE/commit/2b78b122b4c037958e0a59cfa259fe66da08a8d3) — feat(studio): drop the getting-started panel from the pro... · `2026-11-06` · oahsiao
-02. [`M2_TIMELINE@036cd68`](https://github.com/M2Station/M2_TIMELINE/commit/036cd68e8de80f49da30df3a134c4bfcf76ef7eb) — feat(studio): add download center, validation cards and p... · `2026-11-06` · oahsiao
-03. [`M2_TIMELINE@9b5f7af`](https://github.com/M2Station/M2_TIMELINE/commit/9b5f7afafb348466fc54e0838496d5de2b2b91d0) — feat(project): add presentation-only LV2 entries and edit... · `2026-11-06` · oahsiao
-04. [`M2_TIMELINE@c5696c0`](https://github.com/M2Station/M2_TIMELINE/commit/c5696c061e1d3b184cd0962a417cf053d31e33c2) — feat(mcp): add draft-editing tools for project settings a... · `2026-11-06` · oahsiao
-05. [`M2_TIMELINE@dc50537`](https://github.com/M2Station/M2_TIMELINE/commit/dc505373db794fb363bb79d0a903393a27869d92) — feat(project): rebuild the phase briefing around LV1/LV2 ... · `2026-11-05` · oahsiao
-06. [`.github@514c39b`](https://github.com/M2Station/.github/commit/514c39b8b6b488c90f9e6a1ea4e7da11d1bf8226) — chore: sync latest changes [skip ci] · `2026-11-05` · github-actions[bot]
-07. [`M2_TIMELINE@4b326f5`](https://github.com/M2Station/M2_TIMELINE/commit/4b326f5591678fede44b06feff1f0a035f72058b) — feat(project): add Mermaid export gallery and read-only r... · `2026-11-05` · oahsiao
-08. [`M2_TIMELINE@6c4d6d2`](https://github.com/M2Station/M2_TIMELINE/commit/6c4d6d2411919a49a1cf679b1e8ba9ed0ca275cb) — feat(project): add custom working days and cross-timeline... · `2026-11-05` · oahsiao
-09. [`M2_WIKI@1ac79f5`](https://github.com/M2Station/M2_WIKI/commit/1ac79f58cc6dd2b797f024a16dada8466c8e7282) — Update Switch the GitHub Copilot account in VS Code. · `2026-11-05` · v-chtseng
-10. [`M2_TIMELINE@21b558d`](https://github.com/M2Station/M2_TIMELINE/commit/21b558d3e6a89e76cfb3085fcf5a1d890a0dec91) — feat(project): add multi-timeline planning with timeline ... · `2026-11-05` · oahsiao
+01. [`M2_TIMELINE@079436e`](https://github.com/M2Station/M2_TIMELINE/commit/079436e4dc0a7d2fca2fae423fed1443147dc5e2) — feat(studio): preview schedule templates and show workspa... · `2026-11-06` · oahsiao
+02. [`M2_TIMELINE@9339715`](https://github.com/M2Station/M2_TIMELINE/commit/9339715deb6838a59acc3e426aaffc7d302f7f41) — feat(mcp): shorten interactive setup to six basic prompts · `2026-11-06` · oahsiao
+03. [`M2_TIMELINE@2bfc2f1`](https://github.com/M2Station/M2_TIMELINE/commit/2bfc2f1127a87f7f2059e06c871e882102c2671e) — feat(studio): add read-only comparison of two saved projects · `2026-11-06` · oahsiao
+04. [`M2_WIKI@5df77aa`](https://github.com/M2Station/M2_WIKI/commit/5df77aa63e61ce3b3198c64b4e3d018430fc0ed6) — design review puy/somke test/onboard · `2026-11-06` · bofrankbo
+05. [`M2_TIMELINE@f3331be`](https://github.com/M2Station/M2_TIMELINE/commit/f3331bec84fbe6f4140c1ac185a06e39ae1fc84d) — fix(project-timeline): use ISO text controls for view dat... · `2026-11-06` · oahsiao
+06. [`M2_TIMELINE@fedcb5f`](https://github.com/M2Station/M2_TIMELINE/commit/fedcb5f6ca2087c28c67a928c41d180f4c43eb4b) — fix(diagram): highlight only the hovered LV2 and its own ... · `2026-11-06` · oahsiao
+07. [`M2_TIMELINE@8688cfb`](https://github.com/M2Station/M2_TIMELINE/commit/8688cfbca8109cf8df94de09963d932f74a6a206) — feat(mcp): package the server as a portable EXE and add i... · `2026-11-06` · oahsiao
+08. [`.github@f5cc1d1`](https://github.com/M2Station/.github/commit/f5cc1d15ac58addcb6076264f6271fb7e8cb2db6) — chore: sync latest changes [skip ci] · `2026-11-06` · github-actions[bot]
+09. [`M2_TIMELINE@2b78b12`](https://github.com/M2Station/M2_TIMELINE/commit/2b78b122b4c037958e0a59cfa259fe66da08a8d3) — feat(studio): drop the getting-started panel from the pro... · `2026-11-06` · oahsiao
+10. [`M2_TIMELINE@036cd68`](https://github.com/M2Station/M2_TIMELINE/commit/036cd68e8de80f49da30df3a134c4bfcf76ef7eb) — feat(studio): add download center, validation cards and p... · `2026-11-06` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
