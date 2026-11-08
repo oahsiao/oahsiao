@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@079436e`](https://github.com/M2Station/M2_TIMELINE/commit/079436e4dc0a7d2fca2fae423fed1443147dc5e2) — feat(studio): preview schedule templates and show workspa... · `2026-11-06` · oahsiao
-02. [`M2_TIMELINE@9339715`](https://github.com/M2Station/M2_TIMELINE/commit/9339715deb6838a59acc3e426aaffc7d302f7f41) — feat(mcp): shorten interactive setup to six basic prompts · `2026-11-06` · oahsiao
-03. [`M2_TIMELINE@2bfc2f1`](https://github.com/M2Station/M2_TIMELINE/commit/2bfc2f1127a87f7f2059e06c871e882102c2671e) — feat(studio): add read-only comparison of two saved projects · `2026-11-06` · oahsiao
-04. [`M2_WIKI@5df77aa`](https://github.com/M2Station/M2_WIKI/commit/5df77aa63e61ce3b3198c64b4e3d018430fc0ed6) — design review puy/somke test/onboard · `2026-11-06` · bofrankbo
-05. [`M2_TIMELINE@f3331be`](https://github.com/M2Station/M2_TIMELINE/commit/f3331bec84fbe6f4140c1ac185a06e39ae1fc84d) — fix(project-timeline): use ISO text controls for view dat... · `2026-11-06` · oahsiao
-06. [`M2_TIMELINE@fedcb5f`](https://github.com/M2Station/M2_TIMELINE/commit/fedcb5f6ca2087c28c67a928c41d180f4c43eb4b) — fix(diagram): highlight only the hovered LV2 and its own ... · `2026-11-06` · oahsiao
-07. [`M2_TIMELINE@8688cfb`](https://github.com/M2Station/M2_TIMELINE/commit/8688cfbca8109cf8df94de09963d932f74a6a206) — feat(mcp): package the server as a portable EXE and add i... · `2026-11-06` · oahsiao
-08. [`.github@f5cc1d1`](https://github.com/M2Station/.github/commit/f5cc1d15ac58addcb6076264f6271fb7e8cb2db6) — chore: sync latest changes [skip ci] · `2026-11-06` · github-actions[bot]
-09. [`M2_TIMELINE@2b78b12`](https://github.com/M2Station/M2_TIMELINE/commit/2b78b122b4c037958e0a59cfa259fe66da08a8d3) — feat(studio): drop the getting-started panel from the pro... · `2026-11-06` · oahsiao
-10. [`M2_TIMELINE@036cd68`](https://github.com/M2Station/M2_TIMELINE/commit/036cd68e8de80f49da30df3a134c4bfcf76ef7eb) — feat(studio): add download center, validation cards and p... · `2026-11-06` · oahsiao
+01. [`M2_TIMELINE@044729d`](https://github.com/M2Station/M2_TIMELINE/commit/044729d28ea752dc35afcc059c3c3f44ff55bfb4) — feat(ed1): pin the project quick toolbar with STAGE short... · `2026-11-08` · oahsiao
+02. [`M2_TIMELINE@b16ee76`](https://github.com/M2Station/M2_TIMELINE/commit/b16ee76877525b71ecb92000fde9e6bc37456b17) — feat(settings): let product line and platform combine typ... · `2026-11-08` · oahsiao
+03. [`M2_TIMELINE@b74b4de`](https://github.com/M2Station/M2_TIMELINE/commit/b74b4de07190d9a7fdfcc3198bf0076f5a3ccddc) — feat(ed1): page a long plan through a view window instead... · `2026-11-08` · oahsiao
+04. [`M2_TIMELINE@fd3b3c2`](https://github.com/M2Station/M2_TIMELINE/commit/fd3b3c2b36d78c124290adc947731e262e575373) — feat(ed1): drag dates on the lane chart and mirror the re... · `2026-11-08` · oahsiao
+05. [`M2_TIMELINE@a52622e`](https://github.com/M2Station/M2_TIMELINE/commit/a52622e4e3008488d15d9469de27088b562785cd) — feat(ed1): label every bar fully and make the slide timel... · `2026-11-07` · oahsiao
+06. [`M2_TIMELINE@e26c524`](https://github.com/M2Station/M2_TIMELINE/commit/e26c52486113e0ff42c2696ab7c15b73dc1ced17) — feat(ed1): give every slide style the timeline height bar · `2026-11-07` · oahsiao
+07. [`M2_TIMELINE@9fe0211`](https://github.com/M2Station/M2_TIMELINE/commit/9fe0211f150f606f3017e4b7f767463f63b9a2ca) — chore(m2agent): commit the demo build toolchain and its R... · `2026-11-07` · oahsiao
+08. [`M2_TIMELINE@451ca9d`](https://github.com/M2Station/M2_TIMELINE/commit/451ca9dab7431e4055cd17eb0ab57b3ebcad037d) — docs: add the generated NPI demo prompt and the ED1 gaunt... · `2026-11-07` · oahsiao
+09. [`M2_TIMELINE@716c753`](https://github.com/M2Station/M2_TIMELINE/commit/716c753fc7c3fdab41c2ae3e516ba9db2d42eaa2) — chore(deck): commit the design-award build pipeline · `2026-11-07` · oahsiao
+10. [`M2_TIMELINE@543b57c`](https://github.com/M2Station/M2_TIMELINE/commit/543b57c557925c94d47ff3f808a2a552e548e8a2) — docs(design-award): add the 2026 entry as PPTX, PDF and M... · `2026-11-07` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
