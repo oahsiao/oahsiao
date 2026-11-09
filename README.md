@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@044729d`](https://github.com/M2Station/M2_TIMELINE/commit/044729d28ea752dc35afcc059c3c3f44ff55bfb4) — feat(ed1): pin the project quick toolbar with STAGE short... · `2026-11-08` · oahsiao
-02. [`M2_TIMELINE@b16ee76`](https://github.com/M2Station/M2_TIMELINE/commit/b16ee76877525b71ecb92000fde9e6bc37456b17) — feat(settings): let product line and platform combine typ... · `2026-11-08` · oahsiao
-03. [`M2_TIMELINE@b74b4de`](https://github.com/M2Station/M2_TIMELINE/commit/b74b4de07190d9a7fdfcc3198bf0076f5a3ccddc) — feat(ed1): page a long plan through a view window instead... · `2026-11-08` · oahsiao
-04. [`M2_TIMELINE@fd3b3c2`](https://github.com/M2Station/M2_TIMELINE/commit/fd3b3c2b36d78c124290adc947731e262e575373) — feat(ed1): drag dates on the lane chart and mirror the re... · `2026-11-08` · oahsiao
-05. [`M2_TIMELINE@a52622e`](https://github.com/M2Station/M2_TIMELINE/commit/a52622e4e3008488d15d9469de27088b562785cd) — feat(ed1): label every bar fully and make the slide timel... · `2026-11-07` · oahsiao
-06. [`M2_TIMELINE@e26c524`](https://github.com/M2Station/M2_TIMELINE/commit/e26c52486113e0ff42c2696ab7c15b73dc1ced17) — feat(ed1): give every slide style the timeline height bar · `2026-11-07` · oahsiao
-07. [`M2_TIMELINE@9fe0211`](https://github.com/M2Station/M2_TIMELINE/commit/9fe0211f150f606f3017e4b7f767463f63b9a2ca) — chore(m2agent): commit the demo build toolchain and its R... · `2026-11-07` · oahsiao
-08. [`M2_TIMELINE@451ca9d`](https://github.com/M2Station/M2_TIMELINE/commit/451ca9dab7431e4055cd17eb0ab57b3ebcad037d) — docs: add the generated NPI demo prompt and the ED1 gaunt... · `2026-11-07` · oahsiao
-09. [`M2_TIMELINE@716c753`](https://github.com/M2Station/M2_TIMELINE/commit/716c753fc7c3fdab41c2ae3e516ba9db2d42eaa2) — chore(deck): commit the design-award build pipeline · `2026-11-07` · oahsiao
-10. [`M2_TIMELINE@543b57c`](https://github.com/M2Station/M2_TIMELINE/commit/543b57c557925c94d47ff3f808a2a552e548e8a2) — docs(design-award): add the 2026 entry as PPTX, PDF and M... · `2026-11-07` · oahsiao
+01. [`M2_TIMELINE@e040f15`](https://github.com/M2Station/M2_TIMELINE/commit/e040f1564ac872e946a134d3a9e376794af40557) — docs(deck): use Noto Sans TC for headlines instead of the... · `2026-11-09` · oahsiao
+02. [`M2_TIMELINE@95e6716`](https://github.com/M2Station/M2_TIMELINE/commit/95e67163967f962ddd256b462c635f63ab599e88) — docs(deck): set a serif headline and tighten Chinese trac... · `2026-11-09` · oahsiao
+03. [`M2_TIMELINE@c4fa828`](https://github.com/M2Station/M2_TIMELINE/commit/c4fa8285f51e1559fb5019743476f231c2a9f217) — docs(deck): rebuild the design-award deck as 10 pages for... · `2026-11-09` · oahsiao
+04. [`M2_TIMELINE@fdb55c2`](https://github.com/M2Station/M2_TIMELINE/commit/fdb55c240af9ba6f663513e850639ed790206fed) — chore(repo): rename M2 TIMELINE to M2 TUTTI · `2026-11-09` · oahsiao
+05. [`M2_MSAGUI@8c119a7`](https://github.com/M2Station/M2_MSAGUI/commit/8c119a7ef046748b249ba6fee9f61443477cd209) — Fix missing FullTestName and outlier charts for CSV input... · `2026-11-09` · cin0429
+06. [`M2_GIT_DIFF@123d319`](https://github.com/M2Station/M2_GIT_DIFF/commit/123d319df8543f60d5dd479e7b3485edaf3670cf) — chore(dev-deps): bump electron · `2026-11-09` · dependabot[bot]
+07. [`M2_GIT_DIFF@0651968`](https://github.com/M2Station/M2_GIT_DIFF/commit/0651968279baec42613dbbe98958413a1f7f6df4) — chore(dev-deps): bump the vite-vitest-toolchain group wit... · `2026-11-09` · dependabot[bot]
+08. [`.github@ac5161f`](https://github.com/M2Station/.github/commit/ac5161fb5380673b878069db4acb93bf6e4b3353) — chore: sync latest changes [skip ci] · `2026-11-08` · github-actions[bot]
+09. [`M2_TIMELINE@044729d`](https://github.com/M2Station/M2_TIMELINE/commit/044729d28ea752dc35afcc059c3c3f44ff55bfb4) — feat(ed1): pin the project quick toolbar with STAGE short... · `2026-11-08` · oahsiao
+10. [`M2_TIMELINE@b16ee76`](https://github.com/M2Station/M2_TIMELINE/commit/b16ee76877525b71ecb92000fde9e6bc37456b17) — feat(settings): let product line and platform combine typ... · `2026-11-08` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

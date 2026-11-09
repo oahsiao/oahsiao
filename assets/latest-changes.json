@@ -1,6 +1,78 @@
 {
-  "updated": "2026-11-08 16:44 TWN",
+  "updated": "2026-11-09 17:24 TWN",
   "latestChanges": [
+    {
+      "date": 1794207227000,
+      "committedDate": "2026-11-09T06:53:47Z",
+      "header": "docs(deck): use Noto Sans TC for headlines instead of the serif",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/e040f1564ac872e946a134d3a9e376794af40557",
+      "sha": "e040f15",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794206794000,
+      "committedDate": "2026-11-09T06:46:34Z",
+      "header": "docs(deck): set a serif headline and tighten Chinese tracking",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/95e67163967f962ddd256b462c635f63ab599e88",
+      "sha": "95e6716",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794205588000,
+      "committedDate": "2026-11-09T06:26:28Z",
+      "header": "docs(deck): rebuild the design-award deck as 10 pages for TUTTI",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/c4fa8285f51e1559fb5019743476f231c2a9f217",
+      "sha": "c4fa828",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794205214000,
+      "committedDate": "2026-11-09T06:20:14Z",
+      "header": "chore(repo): rename M2 TIMELINE to M2 TUTTI",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/fdb55c240af9ba6f663513e850639ed790206fed",
+      "sha": "fdb55c2",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794204463000,
+      "committedDate": "2026-11-09T06:07:43Z",
+      "header": "Fix missing FullTestName and outlier charts for CSV input (#4)",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/8c119a7ef046748b249ba6fee9f61443477cd209",
+      "sha": "8c119a7",
+      "login": "cin0429"
+    },
+    {
+      "date": 1794186554000,
+      "committedDate": "2026-11-09T01:09:14Z",
+      "header": "chore(dev-deps): bump electron",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/123d319df8543f60d5dd479e7b3485edaf3670cf",
+      "sha": "123d319",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1794186534000,
+      "committedDate": "2026-11-09T01:08:54Z",
+      "header": "chore(dev-deps): bump the vite-vitest-toolchain group with 4 updates",
+      "repo": "M2_GIT_DIFF",
+      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/0651968279baec42613dbbe98958413a1f7f6df4",
+      "sha": "0651968",
+      "login": "dependabot[bot]"
+    },
+    {
+      "date": 1794129465000,
+      "committedDate": "2026-11-08T09:17:45Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/ac5161fb5380673b878069db4acb93bf6e4b3353",
+      "sha": "ac5161f",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1794109229000,
       "committedDate": "2026-11-08T03:40:29Z",
@@ -17,78 +89,6 @@
       "repo": "M2_TIMELINE",
       "url": "https://github.com/M2Station/M2_TIMELINE/commit/b16ee76877525b71ecb92000fde9e6bc37456b17",
       "sha": "b16ee76",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794107946000,
-      "committedDate": "2026-11-08T03:19:06Z",
-      "header": "feat(ed1): page a long plan through a view window instead of one huge page",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/b74b4de07190d9a7fdfcc3198bf0076f5a3ccddc",
-      "sha": "b74b4de",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794105670000,
-      "committedDate": "2026-11-08T02:41:10Z",
-      "header": "feat(ed1): drag dates on the lane chart and mirror the real chart in the picker",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/fd3b3c2b36d78c124290adc947731e262e575373",
-      "sha": "fd3b3c2",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794074680000,
-      "committedDate": "2026-11-07T18:04:40Z",
-      "header": "feat(ed1): label every bar fully and make the slide timeline easier to edit",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/a52622e4e3008488d15d9469de27088b562785cd",
-      "sha": "a52622e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794070971000,
-      "committedDate": "2026-11-07T17:02:51Z",
-      "header": "feat(ed1): give every slide style the timeline height bar",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/e26c52486113e0ff42c2696ab7c15b73dc1ced17",
-      "sha": "e26c524",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794068917000,
-      "committedDate": "2026-11-07T16:28:37Z",
-      "header": "chore(m2agent): commit the demo build toolchain and its README",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/9fe0211f150f606f3017e4b7f767463f63b9a2ca",
-      "sha": "9fe0211",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794068279000,
-      "committedDate": "2026-11-07T16:17:59Z",
-      "header": "docs: add the generated NPI demo prompt and the ED1 gauntlet evidence",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/451ca9dab7431e4055cd17eb0ab57b3ebcad037d",
-      "sha": "451ca9d",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794067862000,
-      "committedDate": "2026-11-07T16:11:02Z",
-      "header": "chore(deck): commit the design-award build pipeline",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/716c753fc7c3fdab41c2ae3e516ba9db2d42eaa2",
-      "sha": "716c753",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794067224000,
-      "committedDate": "2026-11-07T16:00:24Z",
-      "header": "docs(design-award): add the 2026 entry as PPTX, PDF and Markdown",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/543b57c557925c94d47ff3f808a2a552e548e8a2",
-      "sha": "543b57c",
       "login": "oahsiao"
     }
   ]
