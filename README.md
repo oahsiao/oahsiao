@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@e040f15`](https://github.com/M2Station/M2_TIMELINE/commit/e040f1564ac872e946a134d3a9e376794af40557) — docs(deck): use Noto Sans TC for headlines instead of the... · `2026-11-09` · oahsiao
-02. [`M2_TIMELINE@95e6716`](https://github.com/M2Station/M2_TIMELINE/commit/95e67163967f962ddd256b462c635f63ab599e88) — docs(deck): set a serif headline and tighten Chinese trac... · `2026-11-09` · oahsiao
-03. [`M2_TIMELINE@c4fa828`](https://github.com/M2Station/M2_TIMELINE/commit/c4fa8285f51e1559fb5019743476f231c2a9f217) — docs(deck): rebuild the design-award deck as 10 pages for... · `2026-11-09` · oahsiao
-04. [`M2_TIMELINE@fdb55c2`](https://github.com/M2Station/M2_TIMELINE/commit/fdb55c240af9ba6f663513e850639ed790206fed) — chore(repo): rename M2 TIMELINE to M2 TUTTI · `2026-11-09` · oahsiao
-05. [`M2_MSAGUI@8c119a7`](https://github.com/M2Station/M2_MSAGUI/commit/8c119a7ef046748b249ba6fee9f61443477cd209) — Fix missing FullTestName and outlier charts for CSV input... · `2026-11-09` · cin0429
-06. [`M2_GIT_DIFF@123d319`](https://github.com/M2Station/M2_GIT_DIFF/commit/123d319df8543f60d5dd479e7b3485edaf3670cf) — chore(dev-deps): bump electron · `2026-11-09` · dependabot[bot]
-07. [`M2_GIT_DIFF@0651968`](https://github.com/M2Station/M2_GIT_DIFF/commit/0651968279baec42613dbbe98958413a1f7f6df4) — chore(dev-deps): bump the vite-vitest-toolchain group wit... · `2026-11-09` · dependabot[bot]
-08. [`.github@ac5161f`](https://github.com/M2Station/.github/commit/ac5161fb5380673b878069db4acb93bf6e4b3353) — chore: sync latest changes [skip ci] · `2026-11-08` · github-actions[bot]
-09. [`M2_TIMELINE@044729d`](https://github.com/M2Station/M2_TIMELINE/commit/044729d28ea752dc35afcc059c3c3f44ff55bfb4) — feat(ed1): pin the project quick toolbar with STAGE short... · `2026-11-08` · oahsiao
-10. [`M2_TIMELINE@b16ee76`](https://github.com/M2Station/M2_TIMELINE/commit/b16ee76877525b71ecb92000fde9e6bc37456b17) — feat(settings): let product line and platform combine typ... · `2026-11-08` · oahsiao
+01. [`M2_TIMELINE@ed2aba7`](https://github.com/M2Station/M2_TIMELINE/commit/ed2aba74a46bd0d255eb14b030afdd4e8be29e9a) — chore(agent): keep the Kinabalu v2 and full-spec MCP buil... · `2026-11-10` · oahsiao
+02. [`M2_TIMELINE@d0e49f8`](https://github.com/M2Station/M2_TIMELINE/commit/d0e49f84bf9ebb776ebb750ce861c5d36cd32a86) — feat(minimap): navigate editable lanes and the event time... · `2026-11-10` · oahsiao
+03. [`M2_MSAGUI@c98cdd8`](https://github.com/M2Station/M2_MSAGUI/commit/c98cdd8735045bbe6c1085727a965884edbb670c) — Document the step-by-step range check in MSAGUI_v25 · `2026-11-10` · cin0429
+04. [`M2_MSAGUI@7b9f3cf`](https://github.com/M2Station/M2_MSAGUI/commit/7b9f3cf02133d0ee755ca63e793c5875cb3e7a6b) — Exclude readings one at a time until the DUT range is wit... · `2026-11-10` · cin0429
+05. [`M2_TIMELINE@0bb2fd7`](https://github.com/M2Station/M2_TIMELINE/commit/0bb2fd73ad82b8c8dc31f7a5845ef75ef8db60f5) — refactor(overview): retire the ED1 project timeline prese... · `2026-11-10` · oahsiao
+06. [`M2_TIMELINE@486cd01`](https://github.com/M2Station/M2_TIMELINE/commit/486cd01545b980abd1c481597eb2c95fad3afe40) — feat(timeline): per-Timeline schedule settings and rail a... · `2026-11-10` · oahsiao
+07. [`M2_MSAGUI@0ced20a`](https://github.com/M2Station/M2_MSAGUI/commit/0ced20a6d297e00d7cd12e7b527079c1dead1986) — Document the allowed range and Outlier report range check... · `2026-11-10` · cin0429
+08. [`M2_MSAGUI@e5d5aa5`](https://github.com/M2Station/M2_MSAGUI/commit/e5d5aa5bc409c5a0e7af3947dac06de2567182b6) — Explain the range check in the Outlier report and drop th... · `2026-11-10` · cin0429
+09. [`M2_PILOT@6832f75`](https://github.com/M2Station/M2_PILOT/commit/6832f755fcc7a6de275fdc7b2a87c1098e33894a) — Support FF mux signal set and check (#61) · `2026-11-10` · KretonWang
+10. [`M2_TIMELINE@29cc621`](https://github.com/M2Station/M2_TIMELINE/commit/29cc6216b854996fd062c614e56c33dab3313981) — fix(mcp): reuse an existing token store on double-click a... · `2026-11-10` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

@@ -1,94 +1,94 @@
 {
-  "updated": "2026-11-09 17:24 TWN",
+  "updated": "2026-11-10 17:28 TWN",
   "latestChanges": [
     {
-      "date": 1794207227000,
-      "committedDate": "2026-11-09T06:53:47Z",
-      "header": "docs(deck): use Noto Sans TC for headlines instead of the serif",
+      "date": 1794301526000,
+      "committedDate": "2026-11-10T09:05:26Z",
+      "header": "chore(agent): keep the Kinabalu v2 and full-spec MCP builders",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/e040f1564ac872e946a134d3a9e376794af40557",
-      "sha": "e040f15",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/ed2aba74a46bd0d255eb14b030afdd4e8be29e9a",
+      "sha": "ed2aba7",
       "login": "oahsiao"
     },
     {
-      "date": 1794206794000,
-      "committedDate": "2026-11-09T06:46:34Z",
-      "header": "docs(deck): set a serif headline and tighten Chinese tracking",
+      "date": 1794296599000,
+      "committedDate": "2026-11-10T07:43:19Z",
+      "header": "feat(minimap): navigate editable lanes and the event timeline",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/95e67163967f962ddd256b462c635f63ab599e88",
-      "sha": "95e6716",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/d0e49f84bf9ebb776ebb750ce861c5d36cd32a86",
+      "sha": "d0e49f8",
       "login": "oahsiao"
     },
     {
-      "date": 1794205588000,
-      "committedDate": "2026-11-09T06:26:28Z",
-      "header": "docs(deck): rebuild the design-award deck as 10 pages for TUTTI",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/c4fa8285f51e1559fb5019743476f231c2a9f217",
-      "sha": "c4fa828",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794205214000,
-      "committedDate": "2026-11-09T06:20:14Z",
-      "header": "chore(repo): rename M2 TIMELINE to M2 TUTTI",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/fdb55c240af9ba6f663513e850639ed790206fed",
-      "sha": "fdb55c2",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794204463000,
-      "committedDate": "2026-11-09T06:07:43Z",
-      "header": "Fix missing FullTestName and outlier charts for CSV input (#4)",
+      "date": 1794296587000,
+      "committedDate": "2026-11-10T07:43:07Z",
+      "header": "Document the step-by-step range check in MSAGUI_v25",
       "repo": "M2_MSAGUI",
-      "url": "https://github.com/M2Station/M2_MSAGUI/commit/8c119a7ef046748b249ba6fee9f61443477cd209",
-      "sha": "8c119a7",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/c98cdd8735045bbe6c1085727a965884edbb670c",
+      "sha": "c98cdd8",
       "login": "cin0429"
     },
     {
-      "date": 1794186554000,
-      "committedDate": "2026-11-09T01:09:14Z",
-      "header": "chore(dev-deps): bump electron",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/123d319df8543f60d5dd479e7b3485edaf3670cf",
-      "sha": "123d319",
-      "login": "dependabot[bot]"
+      "date": 1794296586000,
+      "committedDate": "2026-11-10T07:43:06Z",
+      "header": "Exclude readings one at a time until the DUT range is within the allowed range",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/7b9f3cf02133d0ee755ca63e793c5875cb3e7a6b",
+      "sha": "7b9f3cf",
+      "login": "cin0429"
     },
     {
-      "date": 1794186534000,
-      "committedDate": "2026-11-09T01:08:54Z",
-      "header": "chore(dev-deps): bump the vite-vitest-toolchain group with 4 updates",
-      "repo": "M2_GIT_DIFF",
-      "url": "https://github.com/M2Station/M2_GIT_DIFF/commit/0651968279baec42613dbbe98958413a1f7f6df4",
-      "sha": "0651968",
-      "login": "dependabot[bot]"
-    },
-    {
-      "date": 1794129465000,
-      "committedDate": "2026-11-08T09:17:45Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/ac5161fb5380673b878069db4acb93bf6e4b3353",
-      "sha": "ac5161f",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1794109229000,
-      "committedDate": "2026-11-08T03:40:29Z",
-      "header": "feat(ed1): pin the project quick toolbar with STAGE shortcuts",
+      "date": 1794293611000,
+      "committedDate": "2026-11-10T06:53:31Z",
+      "header": "refactor(overview): retire the ED1 project timeline presentation",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/044729d28ea752dc35afcc059c3c3f44ff55bfb4",
-      "sha": "044729d",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/0bb2fd73ad82b8c8dc31f7a5845ef75ef8db60f5",
+      "sha": "0bb2fd7",
       "login": "oahsiao"
     },
     {
-      "date": 1794109228000,
-      "committedDate": "2026-11-08T03:40:28Z",
-      "header": "feat(settings): let product line and platform combine typing with saved values",
+      "date": 1794292632000,
+      "committedDate": "2026-11-10T06:37:12Z",
+      "header": "feat(timeline): per-Timeline schedule settings and rail arrangements",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/b16ee76877525b71ecb92000fde9e6bc37456b17",
-      "sha": "b16ee76",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/486cd01545b980abd1c481597eb2c95fad3afe40",
+      "sha": "486cd01",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794290653000,
+      "committedDate": "2026-11-10T06:04:13Z",
+      "header": "Document the allowed range and Outlier report range check in MSAGUI_v25",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/0ced20a6d297e00d7cd12e7b527079c1dead1986",
+      "sha": "0ced20a",
+      "login": "cin0429"
+    },
+    {
+      "date": 1794290652000,
+      "committedDate": "2026-11-10T06:04:12Z",
+      "header": "Explain the range check in the Outlier report and drop the Overview note",
+      "repo": "M2_MSAGUI",
+      "url": "https://github.com/M2Station/M2_MSAGUI/commit/e5d5aa5bc409c5a0e7af3947dac06de2567182b6",
+      "sha": "e5d5aa5",
+      "login": "cin0429"
+    },
+    {
+      "date": 1794289946000,
+      "committedDate": "2026-11-10T05:52:26Z",
+      "header": "Support FF mux signal set and check (#61)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/6832f755fcc7a6de275fdc7b2a87c1098e33894a",
+      "sha": "6832f75",
+      "login": "KretonWang"
+    },
+    {
+      "date": 1794287836000,
+      "committedDate": "2026-11-10T05:17:16Z",
+      "header": "fix(mcp): reuse an existing token store on double-click and bundle the ABIs",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/29cc6216b854996fd062c614e56c33dab3313981",
+      "sha": "29cc621",
       "login": "oahsiao"
     }
   ]
