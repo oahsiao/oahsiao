@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.000;0.098;0.150;0.167;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;104.80000000000001;104.80000000000001;0;0"
+        keyTimes="0;0.000;0.035;0.129;0.158;1"
+        dur="17.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>chore(agent): keep the Kinabalu v2 and full-spe...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update MCP</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.167;0.265;0.317;0.333;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;180.4;180.4;0;0"
+        keyTimes="0;0.158;0.225;0.319;0.349;1"
+        dur="17.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(minimap): navigate editable lanes and the ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update Design Award</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.333;0.431;0.484;0.500;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;37.6;37.6;0;0"
+        keyTimes="0;0.349;0.356;0.450;0.479;1"
+        dur="17.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Document the step-by-step range check in MSAGUI...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>++</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.500;0.598;0.650;0.667;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;104.80000000000001;104.80000000000001;0;0"
+        keyTimes="0;0.479;0.514;0.608;0.637;1"
+        dur="17.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Exclude readings one at a time until the DUT ra...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>+Demo mode</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.667;0.765;0.817;0.833;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;172;172;0;0"
+        keyTimes="0;0.637;0.701;0.795;0.824;1"
+        dur="17.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>refactor(overview): retire the ED1 project time...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Update DesignAward</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.833;0.931;0.984;1.000;1"
-        dur="30.6s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;146.8;146.8;0;0"
+        keyTimes="0;0.824;0.877;0.971;1.000;1"
+        dur="17.0s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(timeline): per-Timeline schedule settings ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix image error</text>
     </g>
 </svg>

@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@ed2aba7`](https://github.com/M2Station/M2_TIMELINE/commit/ed2aba74a46bd0d255eb14b030afdd4e8be29e9a) — chore(agent): keep the Kinabalu v2 and full-spec MCP buil... · `2026-11-10` · oahsiao
-02. [`M2_TIMELINE@d0e49f8`](https://github.com/M2Station/M2_TIMELINE/commit/d0e49f84bf9ebb776ebb750ce861c5d36cd32a86) — feat(minimap): navigate editable lanes and the event time... · `2026-11-10` · oahsiao
-03. [`M2_MSAGUI@c98cdd8`](https://github.com/M2Station/M2_MSAGUI/commit/c98cdd8735045bbe6c1085727a965884edbb670c) — Document the step-by-step range check in MSAGUI_v25 · `2026-11-10` · cin0429
-04. [`M2_MSAGUI@7b9f3cf`](https://github.com/M2Station/M2_MSAGUI/commit/7b9f3cf02133d0ee755ca63e793c5875cb3e7a6b) — Exclude readings one at a time until the DUT range is wit... · `2026-11-10` · cin0429
-05. [`M2_TIMELINE@0bb2fd7`](https://github.com/M2Station/M2_TIMELINE/commit/0bb2fd73ad82b8c8dc31f7a5845ef75ef8db60f5) — refactor(overview): retire the ED1 project timeline prese... · `2026-11-10` · oahsiao
-06. [`M2_TIMELINE@486cd01`](https://github.com/M2Station/M2_TIMELINE/commit/486cd01545b980abd1c481597eb2c95fad3afe40) — feat(timeline): per-Timeline schedule settings and rail a... · `2026-11-10` · oahsiao
-07. [`M2_MSAGUI@0ced20a`](https://github.com/M2Station/M2_MSAGUI/commit/0ced20a6d297e00d7cd12e7b527079c1dead1986) — Document the allowed range and Outlier report range check... · `2026-11-10` · cin0429
-08. [`M2_MSAGUI@e5d5aa5`](https://github.com/M2Station/M2_MSAGUI/commit/e5d5aa5bc409c5a0e7af3947dac06de2567182b6) — Explain the range check in the Outlier report and drop th... · `2026-11-10` · cin0429
-09. [`M2_PILOT@6832f75`](https://github.com/M2Station/M2_PILOT/commit/6832f755fcc7a6de275fdc7b2a87c1098e33894a) — Support FF mux signal set and check (#61) · `2026-11-10` · KretonWang
-10. [`M2_TIMELINE@29cc621`](https://github.com/M2Station/M2_TIMELINE/commit/29cc6216b854996fd062c614e56c33dab3313981) — fix(mcp): reuse an existing token store on double-click a... · `2026-11-10` · oahsiao
+01. [`M2_TIMELINE@c47362f`](https://github.com/M2Station/M2_TIMELINE/commit/c47362fb4bf49a318be4163c5c4ebf4d92c49313) — Update MCP · `2026-11-11` · oahsiao
+02. [`M2_TIMELINE@7a9adf6`](https://github.com/M2Station/M2_TIMELINE/commit/7a9adf64dd58fe3fadf9ae37bc6876ad94898f2b) — Update Design Award · `2026-11-11` · oahsiao
+03. [`M2_TIMELINE@016ae5d`](https://github.com/M2Station/M2_TIMELINE/commit/016ae5dcf2cc7d5f7d297c9c8d12104aff3a18c6) — ++ · `2026-11-10` · oahsiao
+04. [`M2_TIMELINE@9add634`](https://github.com/M2Station/M2_TIMELINE/commit/9add634b5d089790b2aeb44631ad65e7a25f1578) — +Demo mode · `2026-11-10` · oahsiao
+05. [`M2_TIMELINE@a3f2d86`](https://github.com/M2Station/M2_TIMELINE/commit/a3f2d868a7b8831be33ae557f526c44138a52285) — Update DesignAward · `2026-11-10` · oahsiao
+06. [`M2_WIKI@f638e62`](https://github.com/M2Station/M2_WIKI/commit/f638e62d236284e8b7342431ab4c24982f054f97) — fix image error · `2026-11-10` · bofrankbo
+07. [`M2_WIKI@d15a93e`](https://github.com/M2Station/M2_WIKI/commit/d15a93e60c3a301df2d51d51298b8bb90c9733a5) — add Reagentc Failture · `2026-11-10` · bofrankbo
+08. [`.github@92759ce`](https://github.com/M2Station/.github/commit/92759ce8d3f826ad34d719a200afa9c1c10b711a) — chore: sync latest changes [skip ci] · `2026-11-10` · github-actions[bot]
+09. [`M2_TIMELINE@8f67e03`](https://github.com/M2Station/M2_TIMELINE/commit/8f67e03f2a1220aa894cc3cad70ade0e4c5c64a7) — feat(event-timeline): toggle legend categories and separa... · `2026-11-10` · oahsiao
+10. [`M2_TIMELINE@2887482`](https://github.com/M2Station/M2_TIMELINE/commit/28874829dd86168baf2212dc1d5a2ac13531c44c) — add DEMO info · `2026-11-10` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
