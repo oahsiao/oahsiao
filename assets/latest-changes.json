@@ -1,6 +1,87 @@
 {
-  "updated": "2026-11-11 17:00 TWN",
+  "updated": "2026-11-12 17:30 TWN",
   "latestChanges": [
+    {
+      "date": 1794469135000,
+      "committedDate": "2026-11-12T07:38:55Z",
+      "header": "++++",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/41cd731153b404a3af016734913e224be57ec9e3",
+      "sha": "41cd731",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794468540000,
+      "committedDate": "2026-11-12T07:29:00Z",
+      "header": "++COVER",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/f7ba900fd9dc2879397020d522f831c8602bc978",
+      "sha": "f7ba900",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794468351000,
+      "committedDate": "2026-11-12T07:25:51Z",
+      "header": "+++",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/0a2683bafe421a41138256b79255a788d5851b20",
+      "sha": "0a2683b",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794467481000,
+      "committedDate": "2026-11-12T07:11:21Z",
+      "header": "+++",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/8a420a2d1a216fef2886e3b21ae2fcf1249a32d4",
+      "sha": "8a420a2",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794454335000,
+      "committedDate": "2026-11-12T03:32:15Z",
+      "header": "feat(mcp): show the HTTP endpoint address from the portable launchers",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/e77249a10381e2c36688776ce9520b69cc67d70b",
+      "sha": "e77249a",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794413320000,
+      "committedDate": "2026-11-11T16:08:40Z",
+      "header": "GPT6 ASTRA REGEN",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/63b81dee0e03fc7c2153d9299210d00f2ae6962c",
+      "sha": "63b81de",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794412401000,
+      "committedDate": "2026-11-11T15:53:21Z",
+      "header": "+ PDF PPTX output function",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/81957d842676cf5000c0c0999eaacc4e04228a70",
+      "sha": "81957d8",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794410630000,
+      "committedDate": "2026-11-11T15:23:50Z",
+      "header": "update Design Award",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/bd163d7b23cc39a8d5a6db6351acbfffb2c6ec51",
+      "sha": "bd163d7",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794390068000,
+      "committedDate": "2026-11-11T09:41:08Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/a3bce594edf52ca68ae9aea56edfbb729c3f3496",
+      "sha": "a3bce59",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1794375275000,
       "committedDate": "2026-11-11T05:34:35Z",
@@ -8,87 +89,6 @@
       "repo": "M2_TIMELINE",
       "url": "https://github.com/M2Station/M2_TIMELINE/commit/c47362fb4bf49a318be4163c5c4ebf4d92c49313",
       "sha": "c47362f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794375231000,
-      "committedDate": "2026-11-11T05:33:51Z",
-      "header": "Update Design Award",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/7a9adf64dd58fe3fadf9ae37bc6876ad94898f2b",
-      "sha": "7a9adf6",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794314685000,
-      "committedDate": "2026-11-10T12:44:45Z",
-      "header": "++",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/016ae5dcf2cc7d5f7d297c9c8d12104aff3a18c6",
-      "sha": "016ae5d",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794311711000,
-      "committedDate": "2026-11-10T11:55:11Z",
-      "header": "+Demo mode",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/9add634b5d089790b2aeb44631ad65e7a25f1578",
-      "sha": "9add634",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794308197000,
-      "committedDate": "2026-11-10T10:56:37Z",
-      "header": "Update DesignAward",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/a3f2d868a7b8831be33ae557f526c44138a52285",
-      "sha": "a3f2d86",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794307887000,
-      "committedDate": "2026-11-10T10:51:27Z",
-      "header": "fix image error",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/f638e62d236284e8b7342431ab4c24982f054f97",
-      "sha": "f638e62",
-      "login": "bofrankbo"
-    },
-    {
-      "date": 1794307599000,
-      "committedDate": "2026-11-10T10:46:39Z",
-      "header": "add Reagentc Failture",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/d15a93e60c3a301df2d51d51298b8bb90c9733a5",
-      "sha": "d15a93e",
-      "login": "bofrankbo"
-    },
-    {
-      "date": 1794305495000,
-      "committedDate": "2026-11-10T10:11:35Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/92759ce8d3f826ad34d719a200afa9c1c10b711a",
-      "sha": "92759ce",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1794304778000,
-      "committedDate": "2026-11-10T09:59:38Z",
-      "header": "feat(event-timeline): toggle legend categories and separate title from notes",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/8f67e03f2a1220aa894cc3cad70ade0e4c5c64a7",
-      "sha": "8f67e03",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794303916000,
-      "committedDate": "2026-11-10T09:45:16Z",
-      "header": "add DEMO info",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/28874829dd86168baf2212dc1d5a2ac13531c44c",
-      "sha": "2887482",
       "login": "oahsiao"
     }
   ]

@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@c47362f`](https://github.com/M2Station/M2_TIMELINE/commit/c47362fb4bf49a318be4163c5c4ebf4d92c49313) — Update MCP · `2026-11-11` · oahsiao
-02. [`M2_TIMELINE@7a9adf6`](https://github.com/M2Station/M2_TIMELINE/commit/7a9adf64dd58fe3fadf9ae37bc6876ad94898f2b) — Update Design Award · `2026-11-11` · oahsiao
-03. [`M2_TIMELINE@016ae5d`](https://github.com/M2Station/M2_TIMELINE/commit/016ae5dcf2cc7d5f7d297c9c8d12104aff3a18c6) — ++ · `2026-11-10` · oahsiao
-04. [`M2_TIMELINE@9add634`](https://github.com/M2Station/M2_TIMELINE/commit/9add634b5d089790b2aeb44631ad65e7a25f1578) — +Demo mode · `2026-11-10` · oahsiao
-05. [`M2_TIMELINE@a3f2d86`](https://github.com/M2Station/M2_TIMELINE/commit/a3f2d868a7b8831be33ae557f526c44138a52285) — Update DesignAward · `2026-11-10` · oahsiao
-06. [`M2_WIKI@f638e62`](https://github.com/M2Station/M2_WIKI/commit/f638e62d236284e8b7342431ab4c24982f054f97) — fix image error · `2026-11-10` · bofrankbo
-07. [`M2_WIKI@d15a93e`](https://github.com/M2Station/M2_WIKI/commit/d15a93e60c3a301df2d51d51298b8bb90c9733a5) — add Reagentc Failture · `2026-11-10` · bofrankbo
-08. [`.github@92759ce`](https://github.com/M2Station/.github/commit/92759ce8d3f826ad34d719a200afa9c1c10b711a) — chore: sync latest changes [skip ci] · `2026-11-10` · github-actions[bot]
-09. [`M2_TIMELINE@8f67e03`](https://github.com/M2Station/M2_TIMELINE/commit/8f67e03f2a1220aa894cc3cad70ade0e4c5c64a7) — feat(event-timeline): toggle legend categories and separa... · `2026-11-10` · oahsiao
-10. [`M2_TIMELINE@2887482`](https://github.com/M2Station/M2_TIMELINE/commit/28874829dd86168baf2212dc1d5a2ac13531c44c) — add DEMO info · `2026-11-10` · oahsiao
+01. [`M2_TIMELINE@41cd731`](https://github.com/M2Station/M2_TIMELINE/commit/41cd731153b404a3af016734913e224be57ec9e3) — ++++ · `2026-11-12` · oahsiao
+02. [`M2_TIMELINE@f7ba900`](https://github.com/M2Station/M2_TIMELINE/commit/f7ba900fd9dc2879397020d522f831c8602bc978) — ++COVER · `2026-11-12` · oahsiao
+03. [`M2_TIMELINE@0a2683b`](https://github.com/M2Station/M2_TIMELINE/commit/0a2683bafe421a41138256b79255a788d5851b20) — +++ · `2026-11-12` · oahsiao
+04. [`M2_TIMELINE@8a420a2`](https://github.com/M2Station/M2_TIMELINE/commit/8a420a2d1a216fef2886e3b21ae2fcf1249a32d4) — +++ · `2026-11-12` · oahsiao
+05. [`M2_TIMELINE@e77249a`](https://github.com/M2Station/M2_TIMELINE/commit/e77249a10381e2c36688776ce9520b69cc67d70b) — feat(mcp): show the HTTP endpoint address from the portab... · `2026-11-12` · oahsiao
+06. [`M2_TIMELINE@63b81de`](https://github.com/M2Station/M2_TIMELINE/commit/63b81dee0e03fc7c2153d9299210d00f2ae6962c) — GPT6 ASTRA REGEN · `2026-11-11` · oahsiao
+07. [`M2_TIMELINE@81957d8`](https://github.com/M2Station/M2_TIMELINE/commit/81957d842676cf5000c0c0999eaacc4e04228a70) — + PDF PPTX output function · `2026-11-11` · oahsiao
+08. [`M2_TIMELINE@bd163d7`](https://github.com/M2Station/M2_TIMELINE/commit/bd163d7b23cc39a8d5a6db6351acbfffb2c6ec51) — update Design Award · `2026-11-11` · oahsiao
+09. [`.github@a3bce59`](https://github.com/M2Station/.github/commit/a3bce594edf52ca68ae9aea56edfbb729c3f3496) — chore: sync latest changes [skip ci] · `2026-11-11` · github-actions[bot]
+10. [`M2_TIMELINE@c47362f`](https://github.com/M2Station/M2_TIMELINE/commit/c47362fb4bf49a318be4163c5c4ebf4d92c49313) — Update MCP · `2026-11-11` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
