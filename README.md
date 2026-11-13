@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@41cd731`](https://github.com/M2Station/M2_TIMELINE/commit/41cd731153b404a3af016734913e224be57ec9e3) — ++++ · `2026-11-12` · oahsiao
-02. [`M2_TIMELINE@f7ba900`](https://github.com/M2Station/M2_TIMELINE/commit/f7ba900fd9dc2879397020d522f831c8602bc978) — ++COVER · `2026-11-12` · oahsiao
-03. [`M2_TIMELINE@0a2683b`](https://github.com/M2Station/M2_TIMELINE/commit/0a2683bafe421a41138256b79255a788d5851b20) — +++ · `2026-11-12` · oahsiao
-04. [`M2_TIMELINE@8a420a2`](https://github.com/M2Station/M2_TIMELINE/commit/8a420a2d1a216fef2886e3b21ae2fcf1249a32d4) — +++ · `2026-11-12` · oahsiao
-05. [`M2_TIMELINE@e77249a`](https://github.com/M2Station/M2_TIMELINE/commit/e77249a10381e2c36688776ce9520b69cc67d70b) — feat(mcp): show the HTTP endpoint address from the portab... · `2026-11-12` · oahsiao
-06. [`M2_TIMELINE@63b81de`](https://github.com/M2Station/M2_TIMELINE/commit/63b81dee0e03fc7c2153d9299210d00f2ae6962c) — GPT6 ASTRA REGEN · `2026-11-11` · oahsiao
-07. [`M2_TIMELINE@81957d8`](https://github.com/M2Station/M2_TIMELINE/commit/81957d842676cf5000c0c0999eaacc4e04228a70) — + PDF PPTX output function · `2026-11-11` · oahsiao
-08. [`M2_TIMELINE@bd163d7`](https://github.com/M2Station/M2_TIMELINE/commit/bd163d7b23cc39a8d5a6db6351acbfffb2c6ec51) — update Design Award · `2026-11-11` · oahsiao
-09. [`.github@a3bce59`](https://github.com/M2Station/.github/commit/a3bce594edf52ca68ae9aea56edfbb729c3f3496) — chore: sync latest changes [skip ci] · `2026-11-11` · github-actions[bot]
-10. [`M2_TIMELINE@c47362f`](https://github.com/M2Station/M2_TIMELINE/commit/c47362fb4bf49a318be4163c5c4ebf4d92c49313) — Update MCP · `2026-11-11` · oahsiao
+01. [`M2_APEX@154abc4`](https://github.com/M2Station/M2_APEX/commit/154abc47b4a28f87923062ab5a41c50feb4772a2) — chore(release): v0.5.46 · `2026-11-13` · oahsiao
+02. [`M2_TIMELINE@3e6f663`](https://github.com/M2Station/M2_TIMELINE/commit/3e6f663c5d04b322bb7a687f0dfe1ab60d997227) — feat(event-timeline): surface dependency rules and export... · `2026-11-13` · oahsiao
+03. [`M2_PUBLIC_RELEASE@dd344a1`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/dd344a1ffef5661c93c64acca6de231f4d216366) — chore(m2-apex): publish v0.5.46 · `2026-11-13` · oahsiao
+04. [`M2_APEX@df9aeaf`](https://github.com/M2Station/M2_APEX/commit/df9aeaf4a36f9f192b69d14234a09395b9276f15) — fix(diagnostics): follow the active theme in the activity... · `2026-11-13` · oahsiao
+05. [`M2_TIMELINE@4ed6cb6`](https://github.com/M2Station/M2_TIMELINE/commit/4ed6cb669725eb372e65b626c28d98c196e22db8) — feat(event-dependency): refactor dependency model and editor · `2026-11-13` · oahsiao
+06. [`M2_PUBLIC_RELEASE@cb5e88e`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/cb5e88e66889290a66fe764134169f6975a62308) — chore(m2-apex): publish v0.5.45 · `2026-11-13` · oahsiao
+07. [`M2_APEX@f13ed5b`](https://github.com/M2Station/M2_APEX/commit/f13ed5b7cd2d2b07ac192e4defee2ff440745a3f) — feat(diagnostics): make app activity and failures visible... · `2026-11-13` · oahsiao
+08. [`M2_TIMELINE@03f24d0`](https://github.com/M2Station/M2_TIMELINE/commit/03f24d0d68f4646af3ed660db9bb65224cfcd186) — feat(ui): compact the design tokens and timeline row heights · `2026-11-13` · oahsiao
+09. [`M2_TIMELINE@04735ac`](https://github.com/M2Station/M2_TIMELINE/commit/04735ac1ad1a78f1d44606617d798fb73c4aa444) — chore(kinabalu): align the demo model metadata with the v... · `2026-11-13` · oahsiao
+10. [`.github@c6f667e`](https://github.com/M2Station/.github/commit/c6f667eecf7787258119c645ec94e49511719ac7) — chore: sync latest changes [skip ci] · `2026-11-12` · github-actions[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---
