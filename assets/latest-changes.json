@@ -1,95 +1,95 @@
 {
-  "updated": "2026-11-13 17:16 TWN",
+  "updated": "2026-11-14 16:45 TWN",
   "latestChanges": [
     {
-      "date": 1794559179000,
-      "committedDate": "2026-11-13T08:39:39Z",
-      "header": "chore(release): v0.5.46",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/154abc47b4a28f87923062ab5a41c50feb4772a2",
-      "sha": "154abc4",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794558967000,
-      "committedDate": "2026-11-13T08:36:07Z",
-      "header": "feat(event-timeline): surface dependency rules and export STAGE images",
+      "date": 1794643914000,
+      "committedDate": "2026-11-14T08:11:54Z",
+      "header": "feat(ui): add a shortcut overlay and comparison minimap (#72)",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/3e6f663c5d04b322bb7a687f0dfe1ab60d997227",
-      "sha": "3e6f663",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/e0a8d1a610fe8e07c89533f8f2f5cf4aa1dd336c",
+      "sha": "e0a8d1a",
       "login": "oahsiao"
     },
     {
-      "date": 1794552560000,
-      "committedDate": "2026-11-13T06:49:20Z",
-      "header": "chore(m2-apex): publish v0.5.46",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/dd344a1ffef5661c93c64acca6de231f4d216366",
-      "sha": "dd344a1",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794551280000,
-      "committedDate": "2026-11-13T06:28:00Z",
-      "header": "fix(diagnostics): follow the active theme in the activity surfaces (#156)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/df9aeaf4a36f9f192b69d14234a09395b9276f15",
-      "sha": "df9aeaf",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794544278000,
-      "committedDate": "2026-11-13T04:31:18Z",
-      "header": "feat(event-dependency): refactor dependency model and editor",
+      "date": 1794643285000,
+      "committedDate": "2026-11-14T08:01:25Z",
+      "header": "feat(ui): persist the timeline inspector and overflow project actions (#71)",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/4ed6cb669725eb372e65b626c28d98c196e22db8",
-      "sha": "4ed6cb6",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/965aeb4ecd8af5c766bba1af52af9d0fbe775001",
+      "sha": "965aeb4",
       "login": "oahsiao"
     },
     {
-      "date": 1794542730000,
-      "committedDate": "2026-11-13T04:05:30Z",
-      "header": "chore(m2-apex): publish v0.5.45",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/cb5e88e66889290a66fe764134169f6975a62308",
-      "sha": "cb5e88e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794542453000,
-      "committedDate": "2026-11-13T04:00:53Z",
-      "header": "feat(diagnostics): make app activity and failures visible (#155)",
-      "repo": "M2_APEX",
-      "url": "https://github.com/M2Station/M2_APEX/commit/f13ed5b7cd2d2b07ac192e4defee2ff440745a3f",
-      "sha": "f13ed5b",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794538364000,
-      "committedDate": "2026-11-13T02:52:44Z",
-      "header": "feat(ui): compact the design tokens and timeline row heights",
+      "date": 1794640197000,
+      "committedDate": "2026-11-14T07:09:57Z",
+      "header": "feat(ui): move comparison status filter into a View menu (#70)",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/03f24d0d68f4646af3ed660db9bb65224cfcd186",
-      "sha": "03f24d0",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/f0e6ccedd1d89d454c3a0ec13b597ac6cea5403e",
+      "sha": "f0e6cce",
       "login": "oahsiao"
     },
     {
-      "date": 1794538362000,
-      "committedDate": "2026-11-13T02:52:42Z",
-      "header": "chore(kinabalu): align the demo model metadata with the v5.2 schedule",
+      "date": 1794636030000,
+      "committedDate": "2026-11-14T06:00:30Z",
+      "header": "feat(ui): share the workspace page shell and compact list density (#69)",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/04735ac1ad1a78f1d44606617d798fb73c4aa444",
-      "sha": "04735ac",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/cc361ebba129e21f55f40ad2eec471b61686fe71",
+      "sha": "cc361eb",
       "login": "oahsiao"
     },
     {
-      "date": 1794477688000,
-      "committedDate": "2026-11-12T10:01:28Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/c6f667eecf7787258119c645ec94e49511719ac7",
-      "sha": "c6f667e",
-      "login": "github-actions[bot]"
+      "date": 1794626020000,
+      "committedDate": "2026-11-14T03:13:40Z",
+      "header": "feat(ui): compact the project library and workspace chrome (#68)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/3db3642cadd3d34d23029a7cb8dce6a291f0bddd",
+      "sha": "3db3642",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794620967000,
+      "committedDate": "2026-11-14T01:49:27Z",
+      "header": "feat(ui): add a switchable timeline bottom inspector (#67)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/ca6fe731a192dc59067e2ddbcf18fa572fb4c293",
+      "sha": "ca6fe73",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794620107000,
+      "committedDate": "2026-11-14T01:35:07Z",
+      "header": "feat(ui): compact settings navigation and schedule workbench (#66)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/33afa2d7dc854f8aff4aa86e4612f8aa5e01cb71",
+      "sha": "33afa2d",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794615859000,
+      "committedDate": "2026-11-14T00:24:19Z",
+      "header": "feat(ui): compact phase diagrams, infographic and stage board (#65)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/4eca7d41b4f5101fb17600ecdf7ea650905c6068",
+      "sha": "4eca7d4",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794614488000,
+      "committedDate": "2026-11-14T00:01:28Z",
+      "header": "feat(ui): align event timeline and Gantt with workspace tools (#64)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/7ad4eac834bbb9c5e618aa30e6008a196a753a30",
+      "sha": "7ad4eac",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794590170000,
+      "committedDate": "2026-11-13T17:16:10Z",
+      "header": "fix(timeline): resolve stage edits and crop viewport exports (#63)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/ea7179fcb540585f384b045841f45b0e344080a8",
+      "sha": "ea7179f",
+      "login": "oahsiao"
     }
   ]
 }
