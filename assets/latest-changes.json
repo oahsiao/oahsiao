@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-16 17:13 TWN",
+  "updated": "2026-11-17 18:23 TWN",
   "latestChanges": [
+    {
+      "date": 1794825422000,
+      "committedDate": "2026-11-16T10:37:02Z",
+      "header": "opt onboard",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/b8a6ab994e81e7d2300d762f962505384332d13c",
+      "sha": "b8a6ab9",
+      "login": "bofrankbo"
+    },
+    {
+      "date": 1794823178000,
+      "committedDate": "2026-11-16T09:59:38Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/c0d15875d79c8b4592c93fdc5f639370e9388ad8",
+      "sha": "c0d1587",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1794818139000,
       "committedDate": "2026-11-16T08:35:39Z",
@@ -71,24 +89,6 @@
       "repo": "M2_TIMELINE",
       "url": "https://github.com/M2Station/M2_TIMELINE/commit/82c9b094cef388c4c1fd2a2e5d56b85b71fb0e13",
       "sha": "82c9b09",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794669714000,
-      "committedDate": "2026-11-14T15:21:54Z",
-      "header": "feat(ui): add chart output for overview presentations (#79)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/31adf00192f0ecebc9e53789a0ab321912f28519",
-      "sha": "31adf00",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794668701000,
-      "committedDate": "2026-11-14T15:05:01Z",
-      "header": "feat(workspace): add template snapshots and project thumbnails (#78)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/b8b3c8155e1249e7e4e52061df7e81b7a80a45c5",
-      "sha": "b8b3c81",
       "login": "oahsiao"
     }
   ]
