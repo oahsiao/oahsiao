@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_WIKI@b8a6ab9`](https://github.com/M2Station/M2_WIKI/commit/b8a6ab994e81e7d2300d762f962505384332d13c) — opt onboard · `2026-11-16` · bofrankbo
-02. [`.github@c0d1587`](https://github.com/M2Station/.github/commit/c0d15875d79c8b4592c93fdc5f639370e9388ad8) — chore: sync latest changes [skip ci] · `2026-11-16` · github-actions[bot]
-03. [`M2_TIMELINE@3f548a8`](https://github.com/M2Station/M2_TIMELINE/commit/3f548a89895800e56786a0fda4ea656680e36468) — docs(mcp): add the PEGA onboarding SOP and print-ready PD... · `2026-11-16` · oahsiao
-04. [`M2_TIMELINE@5d4daf6`](https://github.com/M2Station/M2_TIMELINE/commit/5d4daf6a9bb216eda78752ec97f885c85386a804) — feat(mcp): add the agent hand-off block to the HTTP banne... · `2026-11-16` · oahsiao
-05. [`.github@332cdca`](https://github.com/M2Station/.github/commit/332cdca5befe81825b8ab600f755d6b2f4ddf3f1) — chore: sync latest changes [skip ci] · `2026-11-15` · github-actions[bot]
-06. [`M2_TIMELINE@1bb851e`](https://github.com/M2Station/M2_TIMELINE/commit/1bb851eba8d789e4e7f3851c3d95f92d789e3e03) — docs(ui): highlight the three quality principles (#84) · `2026-11-14` · oahsiao
-07. [`M2_TIMELINE@8dab632`](https://github.com/M2Station/M2_TIMELINE/commit/8dab632f314486d5717c622f2b8c256609ecfeb3) — docs(ui): add UIUX optimization reference (#83) · `2026-11-14` · oahsiao
-08. [`M2_TIMELINE@6d93fae`](https://github.com/M2Station/M2_TIMELINE/commit/6d93fae84c50353d7ffdec21e09282c07d1cf1c4) — perf(templates): paginate snapshots and clean preview cac... · `2026-11-14` · oahsiao
-09. [`M2_TIMELINE@b0c2119`](https://github.com/M2Station/M2_TIMELINE/commit/b0c211903d7ee72a311e4d4b69b54cfe184e7348) — perf(ui): cache project previews and paginate template sn... · `2026-11-14` · oahsiao
-10. [`M2_TIMELINE@82c9b09`](https://github.com/M2Station/M2_TIMELINE/commit/82c9b094cef388c4c1fd2a2e5d56b85b71fb0e13) — fix(ui): polish project thumbnails and chart export edges... · `2026-11-14` · oahsiao
+01. [`M2_PILOT@c10d871`](https://github.com/M2Station/M2_PILOT/commit/c10d871117bb5b655eaed565cfaf46201d7b13b7) — Add Qualcomm MFCI and MFG DUT tools (#67) · `2026-11-18` · aaaaaayo
+02. [`M2_TIMELINE@19d216e`](https://github.com/M2Station/M2_TIMELINE/commit/19d216efd5f958ec068c461d6de962617ec56b59) — feat(admin): add an ADMIN-only system update page with ro... · `2026-11-18` · oahsiao
+03. [`M2_TIMELINE@21a5c0f`](https://github.com/M2Station/M2_TIMELINE/commit/21a5c0fb01413409b60dc62f4f866a8b872cc194) — feat(templates): redesign the EVENT rail and keep STAGE n... · `2026-11-18` · oahsiao
+04. [`.github@9910a41`](https://github.com/M2Station/.github/commit/9910a412472916ba84b95b3f820f9dda8f4e25c4) — chore: sync latest changes [skip ci] · `2026-11-17` · github-actions[bot]
+05. [`M2_WIKI@b8a6ab9`](https://github.com/M2Station/M2_WIKI/commit/b8a6ab994e81e7d2300d762f962505384332d13c) — opt onboard · `2026-11-16` · bofrankbo
+06. [`.github@c0d1587`](https://github.com/M2Station/.github/commit/c0d15875d79c8b4592c93fdc5f639370e9388ad8) — chore: sync latest changes [skip ci] · `2026-11-16` · github-actions[bot]
+07. [`M2_TIMELINE@3f548a8`](https://github.com/M2Station/M2_TIMELINE/commit/3f548a89895800e56786a0fda4ea656680e36468) — docs(mcp): add the PEGA onboarding SOP and print-ready PD... · `2026-11-16` · oahsiao
+08. [`M2_TIMELINE@5d4daf6`](https://github.com/M2Station/M2_TIMELINE/commit/5d4daf6a9bb216eda78752ec97f885c85386a804) — feat(mcp): add the agent hand-off block to the HTTP banne... · `2026-11-16` · oahsiao
+09. [`.github@332cdca`](https://github.com/M2Station/.github/commit/332cdca5befe81825b8ab600f755d6b2f4ddf3f1) — chore: sync latest changes [skip ci] · `2026-11-15` · github-actions[bot]
+10. [`M2_TIMELINE@1bb851e`](https://github.com/M2Station/M2_TIMELINE/commit/1bb851eba8d789e4e7f3851c3d95f92d789e3e03) — docs(ui): highlight the three quality principles (#84) · `2026-11-14` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

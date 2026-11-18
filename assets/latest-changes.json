@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-17 18:23 TWN",
+  "updated": "2026-11-18 17:53 TWN",
   "latestChanges": [
+    {
+      "date": 1794995150000,
+      "committedDate": "2026-11-18T09:45:50Z",
+      "header": "Add Qualcomm MFCI and MFG DUT tools (#67)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/c10d871117bb5b655eaed565cfaf46201d7b13b7",
+      "sha": "c10d871",
+      "login": "aaaaaayo"
+    },
+    {
+      "date": 1794993470000,
+      "committedDate": "2026-11-18T09:17:50Z",
+      "header": "feat(admin): add an ADMIN-only system update page with rollback (#88)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/19d216efd5f958ec068c461d6de962617ec56b59",
+      "sha": "19d216e",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794992645000,
+      "committedDate": "2026-11-18T09:04:05Z",
+      "header": "feat(templates): redesign the EVENT rail and keep STAGE names on import (#87)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/21a5c0fb01413409b60dc62f4f866a8b872cc194",
+      "sha": "21a5c0f",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1794912970000,
+      "committedDate": "2026-11-17T10:56:10Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/9910a412472916ba84b95b3f820f9dda8f4e25c4",
+      "sha": "9910a41",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1794825422000,
       "committedDate": "2026-11-16T10:37:02Z",
@@ -53,42 +89,6 @@
       "repo": "M2_TIMELINE",
       "url": "https://github.com/M2Station/M2_TIMELINE/commit/1bb851eba8d789e4e7f3851c3d95f92d789e3e03",
       "sha": "1bb851e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794671506000,
-      "committedDate": "2026-11-14T15:51:46Z",
-      "header": "docs(ui): add UIUX optimization reference (#83)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/8dab632f314486d5717c622f2b8c256609ecfeb3",
-      "sha": "8dab632",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794671205000,
-      "committedDate": "2026-11-14T15:46:45Z",
-      "header": "perf(templates): paginate snapshots and clean preview cache (#82)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/6d93fae84c50353d7ffdec21e09282c07d1cf1c4",
-      "sha": "6d93fae",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794670798000,
-      "committedDate": "2026-11-14T15:39:58Z",
-      "header": "perf(ui): cache project previews and paginate template snapshots (#81)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/b0c211903d7ee72a311e4d4b69b54cfe184e7348",
-      "sha": "b0c2119",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1794670169000,
-      "committedDate": "2026-11-14T15:29:29Z",
-      "header": "fix(ui): polish project thumbnails and chart export edges (#80)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/82c9b094cef388c4c1fd2a2e5d56b85b71fb0e13",
-      "sha": "82c9b09",
       "login": "oahsiao"
     }
   ]
