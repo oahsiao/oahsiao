@@ -1,6 +1,69 @@
 {
-  "updated": "2026-11-19 18:01 TWN",
+  "updated": "2026-11-20 17:50 TWN",
   "latestChanges": [
+    {
+      "date": 1795156092000,
+      "committedDate": "2026-11-20T06:28:12Z",
+      "header": "create uefi variable tool (#68)",
+      "repo": "M2_PILOT",
+      "url": "https://github.com/M2Station/M2_PILOT/commit/9418c8ed01b1e3a2d9272e83680b1329c1a51566",
+      "sha": "9418c8e",
+      "login": "bofrankbo"
+    },
+    {
+      "date": 1795148060000,
+      "committedDate": "2026-11-20T04:14:20Z",
+      "header": "fix(launcher): retry a denied php.exe launch and explain ASR blocks (#102)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/6d790c36aaf45cccaf9d9780f402b5b358074f96",
+      "sha": "6d790c3",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795146318000,
+      "committedDate": "2026-11-20T03:45:18Z",
+      "header": "feat(ui): rebuild the ED1 workbench as MS_PROJ and harden imports (#101)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/70c109269aaa23a390dd4ed6816008c9503c7ae8",
+      "sha": "70c1092",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795144121000,
+      "committedDate": "2026-11-20T03:08:41Z",
+      "header": "Add Yarraman and Detroit projects",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/d40319be956f0d3c40eca24ff8f4f835e5a4c2d3",
+      "sha": "d40319b",
+      "login": "aaaaaayo"
+    },
+    {
+      "date": 1795086029000,
+      "committedDate": "2026-11-19T11:00:29Z",
+      "header": "fix(timeline): place EVENT and milestone labels beside their bars (#100)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/873bc0a852a39e46a18ce6d90b4c2a6ed777e2fe",
+      "sha": "873bc0a",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795085189000,
+      "committedDate": "2026-11-19T10:46:29Z",
+      "header": "feat(timeline): support multiple referenced EVENT dependencies (#99)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/b32062f9c5468c357cc6c5af3b8cfeb4c7f378c5",
+      "sha": "b32062f",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795084482000,
+      "committedDate": "2026-11-19T10:34:42Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/b56970d051a1b7a8c74e64abba38b845b450e38e",
+      "sha": "b56970d",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1795069324000,
       "committedDate": "2026-11-19T06:22:04Z",
@@ -26,69 +89,6 @@
       "repo": "M2_TIMELINE",
       "url": "https://github.com/M2Station/M2_TIMELINE/commit/ab47b52aaa19797be5cd5a5bad63f61e398ba5ab",
       "sha": "ab47b52",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795064307000,
-      "committedDate": "2026-11-19T04:58:27Z",
-      "header": "feat(m2-pr): create a PR branch when started on main (#9)",
-      "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/a46e8cd4104217510052109510d40e3c89dd4599",
-      "sha": "a46e8cd",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795063311000,
-      "committedDate": "2026-11-19T04:41:51Z",
-      "header": "fix(admin): ship package deploy notes under docs so older installs can upgrade (#96)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/fbad4a2b315fae37e317c8ff9356803b6681e591",
-      "sha": "fbad4a2",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795059320000,
-      "committedDate": "2026-11-19T03:35:20Z",
-      "header": "feat(ui): add a floating notice panel with a message log (#95)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/5f12b872331ddfd72a9e85fd7d40c6db87d2b4c1",
-      "sha": "5f12b87",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795059083000,
-      "committedDate": "2026-11-19T03:31:23Z",
-      "header": "fix(timeline): quiet STAGE renames and zoom the cross-timeline view (#94)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/f33153dab4534db93995bc47fb849bc33e8034f4",
-      "sha": "f33153d",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795055610000,
-      "committedDate": "2026-11-19T02:33:30Z",
-      "header": "feat(timeline): delete a timeline only from the actions menu (#93)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/37f5bd90201147b616b02ce6546e35d674a0e1b6",
-      "sha": "37f5bd9",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795055544000,
-      "committedDate": "2026-11-19T02:32:24Z",
-      "header": "add reason",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/8625dd3f309932f170d885acc701116aa2a593e1",
-      "sha": "8625dd3",
-      "login": "bofrankbo"
-    },
-    {
-      "date": 1795055308000,
-      "committedDate": "2026-11-19T02:28:28Z",
-      "header": "feat(timeline): collapse the dependency-link list by default (#92)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/896d880e181ffdd684530ead5dc6a9de3b496996",
-      "sha": "896d880",
       "login": "oahsiao"
     }
   ]
