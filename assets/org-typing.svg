@@ -6,56 +6,56 @@
   
     <clipPath id="clip0"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;281.2;281.2;0;0"
-        keyTimes="0;0.000;0.065;0.122;0.139;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;113.2;113.2;0;0"
+        keyTimes="0;0.000;0.028;0.097;0.118;1"
+        dur="23.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip0)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>create uefi variable tool (#68)</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>auto backup</text>
     </g>
     <clipPath id="clip1"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.139;0.245;0.301;0.319;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.118;0.246;0.315;0.336;1"
+        dur="23.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip1)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(launcher): retry a denied php.exe launch an...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(ms-proj): timeline navigator, STAGE color ...</text>
     </g>
     <clipPath id="clip2"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.319;0.424;0.480;0.498;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.336;0.464;0.532;0.554;1"
+        dur="23.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip2)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(ui): rebuild the ED1 workbench as MS_PROJ ...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(ms-proj): STAGE dependencies, schedule imp...</text>
     </g>
     <clipPath id="clip3"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;298;298;0;0"
-        keyTimes="0;0.498;0.568;0.624;0.641;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;37.6;37.6;0;0"
+        keyTimes="0;0.554;0.559;0.627;0.649;1"
+        dur="23.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip3)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>Add Yarraman and Detroit projects</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>++</text>
     </g>
     <clipPath id="clip4"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
-        values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.641;0.747;0.803;0.821;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        values="0;0;163.6;163.6;0;0"
+        keyTimes="0;0.649;0.692;0.761;0.782;1"
+        dur="23.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip4)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>fix(timeline): place EVENT and milestone labels...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>+ MS_PROJ package</text>
     </g>
     <clipPath id="clip5"><rect x="14" y="20" height="26" width="0">
       <animate attributeName="width"
         values="0;0;440.8;440.8;0;0"
-        keyTimes="0;0.821;0.926;0.982;1.000;1"
-        dur="28.4s" repeatCount="indefinite" calcMode="linear"/>
+        keyTimes="0;0.782;0.910;0.979;1.000;1"
+        dur="23.4s" repeatCount="indefinite" calcMode="linear"/>
     </rect></clipPath>
     <g clip-path="url(#clip5)">
-      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(timeline): support multiple referenced EVE...</text>
+      <text x="14" y="38" font-family="'DM Mono',monospace" font-size="15" fill="#00f5d4"><tspan fill="#007a6a">&gt; </tspan>feat(ms-proj): schedule FS/SS/FF/SF links and s...</text>
     </g>
 </svg>

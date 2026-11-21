@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PILOT@9418c8e`](https://github.com/M2Station/M2_PILOT/commit/9418c8ed01b1e3a2d9272e83680b1329c1a51566) — create uefi variable tool (#68) · `2026-11-20` · bofrankbo
-02. [`M2_TIMELINE@6d790c3`](https://github.com/M2Station/M2_TIMELINE/commit/6d790c36aaf45cccaf9d9780f402b5b358074f96) — fix(launcher): retry a denied php.exe launch and explain ... · `2026-11-20` · oahsiao
-03. [`M2_TIMELINE@70c1092`](https://github.com/M2Station/M2_TIMELINE/commit/70c109269aaa23a390dd4ed6816008c9503c7ae8) — feat(ui): rebuild the ED1 workbench as MS_PROJ and harden... · `2026-11-20` · oahsiao
-04. [`M2_WIKI@d40319b`](https://github.com/M2Station/M2_WIKI/commit/d40319be956f0d3c40eca24ff8f4f835e5a4c2d3) — Add Yarraman and Detroit projects · `2026-11-20` · aaaaaayo
-05. [`M2_TIMELINE@873bc0a`](https://github.com/M2Station/M2_TIMELINE/commit/873bc0a852a39e46a18ce6d90b4c2a6ed777e2fe) — fix(timeline): place EVENT and milestone labels beside th... · `2026-11-19` · oahsiao
-06. [`M2_TIMELINE@b32062f`](https://github.com/M2Station/M2_TIMELINE/commit/b32062f9c5468c357cc6c5af3b8cfeb4c7f378c5) — feat(timeline): support multiple referenced EVENT depende... · `2026-11-19` · oahsiao
-07. [`.github@b56970d`](https://github.com/M2Station/.github/commit/b56970d051a1b7a8c74e64abba38b845b450e38e) — chore: sync latest changes [skip ci] · `2026-11-19` · github-actions[bot]
-08. [`M2_SKILLS@12e11ad`](https://github.com/M2Station/M2_SKILLS/commit/12e11adcede7919f731ffa7b3404da666cb6f1d5) — fix(m2-pr): quote description so YAML frontmatter parses · `2026-11-19` · oahsiao
-09. [`M2_TIMELINE@477171d`](https://github.com/M2Station/M2_TIMELINE/commit/477171dd6dd947c8c969e6489ec3deff2d735311) — feat(admin): show build SHA and last update time on syste... · `2026-11-19` · oahsiao
-10. [`M2_TIMELINE@ab47b52`](https://github.com/M2Station/M2_TIMELINE/commit/ab47b52aaa19797be5cd5a5bad63f61e398ba5ab) — feat(timeline): list dependency EVENTs in timeline row or... · `2026-11-19` · oahsiao
+01. [`M2_SKILLS@0384713`](https://github.com/M2Station/M2_SKILLS/commit/0384713dffadb2a90b2ebcfc8ba662b7263dfec5) — auto backup · `2026-11-21` · testpc
+02. [`M2_TIMELINE@7f405dc`](https://github.com/M2Station/M2_TIMELINE/commit/7f405dcf6675d38198616e19da625f1f4496236b) — feat(ms-proj): timeline navigator, STAGE color picker and... · `2026-11-21` · oahsiao
+03. [`M2_SKILLS@88e2af3`](https://github.com/M2Station/M2_SKILLS/commit/88e2af3fe8303cd5723124c26f1319f303e0b158) — auto backup · `2026-11-21` · testpc
+04. [`M2_SKILLS@f3ed59b`](https://github.com/M2Station/M2_SKILLS/commit/f3ed59b0d8908cbd4687937844ee9b8006c36858) — auto backup · `2026-11-21` · testpc
+05. [`M2_TIMELINE@367e0d6`](https://github.com/M2Station/M2_TIMELINE/commit/367e0d6da48409af9c9f224ed6cc6491ae1051e2) — feat(ms-proj): STAGE dependencies, schedule impact review... · `2026-11-20` · oahsiao
+06. [`M2_TIMELINE@2e7b911`](https://github.com/M2Station/M2_TIMELINE/commit/2e7b9119dc0d99ce3d2bba69f5a54d1b0612284e) — ++ · `2026-11-20` · oahsiao
+07. [`M2_TIMELINE@75d2799`](https://github.com/M2Station/M2_TIMELINE/commit/75d2799ada2dee5e2da95f3914658278de58e41e) — ++ · `2026-11-20` · oahsiao
+08. [`M2_TIMELINE@b34155a`](https://github.com/M2Station/M2_TIMELINE/commit/b34155a9067891c8d8e4da0b3fa3cd02dc21c638) — + MS_PROJ package · `2026-11-20` · oahsiao
+09. [`M2_TIMELINE@dc279d0`](https://github.com/M2Station/M2_TIMELINE/commit/dc279d0c58eeeb1611bd8d1a9ed1fc2f8864be38) — feat(ms-proj): schedule FS/SS/FF/SF links and share the e... · `2026-11-20` · oahsiao
+10. [`M2_WIKI@ffe0dd8`](https://github.com/M2Station/M2_WIKI/commit/ffe0dd81eacfb41446f5fe3cabf0dc14928ac991) — Add Wombat setup SOP · `2026-11-20` · Den Teng
 <!-- LATEST-CHANGES:END -->
 
 ---

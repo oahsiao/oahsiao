@@ -1,95 +1,95 @@
 {
-  "updated": "2026-11-20 17:50 TWN",
+  "updated": "2026-11-21 17:24 TWN",
   "latestChanges": [
     {
-      "date": 1795156092000,
-      "committedDate": "2026-11-20T06:28:12Z",
-      "header": "create uefi variable tool (#68)",
-      "repo": "M2_PILOT",
-      "url": "https://github.com/M2Station/M2_PILOT/commit/9418c8ed01b1e3a2d9272e83680b1329c1a51566",
-      "sha": "9418c8e",
-      "login": "bofrankbo"
-    },
-    {
-      "date": 1795148060000,
-      "committedDate": "2026-11-20T04:14:20Z",
-      "header": "fix(launcher): retry a denied php.exe launch and explain ASR blocks (#102)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/6d790c36aaf45cccaf9d9780f402b5b358074f96",
-      "sha": "6d790c3",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795146318000,
-      "committedDate": "2026-11-20T03:45:18Z",
-      "header": "feat(ui): rebuild the ED1 workbench as MS_PROJ and harden imports (#101)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/70c109269aaa23a390dd4ed6816008c9503c7ae8",
-      "sha": "70c1092",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795144121000,
-      "committedDate": "2026-11-20T03:08:41Z",
-      "header": "Add Yarraman and Detroit projects",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/d40319be956f0d3c40eca24ff8f4f835e5a4c2d3",
-      "sha": "d40319b",
-      "login": "aaaaaayo"
-    },
-    {
-      "date": 1795086029000,
-      "committedDate": "2026-11-19T11:00:29Z",
-      "header": "fix(timeline): place EVENT and milestone labels beside their bars (#100)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/873bc0a852a39e46a18ce6d90b4c2a6ed777e2fe",
-      "sha": "873bc0a",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795085189000,
-      "committedDate": "2026-11-19T10:46:29Z",
-      "header": "feat(timeline): support multiple referenced EVENT dependencies (#99)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/b32062f9c5468c357cc6c5af3b8cfeb4c7f378c5",
-      "sha": "b32062f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795084482000,
-      "committedDate": "2026-11-19T10:34:42Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/b56970d051a1b7a8c74e64abba38b845b450e38e",
-      "sha": "b56970d",
-      "login": "github-actions[bot]"
-    },
-    {
-      "date": 1795069324000,
-      "committedDate": "2026-11-19T06:22:04Z",
-      "header": "fix(m2-pr): quote description so YAML frontmatter parses",
+      "date": 1795239112000,
+      "committedDate": "2026-11-21T05:31:52Z",
+      "header": "auto backup",
       "repo": "M2_SKILLS",
-      "url": "https://github.com/M2Station/M2_SKILLS/commit/12e11adcede7919f731ffa7b3404da666cb6f1d5",
-      "sha": "12e11ad",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/0384713dffadb2a90b2ebcfc8ba662b7263dfec5",
+      "sha": "0384713",
+      "login": "testpc"
+    },
+    {
+      "date": 1795226393000,
+      "committedDate": "2026-11-21T01:59:53Z",
+      "header": "feat(ms-proj): timeline navigator, STAGE color picker and PROD Space fixes (#104)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/7f405dcf6675d38198616e19da625f1f4496236b",
+      "sha": "7f405dc",
       "login": "oahsiao"
     },
     {
-      "date": 1795069324000,
-      "committedDate": "2026-11-19T06:22:04Z",
-      "header": "feat(admin): show build SHA and last update time on system update (#98)",
+      "date": 1795226378000,
+      "committedDate": "2026-11-21T01:59:38Z",
+      "header": "auto backup",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/88e2af3fe8303cd5723124c26f1319f303e0b158",
+      "sha": "88e2af3",
+      "login": "testpc"
+    },
+    {
+      "date": 1795226237000,
+      "committedDate": "2026-11-21T01:57:17Z",
+      "header": "auto backup",
+      "repo": "M2_SKILLS",
+      "url": "https://github.com/M2Station/M2_SKILLS/commit/f3ed59b0d8908cbd4687937844ee9b8006c36858",
+      "sha": "f3ed59b",
+      "login": "testpc"
+    },
+    {
+      "date": 1795196087000,
+      "committedDate": "2026-11-20T17:34:47Z",
+      "header": "feat(ms-proj): STAGE dependencies, schedule impact review and responsive workbench (#103)",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/477171dd6dd947c8c969e6489ec3deff2d735311",
-      "sha": "477171d",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/367e0d6da48409af9c9f224ed6cc6491ae1051e2",
+      "sha": "367e0d6",
       "login": "oahsiao"
     },
     {
-      "date": 1795064689000,
-      "committedDate": "2026-11-19T05:04:49Z",
-      "header": "feat(timeline): list dependency EVENTs in timeline row order (#97)",
+      "date": 1795185362000,
+      "committedDate": "2026-11-20T14:36:02Z",
+      "header": "++",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/ab47b52aaa19797be5cd5a5bad63f61e398ba5ab",
-      "sha": "ab47b52",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/2e7b9119dc0d99ce3d2bba69f5a54d1b0612284e",
+      "sha": "2e7b911",
       "login": "oahsiao"
+    },
+    {
+      "date": 1795185336000,
+      "committedDate": "2026-11-20T14:35:36Z",
+      "header": "++",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/75d2799ada2dee5e2da95f3914658278de58e41e",
+      "sha": "75d2799",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795185294000,
+      "committedDate": "2026-11-20T14:34:54Z",
+      "header": "+ MS_PROJ package",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/b34155a9067891c8d8e4da0b3fa3cd02dc21c638",
+      "sha": "b34155a",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795178543000,
+      "committedDate": "2026-11-20T12:42:23Z",
+      "header": "feat(ms-proj): schedule FS/SS/FF/SF links and share the engine with IUI1",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/dc279d0c58eeeb1611bd8d1a9ed1fc2f8864be38",
+      "sha": "dc279d0",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795173084000,
+      "committedDate": "2026-11-20T11:11:24Z",
+      "header": "Add Wombat setup SOP",
+      "repo": "M2_WIKI",
+      "url": "https://github.com/M2Station/M2_WIKI/commit/ffe0dd81eacfb41446f5fe3cabf0dc14928ac991",
+      "sha": "ffe0dd8",
+      "login": "Den Teng"
     }
   ]
 }
