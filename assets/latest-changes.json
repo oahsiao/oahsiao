@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-21 17:24 TWN",
+  "updated": "2026-11-22 17:30 TWN",
   "latestChanges": [
+    {
+      "date": 1795280581000,
+      "committedDate": "2026-11-21T17:03:01Z",
+      "header": "feat(stage): replace the STAGE strip with a searchable ComboBox (#106)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/29468e4e5f3e4e67af91d67d6ae53328febe941b",
+      "sha": "29468e4",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795270742000,
+      "committedDate": "2026-11-21T14:19:02Z",
+      "header": "perf(ms-proj): optimize 300+ EVENT scheduling and full-height navigation (#105)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/66bdce7aa9597905e403c7373fa54263cf684b1d",
+      "sha": "66bdce7",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795255250000,
+      "committedDate": "2026-11-21T10:00:50Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/1663a53e5c15cba35bb6ef26edbf4562cac5b154",
+      "sha": "1663a53",
+      "login": "github-actions[bot]"
+    },
     {
       "date": 1795239112000,
       "committedDate": "2026-11-21T05:31:52Z",
@@ -63,33 +90,6 @@
       "url": "https://github.com/M2Station/M2_TIMELINE/commit/75d2799ada2dee5e2da95f3914658278de58e41e",
       "sha": "75d2799",
       "login": "oahsiao"
-    },
-    {
-      "date": 1795185294000,
-      "committedDate": "2026-11-20T14:34:54Z",
-      "header": "+ MS_PROJ package",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/b34155a9067891c8d8e4da0b3fa3cd02dc21c638",
-      "sha": "b34155a",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795178543000,
-      "committedDate": "2026-11-20T12:42:23Z",
-      "header": "feat(ms-proj): schedule FS/SS/FF/SF links and share the engine with IUI1",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/dc279d0c58eeeb1611bd8d1a9ed1fc2f8864be38",
-      "sha": "dc279d0",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795173084000,
-      "committedDate": "2026-11-20T11:11:24Z",
-      "header": "Add Wombat setup SOP",
-      "repo": "M2_WIKI",
-      "url": "https://github.com/M2Station/M2_WIKI/commit/ffe0dd81eacfb41446f5fe3cabf0dc14928ac991",
-      "sha": "ffe0dd8",
-      "login": "Den Teng"
     }
   ]
 }
