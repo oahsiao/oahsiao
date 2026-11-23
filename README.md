@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@29468e4`](https://github.com/M2Station/M2_TIMELINE/commit/29468e4e5f3e4e67af91d67d6ae53328febe941b) — feat(stage): replace the STAGE strip with a searchable Co... · `2026-11-21` · oahsiao
-02. [`M2_TIMELINE@66bdce7`](https://github.com/M2Station/M2_TIMELINE/commit/66bdce7aa9597905e403c7373fa54263cf684b1d) — perf(ms-proj): optimize 300+ EVENT scheduling and full-he... · `2026-11-21` · oahsiao
-03. [`.github@1663a53`](https://github.com/M2Station/.github/commit/1663a53e5c15cba35bb6ef26edbf4562cac5b154) — chore: sync latest changes [skip ci] · `2026-11-21` · github-actions[bot]
-04. [`M2_SKILLS@0384713`](https://github.com/M2Station/M2_SKILLS/commit/0384713dffadb2a90b2ebcfc8ba662b7263dfec5) — auto backup · `2026-11-21` · testpc
-05. [`M2_TIMELINE@7f405dc`](https://github.com/M2Station/M2_TIMELINE/commit/7f405dcf6675d38198616e19da625f1f4496236b) — feat(ms-proj): timeline navigator, STAGE color picker and... · `2026-11-21` · oahsiao
-06. [`M2_SKILLS@88e2af3`](https://github.com/M2Station/M2_SKILLS/commit/88e2af3fe8303cd5723124c26f1319f303e0b158) — auto backup · `2026-11-21` · testpc
-07. [`M2_SKILLS@f3ed59b`](https://github.com/M2Station/M2_SKILLS/commit/f3ed59b0d8908cbd4687937844ee9b8006c36858) — auto backup · `2026-11-21` · testpc
-08. [`M2_TIMELINE@367e0d6`](https://github.com/M2Station/M2_TIMELINE/commit/367e0d6da48409af9c9f224ed6cc6491ae1051e2) — feat(ms-proj): STAGE dependencies, schedule impact review... · `2026-11-20` · oahsiao
-09. [`M2_TIMELINE@2e7b911`](https://github.com/M2Station/M2_TIMELINE/commit/2e7b9119dc0d99ce3d2bba69f5a54d1b0612284e) — ++ · `2026-11-20` · oahsiao
-10. [`M2_TIMELINE@75d2799`](https://github.com/M2Station/M2_TIMELINE/commit/75d2799ada2dee5e2da95f3914658278de58e41e) — ++ · `2026-11-20` · oahsiao
+01. [`M2_TIMELINE@833c579`](https://github.com/M2Station/M2_TIMELINE/commit/833c579f94186d1a501ed6ed05687e7a4d1133bf) — fix(ms-proj): show imported PROD links and keep pages usa... · `2026-11-23` · oahsiao
+02. [`M2_TIMELINE@71cda87`](https://github.com/M2Station/M2_TIMELINE/commit/71cda87535784dab6638fd456e5ff8c5d218f40c) — feat(templates): rebuild the shared template editor on MS... · `2026-11-23` · oahsiao
+03. [`M2_TIMELINE@aa41a52`](https://github.com/M2Station/M2_TIMELINE/commit/aa41a5241fca1199fd6a52d9f830e051b2f525cd) — feat(holidays): rebuild the holiday-group editor as an ed... · `2026-11-23` · oahsiao
+04. [`M2_PILOT@cb105c8`](https://github.com/M2Station/M2_PILOT/commit/cb105c8a8326574fbdbf0cbcae3285786b78893e) — Add AMD OCD offline crash dump DUT tool with post-reboot ... · `2026-11-23` · Linpei727
+05. [`M2_TIMELINE@0cd0991`](https://github.com/M2Station/M2_TIMELINE/commit/0cd099186d2009e8c642639d85d998e1a3df3548) — fix(launcher): take over port 8787 and retry blocked PHP ... · `2026-11-23` · oahsiao
+06. [`M2_TIMELINE@6775280`](https://github.com/M2Station/M2_TIMELINE/commit/6775280aa62666438a53f9ca2e50a892da58b518) — fix(deps): pin tailwind-merge to the published 3.7.0 · `2026-11-23` · oahsiao
+07. [`M2_TIMELINE@47768e8`](https://github.com/M2Station/M2_TIMELINE/commit/47768e81cef96878960c5704df803072e79fe1fd) — perf(ms-proj): cut dependency scene cost and interaction ... · `2026-11-23` · oahsiao
+08. [`M2_TIMELINE@f2e12c0`](https://github.com/M2Station/M2_TIMELINE/commit/f2e12c0c920a12c601845e203ba982d88c3fdf20) — feat(ms-proj): add import and export menus with range cho... · `2026-11-22` · oahsiao
+09. [`M2_TIMELINE@9bbb475`](https://github.com/M2Station/M2_TIMELINE/commit/9bbb475f1f69e3dbbdb1514f8b5dd297007d524d) — feat(ms-proj): group rows by Timeline and search the T. c... · `2026-11-22` · oahsiao
+10. [`M2_TIMELINE@acc6fd4`](https://github.com/M2Station/M2_TIMELINE/commit/acc6fd468f43c7398f89816e49ebf123c046c74d) — feat(ms-proj): add menubar, timeline labels and row minim... · `2026-11-22` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
