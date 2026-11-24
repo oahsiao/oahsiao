@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_TIMELINE@833c579`](https://github.com/M2Station/M2_TIMELINE/commit/833c579f94186d1a501ed6ed05687e7a4d1133bf) — fix(ms-proj): show imported PROD links and keep pages usa... · `2026-11-23` · oahsiao
-02. [`M2_TIMELINE@71cda87`](https://github.com/M2Station/M2_TIMELINE/commit/71cda87535784dab6638fd456e5ff8c5d218f40c) — feat(templates): rebuild the shared template editor on MS... · `2026-11-23` · oahsiao
-03. [`M2_TIMELINE@aa41a52`](https://github.com/M2Station/M2_TIMELINE/commit/aa41a5241fca1199fd6a52d9f830e051b2f525cd) — feat(holidays): rebuild the holiday-group editor as an ed... · `2026-11-23` · oahsiao
-04. [`M2_PILOT@cb105c8`](https://github.com/M2Station/M2_PILOT/commit/cb105c8a8326574fbdbf0cbcae3285786b78893e) — Add AMD OCD offline crash dump DUT tool with post-reboot ... · `2026-11-23` · Linpei727
-05. [`M2_TIMELINE@0cd0991`](https://github.com/M2Station/M2_TIMELINE/commit/0cd099186d2009e8c642639d85d998e1a3df3548) — fix(launcher): take over port 8787 and retry blocked PHP ... · `2026-11-23` · oahsiao
-06. [`M2_TIMELINE@6775280`](https://github.com/M2Station/M2_TIMELINE/commit/6775280aa62666438a53f9ca2e50a892da58b518) — fix(deps): pin tailwind-merge to the published 3.7.0 · `2026-11-23` · oahsiao
-07. [`M2_TIMELINE@47768e8`](https://github.com/M2Station/M2_TIMELINE/commit/47768e81cef96878960c5704df803072e79fe1fd) — perf(ms-proj): cut dependency scene cost and interaction ... · `2026-11-23` · oahsiao
-08. [`M2_TIMELINE@f2e12c0`](https://github.com/M2Station/M2_TIMELINE/commit/f2e12c0c920a12c601845e203ba982d88c3fdf20) — feat(ms-proj): add import and export menus with range cho... · `2026-11-22` · oahsiao
-09. [`M2_TIMELINE@9bbb475`](https://github.com/M2Station/M2_TIMELINE/commit/9bbb475f1f69e3dbbdb1514f8b5dd297007d524d) — feat(ms-proj): group rows by Timeline and search the T. c... · `2026-11-22` · oahsiao
-10. [`M2_TIMELINE@acc6fd4`](https://github.com/M2Station/M2_TIMELINE/commit/acc6fd468f43c7398f89816e49ebf123c046c74d) — feat(ms-proj): add menubar, timeline labels and row minim... · `2026-11-22` · oahsiao
+01. [`M2_GITHUB_ADMIN@9674a56`](https://github.com/M2Station/M2_GITHUB_ADMIN/commit/9674a568cc85de941d652082b332b1b30ca3ec8e) — Fix M2_P2P_DB BACKUP 失敗 · `2026-11-24` · oahsiao
+02. [`M2_TIMELINE@4780474`](https://github.com/M2Station/M2_TIMELINE/commit/4780474590295a3f78d40a7136b5fe7ca2391836) — feat(settings): rebuild project settings, header and conf... · `2026-11-24` · oahsiao
+03. [`M2_PILOT@4c39092`](https://github.com/M2Station/M2_PILOT/commit/4c39092891147599ca66853d853a9bb9ce891c18) — Fix Intel MEInfo package discovery in Common Settings · `2026-11-24` · asuka-wu
+04. [`M2_TIMELINE@2f2169e`](https://github.com/M2Station/M2_TIMELINE/commit/2f2169e6037e3239db13e31d9b986985ab4fe487) — feat(ms-proj): explain and auto-fix dependency date confl... · `2026-11-24` · oahsiao
+05. [`M2_PILOT@72a4f86`](https://github.com/M2Station/M2_PILOT/commit/72a4f86779529ce1a7bee4c5bb5448e7a1828873) — Fix QC MFCI unlock to run without pwsh (#70) · `2026-11-24` · aaaaaayo
+06. [`M2_TIMELINE@4c81b9b`](https://github.com/M2Station/M2_TIMELINE/commit/4c81b9b6e61e693a0eee066bf3f203fb7c7f9bd1) — perf(app): cut library, search and API latency (#117) · `2026-11-24` · oahsiao
+07. [`M2_WIKI@fdbc3b5`](https://github.com/M2Station/M2_WIKI/commit/fdbc3b5c52c5337a2200a9d67693f8c046b7fbfa) — +++ · `2026-11-24` · oahsiao
+08. [`M2_TIMELINE@c654728`](https://github.com/M2Station/M2_TIMELINE/commit/c654728c217739b3579a2f3672cafe17597da684) — fix(mcp): expose template revision history and restore to... · `2026-11-23` · oahsiao
+09. [`M2_TIMELINE@7b6532c`](https://github.com/M2Station/M2_TIMELINE/commit/7b6532c83ab0a6aa0eaddf7099a82df034a3c0a5) — feat(ms-proj): sync dependents and convert MSPDI imports ... · `2026-11-23` · oahsiao
+10. [`.github@94f9cb5`](https://github.com/M2Station/.github/commit/94f9cb5468dbf081e8c9062c92e8d8f0170d6bfa) — chore: sync latest changes [skip ci] · `2026-11-23` · github-actions[bot]
 <!-- LATEST-CHANGES:END -->
 
 ---
