@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-24 20:10 TWN",
+  "updated": "2026-11-25 18:59 TWN",
   "latestChanges": [
+    {
+      "date": 1795524361000,
+      "committedDate": "2026-11-24T12:46:01Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/32bdb9dd3e269dae3284a0bd1cc1eca4f7df43a7",
+      "sha": "32bdb9d",
+      "login": "github-actions[bot]"
+    },
+    {
+      "date": 1795522475000,
+      "committedDate": "2026-11-24T12:14:35Z",
+      "header": "feat(timeline): empty new Timelines, T. lanes and notice preview (#120)",
+      "repo": "M2_TIMELINE",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/a1ed435713757ed95c042aa1f8f86144d963b41f",
+      "sha": "a1ed435",
+      "login": "oahsiao"
+    },
     {
       "date": 1795516883000,
       "committedDate": "2026-11-24T10:41:23Z",
@@ -72,24 +90,6 @@
       "url": "https://github.com/M2Station/M2_TIMELINE/commit/c654728c217739b3579a2f3672cafe17597da684",
       "sha": "c654728",
       "login": "oahsiao"
-    },
-    {
-      "date": 1795446037000,
-      "committedDate": "2026-11-23T15:00:37Z",
-      "header": "feat(ms-proj): sync dependents and convert MSPDI imports (#115)",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/7b6532c83ab0a6aa0eaddf7099a82df034a3c0a5",
-      "sha": "7b6532c",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795431544000,
-      "committedDate": "2026-11-23T10:59:04Z",
-      "header": "chore: sync latest changes [skip ci]",
-      "repo": ".github",
-      "url": "https://github.com/M2Station/.github/commit/94f9cb5468dbf081e8c9062c92e8d8f0170d6bfa",
-      "sha": "94f9cb5",
-      "login": "github-actions[bot]"
     }
   ]
 }

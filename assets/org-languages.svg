@@ -9,9 +9,9 @@
       fill="#7355dd" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L21.4,90.7 A60,60 0 0 1 22.2,62.0 Z"
       fill="#555555" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L22.2,62.0 A60,60 0 0 1 28.0,48.1 Z"
       fill="#888" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L28.0,48.1 A60,60 0 0 1 36.3,36.9 Z"
-      fill="#4F5D95" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L36.3,36.9 A60,60 0 0 1 46.6,28.2 Z"
-      fill="#3178c6" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L46.6,28.2 A60,60 0 0 1 55.5,23.2 Z"
-      fill="#012456" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L55.5,23.2 A60,60 0 0 1 63.6,20.3 Z"
+      fill="#4F5D95" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L36.3,36.9 A60,60 0 0 1 46.9,28.0 Z"
+      fill="#3178c6" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L46.9,28.0 A60,60 0 0 1 55.8,23.1 Z"
+      fill="#012456" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/><path d="M80,78 L55.8,23.1 A60,60 0 0 1 64.0,20.2 Z"
       fill="#663399" opacity="0.85" stroke="#060a0f" stroke-width="1.5"/>
   <circle cx="80" cy="78" r="34" fill="#060a0f"/>
   <text x="80" y="74" text-anchor="middle" font-family="DM Mono,monospace" font-size="9" fill="#00f5d4">LANG</text>
@@ -32,6 +32,6 @@
     <text x="184" y="111" font-family="DM Mono,monospace" font-size="11" fill="#00b890">PHP</text>
     <text x="290" y="111" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">3.7%</text><rect x="320" y="102" width="10" height="10" fill="#3178c6" rx="2"/>
     <text x="334" y="111" font-family="DM Mono,monospace" font-size="11" fill="#00b890">TypeScript</text>
-    <text x="440" y="111" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">3.6%</text>
-  <text x="240" y="154" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">oahsiao @ M2Station · UPDATED 2026-11-24 20:10 TWN</text>
+    <text x="440" y="111" text-anchor="end" font-family="DM Mono,monospace" font-size="10" fill="#007a6a">3.7%</text>
+  <text x="240" y="154" text-anchor="middle" font-family="DM Mono,monospace" font-size="8" fill="#004a3e">oahsiao @ M2Station · UPDATED 2026-11-25 18:59 TWN</text>
 </svg>
