@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`.github@32bdb9d`](https://github.com/M2Station/.github/commit/32bdb9dd3e269dae3284a0bd1cc1eca4f7df43a7) — chore: sync latest changes [skip ci] · `2026-11-24` · github-actions[bot]
-02. [`M2_TIMELINE@a1ed435`](https://github.com/M2Station/M2_TIMELINE/commit/a1ed435713757ed95c042aa1f8f86144d963b41f) — feat(timeline): empty new Timelines, T. lanes and notice ... · `2026-11-24` · oahsiao
-03. [`M2_GITHUB_ADMIN@9674a56`](https://github.com/M2Station/M2_GITHUB_ADMIN/commit/9674a568cc85de941d652082b332b1b30ca3ec8e) — Fix M2_P2P_DB BACKUP 失敗 · `2026-11-24` · oahsiao
-04. [`M2_TIMELINE@4780474`](https://github.com/M2Station/M2_TIMELINE/commit/4780474590295a3f78d40a7136b5fe7ca2391836) — feat(settings): rebuild project settings, header and conf... · `2026-11-24` · oahsiao
-05. [`M2_PILOT@4c39092`](https://github.com/M2Station/M2_PILOT/commit/4c39092891147599ca66853d853a9bb9ce891c18) — Fix Intel MEInfo package discovery in Common Settings · `2026-11-24` · asuka-wu
-06. [`M2_TIMELINE@2f2169e`](https://github.com/M2Station/M2_TIMELINE/commit/2f2169e6037e3239db13e31d9b986985ab4fe487) — feat(ms-proj): explain and auto-fix dependency date confl... · `2026-11-24` · oahsiao
-07. [`M2_PILOT@72a4f86`](https://github.com/M2Station/M2_PILOT/commit/72a4f86779529ce1a7bee4c5bb5448e7a1828873) — Fix QC MFCI unlock to run without pwsh (#70) · `2026-11-24` · aaaaaayo
-08. [`M2_TIMELINE@4c81b9b`](https://github.com/M2Station/M2_TIMELINE/commit/4c81b9b6e61e693a0eee066bf3f203fb7c7f9bd1) — perf(app): cut library, search and API latency (#117) · `2026-11-24` · oahsiao
-09. [`M2_WIKI@fdbc3b5`](https://github.com/M2Station/M2_WIKI/commit/fdbc3b5c52c5337a2200a9d67693f8c046b7fbfa) — +++ · `2026-11-24` · oahsiao
-10. [`M2_TIMELINE@c654728`](https://github.com/M2Station/M2_TIMELINE/commit/c654728c217739b3579a2f3672cafe17597da684) — fix(mcp): expose template revision history and restore to... · `2026-11-23` · oahsiao
+01. [`M2_PUBLIC_RELEASE@d182dc0`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/d182dc0f9b78eae7546337eeef2b30c9e2db80a0) — chore(m2-echo): publish v0.1.10 · `2026-11-26` · oahsiao
+02. [`M2_PUBLIC_RELEASE@a1d51ae`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/a1d51ae957fa980f461a6c28a454cda59dd35315) — chore(m2-echo): publish v0.1.9 · `2026-11-26` · oahsiao
+03. [`M2_PUBLIC_RELEASE@1cc0e76`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/1cc0e76ae7b6933fc849cdd3fdf59e177f894fb0) — chore(m2-echo): publish v0.1.8 · `2026-11-26` · oahsiao
+04. [`M2_PUBLIC_RELEASE@8c3afa9`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/8c3afa9a61b5ddaf7ef9d556027d944ccf3d5b4c) — chore(m2-echo): publish v0.1.7 · `2026-11-26` · oahsiao
+05. [`M2_WIKI@da71ef6`](https://github.com/M2Station/M2_WIKI/commit/da71ef66dd565adf6e3ed04995ccce2d429e4070) — update the auto logon steps · `2026-11-26` · Sam6Su
+06. [`M2_PUBLIC_RELEASE@05bc26a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/05bc26a41bbd81cc1e5dc577f9483b0e173f9bc0) — chore(m2-echo): publish v0.1.6 · `2026-11-26` · oahsiao
+07. [`M2_PUBLIC_RELEASE@c37f6cb`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/c37f6cb75b63109098fb726d5774a5bb9f92b3ca) — chore(m2-echo): publish v0.1.5 · `2026-11-26` · oahsiao
+08. [`M2_PUBLIC_RELEASE@982d6cc`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/982d6cc783b541de658ceac20d9273fa3d608b30) — chore(m2-echo): publish v0.1.4 · `2026-11-26` · oahsiao
+09. [`M2_PUBLIC_RELEASE@a2afb07`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/a2afb07569d2f35c9d7ac0ef9ac58217dc0b9659) — chore(m2-echo): publish v0.1.3 · `2026-11-26` · oahsiao
+10. [`M2_PUBLIC_RELEASE@475a9be`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/475a9beb9c00adfbe8797643c8042384d6add5c9) — chore(m2-echo): publish v0.1.2 · `2026-11-26` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
