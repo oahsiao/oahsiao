@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_PUBLIC_RELEASE@d182dc0`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/d182dc0f9b78eae7546337eeef2b30c9e2db80a0) — chore(m2-echo): publish v0.1.10 · `2026-11-26` · oahsiao
-02. [`M2_PUBLIC_RELEASE@a1d51ae`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/a1d51ae957fa980f461a6c28a454cda59dd35315) — chore(m2-echo): publish v0.1.9 · `2026-11-26` · oahsiao
-03. [`M2_PUBLIC_RELEASE@1cc0e76`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/1cc0e76ae7b6933fc849cdd3fdf59e177f894fb0) — chore(m2-echo): publish v0.1.8 · `2026-11-26` · oahsiao
-04. [`M2_PUBLIC_RELEASE@8c3afa9`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/8c3afa9a61b5ddaf7ef9d556027d944ccf3d5b4c) — chore(m2-echo): publish v0.1.7 · `2026-11-26` · oahsiao
-05. [`M2_WIKI@da71ef6`](https://github.com/M2Station/M2_WIKI/commit/da71ef66dd565adf6e3ed04995ccce2d429e4070) — update the auto logon steps · `2026-11-26` · Sam6Su
-06. [`M2_PUBLIC_RELEASE@05bc26a`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/05bc26a41bbd81cc1e5dc577f9483b0e173f9bc0) — chore(m2-echo): publish v0.1.6 · `2026-11-26` · oahsiao
-07. [`M2_PUBLIC_RELEASE@c37f6cb`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/c37f6cb75b63109098fb726d5774a5bb9f92b3ca) — chore(m2-echo): publish v0.1.5 · `2026-11-26` · oahsiao
-08. [`M2_PUBLIC_RELEASE@982d6cc`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/982d6cc783b541de658ceac20d9273fa3d608b30) — chore(m2-echo): publish v0.1.4 · `2026-11-26` · oahsiao
-09. [`M2_PUBLIC_RELEASE@a2afb07`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/a2afb07569d2f35c9d7ac0ef9ac58217dc0b9659) — chore(m2-echo): publish v0.1.3 · `2026-11-26` · oahsiao
-10. [`M2_PUBLIC_RELEASE@475a9be`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/475a9beb9c00adfbe8797643c8042384d6add5c9) — chore(m2-echo): publish v0.1.2 · `2026-11-26` · oahsiao
+01. [`M2_ECHO@e64cba5`](https://github.com/M2Station/M2_ECHO/commit/e64cba58d410f63394e5703e73ce19257b526a5a) — feat(settings): default the Taiwan Traditional output tog... · `2026-11-27` · oahsiao
+02. [`M2_ECHO@7d8bbd5`](https://github.com/M2Station/M2_ECHO/commit/7d8bbd5d1e487a9d9de2c2803b8db6da3b8abd5f) — fix(deps): regenerate the lock against the versions the n... · `2026-11-27` · oahsiao
+03. [`M2_ECHO@901599d`](https://github.com/M2Station/M2_ECHO/commit/901599dc16ef86f3258801054a16544398aa41ae) — chore(rust): clear clippy diagnostics across the crate · `2026-11-27` · oahsiao
+04. [`M2_ECHO@a46e204`](https://github.com/M2Station/M2_ECHO/commit/a46e204f54ceb999f7fb3cc46d11af44c1170324) — perf(app): cut transcript repaint and payload cost · `2026-11-27` · oahsiao
+05. [`M2_TIMELINE@bc5ab5f`](https://github.com/M2Station/M2_TIMELINE/commit/bc5ab5f6f122bcbca126593e90d9574f03e5dbbb) — feat(presentations): give Journey and Gantt a full-width ... · `2026-11-27` · oahsiao
+06. [`M2_TIMELINE@900c4b5`](https://github.com/M2Station/M2_TIMELINE/commit/900c4b5251c8b5de410d6d3c7ead492bfc0ebe0c) — feat(event-timeline): reflow EVENT cards for full-width r... · `2026-11-27` · oahsiao
+07. [`M2_PUBLIC_RELEASE@67e677d`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/67e677da3ec06fe5b6427251057afd7018b502fa) — chore(m2-echo): publish v0.1.14 · `2026-11-27` · oahsiao
+08. [`M2_TIMELINE@29a5c7e`](https://github.com/M2Station/M2_TIMELINE/commit/29a5c7e97129169be8be3440cc679f4b9fac0bb6) — feat(briefing): render the phase briefing as a Timeline m... · `2026-11-27` · oahsiao
+09. [`M2_ECHO@e1f8ada`](https://github.com/M2Station/M2_ECHO/commit/e1f8ada23f4a2d1782d8ec166322815a3b3d9fa6) — feat(login): gate the app behind LDAP sign-in with 30-day... · `2026-11-27` · oahsiao
+10. [`M2_ECHO@843bc41`](https://github.com/M2Station/M2_ECHO/commit/843bc41c858131fe325e43010f801e5c356b6c23) — chore(release): keep every version file in sync and verified · `2026-11-27` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---
