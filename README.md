@@ -57,16 +57,16 @@
 > Newest commits across all org repos · click a commit to open the change
 
 <!-- LATEST-CHANGES:START -->
-01. [`M2_ECHO@e64cba5`](https://github.com/M2Station/M2_ECHO/commit/e64cba58d410f63394e5703e73ce19257b526a5a) — feat(settings): default the Taiwan Traditional output tog... · `2026-11-27` · oahsiao
-02. [`M2_ECHO@7d8bbd5`](https://github.com/M2Station/M2_ECHO/commit/7d8bbd5d1e487a9d9de2c2803b8db6da3b8abd5f) — fix(deps): regenerate the lock against the versions the n... · `2026-11-27` · oahsiao
-03. [`M2_ECHO@901599d`](https://github.com/M2Station/M2_ECHO/commit/901599dc16ef86f3258801054a16544398aa41ae) — chore(rust): clear clippy diagnostics across the crate · `2026-11-27` · oahsiao
-04. [`M2_ECHO@a46e204`](https://github.com/M2Station/M2_ECHO/commit/a46e204f54ceb999f7fb3cc46d11af44c1170324) — perf(app): cut transcript repaint and payload cost · `2026-11-27` · oahsiao
-05. [`M2_TIMELINE@bc5ab5f`](https://github.com/M2Station/M2_TIMELINE/commit/bc5ab5f6f122bcbca126593e90d9574f03e5dbbb) — feat(presentations): give Journey and Gantt a full-width ... · `2026-11-27` · oahsiao
-06. [`M2_TIMELINE@900c4b5`](https://github.com/M2Station/M2_TIMELINE/commit/900c4b5251c8b5de410d6d3c7ead492bfc0ebe0c) — feat(event-timeline): reflow EVENT cards for full-width r... · `2026-11-27` · oahsiao
-07. [`M2_PUBLIC_RELEASE@67e677d`](https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/67e677da3ec06fe5b6427251057afd7018b502fa) — chore(m2-echo): publish v0.1.14 · `2026-11-27` · oahsiao
-08. [`M2_TIMELINE@29a5c7e`](https://github.com/M2Station/M2_TIMELINE/commit/29a5c7e97129169be8be3440cc679f4b9fac0bb6) — feat(briefing): render the phase briefing as a Timeline m... · `2026-11-27` · oahsiao
-09. [`M2_ECHO@e1f8ada`](https://github.com/M2Station/M2_ECHO/commit/e1f8ada23f4a2d1782d8ec166322815a3b3d9fa6) — feat(login): gate the app behind LDAP sign-in with 30-day... · `2026-11-27` · oahsiao
-10. [`M2_ECHO@843bc41`](https://github.com/M2Station/M2_ECHO/commit/843bc41c858131fe325e43010f801e5c356b6c23) — chore(release): keep every version file in sync and verified · `2026-11-27` · oahsiao
+01. [`M2_ECHO@b76c63f`](https://github.com/M2Station/M2_ECHO/commit/b76c63f496e0baf81fb213ec52ce9b21c7218c3e) — feat(vad): add TEN VAD as a selectable engine · `2026-11-28` · oahsiao
+02. [`M2_ECHO@208f063`](https://github.com/M2Station/M2_ECHO/commit/208f0631e22e6efa8e7983033c3bdefb463901d6) — fix(build): install and use the ARM64 toolchain end to end · `2026-11-28` · oahsiao
+03. [`M2_ECHO@84cd7a4`](https://github.com/M2Station/M2_ECHO/commit/84cd7a4e6d187729e6e9fd2c9c5f1476edb18377) — feat(translate): skip the LLM for segments that are alrea... · `2026-11-28` · oahsiao
+04. [`M2_ECHO@8927e78`](https://github.com/M2Station/M2_ECHO/commit/8927e786b6f1ad560c7eca5c838d10e7626bc9b1) — merge(main): integrate the UI design system from origin/main · `2026-11-28` · oahsiao
+05. [`M2_ECHO@38d41fc`](https://github.com/M2Station/M2_ECHO/commit/38d41fcbc38bf26b0c7c7c285178b4644ee870a2) — feat: rebuild the UI on an M2 ECHO component design syste... · `2026-11-28` · oahsiao
+06. [`M2_ECHO@8e36ab7`](https://github.com/M2Station/M2_ECHO/commit/8e36ab79a5935e23b3f515e7649048ccb28ced96) — docs(readme): document multi-arch builds and monitor scaling · `2026-11-27` · oahsiao
+07. [`M2_ECHO@cff7909`](https://github.com/M2Station/M2_ECHO/commit/cff7909cfd454459f6340ff7951398770f81f89c) — feat(window): scale the window and fonts to the monitor · `2026-11-27` · oahsiao
+08. [`M2_ECHO@1ae0bf3`](https://github.com/M2Station/M2_ECHO/commit/1ae0bf325ae870603ab910961bb1039202f7e357) — feat(build): build and publish x64 and ARM64 side by side · `2026-11-27` · oahsiao
+09. [`.github@1095aac`](https://github.com/M2Station/.github/commit/1095aac63691105eb8176c14b18e9a2cf06fb866) — chore: sync latest changes [skip ci] · `2026-11-27` · github-actions[bot]
+10. [`M2_TIMELINE@66f7dce`](https://github.com/M2Station/M2_TIMELINE/commit/66f7dceffe1411eb8de4f042efdc245deec594ab) — fix(presentations): keep unassigned EVENTs out of MAIN ch... · `2026-11-27` · oahsiao
 <!-- LATEST-CHANGES:END -->
 
 ---

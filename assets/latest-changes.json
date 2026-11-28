@@ -1,94 +1,94 @@
 {
-  "updated": "2026-11-27 18:39 TWN",
+  "updated": "2026-11-28 17:57 TWN",
   "latestChanges": [
     {
-      "date": 1795775436000,
-      "committedDate": "2026-11-27T10:30:36Z",
-      "header": "feat(settings): default the Taiwan Traditional output toggle to on",
+      "date": 1795852292000,
+      "committedDate": "2026-11-28T07:51:32Z",
+      "header": "feat(vad): add TEN VAD as a selectable engine",
       "repo": "M2_ECHO",
-      "url": "https://github.com/M2Station/M2_ECHO/commit/e64cba58d410f63394e5703e73ce19257b526a5a",
-      "sha": "e64cba5",
+      "url": "https://github.com/M2Station/M2_ECHO/commit/b76c63f496e0baf81fb213ec52ce9b21c7218c3e",
+      "sha": "b76c63f",
       "login": "oahsiao"
     },
     {
-      "date": 1795775302000,
-      "committedDate": "2026-11-27T10:28:22Z",
-      "header": "fix(deps): regenerate the lock against the versions the npm feed has",
+      "date": 1795850521000,
+      "committedDate": "2026-11-28T07:22:01Z",
+      "header": "fix(build): install and use the ARM64 toolchain end to end",
       "repo": "M2_ECHO",
-      "url": "https://github.com/M2Station/M2_ECHO/commit/7d8bbd5d1e487a9d9de2c2803b8db6da3b8abd5f",
-      "sha": "7d8bbd5",
+      "url": "https://github.com/M2Station/M2_ECHO/commit/208f0631e22e6efa8e7983033c3bdefb463901d6",
+      "sha": "208f063",
       "login": "oahsiao"
     },
     {
-      "date": 1795774916000,
-      "committedDate": "2026-11-27T10:21:56Z",
-      "header": "chore(rust): clear clippy diagnostics across the crate",
+      "date": 1795850514000,
+      "committedDate": "2026-11-28T07:21:54Z",
+      "header": "feat(translate): skip the LLM for segments that are already Chinese",
       "repo": "M2_ECHO",
-      "url": "https://github.com/M2Station/M2_ECHO/commit/901599dc16ef86f3258801054a16544398aa41ae",
-      "sha": "901599d",
+      "url": "https://github.com/M2Station/M2_ECHO/commit/84cd7a4e6d187729e6e9fd2c9c5f1476edb18377",
+      "sha": "84cd7a4",
       "login": "oahsiao"
     },
     {
-      "date": 1795774911000,
-      "committedDate": "2026-11-27T10:21:51Z",
-      "header": "perf(app): cut transcript repaint and payload cost",
+      "date": 1795846142000,
+      "committedDate": "2026-11-28T06:09:02Z",
+      "header": "merge(main): integrate the UI design system from origin/main",
       "repo": "M2_ECHO",
-      "url": "https://github.com/M2Station/M2_ECHO/commit/a46e204f54ceb999f7fb3cc46d11af44c1170324",
-      "sha": "a46e204",
+      "url": "https://github.com/M2Station/M2_ECHO/commit/8927e786b6f1ad560c7eca5c838d10e7626bc9b1",
+      "sha": "8927e78",
       "login": "oahsiao"
     },
     {
-      "date": 1795774491000,
-      "committedDate": "2026-11-27T10:14:51Z",
-      "header": "feat(presentations): give Journey and Gantt a full-width reading mode",
+      "date": 1795845655000,
+      "committedDate": "2026-11-28T06:00:55Z",
+      "header": "feat: rebuild the UI on an M2 ECHO component design system (#4)",
+      "repo": "M2_ECHO",
+      "url": "https://github.com/M2Station/M2_ECHO/commit/38d41fcbc38bf26b0c7c7c285178b4644ee870a2",
+      "sha": "38d41fc",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795797048000,
+      "committedDate": "2026-11-27T16:30:48Z",
+      "header": "docs(readme): document multi-arch builds and monitor scaling",
+      "repo": "M2_ECHO",
+      "url": "https://github.com/M2Station/M2_ECHO/commit/8e36ab79a5935e23b3f515e7649048ccb28ced96",
+      "sha": "8e36ab7",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795797045000,
+      "committedDate": "2026-11-27T16:30:45Z",
+      "header": "feat(window): scale the window and fonts to the monitor",
+      "repo": "M2_ECHO",
+      "url": "https://github.com/M2Station/M2_ECHO/commit/cff7909cfd454459f6340ff7951398770f81f89c",
+      "sha": "cff7909",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795797037000,
+      "committedDate": "2026-11-27T16:30:37Z",
+      "header": "feat(build): build and publish x64 and ARM64 side by side",
+      "repo": "M2_ECHO",
+      "url": "https://github.com/M2Station/M2_ECHO/commit/1ae0bf325ae870603ab910961bb1039202f7e357",
+      "sha": "1ae0bf3",
+      "login": "oahsiao"
+    },
+    {
+      "date": 1795777724000,
+      "committedDate": "2026-11-27T11:08:44Z",
+      "header": "chore: sync latest changes [skip ci]",
+      "repo": ".github",
+      "url": "https://github.com/M2Station/.github/commit/1095aac63691105eb8176c14b18e9a2cf06fb866",
+      "sha": "1095aac",
+      "login": "github-actions[bot]"
+    },
+    {
+      "date": 1795776889000,
+      "committedDate": "2026-11-27T10:54:49Z",
+      "header": "fix(presentations): keep unassigned EVENTs out of MAIN chapters",
       "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/bc5ab5f6f122bcbca126593e90d9574f03e5dbbb",
-      "sha": "bc5ab5f",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795772263000,
-      "committedDate": "2026-11-27T09:37:43Z",
-      "header": "feat(event-timeline): reflow EVENT cards for full-width reading",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/900c4b5251c8b5de410d6d3c7ead492bfc0ebe0c",
-      "sha": "900c4b5",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795769186000,
-      "committedDate": "2026-11-27T08:46:26Z",
-      "header": "chore(m2-echo): publish v0.1.14",
-      "repo": "M2_PUBLIC_RELEASE",
-      "url": "https://github.com/M2Station/M2_PUBLIC_RELEASE/commit/67e677da3ec06fe5b6427251057afd7018b502fa",
-      "sha": "67e677d",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795768897000,
-      "committedDate": "2026-11-27T08:41:37Z",
-      "header": "feat(briefing): render the phase briefing as a Timeline matrix",
-      "repo": "M2_TIMELINE",
-      "url": "https://github.com/M2Station/M2_TIMELINE/commit/29a5c7e97129169be8be3440cc679f4b9fac0bb6",
-      "sha": "29a5c7e",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795768634000,
-      "committedDate": "2026-11-27T08:37:14Z",
-      "header": "feat(login): gate the app behind LDAP sign-in with 30-day sessions",
-      "repo": "M2_ECHO",
-      "url": "https://github.com/M2Station/M2_ECHO/commit/e1f8ada23f4a2d1782d8ec166322815a3b3d9fa6",
-      "sha": "e1f8ada",
-      "login": "oahsiao"
-    },
-    {
-      "date": 1795768620000,
-      "committedDate": "2026-11-27T08:37:00Z",
-      "header": "chore(release): keep every version file in sync and verified",
-      "repo": "M2_ECHO",
-      "url": "https://github.com/M2Station/M2_ECHO/commit/843bc41c858131fe325e43010f801e5c356b6c23",
-      "sha": "843bc41",
+      "url": "https://github.com/M2Station/M2_TIMELINE/commit/66f7dceffe1411eb8de4f042efdc245deec594ab",
+      "sha": "66f7dce",
       "login": "oahsiao"
     }
   ]
